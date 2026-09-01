@@ -7,6 +7,30 @@
       "summary": "Player-facing introduction to the setting and the purpose of this wiki.",
       "path": "content/world/arkenfell.md",
       "tags": ["World", "Overview", "Canon"]
+    },
+    {
+      "id": "edgar-vaust",
+      "title": "Edgar Vaust",
+      "category": "People",
+      "summary": "Lord Steward of Highcourt Armathen and senior figure of the Valenreach royal household.",
+      "path": "content/people/edgar-vaust.md",
+      "tags": ["Valenreach", "Highcourt Armathen", "Royal Household", "NPC"]
+    },
+    {
+      "id": "highcourt-armathen",
+      "title": "Highcourt Armathen",
+      "category": "Geography",
+      "summary": "The royal palace of Valenreach and seat of its royal household.",
+      "path": "content/geography/highcourt-armathen.md",
+      "tags": ["Valenreach", "Palace", "Royal Household", "Location"]
+    },
+    {
+      "id": "power-arcana",
+      "title": "Power Arcana",
+      "category": "Magic",
+      "summary": "Willpower-based magical amplification of force, output, reinforcement, and impact.",
+      "path": "content/magic/power-arcana.md",
+      "tags": ["Magic", "Arcana", "Willpower", "Power"]
     }
   ]
 }
