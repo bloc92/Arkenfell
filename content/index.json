@@ -73,12 +73,92 @@
       "tags": ["Eldaven", "Arcanum", "Realm", "Magic"]
     },
     {
-      "id": "edgar-vaust",
-      "title": "Edgar Vaust",
-      "category": "People",
-      "summary": "Lord Steward of Highcourt Armathen and senior figure of the Valenreach royal household.",
-      "path": "content/people/edgar-vaust.md",
-      "tags": ["Valenreach", "Highcourt Armathen", "Royal Household", "NPC"]
+      "id": "emberhorn-accord",
+      "title": "Emberhorn Accord",
+      "category": "Realms",
+      "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
+      "path": "content/realms/emberhorn-accord.md",
+      "tags": ["Eldaven", "Emberhorn Accord", "Realm"]
+    },
+    {
+      "id": "ashen-maw",
+      "title": "Ashen Maw",
+      "category": "Realms",
+      "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
+      "path": "content/realms/ashen-maw.md",
+      "tags": ["Eldaven", "Ashen Maw", "Realm"]
+    },
+    {
+      "id": "coral-throne",
+      "title": "Coral Throne",
+      "category": "Realms",
+      "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
+      "path": "content/realms/coral-throne.md",
+      "tags": ["Eldaven", "Coral Throne", "Realm"]
+    },
+    {
+      "id": "stormpearl-isles",
+      "title": "Stormpearl Isles",
+      "category": "Realms",
+      "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
+      "path": "content/realms/stormpearl-isles.md",
+      "tags": ["Eldaven", "Stormpearl Isles", "Realm"]
+    },
+    {
+      "id": "fangbound-clans",
+      "title": "Fangbound Clans",
+      "category": "Realms",
+      "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
+      "path": "content/realms/fangbound-clans.md",
+      "tags": ["Eldaven", "Fangbound Clans", "Realm"]
+    },
+    {
+      "id": "nightglass-principality",
+      "title": "Nightglass Principality",
+      "category": "Realms",
+      "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
+      "path": "content/realms/nightglass-principality.md",
+      "tags": ["Eldaven", "Nightglass Principality", "Realm"]
+    },
+    {
+      "id": "cloudspire-dominion",
+      "title": "Cloudspire Dominion",
+      "category": "Realms",
+      "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
+      "path": "content/realms/cloudspire-dominion.md",
+      "tags": ["Eldaven", "Cloudspire Dominion", "Realm"]
+    },
+    {
+      "id": "ironroot-holds",
+      "title": "Ironroot Holds",
+      "category": "Realms",
+      "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
+      "path": "content/realms/ironroot-holds.md",
+      "tags": ["Eldaven", "Ironroot Holds", "Realm"]
+    },
+    {
+      "id": "eldmark-kingdom",
+      "title": "Eldmark Kingdom",
+      "category": "Realms",
+      "summary": "An established Eldaven kingdom represented in the current Arkenfell world canon.",
+      "path": "content/realms/eldmark-kingdom.md",
+      "tags": ["Eldaven", "Eldmark", "Realm"]
+    },
+    {
+      "id": "hollowmere-confederacy",
+      "title": "Hollowmere Confederacy",
+      "category": "Realms",
+      "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
+      "path": "content/realms/hollowmere-confederacy.md",
+      "tags": ["Eldaven", "Hollowmere", "Realm"]
+    },
+    {
+      "id": "palegrave-crown",
+      "title": "Palegrave Crown",
+      "category": "Realms",
+      "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
+      "path": "content/realms/palegrave-crown.md",
+      "tags": ["Eldaven", "Palegrave", "Realm"]
     },
     {
       "id": "highcourt-armathen",
@@ -89,20 +169,28 @@
       "tags": ["Valenreach", "Palace", "Royal Household", "Location"]
     },
     {
-      "id": "arcana",
-      "title": "Arcana",
-      "category": "Magic",
-      "summary": "The setting's magical affinities, including the distinction between breadth, skill, and rarity.",
-      "path": "content/magic/arcana.md",
-      "tags": ["Magic", "Arcana", "Rarity", "Training"]
+      "id": "faction-directory",
+      "title": "Faction Directory",
+      "category": "Factions",
+      "summary": "Reference directory for established Arkenfell factions, institutions, houses, orders, and political groups.",
+      "path": "content/factions/faction-directory.md",
+      "tags": ["Factions", "Organizations", "Politics", "Reference"]
     },
     {
-      "id": "power-arcana",
-      "title": "Power Arcana",
-      "category": "Magic",
-      "summary": "Willpower-based magical amplification of force, output, reinforcement, and impact.",
-      "path": "content/magic/power-arcana.md",
-      "tags": ["Magic", "Arcana", "Willpower", "Power"]
+      "id": "edgar-vaust",
+      "title": "Edgar Vaust",
+      "category": "People",
+      "summary": "Lord Steward of Highcourt Armathen and senior figure of the Valenreach royal household.",
+      "path": "content/people/edgar-vaust.md",
+      "tags": ["Valenreach", "Highcourt Armathen", "Royal Household", "NPC"]
+    },
+    {
+      "id": "important-npcs",
+      "title": "Important NPC Directory",
+      "category": "People",
+      "summary": "Player-safe directory of established NPCs important enough for persistent reference.",
+      "path": "content/people/important-npcs.md",
+      "tags": ["People", "NPCs", "Reference", "Canon"]
     },
     {
       "id": "divine-powers-of-eldaven",
@@ -121,12 +209,92 @@
       "tags": ["Religion", "Valenreach", "Ardoval", "Deity"]
     },
     {
+      "id": "pantheon-directory",
+      "title": "Pantheon Directory",
+      "category": "Religion",
+      "summary": "Directory of the wider Arkenfell pantheon and the divine powers currently represented in canon.",
+      "path": "content/religion/pantheon-directory.md",
+      "tags": ["Religion", "Pantheon", "Deities", "Reference"]
+    },
+    {
+      "id": "arcana",
+      "title": "Arcana",
+      "category": "Magic",
+      "summary": "The setting's magical affinities, including the distinction between breadth, skill, and rarity.",
+      "path": "content/magic/arcana.md",
+      "tags": ["Magic", "Arcana", "Rarity", "Training"]
+    },
+    {
+      "id": "arcana-catalog",
+      "title": "Arcana Catalog",
+      "category": "Magic",
+      "summary": "Reference catalog of standard, rare, and legendary Arcana currently represented in Arkenfell.",
+      "path": "content/magic/arcana-catalog.md",
+      "tags": ["Magic", "Arcana", "Reference", "Character Reference"]
+    },
+    {
+      "id": "magical-practice",
+      "title": "Magical Practice and Education",
+      "category": "Magic",
+      "summary": "How magical training, fatigue, overchanneling, institutions, and practical magical education function in Arkenfell.",
+      "path": "content/magic/magical-practice.md",
+      "tags": ["Magic", "Education", "Practice", "Institutions"]
+    },
+    {
+      "id": "power-arcana",
+      "title": "Power Arcana",
+      "category": "Magic",
+      "summary": "Willpower-based magical amplification of force, output, reinforcement, and impact.",
+      "path": "content/magic/power-arcana.md",
+      "tags": ["Magic", "Arcana", "Willpower", "Power"]
+    },
+    {
+      "id": "attributes",
+      "title": "Attributes",
+      "category": "Character Reference",
+      "summary": "The nine configured core attributes and their role in character capability and resources.",
+      "path": "content/mechanics/attributes.md",
+      "tags": ["Attributes", "Character Reference", "Mechanics"]
+    },
+    {
+      "id": "resources",
+      "title": "Resources",
+      "category": "Character Reference",
+      "summary": "Configured character resources including Health, Mana, Stamina, Blood, and their recovery or contribution rules.",
+      "path": "content/mechanics/resources.md",
+      "tags": ["Resources", "Health", "Mana", "Stamina", "Character Reference"]
+    },
+    {
+      "id": "skills",
+      "title": "Skills",
+      "category": "Character Reference",
+      "summary": "Skill progression, competence benchmarks, and the configured skill-to-attribute domains.",
+      "path": "content/mechanics/skills.md",
+      "tags": ["Skills", "Character Reference", "Progression"]
+    },
+    {
+      "id": "trait-catalog",
+      "title": "Trait Catalog",
+      "category": "Character Reference",
+      "summary": "Reference catalog for imported public traits, including Arcana, attribute, martial, resource, exploration, life-path, and equipment traits.",
+      "path": "content/traits/trait-catalog.md",
+      "tags": ["Traits", "Character Reference", "Progression", "Reference"]
+    },
+    {
       "id": "milestone-titles",
       "title": "Milestone Titles",
       "category": "Progression",
       "summary": "Canonical character milestone titles from Firstmark at level 5 to Apotheon at level 100.",
       "path": "content/progression/milestone-titles.md",
       "tags": ["Progression", "Levels", "Titles", "Character Reference"]
+    },
+    {
+      "id": "game-modes",
+      "title": "Game Modes",
+      "category": "Game Modes",
+      "summary": "Public reference for Arkenfell campaign, structure, pace, and narration modes.",
+      "path": "content/mechanics/game-modes.md",
+      "tags": ["Game Modes", "Campaign", "Structure", "Pace", "Narration"]
     }
   ]
 }
