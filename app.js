@@ -1,4 +1,44 @@
 const state = { articles: [], activeId: null };
+const THEME_STORAGE_KEY = 'arkenfell-theme';
+
+function setTheme(theme) {
+  const normalized = theme === 'dark' ? 'dark' : 'light';
+  if (normalized === 'dark') {
+    document.documentElement.dataset.theme = 'dark';
+  } else {
+    delete document.documentElement.dataset.theme;
+  }
+
+  const toggle = document.getElementById('theme-toggle');
+  if (!toggle) return;
+  const isDark = normalized === 'dark';
+  toggle.setAttribute('aria-pressed', String(isDark));
+  toggle.setAttribute('aria-label', isDark ? 'Switch to light mode' : 'Switch to dark mode');
+  toggle.querySelector('.theme-toggle-icon').textContent = isDark ? '☀' : '☾';
+  toggle.querySelector('.theme-toggle-label').textContent = isDark ? 'Light' : 'Dark';
+}
+
+function initTheme() {
+  let savedTheme = null;
+  try {
+    savedTheme = localStorage.getItem(THEME_STORAGE_KEY);
+  } catch (error) {
+    console.warn('Theme preference could not be read.', error);
+  }
+
+  setTheme(savedTheme === 'dark' ? 'dark' : 'light');
+
+  const toggle = document.getElementById('theme-toggle');
+  toggle?.addEventListener('click', () => {
+    const nextTheme = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
+    setTheme(nextTheme);
+    try {
+      localStorage.setItem(THEME_STORAGE_KEY, nextTheme);
+    } catch (error) {
+      console.warn('Theme preference could not be saved.', error);
+    }
+  });
+}
 
 function stripFrontMatter(markdown) {
   if (!markdown.startsWith('---\n')) return markdown;
@@ -88,6 +128,7 @@ function filterArticles(query) {
 }
 
 async function init() {
+  initTheme();
   const status = document.getElementById('article-status');
   try {
     const response = await fetch('content/index.json', { cache: 'no-store' });
