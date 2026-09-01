@@ -1,7 +1,46 @@
 <!doctype html>
-<html>
-  <body>
-    <h1>Voyage Assets</h1>
-    <p>Image host for my Voyage world.</p>
-  </body>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Arkenfell world reference and player-facing canon wiki.">
+  <title>Arkenfell Wiki</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#article">Skip to article</a>
+  <header class="site-header">
+    <div class="brand">
+      <span class="brand-kicker">Voyage World Reference</span>
+      <a href="#" class="brand-title" aria-label="Arkenfell Wiki home">Arkenfell Wiki</a>
+    </div>
+    <label class="search-box">
+      <span class="sr-only">Search articles</span>
+      <input id="search" type="search" placeholder="Search people, places, lore..." autocomplete="off">
+    </label>
+  </header>
+
+  <div class="wiki-shell">
+    <aside class="sidebar" aria-label="Wiki navigation">
+      <div class="sidebar-heading">Browse</div>
+      <nav id="navigation"></nav>
+      <div class="sidebar-note">
+        <strong>Player reference</strong>
+        <span>This site contains public canon only.</span>
+      </div>
+    </aside>
+
+    <main id="article" class="article" tabindex="-1">
+      <div id="article-status" class="status" role="status">Loading Arkenfell...</div>
+      <article id="article-content" hidden></article>
+    </main>
+  </div>
+
+  <footer class="site-footer">
+    <span>Arkenfell public canon</span>
+    <a href="exports/player-canon.md">Download player Markdown</a>
+  </footer>
+</body>
 </html>
