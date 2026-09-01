@@ -1,8 +1,6 @@
 # Private GM Repository Contract
 
-The public `bloc92/Arkenfell` repository must remain free of GM secrets. The private companion repository should hold only material that is unsafe to expose publicly.
-
-Recommended repository name: `Arkenfell-GM`.
+The public `bloc92/Arkenfell` repository must remain free of GM secrets. Its private companion is `bloc92/Arkenfell-GM`, which holds material that is unsafe to expose publicly.
 
 ## Matching article IDs
 
@@ -54,15 +52,18 @@ Where this concept is represented in Voyage: World Lore, Factions, NPCs, Narrati
 
 ## Full-canon export
 
-A full-canon exporter should read the public `content/index.json`, load each public article, then append the matching GM article when one exists. Missing GM companions are valid and should not fail the export.
+The private `Arkenfell-GM` repository contains the full-canon exporter. It reads the public `content/index.json`, loads each public article, then appends the matching GM article when one exists. Missing GM companions are valid. GM-only articles with no public counterpart are also supported and are placed in a separate GM-only section.
 
-The resulting GM export should clearly mark private sections, for example:
+With both repositories cloned side by side, run from `Arkenfell-GM`:
 
-```md
-> [!GM]
-> GM-only canon follows.
+```bash
+npm run export:full
 ```
+
+The generated `exports/full-canon.md` clearly marks private sections.
 
 ## Security rule
 
 Never solve GM visibility with CSS, JavaScript, hidden HTML, unpublished navigation links, or files committed to the public repository. If the bytes are in a public GitHub repository, they are public.
+
+Do not publish `Arkenfell-GM` through an unauthenticated static host. Repository privacy protects the source; a separately deployed site requires its own authentication layer.
