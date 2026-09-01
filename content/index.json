@@ -119,6 +119,14 @@
       "summary": "Valenreach's benefactor god of oaths, crowns, rightful rule, inheritance, and sworn duty.",
       "path": "content/religion/ardoval.md",
       "tags": ["Religion", "Valenreach", "Ardoval", "Deity"]
+    },
+    {
+      "id": "milestone-titles",
+      "title": "Milestone Titles",
+      "category": "Progression",
+      "summary": "Canonical character milestone titles from Firstmark at level 5 to Apotheon at level 100.",
+      "path": "content/progression/milestone-titles.md",
+      "tags": ["Progression", "Levels", "Titles", "Character Reference"]
     }
   ]
 }
