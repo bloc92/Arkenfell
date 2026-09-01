@@ -1,4 +1,9 @@
-const state = { articles: [], activeId: null, gmMode: false };
+const state = {
+  articles: [],
+  activeId: null,
+  gmMode: false,
+  openNavCategories: new Set()
+};
 const THEME_STORAGE_KEY = 'arkenfell-theme';
 const GM_SESSION_KEY = 'arkenfell-gm-access';
 const GM_CREDENTIALS = Object.freeze({
@@ -246,15 +251,26 @@ function renderNavigation(articles) {
     return;
   }
 
+  const searchActive = Boolean(document.getElementById('search')?.value.trim());
   const groups = groupByCategory(articles);
-  Object.entries(groups).forEach(([category, items]) => {
-    const section = document.createElement('section');
-    section.className = 'nav-group';
 
-    const heading = document.createElement('h2');
+  Object.entries(groups).forEach(([category, items]) => {
+    const section = document.createElement('details');
+    section.className = 'nav-group';
+    section.dataset.category = category;
+
+    const containsActiveArticle = items.some(article => article.id === state.activeId);
+    section.open = searchActive || containsActiveArticle || state.openNavCategories.has(category);
+
+    const heading = document.createElement('summary');
     heading.className = 'nav-group-title';
     heading.textContent = category;
+    heading.style.cursor = 'pointer';
+    heading.setAttribute('aria-label', `${category}: expand or collapse section`);
     section.appendChild(heading);
+
+    const links = document.createElement('div');
+    links.className = 'nav-group-links';
 
     items.forEach(article => {
       const link = document.createElement('a');
@@ -264,7 +280,14 @@ function renderNavigation(articles) {
       link.dataset.articleId = article.id;
       link.textContent = article.title;
       if (article.id === state.activeId) link.classList.add('active');
-      section.appendChild(link);
+      links.appendChild(link);
+    });
+
+    section.appendChild(links);
+    section.addEventListener('toggle', () => {
+      if (searchActive) return;
+      if (section.open) state.openNavCategories.add(category);
+      else state.openNavCategories.delete(category);
     });
 
     nav.appendChild(section);
