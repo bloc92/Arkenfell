@@ -1,69 +1,77 @@
-# Private GM Repository Contract
+# GM Spoiler Gate Contract
 
-The public `bloc92/Arkenfell` repository must remain free of GM secrets. Its private companion is `bloc92/Arkenfell-GM`, which holds material that is unsafe to expose publicly.
+Arkenfell now uses one GitHub Pages site for both player reference and GM reference.
 
-## Matching article IDs
+The site is **public by default**. GM-only information is revealed only after entering GM Mode through the site's login control.
 
-GM additions should mirror the public article ID and path where practical.
+This is deliberately a **spoiler barrier, not a security boundary**. The repository itself is public, so a determined person can inspect source files directly.
 
-Public:
+## Preferred model: one subject, one article
 
-```text
-content/factions/lantern-synod.md
-id: lantern-synod
-```
+Most NPCs, monsters, factions, deities, realms, locations, and other subjects should have one normal public article.
 
-Private GM companion:
-
-```text
-content/factions/lantern-synod.md
-id: lantern-synod
-```
-
-The identical ID is the canonical join key.
-
-## Suggested GM article format
+Player-safe information remains ordinary Markdown. Secret or GM-facing information is placed inside `:::gm` blocks:
 
 ```md
----
-id: lantern-synod
-title: The Lantern Synod
-visibility: gm
----
+# Example Monster
 
-# GM Additions — The Lantern Synod
+## Overview
 
-## Truth
+Basic player-facing knowledge.
 
-Facts that differ from, complicate, or explain the public account.
+:::gm
 
-## Secrets
+## GM Truth & Secrets
 
-Information players should not know merely by reading the wiki.
+Hidden origin, secret weaknesses, encounter information, or unrevealed canon.
 
-## Narrative Notes
+## D&D 5e
 
-Hooks, unresolved possibilities, planned reveals, safeguards, or scenario guidance.
+GM-facing stat block.
 
-## Voyage Implementation
-
-Where this concept is represented in Voyage: World Lore, Factions, NPCs, Narrative Events, triggers, or other systems.
+:::
 ```
 
-## Full-canon export
+Normal site mode removes the GM block before rendering. GM Mode renders it in a clearly marked panel.
 
-The private `Arkenfell-GM` repository contains the full-canon exporter. It reads the public `content/index.json`, loads each public article, then appends the matching GM article when one exists. Missing GM companions are valid. GM-only articles with no public counterpart are also supported and are placed in a separate GM-only section.
+## Fully hidden subjects
 
-With both repositories cloned side by side, run from `Arkenfell-GM`:
+If revealing that a subject exists would itself be a spoiler, the whole article may be GM-only.
+
+Add the article to `content/index.json` with:
+
+```json
+"visibility": "gm"
+```
+
+The normal site excludes it from navigation and search. GM Mode includes it.
+
+## Search and navigation behavior
+
+- Normal mode uses only articles without `visibility: "gm"`.
+- GM Mode includes all indexed articles.
+- `:::gm` sections never render in normal mode.
+- A direct hash to a fully GM-only page while logged out falls back to player-visible content.
+- GM-only pages receive a visible GM marker in navigation while GM Mode is active.
+
+## Export behavior
+
+`scripts/export-public.mjs` strips every `:::gm` block and excludes articles whose index entry has `visibility: "gm"`.
+
+Run:
 
 ```bash
-npm run export:full
+npm run export:public
 ```
 
-The generated `exports/full-canon.md` clearly marks private sections.
+The resulting `exports/player-canon.md` therefore remains player-safe even though source articles may contain gated GM sections.
 
-## Security rule
+## Legacy Arkenfell-GM repository
 
-Never solve GM visibility with CSS, JavaScript, hidden HTML, unpublished navigation links, or files committed to the public repository. If the bytes are in a public GitHub repository, they are public.
+`bloc92/Arkenfell-GM` can remain as a temporary migration backup while older GM companion material is folded into the matching articles in this repository.
 
-Do not publish `Arkenfell-GM` through an unauthenticated static host. Repository privacy protects the source; a separately deployed site requires its own authentication layer.
+Do not add new GM canon there once its matching Arkenfell article has been migrated. New work should use inline GM sections here unless the entire subject is meant to be hidden.
+
+## Canon discipline
+
+GM gating changes presentation, not canon. Facts required for reliable narration must still exist in the relevant Voyage systems such as World Lore, NPCs, Factions, Realms, Regions, Locations, Narrative Events, triggers, Game Modes, or AI Instructions.
