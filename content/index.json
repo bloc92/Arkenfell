@@ -1,0 +1,12 @@
+{
+  "articles": [
+    {
+      "id": "arkenfell",
+      "title": "Arkenfell",
+      "category": "World",
+      "summary": "Player-facing introduction to the setting and the purpose of this wiki.",
+      "path": "content/world/arkenfell.md",
+      "tags": ["World", "Overview", "Canon"]
+    }
+  ]
+}
