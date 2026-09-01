@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Arkenfell world reference and player-facing canon wiki.">
+  <meta name="description" content="Arkenfell world reference and canon wiki with optional GM-only spoiler access.">
   <title>Arkenfell Wiki</title>
   <link rel="stylesheet" href="styles.css">
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js" defer></script>
@@ -20,19 +20,30 @@
       <span class="sr-only">Search articles</span>
       <input id="search" type="search" placeholder="Search people, places, lore..." autocomplete="off">
     </label>
-    <button id="theme-toggle" class="theme-toggle" type="button" aria-pressed="false" aria-label="Switch to dark mode">
-      <span class="theme-toggle-icon" aria-hidden="true">☾</span>
-      <span class="theme-toggle-label">Dark</span>
-    </button>
+    <div class="header-actions">
+      <button id="theme-toggle" class="utility-button theme-toggle" type="button" aria-pressed="false" aria-label="Switch to dark mode">
+        <span class="theme-toggle-icon" aria-hidden="true">☾</span>
+        <span class="theme-toggle-label">Dark</span>
+      </button>
+      <button id="gm-access-button" class="utility-button gm-access-button" type="button" aria-pressed="false">
+        <span class="gm-access-dot" aria-hidden="true"></span>
+        <span id="gm-access-label">GM Login</span>
+      </button>
+    </div>
   </header>
+
+  <div id="gm-mode-banner" class="gm-mode-banner" role="status" hidden>
+    <strong>GM MODE</strong>
+    <span>Secret canon, hidden motives, GM notes, and gated mechanics are visible.</span>
+  </div>
 
   <div class="wiki-shell">
     <aside class="sidebar" aria-label="Wiki navigation">
       <div class="sidebar-heading">Browse</div>
       <nav id="navigation"></nav>
       <div class="sidebar-note">
-        <strong>Player reference</strong>
-        <span>This site contains public canon only.</span>
+        <strong id="reference-mode-title">Player reference</strong>
+        <span id="reference-mode-text">Only player-safe canon is currently shown.</span>
       </div>
     </aside>
 
@@ -43,8 +54,35 @@
   </div>
 
   <footer class="site-footer">
-    <span>Arkenfell public canon</span>
+    <span id="footer-mode">Arkenfell public canon</span>
     <a href="exports/player-canon.md">Download player Markdown</a>
   </footer>
+
+  <dialog id="gm-login-dialog" class="gm-login-dialog" aria-labelledby="gm-login-title">
+    <form id="gm-login-form" method="dialog" class="gm-login-form">
+      <div class="gm-login-heading">
+        <div>
+          <span class="gm-login-kicker">Spoiler access</span>
+          <h2 id="gm-login-title">Enter GM Mode</h2>
+        </div>
+        <button id="gm-login-close" class="dialog-close" type="button" aria-label="Close GM login">×</button>
+      </div>
+      <p class="gm-login-warning">GM Mode reveals campaign secrets, hidden motivations, unrevealed canon, encounter information, and other material players should not read.</p>
+      <label>
+        <span>Username</span>
+        <input id="gm-username" name="username" type="text" autocomplete="username" required>
+      </label>
+      <label>
+        <span>Password</span>
+        <input id="gm-password" name="password" type="password" autocomplete="current-password" required>
+      </label>
+      <p id="gm-login-error" class="gm-login-error" role="alert" hidden>That username or password is not correct.</p>
+      <div class="gm-login-actions">
+        <button id="gm-login-cancel" class="secondary-button" type="button">Cancel</button>
+        <button class="primary-button" type="submit">Enter GM Mode</button>
+      </div>
+      <p class="gm-login-footnote">This login is a spoiler barrier, not a security boundary.</p>
+    </form>
+  </dialog>
 </body>
 </html>
