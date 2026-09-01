@@ -9,6 +9,70 @@
       "tags": ["World", "Overview", "Canon"]
     },
     {
+      "id": "eldaven",
+      "title": "Eldaven",
+      "category": "World",
+      "summary": "The mapped continent currently at the center of Arkenfell's known political world.",
+      "path": "content/world/eldaven.md",
+      "tags": ["World", "Eldaven", "Geography", "Politics"]
+    },
+    {
+      "id": "kingdom-of-valenreach",
+      "title": "Kingdom of Valenreach",
+      "category": "Realms",
+      "summary": "A wealthy royal power ruled by King Aldric and Queen Ceralie from Highcourt Armathen.",
+      "path": "content/realms/kingdom-of-valenreach.md",
+      "tags": ["Eldaven", "Valenreach", "Realm", "Politics"]
+    },
+    {
+      "id": "dreadmark-dominion",
+      "title": "The Dreadmark Dominion",
+      "category": "Realms",
+      "summary": "An eastern military dominion built on hierarchy, forced labor, slavery, and vast legions.",
+      "path": "content/realms/dreadmark-dominion.md",
+      "tags": ["Eldaven", "Dreadmark", "Realm", "Politics"]
+    },
+    {
+      "id": "tide-empire",
+      "title": "The Tide Empire",
+      "category": "Realms",
+      "summary": "An ancient northern empire of fleets, river cities, dragonriders, and long imperial continuity.",
+      "path": "content/realms/tide-empire.md",
+      "tags": ["Eldaven", "Tide Empire", "Realm", "Politics"]
+    },
+    {
+      "id": "lythael-elven-dominion",
+      "title": "The Lythael Elven Dominion",
+      "category": "Realms",
+      "summary": "An ancient southern elven realm shaped by old forests, noble matriarchs, and long political memory.",
+      "path": "content/realms/lythael-elven-dominion.md",
+      "tags": ["Eldaven", "Lythael", "Realm", "Elves"]
+    },
+    {
+      "id": "solmire-concord",
+      "title": "The Solmire Concord",
+      "category": "Realms",
+      "summary": "A western merchant republic whose power flows through trade, contracts, convoys, and credit.",
+      "path": "content/realms/solmire-concord.md",
+      "tags": ["Eldaven", "Solmire", "Realm", "Trade"]
+    },
+    {
+      "id": "solarian-theocracy",
+      "title": "The Solarian Theocracy",
+      "category": "Realms",
+      "summary": "A southeastern religious state ruled by a High Synod and influential through temples, healing, and doctrine.",
+      "path": "content/realms/solarian-theocracy.md",
+      "tags": ["Eldaven", "Solarian", "Realm", "Religion"]
+    },
+    {
+      "id": "arcanum-ascendancy",
+      "title": "The Arcanum Ascendancy",
+      "category": "Realms",
+      "summary": "An independent mage-ruled state centered on academies, classification, research, and magical arbitration.",
+      "path": "content/realms/arcanum-ascendancy.md",
+      "tags": ["Eldaven", "Arcanum", "Realm", "Magic"]
+    },
+    {
       "id": "edgar-vaust",
       "title": "Edgar Vaust",
       "category": "People",
@@ -25,12 +89,36 @@
       "tags": ["Valenreach", "Palace", "Royal Household", "Location"]
     },
     {
+      "id": "arcana",
+      "title": "Arcana",
+      "category": "Magic",
+      "summary": "The setting's magical affinities, including the distinction between breadth, skill, and rarity.",
+      "path": "content/magic/arcana.md",
+      "tags": ["Magic", "Arcana", "Rarity", "Training"]
+    },
+    {
       "id": "power-arcana",
       "title": "Power Arcana",
       "category": "Magic",
       "summary": "Willpower-based magical amplification of force, output, reinforcement, and impact.",
       "path": "content/magic/power-arcana.md",
       "tags": ["Magic", "Arcana", "Willpower", "Power"]
+    },
+    {
+      "id": "divine-powers-of-eldaven",
+      "title": "The Divine Powers of Eldaven",
+      "category": "Religion",
+      "summary": "Eldaven's plural pantheon, Moral/Theological Standing, and the major national benefactor gods.",
+      "path": "content/religion/divine-powers-of-eldaven.md",
+      "tags": ["Religion", "Pantheon", "Eldaven", "Theology"]
+    },
+    {
+      "id": "ardoval",
+      "title": "Ardoval, the Oath-Crowned",
+      "category": "Religion",
+      "summary": "Valenreach's benefactor god of oaths, crowns, rightful rule, inheritance, and sworn duty.",
+      "path": "content/religion/ardoval.md",
+      "tags": ["Religion", "Valenreach", "Ardoval", "Deity"]
     }
   ]
 }
