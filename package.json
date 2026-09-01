@@ -1,0 +1,8 @@
+{
+  "name": "arkenfell-wiki",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "export:public": "node scripts/export-public.mjs"
+  }
+}
