@@ -1,7 +1,7 @@
 ---
 id: solarian-theocracy
 title: The Solarian Theocracy
-category: Realms
+category: Countries
 knowledge: common
 status: canon
 ---
