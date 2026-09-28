@@ -1,7 +1,7 @@
 ---
 id: dreadmark-dominion
 title: The Dreadmark Dominion
-category: Realms
+category: Countries
 knowledge: common
 status: canon
 ---
