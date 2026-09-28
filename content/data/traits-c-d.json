@@ -1,0 +1,3179 @@
+{
+  "realm": "Arkenfell",
+  "entries": [
+    {
+      "name": "Called to Local Muster",
+      "group": "Adult Pressure",
+      "kind": "Trait",
+      "summary": "Your community, lord, town, faction, militia, or local authority has called people like you for military service, emergency defense, or compulsory muster.\n\nNarrative effects: The possibility of real service has made military organization and the fear surrounding armed duty immediately relevant.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Military Lore +8, Courage +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Caring for an Injured Companion",
+      "group": "Adult Pressure",
+      "kind": "Trait",
+      "summary": "A companion, friend, coworker, partner, relative, or fellow traveler has been injured badly enough that their recovery currently requires your help.\n\nNarrative effects: Current caregiving has given you practical medical experience and made you attentive to the emotional strain injury places on another person.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Medicine +8, Empathy +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Contract You Regret Signing",
+      "group": "Adult Pressure",
+      "kind": "Trait",
+      "summary": "You agreed to terms that now look far worse than they did when you signed. The problem may involve work, debt, service, property, training, travel, exclusivity, or another obligation.\n\nNarrative effects: Regret has taught you to examine written terms carefully and look for what can still be renegotiated.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Archival Research +8, Bargaining +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cursed Relic Carrier",
+      "group": "Adult Pressure",
+      "kind": "Trait",
+      "summary": "You currently possess, transport, guard, hide, study, or are otherwise responsible for a relic believed or known to carry dangerous supernatural consequences.\n\nNarrative effects: Your situation has forced you to understand both dangerous supernatural traditions and the nature of unusual old objects. The trait does not automatically define the relic's exact curse.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Forbidden Lore +8, Relic Lore +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Disgraced Young Adult",
+      "group": "Adult Pressure",
+      "kind": "Trait",
+      "summary": "A serious failure, accusation, scandal, public mistake, broken expectation, or embarrassing event damaged your reputation shortly after adulthood began.\n\nNarrative effects: Living under damaged reputation has made you attentive to social judgment and more practiced at acting despite it.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Social Inquiry +8, Courage +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Disowned Adult",
+      "group": "Adult Pressure",
+      "kind": "Trait",
+      "summary": "Your family, household, clan, patron, or equivalent support structure has formally or practically cut you off now that you are an adult.\n\nNarrative effects: Losing expected support has taught you to stand under social pressure and identify which relationships remain available outside your former household.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Courage +8, Social Inquiry +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dreams Still Follow You",
+      "group": "Adult Pressure",
+      "kind": "Trait",
+      "summary": "Recurring, disturbing, significant, or unusually vivid dreams continue to affect your adult life despite your attempts to dismiss, understand, or live around them.\n\nNarrative effects: You have become practiced at functioning despite persistent dreams and sensitive to how recurring inner experiences affect behavior. This trait does not establish prophecy or Dream Arcana.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Self-Discipline +8, Empathy +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Caravan Hand Adult",
+      "group": "Adult Role",
+      "kind": "Trait",
+      "summary": "You worked with a caravan as a handler, loader, guard-helper, cook's assistant, trader, scout, porter, or repair hand.\n\nNarrative effects: You pack as if weather, bandits, broken wheels, and hunger are already traveling with you.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Cart Driving +8, Navigation +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Carpenter's Journeyman",
+      "group": "Adult Role",
+      "kind": "Trait",
+      "summary": "You work as a trained carpenter or woodworking journeyman, building and repairing furniture, fittings, frames, doors, roofs, carts, structures, or other practical wooden work with substantial independence.\n\nNarrative effects: You look at wooden structures in terms of load, joints, material, wear, and where a repair will actually hold rather than merely look finished.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Handcrafting +8, Engineering +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cook or Kitchen Worker",
+      "group": "Adult Role",
+      "kind": "Trait",
+      "summary": "You work in a kitchen, cookhouse, inn, household, camp, ship, temple, or other place where preparing meals for other people is regular adult work. Timing, heat, ingredients, portions, storage, cleanliness, and making limited supplies stretch far enough all matter.\n\nNarrative effects: You judge a working kitchen by preparation, timing, waste, and whether the food will actually be ready when people expect it.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Brewing +8, Tasting +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Court Attendant Adult",
+      "group": "Adult Role",
+      "kind": "Trait",
+      "summary": "You entered adult life as an attendant, aide, page grown older, companion, junior courtier, or minor functionary in a formal courtly environment.\n\nNarrative effects: You know where to stand when powerful people want to be seen and when they want to be overheard.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Etiquette +8, Heraldry +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dockworker Adult",
+      "group": "Adult Role",
+      "kind": "Trait",
+      "summary": "You worked docks, cargo yards, warehouses, ferries, loading crews, river ports, or coastal trade spaces.\n\nNarrative effects: You read docks by cargo, rope, gulls, shouting, bribes, and who is watching too carefully.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Might +8, Hearing +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Candlelit Reader",
+      "group": "Childhood Nature and Memory",
+      "kind": "Trait",
+      "summary": "You regularly kept reading after you were supposed to sleep, borrowing light from candles, hearths, lamps, or whatever illumination you could manage. Finishing one more page often mattered more than comfort.\n\nNarrative effects: You are patient with dense written material and accustomed to pursuing information long after easier distractions would have pulled someone else away.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Archival Research +6, Self-Discipline +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Childhood Rival",
+      "group": "Childhood Nature and Memory",
+      "kind": "Trait",
+      "summary": "Another child became the person you constantly measured yourself against. The rivalry may have involved lessons, races, games, praise, fighting, family comparisons, or nothing more serious than stubborn pride.\n\nNarrative effects: Competition can make you unusually focused, and you recognize the silent challenge of someone refusing to back down.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Self-Discipline +6, Intimidation +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Collected Old Stories",
+      "group": "Childhood Nature and Memory",
+      "kind": "Trait",
+      "summary": "You loved hearing old stories from elders, travelers, books, monuments, family tales, local legends, or songs about people and places that existed before you.\n\nNarrative effects: You naturally compare formal history with the stories ordinary communities remember.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Cultural Lore +6, Historical Lore +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Comfortable Being Alone",
+      "group": "Childhood Nature and Memory",
+      "kind": "Trait",
+      "summary": "You did not require constant company to feel secure. Reading, wandering, watching clouds, completing small tasks, exploring, drawing, building, or simply thinking could occupy you for hours.\n\nNarrative effects: Solitude rarely unsettles you, and you are comfortable sustaining attention without needing constant social stimulation.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Self-Discipline +6, Seeing +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Copied Letters for Practice",
+      "group": "Childhood Nature and Memory",
+      "kind": "Trait",
+      "summary": "You practiced letters, signatures, decorative writing, labels, copied passages, notices, and any handwriting you found interesting. Repetition became a game as much as a lesson.\n\nNarrative effects: Precise handwriting and careful copying feel familiar, while broader written composition developed alongside them.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Fine Script +6, Writing +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Curious Little Tinkerer",
+      "group": "Childhood Nature and Memory",
+      "kind": "Trait",
+      "summary": "Simple mechanisms, hinges, wheels, locks, toys, tools, pulleys, and damaged objects fascinated you. You wanted to know why they moved, why they stopped, and whether they could be made to work again.\n\nNarrative effects: Constructed objects invite you to think about mechanisms, wear, quality, and why one design works better than another.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Engineering +6, Appraisal +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dragon Stories Felt Personal",
+      "group": "Childhood Nature and Memory",
+      "kind": "Trait",
+      "summary": "Dragon stories never felt like distant legends to you. Something about them caught unusually deep in your imagination, whether through fascination, fear, recurring dreams, family stories, or simple childhood obsession.\n\nNarrative effects: You remember dragon histories and legends readily. This trait does not establish dragon ancestry, destiny, or supernatural connection.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Dragon Lore +6, Historical Lore +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Drew Maps for Fun",
+      "group": "Childhood Nature and Memory",
+      "kind": "Trait",
+      "summary": "You drew maps of neighborhoods, imaginary kingdoms, roads, rooms, forests, treasure islands, estates, or places you hoped to visit. Accuracy varied, but spatial representation fascinated you.\n\nNarrative effects: Thinking through space on paper comes naturally, and you enjoy connecting drawn representations with actual terrain.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Cartography +6, Navigation +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Canal Lock Child",
+      "group": "Childhood Place and Role",
+      "kind": "Trait",
+      "summary": "Locks, gates, towpaths, barges, managed water levels, ropes, bridges, and the repeated process of moving vessels through artificial waterways shaped your childhood world.\n\nNarrative effects: Water-control structures and the practical movement of vessels through confined waterways feel familiar.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Engineering +6, Vessel Piloting +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Caravan Child",
+      "group": "Childhood Place and Role",
+      "kind": "Trait",
+      "summary": "Caravans, wagons, pack animals, camp circles, departure times, road conditions, repairs, and repeated travel made up much of your childhood routine.\n\nNarrative effects: Road routes and wheeled travel feel ordinary, and you have modest practical familiarity with handling carts and wagons.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Navigation +6, Cart Driving +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Clerk's Office Child",
+      "group": "Childhood Place and Role",
+      "kind": "Trait",
+      "summary": "You spent childhood around desks, copies, seals, receipts, notices, letters, petitions, ink, forms, and adults whose work depended on writing things correctly.\n\nNarrative effects: Ordinary administrative writing and precise mundane script feel familiar.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Writing +6, Fine Script +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Collectively Raised by the Village",
+      "group": "Childhood Place and Role",
+      "kind": "Trait",
+      "summary": "Your daily childhood life belonged to more than one household. Neighbors, relatives, shopkeepers, elders, workers, and familiar adults all helped watch, correct, feed, or guide you.\n\nNarrative effects: You understand community life as a network of shared expectations and relationships rather than something confined to one household.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Cultural Lore +6, Empathy +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Commoner Among Noble Children",
+      "group": "Childhood Place and Role",
+      "kind": "Trait",
+      "summary": "You spent substantial childhood time among noble children despite not sharing their rank. Lessons, play, service, wardship, work, or household circumstances placed you close enough to learn their habits firsthand.\n\nNarrative effects: You understand noble childhood expectations while remaining alert to the difference between being included socially and actually sharing someone's status.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Etiquette +6, Empathy +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Counting-House Child",
+      "group": "Childhood Place and Role",
+      "kind": "Trait",
+      "summary": "You spent childhood around a counting house, office, estate ledger room, merchant desk, or similar place where records, accounts, goods, and values mattered every day.\n\nNarrative effects: Records and material value feel naturally connected to you, especially when paperwork exists to explain who owns what and what it is worth.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Archival Research +6, Appraisal +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Criminal Errand Child",
+      "group": "Childhood Place and Role",
+      "kind": "Trait",
+      "summary": "Adults or older youths used you for small errands connected to theft, smuggling, gangs, illegal trade, hidden payments, or messages they preferred not to carry themselves.\n\nNarrative effects: You recognize some informal criminal practices and understand why an innocent-looking explanation can matter when carrying something questionable.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Thieves' Lore +6, Deception +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Crowded Tenement Child",
+      "group": "Childhood Place and Role",
+      "kind": "Trait",
+      "summary": "Shared stairs, thin walls, small rooms, crowded courtyards, neighbors, arguments, children, visitors, work, and constant household noise defined much of your childhood.\n\nNarrative effects: You are accustomed to learning about nearby people through sound and to reading moods in spaces where privacy is limited.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Hearing +6, Empathy +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Close-Quarters Fighter",
+      "group": "Combat Discipline",
+      "kind": "Trait",
+      "summary": "You specialize in fighting where space is cramped and long weapons become awkward: interiors, alleys, crowds, doorways, grappling distance, and sudden entanglement. Your training blends body fighting with compact blades and fast transitions.\n\nNarrative effects: When space collapses, you adapt quickly, using elbows, grips, compact blades, walls, furniture, and body position rather than wishing for more room.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Brawling +15, Light Blades +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Counterfighter",
+      "group": "Combat Discipline",
+      "kind": "Trait",
+      "summary": "You specialize in reading attacks and answering them at the moment an opponent becomes committed. Your training emphasizes observation, measure, defensive timing, feints, parries, and turning another fighter's initiative into an opening.\n\nNarrative effects: You watch before committing, looking for repeated habits, tells, and the brief instant when an opponent's attack leaves them unable to change course.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Dueling +15, Seeing +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Crossbow Specialist",
+      "group": "Combat Discipline",
+      "kind": "Trait",
+      "summary": "You specialize in crossbows, from compact hand weapons to heavy battlefield models. Your training emphasizes loading discipline, stable aim, timing, range judgment, prepared firing positions, and exploiting the precise openings a powerful bolt can reach.\n\nNarrative effects: You prefer a prepared line and a deliberate shot, naturally noticing narrow openings and stable positions from which a crossbow can do its best work.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Crossbows +15, Seeing +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Defensive Duelist",
+      "group": "Combat Discipline",
+      "kind": "Trait",
+      "summary": "You specialize in technical one-on-one defense, using blade control, careful footwork, parries, shield work, and measured counters to make an opponent commit before you expose yourself.\n\nNarrative effects: You are comfortable letting an opponent reveal their intent first, watching guard, measure, and timing for the safest moment to answer.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Dueling +15, Shields +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dual Wielder",
+      "group": "Combat Discipline",
+      "kind": "Trait",
+      "summary": "You specialize in fighting with a weapon in each hand, coordinating offense, off-hand defense, alternating pressure, feints, rapid transitions, and overlapping attack lines. This training is strongest with lighter weapons that can be controlled independently.\n\nNarrative effects: You dislike wasting an empty hand in a close fight and naturally think in paired rhythms, overlapping threats, and off-hand opportunities.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Light Blades +15, Acrobatics +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Calculated Aim",
+      "group": "Core Aptitudes",
+      "kind": "Trait",
+      "summary": "Your aptitude strongly favors memory, structured reasoning, theory, and technical understanding, while aim, precision, hand control, and exact placement provides a meaningful secondary strength. Grants +6 Intelligence and +2 Accuracy.\n\nNarrative effects: You usually lead with memory, structured reasoning, theory, and technical understanding, calling on aim, precision, hand control, and exact placement to support that strength when the situation demands it.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Intelligence +6, Accuracy +2"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Calculated Precision",
+      "group": "Core Aptitudes",
+      "kind": "Trait",
+      "summary": "You combine aim, precision, hand control, and exact placement with memory, structured reasoning, theory, and technical understanding in nearly equal measure. Grants +4 Accuracy and +4 Intelligence.\n\nNarrative effects: You tend to approach difficult situations by bringing aim, precision, hand control, and exact placement and memory, structured reasoning, theory, and technical understanding together rather than relying on either aptitude alone.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Accuracy +4, Intelligence +4"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Close-Quarters Instinct",
+      "group": "Core Aptitudes",
+      "kind": "Trait",
+      "summary": "Your strongest natural combat aptitude is reading melee distance, pressure, guards, openings, and direct weapon exchanges. Grants +8 Fighting.\n\nNarrative effects: In close combat, you watch shoulders, hips, footing, reach, and guard position before committing to an exchange.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Fighting +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Commanding Composure",
+      "group": "Core Aptitudes",
+      "kind": "Trait",
+      "summary": "You balance outward presence with inward resolve, projecting confidence without depending on confidence alone. Grants +4 Communication and +4 Willpower.\n\nNarrative effects: You tend to approach difficult situations by bringing presence, expression, persuasion, and social projection and resolve, focus, emotional control, and resistance to pressure together rather than relying on either aptitude alone.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Communication +4, Willpower +4"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Commanding Fighter",
+      "group": "Core Aptitudes",
+      "kind": "Trait",
+      "summary": "You combine close-combat timing, pressure, defense, and weapon exchanges with presence, expression, persuasion, and social projection in nearly equal measure. Grants +4 Fighting and +4 Communication.\n\nNarrative effects: You tend to approach difficult situations by bringing close-combat timing, pressure, defense, and weapon exchanges and presence, expression, persuasion, and social projection together rather than relying on either aptitude alone.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Fighting +4, Communication +4"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Controlled Agility",
+      "group": "Core Aptitudes",
+      "kind": "Trait",
+      "summary": "You combine agility, balance, speed, and bodily control with resolve, focus, emotional control, and resistance to pressure in nearly equal measure. Grants +4 Dexterity and +4 Willpower.\n\nNarrative effects: You tend to approach difficult situations by bringing agility, balance, speed, and bodily control and resolve, focus, emotional control, and resistance to pressure together rather than relying on either aptitude alone.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Dexterity +4, Willpower +4"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Deadeye Coordination",
+      "group": "Core Aptitudes",
+      "kind": "Trait",
+      "summary": "Your strongest combat aptitude is exceptional aim, fine control, release timing, and exact physical placement under pressure. Grants +8 Accuracy.\n\nNarrative effects: You narrow your attention onto distance, motion, timing, and the smallest useful target before acting.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Accuracy +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Deep Resilience",
+      "group": "Core Aptitudes",
+      "kind": "Trait",
+      "summary": "You combine endurance, resilience, recovery, and resistance to strain with resolve, focus, emotional control, and resistance to pressure in nearly equal measure. Grants +4 Constitution and +4 Willpower.\n\nNarrative effects: You tend to approach difficult situations by bringing endurance, resilience, recovery, and resistance to strain and resolve, focus, emotional control, and resistance to pressure together rather than relying on either aptitude alone.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Constitution +4, Willpower +4"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Civil Clerk Family",
+      "group": "Family Legacy",
+      "kind": "Trait",
+      "summary": "Clerks, municipal scribes, census workers, tax recorders, registrars, office copyists, or other routine administrators recur through your family history. Legible records and correct copies often mattered more than prestige.\n\nNarrative effects: You appreciate precise mundane recordkeeping and know how much ordinary administration depends on finding and copying information correctly.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Fine Script +6, Archival Research +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cooks' Family",
+      "group": "Family Legacy",
+      "kind": "Trait",
+      "summary": "Cooks, kitchen workers, caterers, household chefs, camp cooks, or other professional food preparers recur through your family history. Feeding people reliably required timing, ingredients, heat, preservation, economy, and a practiced sense of taste.\n\nNarrative effects: You inherited practical familiarity with prepared food and a strong sense for flavor, seasoning, spoilage, and whether ingredients work together.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Brewing +6, Tasting +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Court Servant Tradition",
+      "group": "Family Legacy",
+      "kind": "Trait",
+      "summary": "Your family repeatedly served courts, noble households, embassies, palaces, or important estates as attendants, valets, maids, household staff, ushers, or other trusted workers close to status and ceremony.\n\nNarrative effects: You understand formal behavior and the quiet social information that circulates among the people who keep important households functioning.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Etiquette +6, Social Inquiry +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Criminal Family Name",
+      "group": "Family Legacy",
+      "kind": "Trait",
+      "summary": "Theft, smuggling, gangs, fences, fraud, outlaw trade, protection work, or other criminal activity has followed your family name across generations. You may embrace that inheritance, reject it, or simply suffer because other people assume blood predicts behavior.\n\nNarrative effects: You recognize criminal reputation, coded caution, hidden leverage, and the uncomfortable moment someone decides they know what kind of person you are because of your surname.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Thieves' Lore +6, Deception +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Disputed Ancestry",
+      "group": "Family Legacy",
+      "kind": "Trait",
+      "summary": "Your family claims descent from someone important, unusual, ancient, foreign, noble, heroic, infamous, or otherwise significant, but the evidence is incomplete or contested. The claim may ultimately be true, false, exaggerated, misunderstood, or only partly correct.\n\nNarrative effects: You pay attention to genealogy, old stories, contradictions, witnesses, and the motives of people who either desperately want the family claim believed or dismissed. The claim is not proof of nobility, royalty, Firstblood status, or another hidden identity.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Historical Lore +6, Social Inquiry +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Disputed Noble Line",
+      "group": "Family Legacy",
+      "kind": "Trait",
+      "summary": "Your family's noble title, inheritance, legitimacy, succession, or right to a particular standing has been challenged at some point and may still be contested. There is enough substance behind the claim that the argument cannot simply be laughed away.\n\nNarrative effects: You listen carefully when people discuss legitimacy, inheritance, seals, witnesses, and who benefits from declaring a claim invalid.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Heraldry +6, Social Inquiry +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cartographic Scholar",
+      "group": "Knowledge Focus",
+      "kind": "Trait",
+      "summary": "You specialize in maps, surveying traditions, scale, boundaries, symbols, route representation, map accuracy, historical charts, and the ways terrain is converted into usable spatial records. You understand both how maps communicate and how they can mislead.\n\nNarrative effects: You examine scale, orientation, landmarks, survey assumptions, missing features, old boundaries, and whether a map was designed to guide, claim, conceal, or persuade.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Cartography +15, Navigation +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cryptographer",
+      "group": "Knowledge Focus",
+      "kind": "Trait",
+      "summary": "You specialize in codes, ciphers, encoded correspondence, structured concealment, substitution systems, signaling conventions, and the analysis of deliberately obscured written information. Cryptographic skill does not automatically reveal a message without enough material, context, or a solvable system.\n\nNarrative effects: You look for repetition, structure, keys, substitutions, formatting clues, writer habits, and the difference between genuine encryption and meaningless noise.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Cryptography +15, Writing +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dragon Scholar",
+      "group": "Knowledge Focus",
+      "kind": "Trait",
+      "summary": "You specialize in dragons: known lineages, habitats, behavior, territorial signs, ancient pacts, draconic politics, historical encounters, hoards, grudges, and the ways different societies have survived or negotiated with them. Your knowledge does not make every dragon predictable.\n\nNarrative effects: You treat draconic signs as historical and political evidence as well as monster signs, asking what kind of dragon could be involved and what old relationship may matter.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Dragon Lore +15, Historical Lore +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cold Arcana",
+      "group": "Magic Arcana",
+      "kind": "Trait",
+      "summary": "You have a natural gift for Cold Arcana: frost, ice, stillness, slowed motion, preserved matter, and the dangerous silence of falling temperature.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Cold Arcana +15, Mana +2"
+        },
+        {
+          "label": "Abilities",
+          "value": "Frost Bite"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Conjuration Arcana",
+      "group": "Magic Arcana",
+      "kind": "Trait",
+      "summary": "You have a natural gift for Conjuration Arcana: summoning, calling, binding constructs, short-lived servants, prepared circles, and opening controlled conduits across distance.\n\nNarrative effects: Occasionally sense presences that are not visibly there.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Conjuration Arcana +15, Mana +2"
+        },
+        {
+          "label": "Abilities",
+          "value": "Minor Summon"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Death Arcana",
+      "group": "Magic Arcana",
+      "kind": "Trait",
+      "summary": "You have a natural gift for Death Arcana: the boundary between living and dead, death-state energy, remains, endings, and the presence of the recently deceased.\n\nNarrative effects: Sometimes briefly sense the emotional residue of how people died in a location.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Death Arcana +15, Mana +2"
+        },
+        {
+          "label": "Abilities",
+          "value": "Death Sense"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Divination Arcana",
+      "group": "Magic Arcana",
+      "kind": "Trait",
+      "summary": "You have a natural gift for Divination Arcana: hidden information, magical traces, omens, residual impressions, and things sensed before they can be proven.\n\nNarrative effects: Dreams occasionally contain specific and accurate fragments of distant events.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Divination Arcana +15, Mana +2"
+        },
+        {
+          "label": "Abilities",
+          "value": "Sense Magic"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cloudspire Highcourt Citizen",
+      "group": "Origin Culture",
+      "kind": "Trait",
+      "summary": "You were shaped by Cloudspire's high courts, ranked access, wind-rights, elevated districts, ceremonial routes, and politics where literal height can carry social meaning. Air magic belongs naturally to a culture that treats wind and altitude as parts of public life.\n\nNarrative effects: You understand Cloudspire rank, access, ceremony, and the cultural meaning attached to height. Air Arcana is culturally familiar magic rather than a marker of elite status.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Air Arcana +5, Etiquette +8, Cultural Lore +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cloudspire Skybridge Local",
+      "group": "Origin Culture",
+      "kind": "Trait",
+      "summary": "You were shaped by Cloudspire's vertical cities, exposed bridges, steep routes, wind-cut passages, and the ordinary physical confidence required to live where height is part of daily geography. Air magic is the culture's natural magical signature in a society built around wind and elevation.\n\nNarrative effects: You are comfortable judging height, footing, exposure, and distant movement in vertical environments. Air Arcana reflects Cloudspire's culture without requiring aerial military service or a particular profession.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Air Arcana +5, Climbing +8, Seeing +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cloudspire Windroad Citizen",
+      "group": "Origin Culture",
+      "kind": "Trait",
+      "summary": "You were shaped by Cloudspire's sky routes, mountain approaches, aerial corridors, bridge networks, mapped winds, and the practical problem of reaching places separated as much vertically as horizontally. Air magic is a natural companion to that culture of movement through open height.\n\nNarrative effects: You think comfortably in routes that involve altitude, wind, bridges, and difficult approaches. Air Arcana reflects the culture's relationship with the sky without defining your occupation.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Air Arcana +5, Navigation +8, Cartography +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Coral Throne Deep-Law",
+      "group": "Origin Culture",
+      "kind": "Trait",
+      "summary": "You were shaped by the older sacred and environmental laws of the Coral Throne: reef boundaries, tide priests, sacred wrecks, storm mercy, deep claims, and obligations that mainland legal habits do not always understand. Spirit magic belongs naturally to a culture where unseen powers and living environments both have recognized standing.\n\nNarrative effects: You understand the sacred and environmental obligations embedded in Coral Throne law. Spirit Arcana is culturally learned magic and does not automatically make you a priest, medium, or spirit-bound character.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Spirit Arcana +5, Religious Lore +8, Natural Lore +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Coral Throne Harborbound",
+      "group": "Origin Culture",
+      "kind": "Trait",
+      "summary": "You were shaped by the Coral Throne's busy harbors, mixed coastal communities, traders, envoys, sailors, merfolk visitors, and everyday negotiation between people with different needs and assumptions. Spirit magic remains culturally familiar because unseen and nonhuman presences are part of ordinary coastal belief and practice.\n\nNarrative effects: You are practiced at negotiating across differences and understanding what another person actually needs from an exchange. Spirit Arcana reflects Coral Throne magical culture rather than a specific profession.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Spirit Arcana +5, Bargaining +8, Empathy +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Coral Throne Reefcourt",
+      "group": "Origin Culture",
+      "kind": "Trait",
+      "summary": "You were shaped by the Coral Throne's reef courts, sea-elf houses, merfolk envoys, pearl judges, tide ceremonies, and formal negotiations where coast and sea meet. Spirit magic is the culture's characteristic Arcana, reflecting long familiarity with unseen presences, coastal spirits, and relationships that cross the boundary between mortal communities and other beings.\n\nNarrative effects: You understand Coral Throne formal customs and the layered relationships between coastal peoples. Spirit Arcana is a culturally familiar magical tradition without implying priesthood or nonhuman ancestry.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Spirit Arcana +5, Etiquette +8, Cultural Lore +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dreadmark Commandwise",
+      "group": "Origin Culture",
+      "kind": "Trait",
+      "summary": "You were shaped by Dreadmark's harsher command culture, where certainty, discipline, intimidation, endurance, and the ability to remain effective under pressure are treated as practical virtues. Power magic fits that culture's emphasis on force, exertion, reinforcement, and making decisive action carry greater weight.\n\nNarrative effects: You understand how fear, confidence, discipline, endurance, and decisive force shape command. Power Arcana reflects a Dreadmark tradition of reinforcing action under pressure, but it does not automatically make you an officer, interrogator, or loyalist.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Power Arcana +5, Intimidation +8, Self-Discipline +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dreadmark Rankwise",
+      "group": "Origin Culture",
+      "kind": "Trait",
+      "summary": "You were shaped by the ordered hierarchy of the Dreadmark Dominion, where rank, uniforms, procedure, command, and obedience determine how safely a person moves through public life. Enchantment magic is culturally associated with official seals, marked equipment, restricted thresholds, persistent wards, permissions, and bindings used to reinforce institutions and command infrastructure.\n\nNarrative effects: You quickly recognize rank, expected conduct, chains of command, and the consequences of addressing authority incorrectly. Enchantment Arcana reflects familiarity with Dreadmark seals, wards, permissions, marked equipment, and institutional bindings without defining your own morality.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Enchantment Arcana +5, Military Lore +8, Etiquette +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dreadmark Watchwise",
+      "group": "Origin Culture",
+      "kind": "Trait",
+      "summary": "You were shaped by a society where observation matters: papers are checked, neighbors notice absences, officials ask questions, and survival can depend on knowing when you are being watched. Divination magic is culturally valued for scrutiny, traces, hidden information, inconsistencies, and detecting what ordinary observation may miss.\n\nNarrative effects: You pay attention to watchers, inspections, inconsistencies, traces, and what must remain unsaid. Divination Arcana is a culturally familiar tool of scrutiny, not proof that you served the Dominion's surveillance apparatus.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Divination Arcana +5, Seeing +8, Deception +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cavalry Duelist",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have deliberately learned to combine Dueling and Riding as one working discipline instead of treating them as unrelated skills. The overlap gives you options that depend on both kinds of competence and grants the signature ability Saddle-Line Riposte.\n\nNarrative effects: Treat Cavalry Duelist as a genuine hybrid specialization. The character combines Dueling with Riding when both materially matter to the approach; do not let either skill substitute for the other or bypass normal tools, authority, resources, evidence, positioning, or consequences.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Dueling +5, Riding +5"
+        },
+        {
+          "label": "Abilities",
+          "value": "Saddle-Line Riposte"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 10, Dueling skill 30, Riding skill 30"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Climbing Apex",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "Your command of climbing is exceptional even among seasoned specialists. You combine economy, judgement, and control across grip endurance, body positioning, route choice, anchors, and movement on steep or vertical terrain, while still respecting tools, resources, environment, and credible opposition.\n\nNarrative effects: Treat the character as an exceptional climbing practitioner. Let expertise change what approaches are plausible, but never erase consequences, impossible geometry, unavailable tools, social authority, or established world rules.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Climbing +8"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 50, Climbing skill 80"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Climbing Mastery"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Climbing Discipline",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have turned climbing into a deliberate specialty through repeated practice. You are reliably trained in grip endurance, body positioning, route choice, anchors, and movement on steep or vertical terrain, but difficult situations still depend on position, tools, opposition, and judgement.\n\nNarrative effects: Treat climbing as a practiced specialization. The character deliberately applies grip endurance, body positioning, route choice, anchors, and movement on steep or vertical terrain; give that training weight without granting automatic success or ignoring normal constraints.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Climbing +4"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 5, Climbing skill 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Climbing Expertise",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "Your climbing remains reliable when conditions become complicated. You can adapt grip endurance, body positioning, route choice, anchors, and movement on steep or vertical terrain to pressure, poor timing, difficult terrain, and active opposition instead of relying on ideal circumstances.\n\nNarrative effects: Treat the character as an experienced climbing specialist who adapts technique under pressure. Preserve normal risk, resource costs, physical limits, law, witnesses, and opposition.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Climbing +5"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 15, Climbing skill 40"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Climbing Discipline"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Climbing Mastery",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "Climbing has become one of your defining masteries. You recognize advanced openings and methods within grip endurance, body positioning, route choice, anchors, and movement on steep or vertical terrain, and this trait grants the signature ability Anchor Move.\n\nNarrative effects: Treat climbing as a defining mastery. The character may use Anchor Move when its fictional setup is plausible; it creates a special option, not guaranteed success or permission to bypass unrelated skills.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Climbing +6"
+        },
+        {
+          "label": "Abilities",
+          "value": "Anchor Move"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 30, Climbing skill 60"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Climbing Expertise"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cold Arcana Mastery",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have trained Cold Arcana beyond simple affinity into a major specialization. Your control is more precise, economical, and reliable inside its established domain, but mastery does not expand what the Arcana governs or remove mana costs, opposition, risk, or story consequences. This mastery grants the signature ability Stillwinter Seal.\n\nNarrative effects: Treat Cold Arcana as a major specialization. Favor deliberate, technically informed expressions of the authored Cold Arcana domain; do not reinterpret it as another Arcana, grant effects outside its definition, or waive normal mana, strain, witnesses, and consequences. The character may use Stillwinter Seal when its fictional setup is plausible; it is a mastery technique, not automatic success or permission to exceed the Arcana domain.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Cold Arcana +6, Mana +3"
+        },
+        {
+          "label": "Abilities",
+          "value": "Stillwinter Seal"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 30, Cold Arcana skill 60"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Cold Arcana"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Combat Awareness",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have learned to connect what you see with the larger structure of a fight, noticing exposed allies, collapsing lines, dangerous approaches, and changes in battlefield intent before they fully develop.\n\nNarrative effects: The character reads immediate battlefield movement unusually well and can react to developing pressure sooner. This is awareness, not omniscience; concealment, chaos, distance, and missing information still matter.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Seeing +5, Military Lore +5, Stamina +10"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 20, Seeing skill 35, Military Lore skill 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Combat Medic",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have deliberately learned to combine Medicine and Tolerance as one working discipline instead of treating them as unrelated skills. The overlap gives you options that depend on both kinds of competence and grants the signature ability Under-Fire Stabilization.\n\nNarrative effects: Treat Combat Medic as a genuine hybrid specialization. The character combines Medicine with Tolerance when both materially matter to the approach; do not let either skill substitute for the other or bypass normal tools, authority, resources, evidence, positioning, or consequences.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Medicine +5, Tolerance +5"
+        },
+        {
+          "label": "Abilities",
+          "value": "Under-Fire Stabilization"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 10, Medicine skill 30, Tolerance skill 30"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Command Presence",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have learned to give people clear direction when hesitation and confusion are dangerous.\n\nNarrative effects: You issue concise orders, assign responsibility, and make the next necessary action obvious.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Leadership +10, Military Lore +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Compelling Performer",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have deliberately learned to combine Performance and Persuasion as one working discipline instead of treating them as unrelated skills. The overlap gives you options that depend on both kinds of competence and grants the signature ability Hold the Room.\n\nNarrative effects: Treat Compelling Performer as a genuine hybrid specialization. The character combines Performance with Persuasion when both materially matter to the approach; do not let either skill substitute for the other or bypass normal tools, authority, resources, evidence, positioning, or consequences.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Performance +5, Persuasion +5"
+        },
+        {
+          "label": "Abilities",
+          "value": "Hold the Room"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 10, Performance skill 30, Persuasion skill 30"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Confidence Artist",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have deliberately learned to combine Deception and Persuasion as one working discipline instead of treating them as unrelated skills. The overlap gives you options that depend on both kinds of competence and grants the signature ability Make Them Volunteer.\n\nNarrative effects: Treat Confidence Artist as a genuine hybrid specialization. The character combines Deception with Persuasion when both materially matter to the approach; do not let either skill substitute for the other or bypass normal tools, authority, resources, evidence, positioning, or consequences.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Deception +5, Persuasion +5"
+        },
+        {
+          "label": "Abilities",
+          "value": "Make Them Volunteer"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 10, Deception skill 30, Persuasion skill 30"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Conjuration Arcana Mastery",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have trained Conjuration Arcana beyond simple affinity into a major specialization. Your control is more precise, economical, and reliable inside its established domain, but mastery does not expand what the Arcana governs or remove mana costs, opposition, risk, or story consequences. This mastery grants the signature ability Recall the Bound.\n\nNarrative effects: Treat Conjuration Arcana as a major specialization. Favor deliberate, technically informed expressions of the authored Conjuration Arcana domain; do not reinterpret it as another Arcana, grant effects outside its definition, or waive normal mana, strain, witnesses, and consequences. The character may use Recall the Bound when its fictional setup is plausible; it is a mastery technique, not automatic success or permission to exceed the Arcana domain.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Conjuration Arcana +6, Mana +3"
+        },
+        {
+          "label": "Abilities",
+          "value": "Recall the Bound"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 30, Conjuration Arcana skill 60"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Conjuration Arcana"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Consummate Liar",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have deliberately learned to combine Deception and Disguise as one working discipline instead of treating them as unrelated skills. The overlap gives you options that depend on both kinds of competence and grants the signature ability Prepared Cover Story.\n\nNarrative effects: Treat Consummate Liar as a genuine hybrid specialization. The character combines Deception with Disguise when both materially matter to the approach; do not let either skill substitute for the other or bypass normal tools, authority, resources, evidence, positioning, or consequences.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Deception +5, Disguise +5"
+        },
+        {
+          "label": "Abilities",
+          "value": "Prepared Cover Story"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 10, Deception skill 30, Disguise skill 30"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Court Genealogist",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have deliberately learned to combine Heraldry and Historical Lore as one working discipline instead of treating them as unrelated skills. The overlap gives you options that depend on both kinds of competence and grants the signature ability Claim Chain.\n\nNarrative effects: Treat Court Genealogist as a genuine hybrid specialization. The character combines Heraldry with Historical Lore when both materially matter to the approach; do not let either skill substitute for the other or bypass normal tools, authority, resources, evidence, positioning, or consequences.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Heraldry +5, Historical Lore +5"
+        },
+        {
+          "label": "Abilities",
+          "value": "Claim Chain"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 10, Heraldry skill 30, Historical Lore skill 30"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Court Operator",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have deliberately learned to combine Etiquette and Social Inquiry as one working discipline instead of treating them as unrelated skills. The overlap gives you options that depend on both kinds of competence and grants the signature ability Control the Floor.\n\nNarrative effects: Treat Court Operator as a genuine hybrid specialization. The character combines Etiquette with Social Inquiry when both materially matter to the approach; do not let either skill substitute for the other or bypass normal tools, authority, resources, evidence, positioning, or consequences.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Etiquette +5, Social Inquiry +5"
+        },
+        {
+          "label": "Abilities",
+          "value": "Control the Floor"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 10, Etiquette skill 30, Social Inquiry skill 30"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Courtly Confidence",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have deliberately learned to combine Etiquette and Heraldry as one working discipline instead of treating them as unrelated skills. The overlap gives you options that depend on both kinds of competence and grants the signature ability Weaponize Courtesy.\n\nNarrative effects: Treat Courtly Confidence as a genuine hybrid specialization. The character combines Etiquette with Heraldry when both materially matter to the approach; do not let either skill substitute for the other or bypass normal tools, authority, resources, evidence, positioning, or consequences.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Etiquette +5, Heraldry +5"
+        },
+        {
+          "label": "Abilities",
+          "value": "Weaponize Courtesy"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 10, Etiquette skill 30, Heraldry skill 30"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Crossbow Apex",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "Your command of crossbow is exceptional even among seasoned specialists. You combine economy, judgement, and control across prepared aim, mechanical leverage, ammunition choice, firing windows, and making deliberate shots count, while still respecting tools, resources, environment, and credible opposition.\n\nNarrative effects: Treat the character as an exceptional crossbow practitioner. Let expertise change what approaches are plausible, but never erase consequences, impossible geometry, unavailable tools, social authority, or established world rules.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Crossbows +8"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 50, Crossbows skill 80"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Crossbow Mastery"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Crossbow Discipline",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have turned crossbow into a deliberate specialty through repeated practice. You are reliably trained in prepared aim, mechanical leverage, ammunition choice, firing windows, and making deliberate shots count, but difficult situations still depend on position, tools, opposition, and judgement.\n\nNarrative effects: Treat crossbow as a practiced specialization. The character deliberately applies prepared aim, mechanical leverage, ammunition choice, firing windows, and making deliberate shots count; give that training weight without granting automatic success or ignoring normal constraints.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Crossbows +4"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 5, Crossbows skill 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Crossbow Expertise",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "Your crossbow remains reliable when conditions become complicated. You can adapt prepared aim, mechanical leverage, ammunition choice, firing windows, and making deliberate shots count to pressure, poor timing, difficult terrain, and active opposition instead of relying on ideal circumstances.\n\nNarrative effects: Treat the character as an experienced crossbow specialist who adapts technique under pressure. Preserve normal risk, resource costs, physical limits, law, witnesses, and opposition.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Crossbows +5"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 15, Crossbows skill 40"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Crossbow Discipline"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Crossbow Mastery",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "Crossbow has become one of your defining masteries. You recognize advanced openings and methods within prepared aim, mechanical leverage, ammunition choice, firing windows, and making deliberate shots count, and this trait grants the signature ability Prepared Kill Zone.\n\nNarrative effects: Treat crossbow as a defining mastery. The character may use Prepared Kill Zone when its fictional setup is plausible; it creates a special option, not guaranteed success or permission to bypass unrelated skills.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Crossbows +6"
+        },
+        {
+          "label": "Abilities",
+          "value": "Prepared Kill Zone"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 30, Crossbows skill 60"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Crossbow Expertise"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Crystal Arcana",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You carry a rare resonance with Crystal Arcana, awakened through exposure, relic influence, deep mineral pressure, star-glass contact, or story consequence. Crystal Arcana governs facets, resonance, hard growth, refracted light, stored energy, brittle beauty, and structures that hold force until they fracture. It is precise, luminous, and dangerous when stressed.\n\nNarrative effects: You notice facets, angles, resonance, and the way light or mana catches inside hard surfaces.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Crystal Arcana +15, Mana +3"
+        },
+        {
+          "label": "Abilities",
+          "value": "Crystal Growth"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Crystal Arcana Mastery",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have trained Crystal Arcana beyond simple affinity into a major specialization. Your control is more precise, economical, and reliable inside its established domain, but mastery does not expand what the Arcana governs or remove mana costs, opposition, risk, or story consequences. This mastery grants the signature ability Reservoir Facet.\n\nNarrative effects: Treat Crystal Arcana as a major specialization. Favor deliberate, technically informed expressions of the authored Crystal Arcana domain; do not reinterpret it as another Arcana, grant effects outside its definition, or waive normal mana, strain, witnesses, and consequences. The character may use Reservoir Facet when its fictional setup is plausible; it is a mastery technique, not automatic success or permission to exceed the Arcana domain.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Crystal Arcana +6, Mana +3"
+        },
+        {
+          "label": "Abilities",
+          "value": "Reservoir Facet"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 30, Crystal Arcana skill 60"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Crystal Arcana"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Death Arcana Mastery",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have trained Death Arcana beyond simple affinity into a major specialization. Your control is more precise, economical, and reliable inside its established domain, but mastery does not expand what the Arcana governs or remove mana costs, opposition, risk, or story consequences. This mastery grants the signature ability Deathless Interval.\n\nNarrative effects: Treat Death Arcana as a major specialization. Favor deliberate, technically informed expressions of the authored Death Arcana domain; do not reinterpret it as another Arcana, grant effects outside its definition, or waive normal mana, strain, witnesses, and consequences. The character may use Deathless Interval when its fictional setup is plausible; it is a mastery technique, not automatic success or permission to exceed the Arcana domain.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Death Arcana +6, Mana +3"
+        },
+        {
+          "label": "Abilities",
+          "value": "Deathless Interval"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 30, Death Arcana skill 60"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Death Arcana"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Deception Apex",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "Your command of deception is exceptional even among seasoned specialists. You combine economy, judgement, and control across false narratives, consistency, timing, selective truth, and controlling what a listener thinks the missing pieces mean, while still respecting tools, resources, environment, and credible opposition.\n\nNarrative effects: Treat the character as an exceptional deception practitioner. Let expertise change what approaches are plausible, but never erase consequences, impossible geometry, unavailable tools, social authority, or established world rules.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Deception +8"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 50, Deception skill 80"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Deception Mastery"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Deception Discipline",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have turned deception into a deliberate specialty through repeated practice. You are reliably trained in false narratives, consistency, timing, selective truth, and controlling what a listener thinks the missing pieces mean, but difficult situations still depend on position, tools, opposition, and judgement.\n\nNarrative effects: Treat deception as a practiced specialization. The character deliberately applies false narratives, consistency, timing, selective truth, and controlling what a listener thinks the missing pieces mean; give that training weight without granting automatic success or ignoring normal constraints.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Deception +4"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 5, Deception skill 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Deception Expertise",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "Your deception remains reliable when conditions become complicated. You can adapt false narratives, consistency, timing, selective truth, and controlling what a listener thinks the missing pieces mean to pressure, poor timing, difficult terrain, and active opposition instead of relying on ideal circumstances.\n\nNarrative effects: Treat the character as an experienced deception specialist who adapts technique under pressure. Preserve normal risk, resource costs, physical limits, law, witnesses, and opposition.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Deception +5"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 15, Deception skill 40"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Deception Discipline"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Deception Mastery",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "Deception has become one of your defining masteries. You recognize advanced openings and methods within false narratives, consistency, timing, selective truth, and controlling what a listener thinks the missing pieces mean, and this trait grants the signature ability Controlled Contradiction.\n\nNarrative effects: Treat deception as a defining mastery. The character may use Controlled Contradiction when its fictional setup is plausible; it creates a special option, not guaranteed success or permission to bypass unrelated skills.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Deception +6"
+        },
+        {
+          "label": "Abilities",
+          "value": "Controlled Contradiction"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 30, Deception skill 60"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Deception Expertise"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Deep Mana Well",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "Repeated casting, recovery, and disciplined magical exertion have expanded the amount of mana you can hold safely. This is deeper reserve, not broader Arcana access or automatic spell control.\n\nNarrative effects: The character has a noticeably deeper mana reserve and can sustain more magical work before depletion. Preserve all normal costs, Arcana boundaries, overcasting risks, cooldowns, and consequences.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Self-Discipline +4, Mana +20"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 15, Self-Discipline skill 30"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Devout Conviction",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "Your faith is supported by study rather than empty certainty. Doctrine, ritual knowledge, and practiced conviction give you a steadier foundation when corruption, doubt, pressure, or sacred obligation matters.\n\nNarrative effects: Treat faith as a practiced source of focus and resistance grounded in the character's actual beliefs and Religious Lore. It does not make doctrine automatically true, compel divine intervention, or override other faiths.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Faith +5, Religious Lore +5, Mana +5"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 20, Faith skill 35, Religious Lore skill 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Divination Arcana Mastery",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have trained Divination Arcana beyond simple affinity into a major specialization. Your control is more precise, economical, and reliable inside its established domain, but mastery does not expand what the Arcana governs or remove mana costs, opposition, risk, or story consequences. This mastery grants the signature ability Blindspot Revelation.\n\nNarrative effects: Treat Divination Arcana as a major specialization. Favor deliberate, technically informed expressions of the authored Divination Arcana domain; do not reinterpret it as another Arcana, grant effects outside its definition, or waive normal mana, strain, witnesses, and consequences. The character may use Blindspot Revelation when its fictional setup is plausible; it is a mastery technique, not automatic success or permission to exceed the Arcana domain.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Divination Arcana +6, Mana +3"
+        },
+        {
+          "label": "Abilities",
+          "value": "Blindspot Revelation"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 30, Divination Arcana skill 60"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Divination Arcana"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Diviner Investigator",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have deliberately learned to combine Divination Arcana and Searching as one working discipline instead of treating them as unrelated skills. The overlap gives you options that depend on both kinds of competence and grants the signature ability Question the Pattern.\n\nNarrative effects: Treat Diviner Investigator as a genuine hybrid specialization. The character combines Divination Arcana with Searching when both materially matter to the approach; do not let either skill substitute for the other or bypass normal tools, authority, resources, evidence, positioning, or consequences.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Divination Arcana +5, Searching +5"
+        },
+        {
+          "label": "Abilities",
+          "value": "Question the Pattern"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 10, Divination Arcana skill 30, Searching skill 30, Divination Arcana trait 1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dragon",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "Dragons are ageless, mighty creatures whose power grows with age. Fire dragons are red and breathe flame from cavern lairs. Earth dragons are black, peaceful by nature, and can fly or burrow through mountain territory. Water dragons are blue, territorial, and dwell in or near the ocean. Air dragons are white, friendly, nomadic, and tied to wind and sky. Dragons are not ordinary people; their presence reshapes politics, territory, magic, and fear around them.\n\nNarrative effects: You regard territory, promises, treasure, and disrespect as matters of ancient importance.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Dragon Arcana +25, Intimidation +20, Acrobatics +20, Strength +5, Constitution +5, Communication +4, Willpower +3, Health +250, Mana +150, Stamina +150"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dragon Arcana",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You carry a legendary resonance with Dragon Arcana, awakened only through a major story gate, explicit start rule, or manually authored consequence. Dragon Arcana governs ancient draconic power, breath-nature, scale-law, territorial command, pact memory, elemental inheritance, and the pressure of beings older than mortal kingdoms.\n\nNarrative effects: You notice old heat, territorial pressure, ancient pride, and signs that something draconic has marked the scene.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Dragon Arcana +15, Mana +3"
+        },
+        {
+          "label": "Abilities",
+          "value": "Dragon Breath Spark"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dragon Arcana Mastery",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have trained Dragon Arcana beyond simple affinity into a major specialization. Your control is more precise, economical, and reliable inside its established domain, but mastery does not expand what the Arcana governs or remove mana costs, opposition, risk, or story consequences. This mastery grants the signature ability Scale-Law Invocation.\n\nNarrative effects: Treat Dragon Arcana as a major specialization. Favor deliberate, technically informed expressions of the authored Dragon Arcana domain; do not reinterpret it as another Arcana, grant effects outside its definition, or waive normal mana, strain, witnesses, and consequences. The character may use Scale-Law Invocation when its fictional setup is plausible; it is a mastery technique, not automatic success or permission to exceed the Arcana domain.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Dragon Arcana +6, Mana +3"
+        },
+        {
+          "label": "Abilities",
+          "value": "Scale-Law Invocation"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 30, Dragon Arcana skill 60"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Dragon Arcana"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dragon Historian",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have deliberately learned to combine Dragon Lore and Historical Lore as one working discipline instead of treating them as unrelated skills. The overlap gives you options that depend on both kinds of competence and grants the signature ability Ancient Precedent.\n\nNarrative effects: Treat Dragon Historian as a genuine hybrid specialization. The character combines Dragon Lore with Historical Lore when both materially matter to the approach; do not let either skill substitute for the other or bypass normal tools, authority, resources, evidence, positioning, or consequences.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Dragon Lore +5, Historical Lore +5"
+        },
+        {
+          "label": "Abilities",
+          "value": "Ancient Precedent"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 10, Dragon Lore skill 30, Historical Lore skill 30"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dream Arcana",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You carry a rare resonance with Dream Arcana, awakened through strange sleep, relic influence, supernatural exposure, or story consequence. Dream Arcana governs dreams, symbols, sleep-thresholds, omens, half-remembered places, shared visions, and the structure of magical dream-spaces. Its signs should feel suggestive, emotional, and difficult to prove.\n\nNarrative effects: You remember dreams with unsettling clarity and sometimes trust symbols before facts.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Dream Arcana +15, Mana +3"
+        },
+        {
+          "label": "Abilities",
+          "value": "Dream Entry"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dream Arcana Mastery",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have trained Dream Arcana beyond simple affinity into a major specialization. Your control is more precise, economical, and reliable inside its established domain, but mastery does not expand what the Arcana governs or remove mana costs, opposition, risk, or story consequences. This mastery grants the signature ability Nightmare Excision.\n\nNarrative effects: Treat Dream Arcana as a major specialization. Favor deliberate, technically informed expressions of the authored Dream Arcana domain; do not reinterpret it as another Arcana, grant effects outside its definition, or waive normal mana, strain, witnesses, and consequences. The character may use Nightmare Excision when its fictional setup is plausible; it is a mastery technique, not automatic success or permission to exceed the Arcana domain.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Dream Arcana +6, Mana +3"
+        },
+        {
+          "label": "Abilities",
+          "value": "Nightmare Excision"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 30, Dream Arcana skill 60"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Dream Arcana"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dueling Apex",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "Your command of dueling is exceptional even among seasoned specialists. You combine economy, judgement, and control across measure, tempo, feints, parries, ripostes, and one-on-one blade pressure, while still respecting tools, resources, environment, and credible opposition.\n\nNarrative effects: Treat the character as an exceptional dueling practitioner. Let expertise change what approaches are plausible, but never erase consequences, impossible geometry, unavailable tools, social authority, or established world rules.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Dueling +8"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 50, Dueling skill 80"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Dueling Mastery"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dueling Discipline",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have turned dueling into a deliberate specialty through repeated practice. You are reliably trained in measure, tempo, feints, parries, ripostes, and one-on-one blade pressure, but difficult situations still depend on position, tools, opposition, and judgement.\n\nNarrative effects: Treat dueling as a practiced specialization. The character deliberately applies measure, tempo, feints, parries, ripostes, and one-on-one blade pressure; give that training weight without granting automatic success or ignoring normal constraints.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Dueling +4"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 5, Dueling skill 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dueling Expertise",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "Your dueling remains reliable when conditions become complicated. You can adapt measure, tempo, feints, parries, ripostes, and one-on-one blade pressure to pressure, poor timing, difficult terrain, and active opposition instead of relying on ideal circumstances.\n\nNarrative effects: Treat the character as an experienced dueling specialist who adapts technique under pressure. Preserve normal risk, resource costs, physical limits, law, witnesses, and opposition.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Dueling +5"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 15, Dueling skill 40"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Dueling Discipline"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dueling Mastery",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "Dueling has become one of your defining masteries. You recognize advanced openings and methods within measure, tempo, feints, parries, ripostes, and one-on-one blade pressure, and this trait grants the signature ability Second Intention.\n\nNarrative effects: Treat dueling as a defining mastery. The character may use Second Intention when its fictional setup is plausible; it creates a special option, not guaranteed success or permission to bypass unrelated skills.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Dueling +6"
+        },
+        {
+          "label": "Abilities",
+          "value": "Second Intention"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 30, Dueling skill 60"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Dueling Expertise"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dungeon Skirmisher",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have deliberately learned to combine Light Blades and Traps as one working discipline instead of treating them as unrelated skills. The overlap gives you options that depend on both kinds of competence and grants the signature ability Trap-Step Attack.\n\nNarrative effects: Treat Dungeon Skirmisher as a genuine hybrid specialization. The character combines Light Blades with Traps when both materially matter to the approach; do not let either skill substitute for the other or bypass normal tools, authority, resources, evidence, positioning, or consequences.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Light Blades +5, Traps +5"
+        },
+        {
+          "label": "Abilities",
+          "value": "Trap-Step Attack"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 10, Light Blades skill 30, Traps skill 30"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Climber",
+      "group": "Physical Utility Focus",
+      "kind": "Trait",
+      "summary": "You are practiced at scaling walls, cliffs, trees, ropes, towers, rigging, ruins, and other vertical terrain. Grip, body position, pacing, and endurance matter as much to you as raw strength.\n\nNarrative effects: Your eyes naturally search upward for handholds, ledges, anchor points, and safe places to rest.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Climbing +15, Tolerance +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Deft Hands",
+      "group": "Physical Utility Focus",
+      "kind": "Trait",
+      "summary": "You possess exceptional fine hand control for palming, concealing, swapping, manipulating, retrieving, planting, or quietly moving small objects. The focus is precise physical manipulation rather than any assumption of theft or criminal intent.\n\nNarrative effects: Your fingers naturally test weight, texture, seams, clasps, and the exact position of small objects.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Legerdemain +15, Touching +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Difficult Mount Rider",
+      "group": "Physical Utility Focus",
+      "kind": "Trait",
+      "summary": "You specialize in staying effective on skittish, poorly trained, unusual, flying, magical, or otherwise challenging mounts outside direct combat. You know how to remain composed when the creature beneath you does not behave predictably.\n\nNarrative effects: A difficult mount makes you focus on rhythm, balance, breathing, and small corrections rather than trying to dominate it immediately.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Riding +15, Self-Discipline +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Canal Lock Helper",
+      "group": "Preteen Responsibility",
+      "kind": "Trait",
+      "summary": "You helped operate or maintain simple gates, ropes, mechanisms, tow lines, and routines used to move vessels through canal locks.\n\nNarrative effects: Managed waterways and the relationship between their mechanisms and vessel movement feel familiar.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Engineering +6, Vessel Piloting +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Caravan Tagalong",
+      "group": "Preteen Responsibility",
+      "kind": "Trait",
+      "summary": "You were old enough to contribute to caravan travel by helping around wagons, checking routes, leading animals, watching loads, or assisting during departure and camp.\n\nNarrative effects: Road routes and practical wagon handling feel familiar from repeated travel.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Navigation +6, Cart Driving +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Caretaker for an Ill Adult",
+      "group": "Preteen Responsibility",
+      "kind": "Trait",
+      "summary": "An adult's illness or injury meant you regularly helped with food, medicine, comfort, movement, cleaning, or other everyday needs.\n\nNarrative effects: Basic caregiving and recognizing another person's discomfort became practical responsibilities rather than abstract concerns.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Medicine +6, Empathy +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Carpenter's Helper",
+      "group": "Preteen Responsibility",
+      "kind": "Trait",
+      "summary": "You held boards, fetched tools, carried offcuts, measured simple pieces, cleaned work areas, and watched wood become useful structures or objects.\n\nNarrative effects: Working wood and understanding how pieces support or join one another became modest practical skills.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Handcrafting +6, Engineering +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Coal Carrier",
+      "group": "Preteen Responsibility",
+      "kind": "Trait",
+      "summary": "You regularly carried coal, charcoal, fuel, ore, or similarly dirty heavy material through a workplace or household.\n\nNarrative effects: Heavy loads and genuine physical exposure to dust, grime, heat, and harsh working conditions are familiar.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Might +6, Tolerance +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Compulsory Work Child",
+      "group": "Preteen Responsibility",
+      "kind": "Trait",
+      "summary": "You were expected to perform regular physical work under authority you had little practical ability to refuse. This could arise from punishment, debt, occupation, institutional rules, household pressure, or another coercive system.\n\nNarrative effects: Repeated compulsory work taught physical effort and control of outward reaction. This trait describes a difficult childhood responsibility and does not determine your present circumstances.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Might +6, Self-Discipline +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Counting-House Helper",
+      "group": "Preteen Responsibility",
+      "kind": "Trait",
+      "summary": "You sorted papers, fetched ledgers, checked stored records, carried invoices, counted simple stock, and helped around a merchant or estate office.\n\nNarrative effects: Records and material value feel naturally connected through repeated commercial work.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Archival Research +6, Appraisal +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Court Page",
+      "group": "Preteen Responsibility",
+      "kind": "Trait",
+      "summary": "You carried messages, fetched items, attended doors, accompanied important people, and learned how to remain useful within formal court surroundings.\n\nNarrative effects: Formal rank, noble symbols, and correct behavior around important households feel familiar.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Etiquette +6, Heraldry +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Criminal Delivery Child",
+      "group": "Preteen Responsibility",
+      "kind": "Trait",
+      "summary": "Older criminals or dishonest adults trusted you with small deliveries, hidden messages, suspicious packages, payments, or instructions they preferred not to carry themselves.\n\nNarrative effects: You understand how apparently innocent errands can conceal criminal business and how believable explanations protect both messenger and employer.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Deception +6, Thieves' Lore +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Drill Yard Helper",
+      "group": "Preteen Responsibility",
+      "kind": "Trait",
+      "summary": "You fetched equipment, carried water, reset practice spaces, cleaned up after drills, and spent enough time around organized training to understand its routines.\n\nNarrative effects: Formal drill structures, schedules, and disciplined repetition feel familiar even though you were not yet a trained soldier.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Military Lore +6, Self-Discipline +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Duel Yard Water Carrier",
+      "group": "Preteen Responsibility",
+      "kind": "Trait",
+      "summary": "You carried water, towels, practice gear, or messages around a duel yard and spent enough time watching bouts to understand some of their rhythms and common injuries.\n\nNarrative effects: Repeated observation gave you modest familiarity with duel timing and the minor injuries produced by practice, not professional mastery.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Dueling +6, Medicine +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Caught a Thief",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You noticed someone stealing, concealing, taking, or moving something they were not supposed to and successfully exposed or confronted what was happening.\n\nNarrative effects: The incident taught you to notice suspicious handling and gave you some practical familiarity with how theft is carried out.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Seeing +6, Thieves' Lore +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Chose Not to Tell a Secret",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You learned something you could have exposed and deliberately chose not to, accepting that silence itself could have consequences.\n\nNarrative effects: You understand how concealing information affects both the person protected by silence and the person keeping it.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Deception +6, Empathy +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dreams Became Warnings",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You experienced several dreams that seemed to warn you about people, places, dangers, or decisions. Whether they were coincidence, intuition, cultural interpretation, or genuine magic remains unresolved unless established elsewhere.\n\nNarrative effects: You take recurring dreams seriously enough to examine them without this trait establishing prophecy, Dream Arcana, or a destined future.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Self-Discipline +6, Cultural Lore +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Camp Keeper",
+      "group": "Professional Focus",
+      "kind": "Trait",
+      "summary": "You are practiced at establishing and maintaining safe temporary camps for travelers, soldiers, workers, or expeditions. You understand site choice, drainage, fires, sanitation, food protection, watch arrangements, shelter, pack organization, and the practical hazards that turn a resting place into a liability.\n\nNarrative effects: Before calling a camp safe, you check water, weather, approach routes, fire placement, food storage, sanitation, watches, shelter, and how quickly everyone could move if forced out.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Natural Lore +15, Military Lore +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Carpenter",
+      "group": "Professional Focus",
+      "kind": "Trait",
+      "summary": "You are professionally experienced in cutting, joining, shaping, assembling, and repairing wood structures and objects such as doors, beams, furniture, carts, ladders, frames, barricades, chests, and field construction.\n\nNarrative effects: You inspect grain, joints, load, fasteners, warping, moisture, and the direction force will travel through a wooden structure before trusting or altering it.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Handcrafting +15, Engineering +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cartographer",
+      "group": "Professional Focus",
+      "kind": "Trait",
+      "summary": "You are professionally trained to draw, annotate, compare, repair, and interpret maps and charts. Your work includes scale, landmarks, borders, routes, terrain notation, survey information, corrections, and recording geographic knowledge so someone else can use it.\n\nNarrative effects: You convert terrain and travel into usable marks, note uncertainty instead of hiding it, and distrust maps whose precision exceeds the information their maker could realistically have possessed.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Cartography +15, Writing +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Ceremonialist",
+      "group": "Professional Focus",
+      "kind": "Trait",
+      "summary": "You are trained in the conduct of formal ceremonies such as audiences, oaths, marriages, funerals, investitures, petitions, religious observances, proclamations, and public recognitions. You understand order, precedence, wording, witness, gesture, and the difference between ceremony and actual legal or political authority.\n\nNarrative effects: When a formal act begins, you pay attention to sequence, witnesses, titles, required gestures, sacred or cultural expectations, and what the ceremony does or does not actually establish.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Etiquette +15, Religious Lore +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cook",
+      "group": "Professional Focus",
+      "kind": "Trait",
+      "summary": "You are professionally experienced at preparing meals, preserving ingredients, managing kitchens, judging flavor and spoilage, stretching supplies, feeding groups, and adapting food to circumstance, status, health, travel, or available ingredients.\n\nNarrative effects: You judge kitchens by cleanliness, stores, heat, timing, waste, seasoning, and whether the people preparing food understand who must actually be fed.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Brewing +15, Tasting +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dungeoneer",
+      "group": "Professional Focus",
+      "kind": "Trait",
+      "summary": "You are practiced at exploring ruins, caves, vaults, tombs, sewers, fortresses, tunnels, and other enclosed hazardous sites. You understand methodical searching, suspicious construction, common trap logic, airflow, access routes, and the practical discipline required to explore old places without rushing into every danger.\n\nNarrative effects: You distrust convenient emptiness, unexplained drafts, disturbed dust, oddly clean surfaces, repeated architectural patterns, and any passage that seems designed to make a careless person hurry.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Searching +15, Traps +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Caelari — Dawnmarked",
+      "group": "Race",
+      "kind": "Trait",
+      "summary": "Caelari (pronounced kay-LAR-ee) are mortal people whose ancestry carries an old celestial influence. They are not angels, chosen servants of a deity, automatically virtuous, or proof of divine favor. Dawnmarked Caelari express that inheritance through radiance, luminous or reflective eyes, bright markings, and an instinctive affinity for light.\n\nNarrative effects: Your celestial ancestry expresses through radiance and Light affinity. It can affect appearance and magical potential without determining faith, morality, destiny, or allegiance.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Seeing +8, Courage +8, Light Arcana +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Caelari — Gloryborn",
+      "group": "Race",
+      "kind": "Trait",
+      "summary": "Caelari (pronounced kay-LAR-ee) are mortal people whose ancestry carries an old celestial influence. They are not angels, chosen servants of a deity, automatically virtuous, or proof of divine favor. Gloryborn Caelari express a celestial inheritance associated with awe, presence, courage, and heroic magical resonance. They may appear unusually vivid or commanding even when dressed plainly.\n\nNarrative effects: Your celestial ancestry can lend supernatural weight to presence and Heroic affinity without making you noble, famous, righteous, charismatic in every situation, or destined for greatness.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Courage +8, Persuasion +8, Heroic Arcana +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Caelari — Mercyborn",
+      "group": "Race",
+      "kind": "Trait",
+      "summary": "Caelari (pronounced kay-LAR-ee) are mortal people whose ancestry carries an old celestial influence. They are not angels, chosen servants of a deity, automatically virtuous, or proof of divine favor. Mercyborn Caelari express a restorative celestial inheritance often visible as warm skin, gentle luminescence, unusually steady vital signs, or markings associated with renewal.\n\nNarrative effects: Your celestial inheritance is associated with restoration and Healing affinity. It does not make you compassionate, holy, medically trained, or able to heal beyond your actual Arcana skill and abilities.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Empathy +8, Tolerance +8, Healing Arcana +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Caelari — Star-Eyed",
+      "group": "Race",
+      "kind": "Trait",
+      "summary": "Caelari (pronounced kay-LAR-ee) are mortal people whose ancestry carries an old celestial influence. They are not angels, chosen servants of a deity, automatically virtuous, or proof of divine favor. Star-Eyed Caelari express an inheritance associated with distant light, signs, patterns, celestial observation, and unusual perception. Their eyes may resemble stars, pale fire, deep night, or shifting points of light.\n\nNarrative effects: Your celestial inheritance carries Divination affinity and unusually focused perception. It does not grant prophecy, secret knowledge, destiny, or access to information your actual abilities cannot reveal.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Seeing +8, Self-Discipline +8, Divination Arcana +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Caelari — Wardmarked",
+      "group": "Race",
+      "kind": "Trait",
+      "summary": "Caelari (pronounced kay-LAR-ee) are mortal people whose ancestry carries an old celestial influence. They are not angels, chosen servants of a deity, automatically virtuous, or proof of divine favor. Wardmarked Caelari express celestial ancestry associated with boundaries, guardianship, resistance, and protective force, sometimes visible through geometric birthmarks, pale-gold lines, or a calm pressure around active magic.\n\nNarrative effects: Your celestial inheritance carries a Protection affinity and a strong tendency toward controlled resistance. It does not impose an oath, duty, guardian role, or heroic personality.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Courage +8, Self-Discipline +8, Protection Arcana +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Catfolk Beastkin",
+      "group": "Race",
+      "kind": "Trait",
+      "summary": "Catfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus cat ears, a cat tail, expressive pupils, quiet steps, and light balanced movement. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Fine balance, quiet footwork, mobile ears, and a tail that assists body control favor stealth, agile movement, and hearing. Curiosity, aloofness, affection, and other personality traits remain entirely personal.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Acrobatics +8, Stealth +8, Hearing +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Deerfolk Beastkin",
+      "group": "Race",
+      "kind": "Trait",
+      "summary": "Deerfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus deer ears, soft eyes, possible antlers, light steps, and woodland poise. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Long-range hearing, wide visual awareness, light movement, and strong running ability favor early detection and rapid movement. Do not impose timidity, gentleness, woodland culture, or tracking training as racial behavior.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Running +8, Hearing +8, Seeing +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Demon-Touched Beastkin",
+      "group": "Race",
+      "kind": "Trait",
+      "summary": "Demon-Touched Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus visible beastkin traits overlaid by horns, ember eyes, spade tails, heated clawlike nails, ash markings, or sharper instincts. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Infernal alterations such as horns, ember eyes, heated nails, ash markings, or a spade tail make demonic influence visibly present and support strong Fire affinity. This does not make the character evil, cruel, aggressive, or loyal to demons.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Fire Arcana +8, Intimidation +8, Tolerance +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dhampir",
+      "group": "Race",
+      "kind": "Trait",
+      "summary": "Dhampirs are living mortals with partial vampiric ancestry or a stable vampire-touched bloodline. They may have cool skin, subtle fangs, unusual eyes, muted pulse, and pronounced nocturnal senses, but they are not Vampires and do not automatically possess the Beast, blood dependence, immortality, sunlight burning, invitation restrictions, missing reflections, or the Vampire subsystem.\n\nNarrative effects: You possess restrained vampiric sensory inheritance while remaining a living mortal. Becoming an actual Vampire is a separate supernatural transformation and subsystem that this trait neither activates nor requires.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Seeing +11, Hearing +5, Smelling +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dogfolk Beastkin",
+      "group": "Race",
+      "kind": "Trait",
+      "summary": "Dogfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus dog ears, a dog tail, keen hearing, scent awareness, and alert posture. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Keen scent and hearing make dogfolk especially good at noticing traces, changes, and nearby activity. Loyalty, obedience, friendliness, and emotional insight are personal traits rather than racial requirements.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Smelling +11, Hearing +5, Searching +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dragonfolk",
+      "group": "Race",
+      "kind": "Trait",
+      "summary": "Dragonfolk are full-sized draconic humanoids with scaled bodies, distinctly draconic faces, horns, claws, tails, and powerful humanoid builds. They are mortal people rather than lesser dragons and can use ordinary humanoid clothing, armor, weapons, and equipment with practical adjustments for their horns and tails. Wings, breath weapons, and supernatural elemental powers are not universal Dragonfolk traits.\n\nNarrative effects: Your scales, horns, tail, and powerful draconic frame are always physically present; you naturally account for horn clearance, tail balance, scale coverage, and the space your body occupies without gaining automatic breath weapons, wings, or elemental powers.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Tolerance +8, Might +8, Intimidation +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dragonkin",
+      "group": "Race",
+      "kind": "Trait",
+      "summary": "Dragonkin look fundamentally human but carry prominent draconic traits. They retain a fully humanlike face, skin, hands, feet, legs, and body plan while normally possessing horns, a scaled tail, and draconic wings, sometimes accompanied by slit pupils or small scale patches. They are not full humanoid dragons and should never be given reptilian heads, muzzles, full-body scales, digitigrade monster legs, or Dragonfolk anatomy.\n\nNarrative effects: Your horns, scaled tail, and wings are obvious draconic features on an otherwise human body; the wings aid balance, gliding, controlled descent, and plausible aerial movement, but unrestricted sustained flight requires an explicitly established ability or capability.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Acrobatics +8, Seeing +8, Intimidation +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dwarf",
+      "group": "Race",
+      "kind": "Trait",
+      "summary": "Dwarves are shorter and broader than humans, with dense builds, strong bones, powerful musculature, and long-lived mortal physiology. Dwarf ancestry does not automatically grant smithing, engineering, mining, weapon training, clan culture, or a mountain upbringing.\n\nNarrative effects: Your dense frame and strong bones favor raw effort, physical endurance, and close bodily leverage. Craft, military, and hold traditions must come from culture and lived experience rather than Race alone.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Tolerance +8, Might +8, Brawling +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Commanding Voice",
+      "group": "Social Focus",
+      "kind": "Trait",
+      "summary": "You are skilled at giving clear, immediate direction when hesitation and confusion are dangerous. Your command style emphasizes authority, decisiveness, and concise orders without assuming formal rank or guaranteeing obedience from people who have no reason to follow you.\n\nNarrative effects: When action is needed now, your instructions become shorter, clearer, and harder to misunderstand.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Leadership +15, Intimidation +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Confident Flirt",
+      "group": "Social Focus",
+      "kind": "Trait",
+      "summary": "You are skilled at expressing attraction openly, playfully, and appealingly through confidence, compliments, conversation, and deliberate romantic attention. Flirting can create opportunity when interest is mutual, but it cannot create attraction or override boundaries.\n\nNarrative effects: You are comfortable making interest visible without treating a positive response as something you are owed.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Courtship +15, Persuasion +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Conflict Mediator",
+      "group": "Social Focus",
+      "kind": "Trait",
+      "summary": "You are practiced at understanding competing grievances, needs, fears, and priorities well enough to help people find a tolerable way forward. Mediation does not guarantee peace; it gives you better tools for identifying where compromise is emotionally and practically possible.\n\nNarrative effects: When people talk past each other, you try to identify the need or injury beneath each position.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Empathy +15, Bargaining +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Convincing Liar",
+      "group": "Social Focus",
+      "kind": "Trait",
+      "summary": "You are skilled at making false statements, cover stories, omissions, and misleading explanations sound plausible. Your lies work through confidence, consistency, and persuasive delivery rather than any guarantee that others will believe you.\n\nNarrative effects: You shape falsehoods so they sound like the explanation someone might reasonably accept.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Deception +15, Persuasion +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Court Political Reader",
+      "group": "Social Focus",
+      "kind": "Trait",
+      "summary": "You are skilled at reading formal political environments through alliances, rivalries, patronage, succession interests, marriage pressure, reputation, and visible house relationships. Heraldry helps identify the players; Social Inquiry helps you understand what their behavior around one another may mean.\n\nNarrative effects: At formal gatherings, you begin mapping who approaches whom, who avoids whom, and which house signs change the meaning of an exchange.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Social Inquiry +15, Heraldry +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Courtly Manners",
+      "group": "Social Focus",
+      "kind": "Trait",
+      "summary": "You know how to behave when rank, titles, precedence, dress, ceremony, and formal expectations matter. You can move through courtly spaces without needless offense and recognize many of the visible signs that indicate noble identity or standing.\n\nNarrative effects: You notice titles, seating, introductions, heraldic signs, and insults hidden inside correct politeness.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Etiquette +15, Heraldry +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Credibility Artist",
+      "group": "Social Focus",
+      "kind": "Trait",
+      "summary": "You understand how trust, hope, insecurity, desire, and expectation can make a false story feel emotionally right. You can construct convincing social performances around what another person wants to believe without making criminality or exploitation part of the character by default.\n\nNarrative effects: You listen for the belief someone is already hoping to confirm before deciding what story would fit it.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Deception +15, Empathy +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Crisis Organizer",
+      "group": "Social Focus",
+      "kind": "Trait",
+      "summary": "You are practiced at bringing structure to confusion during emergencies, accidents, evacuations, sudden danger, or collective panic. You keep your own priorities ordered while assigning tasks, establishing immediate needs, and helping a group act coherently.\n\nNarrative effects: When everyone starts reacting at once, you begin sorting the problem into the next necessary actions.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Leadership +15, Self-Discipline +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cross-Cultural Courtesy",
+      "group": "Social Focus",
+      "kind": "Trait",
+      "summary": "You have deliberately studied how respectful conduct changes across cultures, communities, faiths, courts, and institutions. You are less likely to mistake unfamiliar manners for insult or assume that your own etiquette is universal.\n\nNarrative effects: When customs differ from your own, you look for the local rule before judging the behavior.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Etiquette +15, Cultural Lore +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Crowd Charmer",
+      "group": "Social Focus",
+      "kind": "Trait",
+      "summary": "You are skilled at reading and holding the mood of an audience. You adjust timing, energy, humor, warmth, and presentation in response to collective reactions, making you especially effective when the challenge is not merely performing but keeping a room engaged.\n\nNarrative effects: You feel when a crowd is drifting, warming, tightening, or waiting for permission to react.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Performance +15, Empathy +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Deal Broker",
+      "group": "Social Focus",
+      "kind": "Trait",
+      "summary": "You are skilled at finding deals between people who may not initially realize they have compatible interests. You notice hidden needs, intermediaries, favors, obligations, and points of exchange, then use that social information to build workable arrangements.\n\nNarrative effects: You look for who needs what, who can provide it, and what connection could make both sides move.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Bargaining +15, Social Inquiry +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Diplomat",
+      "group": "Social Focus",
+      "kind": "Trait",
+      "summary": "You are practiced at formal influence between houses, courts, temples, guilds, factions, communities, and political groups. You understand how to present compromise, apology, disagreement, and common interest without creating unnecessary loss of face.\n\nNarrative effects: You search for language that allows competing sides to move without forcing either to publicly surrender more than necessary.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Persuasion +15, Etiquette +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Disguise Artist",
+      "group": "Social Focus",
+      "kind": "Trait",
+      "summary": "You are skilled at changing how others identify you through clothing, grooming, posture, voice, accessories, cosmetics, and controlled presentation. A disguise helps you appear to be someone different, but it does not automatically defeat close scrutiny or supernatural recognition.\n\nNarrative effects: You study silhouettes, habits, clothing, and small visible details that make an identity feel coherent.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Disguise +15, Deception +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cold Weather Clothing Set",
+      "group": "Starting Outfit",
+      "kind": "Trait",
+      "summary": "Layered clothing suited for snow, wind, mountain cold, frozen roads, and long exposure. Warmth matters more here than elegance.",
+      "facts": [
+        {
+          "label": "Starting items",
+          "value": "1, 1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Commoner's Outfit Set",
+      "group": "Starting Outfit",
+      "kind": "Trait",
+      "summary": "Plain, serviceable clothing worn by ordinary townsfolk, villagers, laborers, and travelers of modest means. It draws little attention in common spaces.",
+      "facts": [
+        {
+          "label": "Starting items",
+          "value": "1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Courtier's Attire Set",
+      "group": "Starting Outfit",
+      "kind": "Trait",
+      "summary": "Polished clothing designed for audiences, court halls, formal introductions, negotiations, and rooms where every button and sleeve can be judged.",
+      "facts": [
+        {
+          "label": "Starting items",
+          "value": "1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Desert Travel Clothing Set",
+      "group": "Starting Outfit",
+      "kind": "Trait",
+      "summary": "Loose, protective clothing suited for heat, sun, sand, dry wind, and long travel through harsh open terrain.",
+      "facts": [
+        {
+          "label": "Starting items",
+          "value": "1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Disguise Clothes Set",
+      "group": "Starting Outfit",
+      "kind": "Trait",
+      "summary": "A flexible set of plain garments, wraps, and small accessories useful for changing social presentation. It does not make a disguise by itself, but it gives one room to begin.",
+      "facts": [
+        {
+          "label": "Starting items",
+          "value": "1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dockworker Clothes Set",
+      "group": "Starting Outfit",
+      "kind": "Trait",
+      "summary": "Sturdy working clothes for hauling cargo, loading ships, handling ropes, and surviving busy docks where coin, sweat, and trouble all move quickly.",
+      "facts": [
+        {
+          "label": "Starting items",
+          "value": "1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Chain Armor Set",
+      "group": "Starting Protection",
+      "kind": "Trait",
+      "summary": "A full chain armor set of interlinked metal rings, offering reliable protection against cuts and glancing blows. Common among soldiers, guards, mercenaries, and traveling warriors.",
+      "facts": [
+        {
+          "label": "Starting items",
+          "value": "1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Chain Shirt Set",
+      "group": "Starting Protection",
+      "kind": "Trait",
+      "summary": "A lighter mail shirt worn beneath or over clothing, useful for guards, travelers, duelists, and anyone expecting danger without wanting to look fully armored.",
+      "facts": [
+        {
+          "label": "Starting items",
+          "value": "1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cavalry Lance",
+      "group": "Starting Weapons",
+      "kind": "Trait",
+      "summary": "Starting weapon for Lances. A standard battlefield lance built for a couched.",
+      "facts": [
+        {
+          "label": "Starting items",
+          "value": "1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cestus",
+      "group": "Starting Weapons",
+      "kind": "Trait",
+      "summary": "Starting weapon for Brawling. A reinforced fighting glove with metal bands acro.",
+      "facts": [
+        {
+          "label": "Starting items",
+          "value": "1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Chakram",
+      "group": "Starting Weapons",
+      "kind": "Trait",
+      "summary": "Starting weapon for Thrown Weapons. A flat, razor-edged metal ring balanced for throw.",
+      "facts": [
+        {
+          "label": "Starting items",
+          "value": "1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Claw Gauntlets",
+      "group": "Starting Weapons",
+      "kind": "Trait",
+      "summary": "Reinforced gauntlets with short clawed edges for raking strikes during grapples and close body control.",
+      "facts": [
+        {
+          "label": "Starting items",
+          "value": "1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Claymore",
+      "group": "Starting Weapons",
+      "kind": "Trait",
+      "summary": "A large two-handed sword with reach and presence, comparable in force to other great blades rather than superior to them.",
+      "facts": [
+        {
+          "label": "Starting items",
+          "value": "1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Compound Bow",
+      "group": "Starting Weapons",
+      "kind": "Trait",
+      "summary": "An engineered bow using compact mechanical advantage to hold tension efficiently without outclassing a trained longbow.",
+      "facts": [
+        {
+          "label": "Starting items",
+          "value": "1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Court Sabre",
+      "group": "Starting Weapons",
+      "kind": "Trait",
+      "summary": "Starting weapon for Dueling. A curved dueling blade favored in noble salons an.",
+      "facts": [
+        {
+          "label": "Starting items",
+          "value": "1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Crossbow",
+      "group": "Starting Weapons",
+      "kind": "Trait",
+      "summary": "A mechanical ranged weapon that stores force for a prepared shot. Favored by guards, hunters, militias, ambushers, and anyone who values aim and timing over draw strength.",
+      "facts": [
+        {
+          "label": "Starting items",
+          "value": "1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cudgel",
+      "group": "Starting Weapons",
+      "kind": "Trait",
+      "summary": "A short hardwood club suited for tavern violence, guard duty, and desperate close defense.",
+      "facts": [
+        {
+          "label": "Starting items",
+          "value": "1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dart Set",
+      "group": "Starting Weapons",
+      "kind": "Trait",
+      "summary": "A set of small balanced darts used for distraction, poison delivery, target practice, and quick close-range throws.",
+      "facts": [
+        {
+          "label": "Starting items",
+          "value": "1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dirk",
+      "group": "Starting Weapons",
+      "kind": "Trait",
+      "summary": "A long fighting dagger useful for close defense, camp work, and finishing thrusts in cramped spaces.",
+      "facts": [
+        {
+          "label": "Starting items",
+          "value": "1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Caught Breaking Doctrine",
+      "group": "Teenage Complication",
+      "kind": "Trait",
+      "summary": "You were caught violating a religious rule, doctrinal expectation, sacred restriction, or institutional religious practice.\n\nNarrative effects: The incident taught you both what the doctrine actually demanded and how people attempt to hide violations of it.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Deception +6, Religious Lore +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Caught Carrying Something Illegal",
+      "group": "Teenage Complication",
+      "kind": "Trait",
+      "summary": "You were caught carrying contraband, stolen property, prohibited writing, restricted goods, illegal weapons, smuggled items, or something else you were not permitted to possess.\n\nNarrative effects: The incident taught you how illicit goods are concealed and how quickly explanations matter when possession itself looks incriminating.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Deception +6, Thieves' Lore +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Chose Work Over Ambition",
+      "group": "Teenage Complication",
+      "kind": "Trait",
+      "summary": "You gave up, delayed, or reduced an ambition because immediate work, income, family needs, obligations, or practical survival mattered more.\n\nNarrative effects: You learned to put practical obligations ahead of personal plans and became conscious of the economic value of your time.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Self-Discipline +6, Bargaining +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Could Not Afford Training",
+      "group": "Teenage Complication",
+      "kind": "Trait",
+      "summary": "Training, tuition, equipment, travel, guild fees, tutoring, or another opportunity existed but cost more than you or your household could reasonably provide.\n\nNarrative effects: Being priced out of an opportunity made you acutely aware of cost, value, and what might be negotiated.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Bargaining +6, Appraisal +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Could Not Kill",
+      "group": "Teenage Complication",
+      "kind": "Trait",
+      "summary": "You reached a moment when killing another being seemed possible or expected and discovered that you could not bring yourself to do it.\n\nNarrative effects: The experience forced you to confront the emotional and moral reality of lethal violence without defining how you feel about every future situation.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Empathy +6, Courage +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Court Scandal Witness",
+      "group": "Teenage Complication",
+      "kind": "Trait",
+      "summary": "You witnessed part of a scandal involving courtly, noble, political, or high-status society and saw how quickly private conduct could become public consequence.\n\nNarrative effects: You learned to listen carefully in formal environments and understand how breaches of expected conduct acquire political or social weight.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Hearing +6, Etiquette +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Criminal Debt Carrier",
+      "group": "Teenage Complication",
+      "kind": "Trait",
+      "summary": "You owed money, goods, favors, or another obligation to criminals or people willing to use criminal methods to collect.\n\nNarrative effects: Debt taught you to negotiate under pressure and recognize some of the informal rules used by criminal creditors.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Bargaining +6, Thieves' Lore +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cursed Object Touched",
+      "group": "Teenage Complication",
+      "kind": "Trait",
+      "summary": "You handled an object believed or proven to carry a curse, dangerous enchantment, forbidden influence, or other supernatural risk.\n\nNarrative effects: The incident made you take dangerous objects and forbidden magical traditions seriously. It does not establish that a curse still affects you.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Forbidden Lore +6, Relic Lore +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Disowned by Family",
+      "group": "Teenage Complication",
+      "kind": "Trait",
+      "summary": "Your family or household formally or practically cast you out, withdrew support, denied your place among them, or made it clear that you could no longer rely on them.\n\nNarrative effects: Being cut loose taught you to face uncertainty and think about where you could go without relying on your former household.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Courage +6, Navigation +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dragon Seen at Dusk",
+      "group": "Teenage Complication",
+      "kind": "Trait",
+      "summary": "You saw a dragon clearly enough during your teenage years that the sight became impossible to dismiss as a distant legend or childhood story.\n\nNarrative effects: The encounter drove greater interest in dragons and taught you to pay attention to the details by which they are identified.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Dragon Lore +6, Seeing +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Caravan Hand",
+      "group": "Teenage Path",
+      "kind": "Trait",
+      "summary": "You worked with traveling wagons or caravans, helping drive, load, unload, repair, organize camp, manage departures, and keep goods moving along the road.\n\nNarrative effects: Road vehicles and practical route-finding became major parts of your teenage working life.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Cart Driving +8, Navigation +4"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Clerk's Apprentice",
+      "group": "Teenage Path",
+      "kind": "Trait",
+      "summary": "You trained in ordinary clerical work: correspondence, forms, receipts, copies, notices, records, filing, and producing readable documents that others could rely on.\n\nNarrative effects: Practical written administration became a major skill supported by clean, precise handwriting.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Writing +8, Fine Script +4"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cook's Apprentice",
+      "group": "Teenage Path",
+      "kind": "Trait",
+      "summary": "You trained seriously in a kitchen, learning preparation, timing, seasoning, heat, storage, quantities, workflow, and how to make food consistently for other people.\n\nNarrative effects: Cooking became a trained professional foundation rather than an ordinary household familiarity.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Brewing +8, Tasting +4"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Counting-House Apprentice",
+      "group": "Teenage Path",
+      "kind": "Trait",
+      "summary": "You trained around ledgers, contracts, invoices, stored records, stock, values, correspondence, and the paperwork that kept a business or estate functioning.\n\nNarrative effects: Commercial records and the physical value they represent became closely connected in your practical experience.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Archival Research +8, Appraisal +4"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Court Attendant",
+      "group": "Teenage Path",
+      "kind": "Trait",
+      "summary": "Your teenage years were spent serving or attending within a court, noble household, palace, or other high-status environment where correct behavior and recognition of rank mattered constantly.\n\nNarrative effects: Courtly conduct and the symbols of important houses became deeply familiar through sustained exposure.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Etiquette +8, Heraldry +4"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dockside Laborer",
+      "group": "Teenage Path",
+      "kind": "Trait",
+      "summary": "You worked on docks, wharves, loading areas, warehouses, or waterfront yards carrying cargo, responding to shouted instructions, and moving around heavy equipment and constant traffic.\n\nNarrative effects: Heavy physical work became familiar, and you learned to pick useful commands and warnings out of loud working environments.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Might +8, Hearing +4"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Duel Yard Regular",
+      "group": "Teenage Path",
+      "kind": "Trait",
+      "summary": "Formal sparring, practice bouts, footwork drills, training blades, and repeated contests occupied much of your adolescence. You were not merely watching anymore.\n\nNarrative effects: You possess a serious teenage foundation in formal one-handed combat with additional familiarity using lighter blades.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Dueling +8, Light Blades +4"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Carried Through Evacuation",
+      "group": "Toddler Circumstance",
+      "kind": "Trait",
+      "summary": "You were carried away from danger during an evacuation while too young to understand the larger crisis. Adults packed quickly, followed routes, counted people, and made decisions about what could and could not be brought.\n\nNarrative effects: Sudden departures and emergency movement feel serious but comprehensible; you instinctively pay attention to routes, exits, and who has been left behind.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Navigation +6, Courage +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dragon Dreamt of You",
+      "group": "Toddler Circumstance",
+      "kind": "Trait",
+      "summary": "Someone dreamed of a dragon near your birth or toddler years, or you were said to have dreamed of one before you could explain it. This is an omen, rumor, or mystery, not proof of dragon power.\n\nNarrative effects: You treat dragon stories as if they might be warnings meant for someone specific.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Dragon Lore +6, Courage +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Chased Sunbeams",
+      "group": "Toddler Temperament",
+      "kind": "Trait",
+      "summary": "You chased patches of light, reflections, lantern glow, window beams, and shining dust. Light was interesting because it moved, changed, vanished, and invited pursuit.\n\nNarrative effects: Small movements of light and reflection catch your eye readily. This temperament does not imply magical affinity with light or Heroic Arcana.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Seeing +6, Acrobatics +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cheerful Stranger-Greeter",
+      "group": "Toddler Temperament",
+      "kind": "Trait",
+      "summary": "You smiled, waved, babbled, or toddled toward unfamiliar people with very little hesitation. New faces usually seemed interesting before they seemed threatening.\n\nNarrative effects: Starting conversations with unfamiliar people feels natural, and you quickly become curious about who they are.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Persuasion +6, Social Inquiry +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Climbed Everything",
+      "group": "Toddler Temperament",
+      "kind": "Trait",
+      "summary": "Furniture, trees, shelves, fences, wagons, stairs, walls, and unfortunate adults all looked climbable to you.\n\nNarrative effects: You naturally evaluate objects and structures for handholds, footholds, and unconventional ways upward.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Climbing +6, Acrobatics +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Clung to One Person",
+      "group": "Toddler Temperament",
+      "kind": "Trait",
+      "summary": "You strongly preferred one caregiver, sibling, relative, or familiar person and resisted being separated from them whenever possible.\n\nNarrative effects: Deep trust means a great deal to you, and separation from people you rely upon can affect you more strongly than casual acquaintances expect.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Empathy +6, Courage +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Collected Feathers",
+      "group": "Toddler Temperament",
+      "kind": "Trait",
+      "summary": "Feathers, nests, leaves, shells, bits of fur, and other little things found outdoors became treasures worth stopping to inspect and keep.\n\nNarrative effects: Small natural traces readily attract your attention.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Searching +6, Natural Lore +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Collected Stones",
+      "group": "Toddler Temperament",
+      "kind": "Trait",
+      "summary": "Pebbles, smooth stones, bits of ore, broken tile, crystals, gravel, and anything small and satisfyingly solid ended up in your hands, pockets, bedding, or little collections.\n\nNarrative effects: You still notice weight, texture, shape, and unusual material qualities in small objects. This does not imply Earth Arcana.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Touching +6, Appraisal +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Comforted Crying Children",
+      "group": "Toddler Temperament",
+      "kind": "Trait",
+      "summary": "Even while very young yourself, another child's tears drew you closer rather than sending you away. You offered toys, food, awkward hugs, or simple company.\n\nNarrative effects: Your instinct when someone is visibly distressed is usually to understand what they need and try to help.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Empathy +6, Persuasion +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Copied Adult Manners",
+      "group": "Toddler Temperament",
+      "kind": "Trait",
+      "summary": "You mimicked bows, greetings, scolding voices, prayers, commands, table habits, or formal gestures before you fully understood them. Adults learned that you watched them very closely.\n\nNarrative effects: When uncertain about social behavior, you are good at observing the people who seem to know what they are doing and adapting.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Etiquette +6, Performance +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Copied Every Sound",
+      "group": "Toddler Temperament",
+      "kind": "Trait",
+      "summary": "Animal calls, accents, bells, knocks, tools, songs, whistles, laughter, and strange noises became things you immediately attempted to reproduce.\n\nNarrative effects: You remember distinctive sounds well and have an instinct for reproducing their rhythm or tone.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Hearing +6, Performance +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cried at Cruelty",
+      "group": "Toddler Temperament",
+      "kind": "Trait",
+      "summary": "Cruelty upset you almost immediately as a toddler. Rough treatment of other children, animals, servants, or anyone visibly frightened could bring tears even when you did not understand the larger situation.\n\nNarrative effects: You recognize distress quickly and find it difficult to remain completely passive when someone vulnerable is being mistreated.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Empathy +6, Courage +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cry That Carried",
+      "group": "Toddler Temperament",
+      "kind": "Trait",
+      "summary": "Your cries were impossible to ignore: loud, clear, stubborn, and capable of filling whatever room or street you occupied. Long before polished speech, you knew how to make yourself heard.\n\nNarrative effects: When you genuinely need attention, your voice carries authority and force even without formal command.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Performance +6, Intimidation +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Curious About Every Door",
+      "group": "Toddler Temperament",
+      "kind": "Trait",
+      "summary": "Closed doors, cupboards, boxes, drawers, curtains, gates, and anything concealing what lay beyond immediately interested you.\n\nNarrative effects: Closed containers and unexplored spaces naturally make you wonder what has been placed out of sight.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Searching +6, Legerdemain +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Danced Before Walking",
+      "group": "Toddler Temperament",
+      "kind": "Trait",
+      "summary": "You swayed, bounced, clapped, stepped, and moved to rhythm before you could walk properly. Movement and rhythm seemed connected in you from the beginning.\n\nNarrative effects: Your body tends to find rhythm and balance quickly.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Acrobatics +6, Performance +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Concentration Drills",
+      "group": "Training",
+      "kind": "Trait",
+      "summary": "You trained sustained attention despite discomfort, noise, interruption, fatigue, or competing information, making deliberate focus a practiced skill. Grants +2 Willpower and +1 Intelligence.\n\nNarrative effects: You deliberately narrow attention when a task demands it and can return to the relevant detail after interruption instead of starting mentally from nothing.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Self-Discipline +8, Searching +5, Seeing +3, Willpower +2, Intelligence +1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Coordination Drills",
+      "group": "Training",
+      "kind": "Trait",
+      "summary": "You practiced precise hand-eye and hand-body coordination through fine manipulation, catches, controlled movement, and repeated tasks where small mistakes mattered. Grants +2 Dexterity and +1 Accuracy.\n\nNarrative effects: Your hands make small corrections almost automatically, and you are comfortable synchronizing sight, touch, timing, and movement.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Touching +8, Legerdemain +5, Acrobatics +3, Dexterity +2, Accuracy +1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Crossbow Drills",
+      "group": "Training",
+      "kind": "Trait",
+      "summary": "You trained deliberate crossbow use, emphasizing stable aim, target identification, mechanical familiarity, and patient shot selection. Grants +2 Accuracy and +1 Intelligence.\n\nNarrative effects: You inspect lines of fire, mechanisms, cover, and target movement before taking a shot rather than relying on speed alone.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Crossbows +8, Seeing +5, Searching +3, Accuracy +2, Intelligence +1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Defensive Drills",
+      "group": "Training",
+      "kind": "Trait",
+      "summary": "You trained guards, blocks, controlled retreats, redirection, and maintaining composure while under pressure. The emphasis was surviving exchanges without losing structure. Grants +2 Fighting and +1 Willpower.\n\nNarrative effects: When threatened, you instinctively establish distance and structure before committing to an attack of your own.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Shields +8, Staff Fighting +5, Self-Discipline +3, Fighting +2, Willpower +1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Canal Settlement",
+      "group": "Upbringing",
+      "kind": "Trait",
+      "summary": "You were raised around canals, locks, barges, towpaths, warehouses, gates, bridges, managed water levels, and communities built around artificial waterways.\n\nNarrative effects: You understand controlling vessels in confined waterways and the constructed systems used to manage water and passage.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Vessel Piloting +8, Engineering +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Clerk's Household",
+      "group": "Upbringing",
+      "kind": "Trait",
+      "summary": "Records, letters, petitions, copies, schedules, receipts, official notices, or other paperwork were common features of the household that raised you.\n\nNarrative effects: You are familiar with composing ordinary written material and producing clear, precise non-magical script.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Writing +8, Fine Script +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Collegiate Quarter",
+      "group": "Upbringing",
+      "kind": "Trait",
+      "summary": "You grew up around colleges, schools, lecture halls, boarding houses, tutors, students, booksellers, libraries, examinations, and academic conversation without necessarily being formally enrolled yourself.\n\nNarrative effects: You are comfortable around written academic work and locating information without this trait establishing that you attended Aldercrest or another specific institution.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Writing +8, Archival Research +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Comfortable Town Household",
+      "group": "Upbringing",
+      "kind": "Trait",
+      "summary": "You were raised in a reasonably secure town household without exceptional wealth, rank, poverty, or crisis defining daily life. Neighbors, schooling, work, shops, local celebrations, correspondence, and ordinary civic routines formed the background of childhood.\n\nNarrative effects: You received enough ordinary social and written experience to communicate clearly without your upbringing needing to be dramatic or exceptional.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Writing +8, Persuasion +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Commoner Among Nobles",
+      "group": "Upbringing",
+      "kind": "Trait",
+      "summary": "You were common-born or common-raised but spent formative years among nobles, wards, tutors, servants, or court children. You learned the rules of privileged society without ever being allowed to forget that those rules did not automatically place you inside it.\n\nNarrative effects: You understand formal behavior while remaining alert to the conversations, assumptions, rumors, and social distinctions surrounding rank.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Etiquette +8, Social Inquiry +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Criminal Den",
+      "group": "Upbringing",
+      "kind": "Trait",
+      "summary": "You were raised in an environment where theft, smuggling, fencing, fraud, gangs, illegal trade, or other criminal activity was part of daily life. Law enforcement, secrecy, debts, favors, and informal rules mattered as much as official ones.\n\nNarrative effects: You recognize criminal customs and understand how convincing false stories are maintained without this trait requiring you to remain a criminal.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Thieves' Lore +8, Deception +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Crowded Tenement",
+      "group": "Upbringing",
+      "kind": "Trait",
+      "summary": "You grew up in dense shared housing where rooms were small, walls were thin, corridors and courtyards were communal, privacy was limited, and neighbors' moods and arguments easily became everyone else's business.\n\nNarrative effects: You are accustomed to extracting useful information from sound and noticing the emotional state of people sharing close living space.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Hearing +8, Empathy +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dockside Quarter",
+      "group": "Upbringing",
+      "kind": "Trait",
+      "summary": "You were raised in a port district where warehouses, cargo, cranes, sailors, laborers, taverns, carts, ships, bells, shouted warnings, strange goods, and transient populations kept the streets busy.\n\nNarrative effects: Busy dockside life taught you to rely on both sight and sound when tracking movement, warnings, work, and changes in crowded surroundings.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Seeing +8, Hearing +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dwarven Stronghold",
+      "group": "Upbringing",
+      "kind": "Trait",
+      "summary": "You grew up in a dwarven-majority stronghold or settlement with its own architecture, old institutions, public works, histories, neighborhoods, trades, and community customs. You need not be a dwarf yourself.\n\nNarrative effects: You are familiar with durable constructed environments and the historical continuity of an established stronghold without automatically being a smith or miner.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Engineering +8, Historical Lore +8"
+        }
+      ],
+      "spoiler": false
+    }
+  ]
+}
