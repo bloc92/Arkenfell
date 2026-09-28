@@ -1,7 +1,7 @@
 ---
 id: solmire-concord
 title: The Solmire Concord
-category: Realms
+category: Countries
 knowledge: common
 status: canon
 ---
