@@ -157,6 +157,7 @@ html[data-access="gm"] .sidebar { top: 117px; height: calc(100vh - 117px); }
   align-items: center;
   gap: 4px;
 }
+.nav-group-header--single { grid-template-columns: minmax(0, 1fr); }
 .nav-group-link {
   min-width: 0;
   padding: 9px;
