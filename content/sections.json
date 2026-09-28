@@ -83,15 +83,15 @@
       ]
     },
     {
-      "id": "items",
-      "title": "Items",
-      "landing": "item-directory",
-      "articles": []
-    },
-    {
       "id": "creatures",
       "title": "Creatures",
       "landing": "creature-directory",
+      "articles": []
+    },
+    {
+      "id": "items",
+      "title": "Items",
+      "landing": "item-directory",
       "articles": []
     },
     {
