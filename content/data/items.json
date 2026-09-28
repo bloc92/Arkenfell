@@ -1,0 +1,2355 @@
+{
+  "realm": "Arkenfell",
+  "entries": [
+    {
+      "name": "Adventurers Guild Emblem",
+      "group": "Accessory",
+      "kind": "Trinket",
+      "summary": "A polished guild emblem worn to identify the bearer as connected to an adventuring company or guild.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Arena Mark",
+      "group": "Accessory",
+      "kind": "Trinket",
+      "summary": "A marked token identifying the bearer as registered with an arena, fighting circuit, or controlled combat venue.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Argent Heart",
+      "group": "Accessory",
+      "kind": "Trinket",
+      "summary": "A dense, many-faceted core of rune-bound metal made to sit within the Founder's Hilt and regulate magical force through the restored blade. When carried close to the body, its measured pulse steadies circulating mana and gives subtle tactile warning of strain, turbulence, or disruption in nearby magical workings. It is a component of the weapon rather than a power source for Silvermaw Forge, grants no Arcana, and cannot function as a weapon by itself.",
+      "bonuses": [
+        {
+          "type": "resource",
+          "variable": "mana",
+          "value": 5
+        },
+        {
+          "type": "skill",
+          "variable": "Arcane Lore",
+          "value": 5
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Bloodoak Clan Signet Ring",
+      "group": "Accessory",
+      "kind": "Ring",
+      "summary": "A heavy signet ring bearing the carved symbol of the Bloodoak clan.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Census Clerk Seal",
+      "group": "Accessory",
+      "kind": "Trinket",
+      "summary": "A minor registry seal used by a census clerk for routine records and official verification.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Founder's Sheath",
+      "group": "Accessory",
+      "kind": "Trinket",
+      "summary": "An ancient black leather scabbard reinforced with engraved Argentsteel fittings and shaped for the Founder’s weapon. Its wolf-and-rune marks identify it as principal regalia of House Fenrisard-Argenwald and the Runed Argent Fang. When openly worn, it lends ceremonial weight to legitimate command and formal conduct, but possession alone does not grant title, office, obedience, or recognition.",
+      "bonuses": [
+        {
+          "type": "skill",
+          "variable": "Leadership",
+          "value": 10
+        },
+        {
+          "type": "skill",
+          "variable": "Etiquette",
+          "value": 5
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hollowstar Clearance Band",
+      "group": "Accessory",
+      "kind": "Trinket",
+      "summary": "A marked clearance band used at Hollowstar to show an approved level of access.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Inquisitory Aide Badge",
+      "group": "Accessory",
+      "kind": "Trinket",
+      "summary": "A badge identifying an aide, clerk, runner, or assistant attached to an inquisitorial office.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Labor Tag",
+      "group": "Accessory",
+      "kind": "Trinket",
+      "summary": "A stamped labor tag used to identify the bearer within an organized work crew or controlled labor system.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Luporian Service Medallion",
+      "group": "Accessory",
+      "kind": "Trinket",
+      "summary": "A small silver-gray medallion issued to formal household servants of House Luporian and intended to be worn while in service. Its face is smooth and blank before its enchantment first manifests, after which one of several traditional Luporian symbols appears and the medallion develops a corresponding magical property. Neither the wearer nor the household chooses which manifestation appears.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Merchant House Signet",
+      "group": "Accessory",
+      "kind": "Ring",
+      "summary": "A signet linking the bearer to a merchant house and suitable for visible identification or sealing routine correspondence.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Oathsun Ward Token",
+      "group": "Accessory",
+      "kind": "Trinket",
+      "summary": "A token identifying the bearer as a ward, foundling, or recognized dependent of the Oathsun institution.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Paladin's Silver Seal",
+      "group": "Accessory",
+      "kind": "Necklace",
+      "summary": "A polished silver medallion bearing sacred and martial insignia associated with a paladin order.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Seal of the Argent Fang",
+      "group": "Accessory",
+      "kind": "Ring",
+      "summary": "A heavy silver-gray signet ring bearing the rune-bound fang used to authenticate the lawful orders of the Runed Argent Fang’s commander. It is one part of the order’s command regalia and is used to seal formal instructions, appointments, and fortress instruments. Possession alone does not make the wearer First Fang and cannot replace the order’s recognition process.",
+      "bonuses": [
+        {
+          "type": "skill",
+          "variable": "Leadership",
+          "value": 5
+        },
+        {
+          "type": "skill",
+          "variable": "Heraldry",
+          "value": 5
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Tribunal Advocate Seal",
+      "group": "Accessory",
+      "kind": "Trinket",
+      "summary": "A formal seal identifying an advocate, senior scribe, or authorized representative of a tribunal.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Wand",
+      "group": "Accessory",
+      "kind": "Trinket",
+      "summary": "A slender magical focus suited for quick gestures, precise channeling, and compact spellwork. A wand is light, portable, easy to conceal, and favored by casters who want their focus close at hand. It offers less stability than a staff, but more convenience.",
+      "bonuses": [
+        {
+          "type": "resource",
+          "variable": "mana",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Warden's Chain",
+      "group": "Accessory",
+      "kind": "Necklace",
+      "summary": "A linked ceremonial chain of dark steel and Argentsteel medallions, each engraved with a fortress, patrol charge, or defensive obligation once entrusted to the Runed Argent Fang. It represents responsibility for the order’s people, roads, wards, and strongholds rather than simple rank. The chain is worn during formal command rites but grants no authority to an unrecognized bearer.",
+      "bonuses": [
+        {
+          "type": "skill",
+          "variable": "Leadership",
+          "value": 5
+        },
+        {
+          "type": "skill",
+          "variable": "Military Lore",
+          "value": 5
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Worker's Badge",
+      "group": "Accessory",
+      "kind": "Trinket",
+      "summary": "A simple stamped badge identifying the bearer with a recognized workshop, guild, factory, or work crew.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Breastplate",
+      "group": "Armor",
+      "kind": "Armor",
+      "summary": "A shaped metal breastplate with supporting padding and straps, protecting the torso while preserving more mobility than full plate.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "armor",
+          "value": 45
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Chain Armor",
+      "group": "Armor",
+      "kind": "Armor",
+      "summary": "A complete suit of mail over padded clothing, offering reliable battlefield protection at the cost of noise and weight.",
+      "bonuses": [
+        {
+          "type": "skill",
+          "variable": "Stealth",
+          "value": -1
+        },
+        {
+          "type": "stat",
+          "variable": "armor",
+          "value": 45
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Chain Shirt",
+      "group": "Armor",
+      "kind": "Armor",
+      "summary": "A lighter mail shirt with limited supporting protection, useful for travelers and guards who expect danger without wearing a full suit.",
+      "bonuses": [
+        {
+          "type": "skill",
+          "variable": "Stealth",
+          "value": -1
+        },
+        {
+          "type": "stat",
+          "variable": "armor",
+          "value": 30
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Gambeson",
+      "group": "Armor",
+      "kind": "Armor",
+      "summary": "A sturdy quilted gambeson that cushions impact and softens cuts, practical alone or beneath heavier armor.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "armor",
+          "value": 12
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Half Plate",
+      "group": "Armor",
+      "kind": "Armor",
+      "summary": "A serious partial plate harness combining metal plates, mail, straps, and padding while retaining more flexibility than full plate.",
+      "bonuses": [
+        {
+          "type": "skill",
+          "variable": "Stealth",
+          "value": -2
+        },
+        {
+          "type": "resource",
+          "variable": "stamina",
+          "value": -1
+        },
+        {
+          "type": "stat",
+          "variable": "armor",
+          "value": 65
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Heavy Armor",
+      "group": "Armor",
+      "kind": "Armor",
+      "summary": "A heavy frontline armor harness built to absorb dangerous blows and project martial presence, protective but tiring and conspicuous.",
+      "bonuses": [
+        {
+          "type": "skill",
+          "variable": "Stealth",
+          "value": -3
+        },
+        {
+          "type": "resource",
+          "variable": "stamina",
+          "value": -2
+        },
+        {
+          "type": "stat",
+          "variable": "armor",
+          "value": 80
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hide Armor",
+      "group": "Armor",
+      "kind": "Armor",
+      "summary": "Rugged protection made from thick hides, layered leather, fur, bone, or similar natural materials common on dangerous frontiers.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "armor",
+          "value": 20
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Leather Armor",
+      "group": "Armor",
+      "kind": "Armor",
+      "summary": "A fitted suit of hardened and layered leather suited for scouts, hunters, guards, and adventurers who value mobility.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "armor",
+          "value": 15
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Mage Ward Garments",
+      "group": "Armor",
+      "kind": "Armor",
+      "summary": "Ward-treated spellcaster garments that offer modest physical protection while helping the wearer contain magical strain and circulating mana.",
+      "bonuses": [
+        {
+          "type": "resource",
+          "variable": "mana",
+          "value": 3
+        },
+        {
+          "type": "attribute",
+          "variable": "willpower",
+          "value": 1
+        },
+        {
+          "type": "stat",
+          "variable": "armor",
+          "value": 10
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Padded Armor",
+      "group": "Armor",
+      "kind": "Armor",
+      "summary": "A humble suit of layered padded cloth, inexpensive and flexible but far better protection than ordinary clothing.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "armor",
+          "value": 8
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Plate Armor",
+      "group": "Armor",
+      "kind": "Armor",
+      "summary": "A full fitted harness of shaped plate, reinforced joints, straps, and padding, expensive and highly protective when properly worn.",
+      "bonuses": [
+        {
+          "type": "skill",
+          "variable": "Stealth",
+          "value": -3
+        },
+        {
+          "type": "resource",
+          "variable": "stamina",
+          "value": -3
+        },
+        {
+          "type": "attribute",
+          "variable": "dexterity",
+          "value": -1
+        },
+        {
+          "type": "stat",
+          "variable": "armor",
+          "value": 90
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Reinforced Travel Gear",
+      "group": "Armor",
+      "kind": "Armor",
+      "summary": "Durable travel clothing reinforced at vulnerable points with leather, heavy stitching, bracers, and practical road protection without becoming true armor.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "armor",
+          "value": 10
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Scale Armor",
+      "group": "Armor",
+      "kind": "Armor",
+      "summary": "Overlapping metal, horn, or hardened plates arranged like scales, providing solid protection while retaining useful flexibility.",
+      "bonuses": [
+        {
+          "type": "skill",
+          "variable": "Stealth",
+          "value": -2
+        },
+        {
+          "type": "stat",
+          "variable": "armor",
+          "value": 40
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Stealth Armor",
+      "group": "Armor",
+      "kind": "Armor",
+      "summary": "Dark flexible armor built to protect without clattering, flashing in low light, or badly restricting silent movement.",
+      "bonuses": [
+        {
+          "type": "skill",
+          "variable": "Stealth",
+          "value": 3
+        },
+        {
+          "type": "attribute",
+          "variable": "dexterity",
+          "value": 1
+        },
+        {
+          "type": "stat",
+          "variable": "armor",
+          "value": 20
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Studded Leather Armor",
+      "group": "Armor",
+      "kind": "Armor",
+      "summary": "Reinforced leather armor with hardened or metal-supported sections protecting vulnerable areas while remaining lighter than mail.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "armor",
+          "value": 25
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Academy Uniform",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "A formal academy uniform of fitted student clothing and institutional insignia, suited to lessons, examinations, and supervised magical study.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Artisan's Workwear",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Practical workshop clothing built for tools, dust, splinters, stains, and long hours of skilled handwork.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Cold Weather Cloak",
+      "group": "Clothing",
+      "kind": "Cloak",
+      "summary": "A heavy weatherproof cloak made to trap warmth and shed snow during prolonged travel in freezing conditions.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Cold Weather Outfit",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Layered insulating clothing suited for snow, mountain cold, frozen roads, and long exposure to bitter wind.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Commoner's Outfit",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Plain, serviceable clothing of the sort worn by ordinary townsfolk, villagers, laborers, and travelers of modest means.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Courtier's Attire",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Polished formal clothing cut for audiences, negotiations, court halls, and rooms where appearance and etiquette are closely judged.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Desert Travel Clothing",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Loose, protective travel clothing designed for heat, sun, sand, dry wind, and long journeys through open desert.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Disguise Clothes",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Plain adaptable garments chosen to support changes of social presentation without constituting a disguise by themselves.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Dockworker's Clothes",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Sturdy working clothes for hauling cargo, handling ropes, loading ships, and enduring wet, crowded docks.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Fine Ball Attire",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Elegant formal clothing suited for dances, noble celebrations, court gatherings, and other occasions where appearance carries social weight.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Frontier Travel Clothes",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Hard-wearing clothes for rough roads, border settlements, camps, and places where comfort matters less than durability.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Hunter's Clothes",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Durable field clothing suited for forests, traps, game trails, cold mornings, and quiet movement through brush.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Hunter's Hood",
+      "group": "Clothing",
+      "kind": "Headwear",
+      "summary": "A practical field hood that cuts glare and weather while breaking up the wearer’s outline in woodland terrain.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Mage Attire",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Layered spellcaster clothing arranged to leave hands, foci, and ritual movement unobstructed while clearly marking the wearer as a working mage.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Merchant's Fine Clothes",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Respectable, well-made clothing that signals prosperity without claiming noble rank, suitable for guild halls, counting houses, and trade meetings.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Military Uniform",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "A regulation martial uniform suited for army, militia, border duty, or formal training, announcing discipline without functioning as armor.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Mining Workwear",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Rugged work clothing made for tunnels, stone dust, mud, darkness, and heavy labor below ground.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Monastic Cowl",
+      "group": "Clothing",
+      "kind": "Headwear",
+      "summary": "A plain monastic cowl worn for prayer, study, weather, and the quiet anonymity of disciplined communal life.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Monastic Robes",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Simple robes for disciplined religious or contemplative life, made for routine, study, service, and restraint rather than display.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Mountain Travel Cloak",
+      "group": "Clothing",
+      "kind": "Cloak",
+      "summary": "A wind-resistant cloak cut for high passes and exposed mountain roads, heavy enough to blunt cold without becoming armor.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Mountain Travel Clothes",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Sturdy layered clothing suited for steep paths, cold mornings, rough stone, high passes, and mountain settlements.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Mourning Clothes",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Somber formal clothing suited for funerals, memorials, grief rites, and households marked by recent loss.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Noble's Attire",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Fine court clothing whose cut, fabric, and finish signal noble upbringing, wealth, and familiarity with high household expectations.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Noble's Court Cloak",
+      "group": "Clothing",
+      "kind": "Cloak",
+      "summary": "A formal noble cloak of quality fabric and restrained ornament, worn to complete court dress without serving as proof of rank by itself.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Nomad Caravan Clothes",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Layered mobile clothing suited for caravan life, long roads, dust, shifting weather, and camps that move with their people.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Palace Servant Livery",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Formal high-household livery, better made than common service clothes but unmistakably identifying the wearer as palace or noble staff.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Peasant's Work Clothes",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Rough, durable clothing made for fields, barns, muddy roads, and hard physical labor.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Performer Costume",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Expressive stage clothing suited for taverns, festivals, dances, street performance, and dramatic entrances where being noticed is part of the work.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Raincloak",
+      "group": "Clothing",
+      "kind": "Cloak",
+      "summary": "A waxed raincloak made to shed persistent rain and road spray while remaining practical for travel.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Raincloak Travel Clothes",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Practical travel clothing for wet roads, muddy villages, river crossings, and long days in miserable weather.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Ranger's Garb",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Practical outdoor clothing suited for scouts, hunters, border runners, forest paths, and long travel through wild country.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Ranger's Hooded Cloak",
+      "group": "Clothing",
+      "kind": "Cloak",
+      "summary": "A weathered hooded cloak that offers concealment from rain, wind, and casual observation on wooded roads.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Refugee Rags",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Worn, patched, mismatched clothing kept serviceable by necessity, suggesting flight, poverty, loss, or survival after better things were left behind.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Runed Command Mantle",
+      "group": "Clothing",
+      "kind": "Cloak",
+      "summary": "A dark, broad-shouldered mantle lined with faded silver cloth and bordered by command runes representing the order’s ancient oath, Crown charter, fortress wards, and duty to the Argent territories. It was made to be worn by a recognized First Fang during formal command and major rites. Without lawful recognition it remains ceremonial regalia rather than proof of office.",
+      "bonuses": [
+        {
+          "type": "skill",
+          "variable": "Leadership",
+          "value": 5
+        },
+        {
+          "type": "skill",
+          "variable": "Etiquette",
+          "value": 5
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Sailor's Clothes",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Hard-wearing shipboard clothing suited for wet decks, rope work, salt air, wind, and repeated rough handling.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Scholar's Robes",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Comfortable scholarly clothing suited for libraries, archives, tutors, academies, and long hours with ink, paper, and books.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Servant's Uniform",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "A clean, modest household uniform suited for kitchens, halls, estates, and service work where staff are expected to be present but unobtrusive.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Smith's Workwear",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Heavy forge workwear with a protective apron, built for soot, sparks, tools, hot metal, and long hours beside an anvil.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Stealth Clothing",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Dark, close-fitting clothing chosen for quiet movement, rooftops, hidden paths, and situations where loose or bright fabric would betray the wearer.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Stealth Hood",
+      "group": "Clothing",
+      "kind": "Headwear",
+      "summary": "A close-fitting dark hood that reduces glare and visual recognition without providing meaningful armor.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Street Urchin Clothes",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Layered, patched street clothing with useful pockets and easy movement through alleys, markets, and crowded districts.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Temple Cowl",
+      "group": "Clothing",
+      "kind": "Headwear",
+      "summary": "A simple temple cowl associated with prayer, service, and formal religious observance rather than worldly rank.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Temple Vestments",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Religious vestments suited for temple service, rites, blessings, shrine duties, and public observance of sacred office.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Traveler's Outfit",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "Practical road clothing suited for inns, wagons, changing weather, and ordinary long-distance travel.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Traveler's Road Cloak",
+      "group": "Clothing",
+      "kind": "Cloak",
+      "summary": "A sturdy road cloak made for wind, dust, rain, and the repeated wear of long journeys.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Village Festival Clothes",
+      "group": "Clothing",
+      "kind": "Outfit",
+      "summary": "A cherished set of festive village clothing with modest decoration, worn for dances, seasonal rites, gatherings, and local celebrations.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Aurel",
+      "group": "Currency",
+      "kind": "Currency",
+      "summary": "The standard coin of Eldaven, used for all trade from market food and lodging to tools, weapons, horses, professional fees, noble expenses, military contracts, and major purchases. All prices, wages, rewards, loot, debts, and payments are counted in whole Aurels only.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Barracks Muster Token",
+      "group": "Miscellaneous",
+      "kind": "Miscellaneous",
+      "summary": "A stamped token granting entry to a scheduled military muster or barracks assembly.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Concealed Package",
+      "group": "Miscellaneous",
+      "kind": "Miscellaneous",
+      "summary": "A carefully wrapped package prepared to pass without attracting attention; its contents are not obvious from the outside.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Court Attendance Token",
+      "group": "Miscellaneous",
+      "kind": "Miscellaneous",
+      "summary": "A minor court token used by guards and attendants to confirm expected access or attendance.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Crownspire Lesson Token",
+      "group": "Miscellaneous",
+      "kind": "Miscellaneous",
+      "summary": "A small academy token issued for a supervised lesson, appointment, or controlled instructional access.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Cult Investigation Dossier",
+      "group": "Miscellaneous",
+      "kind": "Miscellaneous",
+      "summary": "A compiled investigation dossier containing notes, names, leads, and evidence concerning suspected cult activity.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Debt Contract Copy",
+      "group": "Miscellaneous",
+      "kind": "Miscellaneous",
+      "summary": "A copied debt contract recording terms, witnesses, obligations, and the parties named in the agreement.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Emergency Contact Cipher",
+      "group": "Miscellaneous",
+      "kind": "Miscellaneous",
+      "summary": "A compact cipher reference intended to let its holder recognize or produce an emergency contact signal.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Forged Dock Permit",
+      "group": "Miscellaneous",
+      "kind": "Miscellaneous",
+      "summary": "A false or altered permit prepared to provide plausible access to controlled dock facilities.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Forged Id",
+      "group": "Miscellaneous",
+      "kind": "Miscellaneous",
+      "summary": "A carefully prepared false identity document meant to survive casual inspection.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Founder's Hilt",
+      "group": "Miscellaneous",
+      "kind": "Miscellaneous",
+      "summary": "The original hilt of the Fenrisard-Argenwald Founder’s weapon, formed around a dark metal tang cradle with silver runes running through its guard and grip. Its fittings are designed to receive the Argent Heart and the reunited blade sections. Alone it is an irreplaceable relic rather than a usable weapon, and possession confers no title or command authority.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Greyhaven Local Notice",
+      "group": "Miscellaneous",
+      "kind": "Miscellaneous",
+      "summary": "A rough written notice from Greyhaven's local board, intended for public posting or ordinary village circulation.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Guild Quarter Contract",
+      "group": "Miscellaneous",
+      "kind": "Miscellaneous",
+      "summary": "A signed contract associated with Highcourt Armathen's Guild Quarter, recording agreed work, service, or commercial terms.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Lantern Witness Slip",
+      "group": "Miscellaneous",
+      "kind": "Miscellaneous",
+      "summary": "A narrow witness slip naming the bearer as expected for a formal testimony, verification, or recorded appearance.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Letter From N",
+      "group": "Miscellaneous",
+      "kind": "Miscellaneous",
+      "summary": "A sealed letter from someone identifying themselves only as N, written to be opened and read by its intended recipient.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Lower Argentsteel Blade",
+      "group": "Miscellaneous",
+      "kind": "Miscellaneous",
+      "summary": "The lower section of the broken Founder’s blade, including the reinforced base that once joined the weapon’s hilt. Its silver-gray surface holds layered rune channels interrupted by the ancient break. The fragment is too heavy and dangerously unbalanced to use safely on its own, but its surviving structure can still be reunited through the lost Argentsteel joining process.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Merchant's Assistant Papers",
+      "group": "Miscellaneous",
+      "kind": "Miscellaneous",
+      "summary": "Official papers identifying the bearer as an assistant or representative attached to a merchant concern.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Sealed Omen Slip",
+      "group": "Miscellaneous",
+      "kind": "Miscellaneous",
+      "summary": "A sealed slip containing an omen, symbolic reading, or formal divinatory message intended for later inspection.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Sealed Royal Summons",
+      "group": "Miscellaneous",
+      "kind": "Miscellaneous",
+      "summary": "A folded parchment sealed with crown authority and intended to compel or formally request the named recipient’s attendance.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Upper Argentsteel Blade",
+      "group": "Miscellaneous",
+      "kind": "Miscellaneous",
+      "summary": "The forward section and point of the broken Founder’s blade, preserved despite deep scars left by the Sundering. Dormant rune lines remain visible beneath the Argentsteel whenever magic passes nearby. It cannot serve as a practical weapon alone and must be precisely aligned with the lower section before the blade’s original structure can be restored.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Valmere Invitation Letter",
+      "group": "Miscellaneous",
+      "kind": "Miscellaneous",
+      "summary": "A carefully worded invitation bearing House Valmere identification and intended for a named recipient.",
+      "bonuses": [],
+      "spoiler": false
+    },
+    {
+      "name": "Buckler Shield",
+      "group": "Shield",
+      "kind": "Shield",
+      "summary": "A small hand shield suited for duelists, scouts, light fighters, and anyone who wants defense without giving up too much speed.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "armor",
+          "value": 4
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Heater Shield",
+      "group": "Shield",
+      "kind": "Shield",
+      "summary": "A knightly shield with strong body coverage and a shape suited for disciplined melee defense. Often associated with soldiers, guards, nobles, and trained protectors.",
+      "bonuses": [
+        {
+          "type": "skill",
+          "variable": "Stealth",
+          "value": -1
+        },
+        {
+          "type": "stat",
+          "variable": "armor",
+          "value": 16
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Kite Shield",
+      "group": "Shield",
+      "kind": "Shield",
+      "summary": "A long shield offering broad protection for mounted or foot combat. It is well suited for defensive fighters, bodyguards, and warriors who expect arrows, spears, and hard charges.",
+      "bonuses": [
+        {
+          "type": "skill",
+          "variable": "Stealth",
+          "value": -2
+        },
+        {
+          "type": "resource",
+          "variable": "stamina",
+          "value": -1
+        },
+        {
+          "type": "stat",
+          "variable": "armor",
+          "value": 24
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Round Shield",
+      "group": "Shield",
+      "kind": "Shield",
+      "summary": "A practical round shield used by warriors, guards, hunters, raiders, and frontier fighters. Balanced between defense, movement, and shield-bash utility.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "armor",
+          "value": 8
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Small Shield",
+      "group": "Shield",
+      "kind": "Shield",
+      "summary": "A compact shield suited for travel, skirmishing, light defense, and quick repositioning. Easier to carry than larger shields and still much better than bare forearms.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "armor",
+          "value": 10
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Tower Shield",
+      "group": "Shield",
+      "kind": "Shield",
+      "summary": "A massive shield built for cover, formation defense, chokepoints, and protecting allies from devastating attacks. Heavy, awkward, and almost a portable wall in trained hands.",
+      "bonuses": [
+        {
+          "type": "skill",
+          "variable": "Stealth",
+          "value": -4
+        },
+        {
+          "type": "resource",
+          "variable": "stamina",
+          "value": -2
+        },
+        {
+          "type": "attribute",
+          "variable": "dexterity",
+          "value": -1
+        },
+        {
+          "type": "stat",
+          "variable": "armor",
+          "value": 35
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Arbalest",
+      "group": "Weapon",
+      "kind": "Ranged Weapon",
+      "summary": "A heavy winched crossbow with punishing force, slow reload, and terrifying performance against armor at prepared range.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Bardiche",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A broad axe-bladed polearm built for powerful cuts, hooking pressure, and control at battlefield reach.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Bastard Sword",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A hand-and-a-half sword that bridges agile one-handed cuts and stronger two-handed leverage.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Battle Axe",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A martial axe designed to split shields, hook defenses, and deliver brutal chopping force. It has none of a court blade's elegance and all of a battlefield's honesty.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Battle Staff",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A reinforced fighting staff made for battlefield pressure, guards, sweeps, and armored strikes.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Bearded Axe",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A hooked axe with a lowered blade edge, useful for cuts, pulls, shield work, and close control.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Billhook",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A hooked pole weapon adapted from forestry tools, useful for pulling shields, catching limbs, and dragging riders down.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Bo Staff",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A long balanced staff focused on reach, rhythm, and clean strikes without exceeding heavier reinforced staves.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 2
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Boar Spear",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A sturdy hunting spear with lugs to stop a charging beast from driving up the shaft.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cavalry Lance",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A standard mounted battlefield lance built for disciplined couched charges and shock impact.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cestus",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A reinforced fighting glove with metal bands that turns close punches into punishing armored strikes.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 2
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Chakram",
+      "group": "Weapon",
+      "kind": "Ranged Weapon",
+      "summary": "A flat razor-edged throwing ring balanced for fast ranged cuts and practiced return lines.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 2
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Claw Gauntlets",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "Reinforced gauntlets with short clawed edges for raking strikes during grapples and close body control.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 2
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Claymore",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A large two-handed sword with reach and presence, comparable in force to other great blades rather than superior to them.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Compound Bow",
+      "group": "Weapon",
+      "kind": "Ranged Weapon",
+      "summary": "An engineered bow using compact mechanical advantage to hold tension efficiently without outclassing a trained longbow.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Court Sabre",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A curved dueling blade favored in noble salons, military dress, and fast formal swordplay.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 2
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Crossbow",
+      "group": "Weapon",
+      "kind": "Ranged Weapon",
+      "summary": "A mechanical ranged weapon that stores force for a prepared shot. Favored by guards, hunters, militias, ambushers, and anyone who values aim and timing over draw strength.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cudgel",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A short hardwood club suited for tavern violence, guard duty, and desperate close defense.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 1
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dart Set",
+      "group": "Weapon",
+      "kind": "Ranged Weapon",
+      "summary": "A set of small balanced darts used for distraction, poison delivery, target practice, and quick close-range throws.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 1
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dirk",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A long fighting dagger useful for close defense, camp work, and finishing thrusts in cramped spaces.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 1
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Estoc",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A stiff thrusting sword designed to drive precise points into gaps in armor and guarded defenses.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fauchard",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A long polearm with a forward-curving blade suited for hooking, slashing, and controlling reach from outside sword range.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Flail",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A chain-linked striking weapon used to wrap around shields, punish guarded enemies, and deliver unpredictable impact. Dangerous to the wielder without training, and worse for the enemy with it.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Glaive",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A long pole blade suited for sweeping cuts and re.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Great Axe",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A heavy two-handed axe built for overwhelming force, shield-breaking swings, and terrifying execution blows. It is not subtle, but few things that survive it care about subtlety.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Greatsword",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A large two-handed sword built for reach, weight, and decisive cutting force. It is difficult to hide, exhausting to use poorly, and terrifying when carried by someone trained to let momentum speak.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Halberd",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A long battlefield weapon combining axe blade, spear point, and hook. It controls space, threatens riders, punishes shields, and belongs to someone who thinks in reach and arcs.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hand Axe",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A small axe useful for chopping wood, close combat, throwing, and rough travel. Practical enough for a frontier pack and dangerous enough for a battlefield.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 2
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hand Crossbow",
+      "group": "Weapon",
+      "kind": "Ranged Weapon",
+      "summary": "A compact crossbow suited for concealed shots, close-range ambushes, off-hand use, and situations where a full bow would be too obvious.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 2
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hatchet",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A small chopping axe that doubles as a crude sidearm, useful but limited in reach and stopping power.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 1
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Heavy Crossbow",
+      "group": "Weapon",
+      "kind": "Ranged Weapon",
+      "summary": "A reinforced crossbow built for heavy bolts, armor-piercing shots, and braced battlefield use.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Heavy War Lance",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A reinforced heavy lance made for mounted shock, armor-breaking charges, and brutal first impact.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hunting Bow",
+      "group": "Weapon",
+      "kind": "Ranged Weapon",
+      "summary": "A simple practical bow for woodsmen, scouts, and hunters who value quiet handling and familiar draw weight.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 2
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hunting Sling",
+      "group": "Weapon",
+      "kind": "Ranged Weapon",
+      "summary": "A compact leather sling sized for clean hunting shots at birds, rabbits, and other small game.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 2
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Ironwood Staff",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A dense dark-wood staff balanced for guards, sweeps, leverage, and hard two-handed strikes.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 2
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Javelin",
+      "group": "Weapon",
+      "kind": "Ranged Weapon",
+      "summary": "A light spear balanced for throwing before closing into melee or breaking an enemy approach.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 2
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Jousting Lance",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A tournament-focused lance heavier than a practice weapon but less lethal than a true war lance.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Knightly Lance",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A disciplined mounted weapon built for trained charges, battlefield shock, and controlled reach from horseback.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Knuckles",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A set of metal knuckles or reinforced hand wraps used to make punches hit harder without abandoning close-quarters brawling. Simple, ugly, and effective.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 1
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Kodachi",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A short curved single-edged blade suited for quick close cuts, confined spaces, and practical sidearm use.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 2
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Lead-Shot Sling",
+      "group": "Weapon",
+      "kind": "Ranged Weapon",
+      "summary": "A war sling intended for cast lead shot, delivering compact armor-bruising impact at surprising range.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Light Crossbow",
+      "group": "Weapon",
+      "kind": "Ranged Weapon",
+      "summary": "A lighter crossbow built for patrols, scouts, and hunters who need easier carry and faster handling than a heavy battlefield frame.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Light Lance",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A lighter mounted lance suited for scouts, couriers, skirmish cavalry, and fast charges.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Long Spear",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A longer battlefield spear that emphasizes reach, bracing, and keeping dangerous enemies at distance.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Longbow",
+      "group": "Weapon",
+      "kind": "Ranged Weapon",
+      "summary": "A powerful bow suited for battlefield range, hunting large game, and precise long-distance shots. It rewards strength, breath, training, and patience.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Longsword",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A balanced longsword suited for guards, soldiers, nobles, duelists, and adventurers. It is versatile enough for battlefield use and refined enough for formal training.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Mace",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A heavy single-handed bludgeon designed to crush armor and bone alike, bypassing the protection that turns edged weapons aside.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 2
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Mage Staff",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A staff designed as a magical focus and walking implement, suited for channeling mana through deliberate gestures and stable posture. It favors steady casting, ritual positioning, and controlled output over quick portability. Less a sidearm than a declaration that the wielder expects magic to answer.",
+      "bonuses": [
+        {
+          "type": "attribute",
+          "variable": "willpower",
+          "value": 1
+        },
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 1
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Main-Gauche",
+      "group": "Weapon",
+      "kind": "Offhand Weapon",
+      "summary": "A parrying dagger used beside a precision blade to catch, bind, and answer enemy steel.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 1
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Maul",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A two-handed crushing weapon that sacrifices speed for overwhelming impact and armor-breaking force.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Odachi",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "An exceptionally long two-handed curved sword built for reach, sweeping cuts, and committed battlefield strikes.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Parrying Sword",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A narrow defensive blade used to bind, deflect, and answer with precise counter-thrusts.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 2
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Partisan",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A spear-like polearm with side lugs that supports thrusting, binding, and defensive reach control.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Pike",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "An extremely long formation spear meant to stop charges, dominate lanes, and punish enemies before they close.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Quarterstaff",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A sturdy two-handed staff useful for travel, defense, balance, and disciplined combat. Favored by monks, travelers, villagers, temple students, and mages who prefer a practical implement over a blade.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 1
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Rapier",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A slender thrusting blade suited for precision, dueling, courtly defense, and elegant violence. Favored by nobles, duelists, agents, and anyone who prefers timing over brute force.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 2
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Recurve Bow",
+      "group": "Weapon",
+      "kind": "Ranged Weapon",
+      "summary": "A compact, recurved bow suited for hunting, scouting, mounted use, and mobile skirmishing. It offers stronger draw and better range than a simple shortbow while remaining easier to carry and handle than a full longbow.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Repeating Crossbow",
+      "group": "Weapon",
+      "kind": "Ranged Weapon",
+      "summary": "A mechanism-fed crossbow that trades raw impact for faster follow-up shots and sustained pressure.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Sap Gloves",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "Weighted gloves designed to make close punches land harder while keeping the hands free.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 1
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Shepherd's Sling",
+      "group": "Weapon",
+      "kind": "Ranged Weapon",
+      "summary": "A plain cord sling used by herders, villagers, and scouts for cheap, portable ranged defense.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 1
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Short Spear",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A compact thrusting spear suited for guards, hunters, and close formation work in tight spaces.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 2
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Short Sword",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A compact blade suited for guards, scouts, close quarters, narrow alleys, ship decks, and practical sidearm use. Easier to carry than a longsword and more reliable than a knife in a real fight.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 2
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Shortbow",
+      "group": "Weapon",
+      "kind": "Ranged Weapon",
+      "summary": "A compact bow suited for hunters, scouts, mounted riders, and travelers who need a ranged weapon that is easier to carry than a longbow.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 2
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Shuriken",
+      "group": "Weapon",
+      "kind": "Ranged Weapon",
+      "summary": "Small balanced throwing blades used for distraction, harassment, and quick close-range ranged attacks.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 1
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Smallsword",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A light thrusting blade suited for formal duels, quick footwork, and precise courtly violence.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 2
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Spear",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A simple, reliable thrusting weapon with reach enough to keep danger at bay. Favored by guards, soldiers, hunters, villagers, and anyone who understands the value of not letting claws get close.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 2
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Spiked Gauntlets",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "Heavy fighting gauntlets fitted with short spikes for brutal punches, grapples, and close pressure.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Staff Sling",
+      "group": "Weapon",
+      "kind": "Ranged Weapon",
+      "summary": "A sling mounted to a staff, trading speed and convenience for greater leverage and heavier projectiles.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Steel Dagger",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A sharp steel dagger useful as a sidearm, tool, concealed weapon, or last resort. Small blades are rarely honorable, but they are often close enough when honor is not.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 1
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Stiletto",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A narrow thrusting dagger designed for precision and concealment rather than broad cutting force.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 1
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Stone Sling",
+      "group": "Weapon",
+      "kind": "Ranged Weapon",
+      "summary": "A plain cord sling for common stones, easy to carry and dangerous only in trained hands.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 1
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Tachi",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A curved single-edged sword suited for decisive cuts, mobile fighting, and disciplined two-handed technique.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "The Argent Vow",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A restored Argentsteel sword built around the Argent Heart, with the two surviving blade sections joined to the Founder's Hilt. In the rites of the Runed Argent Fang it is called the Princeps’ Fang, while histories of the Sundering remember it as Oath Unbroken. Its runes adapt to the wielder’s established technique and can carry any Arcana they already possess through the blade without granting an affinity they lack. During the Sundering, its divided ward pattern held two converging fronts long enough for civilians and wounded defenders to escape, even as the strain broke the original blade into two sections. While equipped, its restored runes allow the wielder to invoke Oath Unbroken.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 25
+        },
+        {
+          "type": "skill",
+          "variable": "Heavy Blades",
+          "value": 20
+        },
+        {
+          "type": "resource",
+          "variable": "stamina",
+          "value": 15
+        },
+        {
+          "type": "resource",
+          "variable": "mana",
+          "value": 10
+        },
+        {
+          "type": "stat",
+          "variable": "armor",
+          "value": 50
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Throwing Axe",
+      "group": "Weapon",
+      "kind": "Ranged Weapon",
+      "summary": "A compact axe weighted to rotate predictably when thrown while remaining useful at close range.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 2
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Throwing Knife",
+      "group": "Weapon",
+      "kind": "Ranged Weapon",
+      "summary": "A narrow balanced blade made for accurate throwing at short to moderate range.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 1
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Tournament Lance",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A blunted lance made for formal lists, mounted trials, and controlled tournament impact rather than battlefield lethality.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 2
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Twin Daggers",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A matched pair of daggers suited for quick hands, close-range pressure, hidden angles, and twin-weapon fighting. Favored by rogues, duelists, assassins, street survivors, and anyone who dislikes leaving one hand idle.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "War Axe",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A dedicated fighting axe balanced for armor-breaking chops and battlefield durability.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "War Bow",
+      "group": "Weapon",
+      "kind": "Ranged Weapon",
+      "summary": "A heavy battlefield bow that rewards strength, training, and repeated practice over convenience.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "War Sling",
+      "group": "Weapon",
+      "kind": "Ranged Weapon",
+      "summary": "A heavier sling built for battlefield bullets and armor-bruising impact at surprising range.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "War Staff",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A reinforced staff capped for battle, built to withstand hard guards, sweeps, and repeated armored contact.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Warhammer",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A martial hammer designed to crack armor, break guards, stagger enemies, and turn defensive confidence into ringing impact.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Weighted Handwraps",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "Weighted fighting wraps that harden punches while leaving the hands flexible for grappling and close control.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 1
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Winged Spear",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A spear with side wings for control, binding, and preventing over-penetration during disciplined thrusts.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 3
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Wooden Club",
+      "group": "Weapon",
+      "kind": "Main Weapon",
+      "summary": "A crude wooden club, simple enough for anyone to swing but dangerous in strong hands. It is the weapon of peasants, thugs, desperate travelers, and anyone who found violence before they found coin.",
+      "bonuses": [
+        {
+          "type": "stat",
+          "variable": "damage",
+          "value": 1
+        }
+      ],
+      "spoiler": false
+    }
+  ]
+}
