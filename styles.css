@@ -450,6 +450,13 @@ html[data-access="gm"] .sidebar-note strong { color: var(--gm-strong); }
 .directory-spoiler-disclosure summary { color: var(--gm-strong); }
 .directory-entry-details p,
 .directory-spoiler-disclosure p { margin-bottom: 0; }
+
+.directory-long-details {
+  max-height: 32rem;
+  overflow: auto;
+  white-space: pre-wrap;
+}
+
 .directory-entry--spoiler { border-color: var(--gm-line); }
 .directory-load-error {
   margin: 24px 0;
