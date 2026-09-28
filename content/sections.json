@@ -104,6 +104,14 @@
       ]
     },
     {
+      "id": "play-options",
+      "title": "Play Options",
+      "landing": "story-start-directory",
+      "articles": [
+        "game-mode-directory"
+      ]
+    },
+    {
       "id": "rules-and-play",
       "title": "Rules & Play",
       "landing": "rules-and-play",
