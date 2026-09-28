@@ -105,9 +105,13 @@ function collectDirectoryGroups(content) {
 }
 
 function enhanceDirectoryPage() {
-  if (!window.state || !directoryPageIds.has(state.activeId)) return;
+  if (!window.state) return;
 
   const content = document.getElementById('article-content');
+  if (!directoryPageIds.has(state.activeId)) {
+    if (content) delete content.dataset.directoryEnhanced;
+    return;
+  }
   if (!content || content.hidden || content.dataset.directoryEnhanced === state.activeId) return;
   content.dataset.directoryEnhanced = state.activeId;
 
