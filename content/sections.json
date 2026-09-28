@@ -95,6 +95,15 @@
       "articles": []
     },
     {
+      "id": "character-options",
+      "title": "Character Options",
+      "landing": "skill-directory",
+      "articles": [
+        "ability-directory",
+        "trait-catalog"
+      ]
+    },
+    {
       "id": "rules-and-play",
       "title": "Rules & Play",
       "landing": "rules-and-play",
@@ -103,7 +112,6 @@
         "resources",
         "skills",
         "learning-new-skills",
-        "trait-catalog",
         "milestone-titles",
         "game-modes"
       ]
