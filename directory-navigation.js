@@ -33,6 +33,34 @@ const directoryPages = {
   'item-directory': {
     source: 'content/data/items.json',
     searchPlaceholder: 'Search items, categories, slots, descriptions, or bonuses…'
+  },
+  'skill-directory': {
+    source: 'content/data/skills.json',
+    searchPlaceholder: 'Search skills, attributes, types, equipment, or descriptions…'
+  },
+  'ability-directory': {
+    source: [
+      'content/data/abilities-a-c.json',
+      'content/data/abilities-d-h.json',
+      'content/data/abilities-i-m.json',
+      'content/data/abilities-n-r.json',
+      'content/data/abilities-s-t.json',
+      'content/data/abilities-u-z.json'
+    ],
+    searchPlaceholder: 'Search abilities, requirements, bonuses, cooldowns, or descriptions…'
+  },
+  'trait-catalog': {
+    source: [
+      'content/data/traits-a-b.json',
+      'content/data/traits-c-d.json',
+      'content/data/traits-e-g.json',
+      'content/data/traits-h-l.json',
+      'content/data/traits-m-p.json',
+      'content/data/traits-q-r.json',
+      'content/data/traits-s.json',
+      'content/data/traits-t-z.json'
+    ],
+    searchPlaceholder: 'Search traits, categories, modifiers, abilities, items, or story effects…'
   }
 };
 
@@ -115,12 +143,19 @@ function formatDirectoryBonus(bonus) {
 }
 
 function appendDirectoryFacts(container, entry) {
+  const configuredFacts = Array.isArray(entry.facts)
+    ? entry.facts.map(fact => [fact.label, Array.isArray(fact.value) ? fact.value : [fact.value]])
+    : [];
   const facts = [
+    ...configuredFacts,
     ['Resistances', entry.resistances],
     ['Immunities', entry.immunities],
     ['Vulnerabilities', entry.vulnerabilities],
     ['Bonuses', Array.isArray(entry.bonuses) ? entry.bonuses.map(formatDirectoryBonus) : []]
-  ].filter(([, values]) => Array.isArray(values) && values.length);
+  ].filter(([, values]) =>
+    Array.isArray(values) &&
+    values.some(value => value !== undefined && value !== null && String(value).trim())
+  );
 
   if (!facts.length) return;
   const list = document.createElement('dl');
@@ -129,7 +164,7 @@ function appendDirectoryFacts(container, entry) {
     const term = document.createElement('dt');
     term.textContent = label;
     const detail = document.createElement('dd');
-    detail.textContent = values.join(', ');
+    detail.textContent = values.filter(value => value !== undefined && value !== null).join(', ');
     list.append(term, detail);
   });
   container.appendChild(list);
