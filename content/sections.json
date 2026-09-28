@@ -1,0 +1,90 @@
+{
+  "sections": [
+    {
+      "id": "home",
+      "title": "Home",
+      "landing": "arkenfell",
+      "articles": []
+    },
+    {
+      "id": "world",
+      "title": "World",
+      "landing": "world-overview",
+      "articles": ["eldaven"]
+    },
+    {
+      "id": "realms",
+      "title": "Realms",
+      "landing": "kingdom-of-valenreach",
+      "articles": [
+        "dreadmark-dominion",
+        "tide-empire",
+        "lythael-elven-dominion",
+        "solmire-concord",
+        "solarian-theocracy",
+        "arcanum-ascendancy",
+        "emberhorn-accord",
+        "ashen-maw",
+        "coral-throne",
+        "stormpearl-isles",
+        "fangbound-clans",
+        "nightglass-principality",
+        "cloudspire-dominion",
+        "ironroot-holds",
+        "eldmark-kingdom",
+        "hollowmere-confederacy",
+        "palegrave-crown"
+      ]
+    },
+    {
+      "id": "places",
+      "title": "Places",
+      "landing": "highcourt-armathen",
+      "articles": []
+    },
+    {
+      "id": "people",
+      "title": "People",
+      "landing": "important-npcs",
+      "articles": ["edgar-vaust"]
+    },
+    {
+      "id": "factions",
+      "title": "Factions",
+      "landing": "faction-directory",
+      "articles": []
+    },
+    {
+      "id": "magic",
+      "title": "Magic",
+      "landing": "magic-overview",
+      "articles": [
+        "arcana",
+        "arcana-tiers",
+        "arcana-catalog",
+        "magical-practice",
+        "power-arcana"
+      ]
+    },
+    {
+      "id": "faith",
+      "title": "Faith",
+      "landing": "divine-powers-of-eldaven",
+      "articles": ["pantheon-directory", "ardoval"]
+    },
+    {
+      "id": "rules-and-play",
+      "title": "Rules & Play",
+      "landing": "rules-and-play",
+      "articles": [
+        "attributes",
+        "resources",
+        "skills",
+        "learning-new-skills",
+        "trait-catalog",
+        "milestone-titles",
+        "game-modes"
+      ]
+    }
+  ]
+}
