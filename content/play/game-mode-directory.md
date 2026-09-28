@@ -8,6 +8,6 @@ status: canon
 
 # Game Modes
 
-Browse all **25 configured Game Modes** in Arkenfell. Search by name, tone, difficulty, pacing, or the behavior described in the mode instructions.
+Browse all **25 configured Game Modes** in Arkenfell. Search by name, difficulty, tone, pacing, or the player-facing behavior described for the mode.
 
-The shorter description provides the overview. Expand an entry to read its complete narrator instructions and Ask the Narrator prompt.
+Each entry includes its public overview and the guidance available through Ask the Narrator. Internal narrator instructions remain outside the player wiki.
