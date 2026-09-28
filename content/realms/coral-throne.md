@@ -1,7 +1,7 @@
 ---
 id: coral-throne
 title: The Coral Throne
-category: Realms
+category: Countries
 knowledge: regional
 status: canon
 ---
