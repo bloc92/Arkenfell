@@ -8,6 +8,8 @@ status: canon
 
 # World Overview
 
+**Arkenfell is the single configured realm.** Eldaven is a continent within Arkenfell. Its kingdoms, empires, dominions, republics, and other sovereign powers are countries or political states—not separate realms.
+
 Arkenfell is a high-fantasy world of royal courts, rural communities, magical institutions, dangerous roads, ancient ruins, trade powers, temple law, monster societies, hidden factions, and ordinary lives shaped by extraordinary forces.
 
 The currently mapped center of play is **Eldaven**, a continent divided among kingdoms, empires, republics, religious states, magical powers, clan territories, and contested borderlands. Its societies differ in law, custom, faith, trade, warfare, and attitudes toward magic.
