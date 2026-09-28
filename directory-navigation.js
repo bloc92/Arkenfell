@@ -73,6 +73,16 @@ const directoryPages = {
 };
 
 const directoryDataCache = new Map();
+let pendingDirectoryTarget = null;
+
+function directorySlug(value) {
+  return String(value || '')
+    .normalize('NFKD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-|-$/g, '');
+}
 
 function directoryExcerpt(text, limit = 240) {
   const clean = String(text || '').replace(/\s+/g, ' ').trim();
@@ -205,9 +215,42 @@ function appendDirectoryDetails(container, entry) {
   });
 }
 
+function appendDirectoryLinks(container, entry) {
+  if (!Array.isArray(entry.links) || !entry.links.length) return;
+
+  const block = document.createElement('nav');
+  block.className = 'directory-entry-links';
+  block.setAttribute('aria-label', entry.linksLabel || 'Related entries');
+
+  const heading = document.createElement('p');
+  heading.className = 'directory-entry-links-label';
+  heading.textContent = entry.linksLabel || 'Related entries';
+
+  const list = document.createElement('ul');
+  entry.links.forEach(item => {
+    if (!item || !item.label || !item.page || !item.target) return;
+    const listItem = document.createElement('li');
+    const link = document.createElement('a');
+    link.href = `#${item.page}`;
+    link.textContent = item.label;
+    link.addEventListener('click', () => {
+      pendingDirectoryTarget = { page: item.page, target: item.target };
+    });
+    listItem.appendChild(link);
+    list.appendChild(listItem);
+  });
+
+  if (list.childElementCount) {
+    block.append(heading, list);
+    container.appendChild(block);
+  }
+}
+
 function createDirectoryEntry(entry) {
   const card = document.createElement('article');
   card.className = 'directory-entry';
+  card.id = `directory-entry-${directorySlug(entry.name)}`;
+  card.dataset.entryName = entry.name || '';
   if (entry.spoiler) card.classList.add('directory-entry--spoiler');
 
   const title = document.createElement('h3');
@@ -252,6 +295,7 @@ function createDirectoryEntry(entry) {
     }
   }
 
+  appendDirectoryLinks(card, entry);
   appendDirectoryDetails(card, entry);
 
   card.dataset.group = entry.group || 'Other';
@@ -357,6 +401,21 @@ async function enhanceDirectoryPage() {
     searchInput.addEventListener('input', applyFilters);
     groupSelect.addEventListener('change', applyFilters);
     applyFilters();
+
+    if (pendingDirectoryTarget && pendingDirectoryTarget.page === pageId) {
+      const target = pendingDirectoryTarget.target;
+      pendingDirectoryTarget = null;
+      searchInput.value = target;
+      groupSelect.value = '';
+      applyFilters();
+
+      const targetCard = cards.find(card => card.dataset.entryName === target);
+      if (targetCard) {
+        targetCard.classList.add('directory-entry--target');
+        requestAnimationFrame(() => targetCard.scrollIntoView({ block: 'center', behavior: 'smooth' }));
+        window.setTimeout(() => targetCard.classList.remove('directory-entry--target'), 2600);
+      }
+    }
   } catch (error) {
     const message = document.createElement('p');
     message.className = 'directory-load-error';
