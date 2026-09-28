@@ -1,7 +1,7 @@
 ---
 id: ashen-maw
 title: The Ashen Maw
-category: Realms
+category: Countries
 knowledge: regional
 status: canon
 ---
