@@ -15,8 +15,9 @@
     {
       "id": "realms",
       "title": "Realms",
-      "landing": "kingdom-of-valenreach",
+      "landing": "realm-directory",
       "articles": [
+        "kingdom-of-valenreach",
         "dreadmark-dominion",
         "tide-empire",
         "lythael-elven-dominion",
@@ -39,8 +40,8 @@
     {
       "id": "places",
       "title": "Places",
-      "landing": "highcourt-armathen",
-      "articles": []
+      "landing": "place-directory",
+      "articles": ["highcourt-armathen"]
     },
     {
       "id": "people",
