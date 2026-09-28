@@ -25,17 +25,17 @@
       "tags": ["World","Eldaven","Geography","Politics"]
     },
     {
-      "id": "realm-directory",
-      "title": "Realm Directory",
-      "category": "Realms",
-      "summary": "A searchable guide to the established realms and major political powers of Eldaven.",
-      "path": "content/realms/realm-directory.md",
-      "tags": ["Realms","Eldaven","Politics","Reference"]
+      "id": "country-directory",
+      "title": "Countries of Eldaven",
+      "category": "Countries",
+      "summary": "A searchable guide to Eldaven's countries and sovereign political powers within the realm of Arkenfell.",
+      "path": "content/countries/country-directory.md",
+      "tags": ["Countries","Eldaven","Politics","Reference"]
     },
     {
       "id": "kingdom-of-valenreach",
       "title": "Kingdom of Valenreach",
-      "category": "Realms",
+      "category": "Countries",
       "summary": "A wealthy royal power ruled by King Aldric and Queen Ceralie from Highcourt Armathen.",
       "path": "content/realms/kingdom-of-valenreach.md",
       "tags": ["Eldaven","Valenreach","Realm","Politics"]
@@ -43,7 +43,7 @@
     {
       "id": "dreadmark-dominion",
       "title": "The Dreadmark Dominion",
-      "category": "Realms",
+      "category": "Countries",
       "summary": "An eastern military dominion built on hierarchy, forced labor, slavery, and vast legions.",
       "path": "content/realms/dreadmark-dominion.md",
       "tags": ["Eldaven","Dreadmark","Realm","Politics"]
@@ -51,7 +51,7 @@
     {
       "id": "tide-empire",
       "title": "The Tide Empire",
-      "category": "Realms",
+      "category": "Countries",
       "summary": "An ancient northern empire of fleets, river cities, dragonriders, and long imperial continuity.",
       "path": "content/realms/tide-empire.md",
       "tags": ["Eldaven","Tide Empire","Realm","Politics"]
@@ -59,7 +59,7 @@
     {
       "id": "lythael-elven-dominion",
       "title": "The Lythael Elven Dominion",
-      "category": "Realms",
+      "category": "Countries",
       "summary": "An ancient southern elven realm shaped by old forests, noble matriarchs, and long political memory.",
       "path": "content/realms/lythael-elven-dominion.md",
       "tags": ["Eldaven","Lythael","Realm","Elves"]
@@ -67,7 +67,7 @@
     {
       "id": "solmire-concord",
       "title": "The Solmire Concord",
-      "category": "Realms",
+      "category": "Countries",
       "summary": "A western merchant republic whose power flows through trade, contracts, convoys, and credit.",
       "path": "content/realms/solmire-concord.md",
       "tags": ["Eldaven","Solmire","Realm","Trade"]
@@ -75,7 +75,7 @@
     {
       "id": "solarian-theocracy",
       "title": "The Solarian Theocracy",
-      "category": "Realms",
+      "category": "Countries",
       "summary": "A southeastern religious state ruled by a High Synod and influential through temples, healing, and doctrine.",
       "path": "content/realms/solarian-theocracy.md",
       "tags": ["Eldaven","Solarian","Realm","Religion"]
@@ -83,7 +83,7 @@
     {
       "id": "arcanum-ascendancy",
       "title": "The Arcanum Ascendancy",
-      "category": "Realms",
+      "category": "Countries",
       "summary": "An independent mage-ruled state centered on academies, classification, research, and magical arbitration.",
       "path": "content/realms/arcanum-ascendancy.md",
       "tags": ["Eldaven","Arcanum","Realm","Magic"]
@@ -91,7 +91,7 @@
     {
       "id": "emberhorn-accord",
       "title": "Emberhorn Accord",
-      "category": "Realms",
+      "category": "Countries",
       "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
       "path": "content/realms/emberhorn-accord.md",
       "tags": ["Eldaven","Emberhorn Accord","Realm"]
@@ -99,7 +99,7 @@
     {
       "id": "ashen-maw",
       "title": "Ashen Maw",
-      "category": "Realms",
+      "category": "Countries",
       "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
       "path": "content/realms/ashen-maw.md",
       "tags": ["Eldaven","Ashen Maw","Realm"]
@@ -107,7 +107,7 @@
     {
       "id": "coral-throne",
       "title": "Coral Throne",
-      "category": "Realms",
+      "category": "Countries",
       "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
       "path": "content/realms/coral-throne.md",
       "tags": ["Eldaven","Coral Throne","Realm"]
@@ -115,7 +115,7 @@
     {
       "id": "stormpearl-isles",
       "title": "Stormpearl Isles",
-      "category": "Realms",
+      "category": "Countries",
       "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
       "path": "content/realms/stormpearl-isles.md",
       "tags": ["Eldaven","Stormpearl Isles","Realm"]
@@ -123,7 +123,7 @@
     {
       "id": "fangbound-clans",
       "title": "Fangbound Clans",
-      "category": "Realms",
+      "category": "Countries",
       "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
       "path": "content/realms/fangbound-clans.md",
       "tags": ["Eldaven","Fangbound Clans","Realm"]
@@ -131,7 +131,7 @@
     {
       "id": "nightglass-principality",
       "title": "Nightglass Principality",
-      "category": "Realms",
+      "category": "Countries",
       "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
       "path": "content/realms/nightglass-principality.md",
       "tags": ["Eldaven","Nightglass Principality","Realm"]
@@ -139,7 +139,7 @@
     {
       "id": "cloudspire-dominion",
       "title": "Cloudspire Dominion",
-      "category": "Realms",
+      "category": "Countries",
       "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
       "path": "content/realms/cloudspire-dominion.md",
       "tags": ["Eldaven","Cloudspire Dominion","Realm"]
@@ -147,7 +147,7 @@
     {
       "id": "ironroot-holds",
       "title": "Ironroot Holds",
-      "category": "Realms",
+      "category": "Countries",
       "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
       "path": "content/realms/ironroot-holds.md",
       "tags": ["Eldaven","Ironroot Holds","Realm"]
@@ -155,7 +155,7 @@
     {
       "id": "eldmark-kingdom",
       "title": "Eldmark Kingdom",
-      "category": "Realms",
+      "category": "Countries",
       "summary": "An established Eldaven kingdom represented in the current Arkenfell world canon.",
       "path": "content/realms/eldmark-kingdom.md",
       "tags": ["Eldaven","Eldmark","Realm"]
@@ -163,7 +163,7 @@
     {
       "id": "hollowmere-confederacy",
       "title": "Hollowmere Confederacy",
-      "category": "Realms",
+      "category": "Countries",
       "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
       "path": "content/realms/hollowmere-confederacy.md",
       "tags": ["Eldaven","Hollowmere","Realm"]
@@ -171,7 +171,7 @@
     {
       "id": "palegrave-crown",
       "title": "Palegrave Crown",
-      "category": "Realms",
+      "category": "Countries",
       "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
       "path": "content/realms/palegrave-crown.md",
       "tags": ["Eldaven","Palegrave","Realm"]
@@ -180,7 +180,7 @@
       "id": "place-directory",
       "title": "Place Directory",
       "category": "Geography",
-      "summary": "A searchable guide to documented cities, regions, strongholds, wilds, and other places in Arkenfell.",
+      "summary": "A searchable directory of all 25 regions and 353 configured locations in Arkenfell.",
       "path": "content/geography/place-directory.md",
       "tags": ["Places","Geography","Locations","Reference"]
     },
@@ -196,7 +196,7 @@
       "id": "faction-directory",
       "title": "Faction Directory",
       "category": "Factions",
-      "summary": "Reference directory for established Arkenfell factions, institutions, houses, orders, and political groups.",
+      "summary": "A searchable directory of all 56 factions configured in Arkenfell.",
       "path": "content/factions/faction-directory.md",
       "tags": ["Factions","Organizations","Politics","Reference"]
     },
@@ -210,9 +210,9 @@
     },
     {
       "id": "important-npcs",
-      "title": "Important NPC Directory",
+      "title": "People Directory",
       "category": "People",
-      "summary": "Player-safe directory of established NPCs important enough for persistent reference.",
+      "summary": "A searchable directory of all 294 authored people configured in Arkenfell.",
       "path": "content/people/important-npcs.md",
       "tags": ["People","NPCs","Reference","Canon"]
     },
