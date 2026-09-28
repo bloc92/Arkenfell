@@ -1,0 +1,5864 @@
+{
+  "realm": "Arkenfell",
+  "entries": [
+    {
+      "name": "Danger Desensitization",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You prepare a trained or trusting animal to function around one frightening stimulus such as fire, battle noise, monsters, crowds, or magic without forcing it through unlimited terror.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "40"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Animal Handling 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Darkness Field",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You thicken shadows into a tactical zone that dims sight, hides movement, and unsettles those inside. Use this to break line of sight, isolate enemies, cover retreat, or control a passage.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "24"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Shadow Arcana 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dawn Bridge",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You create a temporary negotiating space where hostile people can speak without immediately losing face or status. Use this to halt escalation long enough to exchange terms, establish one shared interest, or keep a fragile meeting from collapsing.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Persuasion 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dawn Purge",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Concentrate solar heat and revelation into a cleansing burst that strips away one nearby layer of corruption, supernatural darkness, false radiance, infection-like magical taint, or concealment. It exposes and burns what the Sun Arcana can actually reach rather than solving every curse.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "55"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Sun Arcana Mastery 1, Sun Arcana 60"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dawn Ward",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You surround one target with warm solar light that resists cold, shadow pressure, fear, and minor corruption while revealing obvious darkness clinging to them.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "18"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Sun Arcana 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dawnrunner",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You run with legendary endurance and route instinct, crossing distance like a messenger from myth. Can arrive in time for a critical scene when the route is physically possible but would break ordinary travelers.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "70"
+        },
+        {
+          "label": "Cooldown",
+          "value": "10"
+        },
+        {
+          "label": "Requirements",
+          "value": "Running 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Daybreak Expanse",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You fill a major scene with controlled magical daylight, glare, refraction, and searing lines of radiance. It can deny darkness and pressure many foes at once, but broad coverage reduces precision.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "58"
+        },
+        {
+          "label": "Cooldown",
+          "value": "11"
+        },
+        {
+          "label": "Requirements",
+          "value": "Light Arcana 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Daybreak Lance",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You compress light into a focused line of searing brilliance. Use this to strike a target, burn away magical darkness, blind a dangerous foe, cut through shadowed concealment, or force light-sensitive creatures into retreat.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "65"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Light Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Daystar",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You manifest overwhelming solar authority as a crown, aura, beam, or field of radiant judgment. Use this to cleanse major corruption, repel supernatural darkness, strengthen allies through solar resolve, expose concealed taint or shadowed magic, or make a battlefield answer to daylight.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "45"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Sun Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dead Reckoning",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You reconstruct your approximate position from the last reliable point, travel time, heading, terrain, slope, water, and weather after landmarks are lost. It can recover a plausible route or expose accumulated drift, but cannot reveal ground you have never observed.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "20"
+        },
+        {
+          "label": "Cooldown",
+          "value": "0"
+        },
+        {
+          "label": "Requirements",
+          "value": "Navigation 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Death Mark",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Study a target movement, habits, armor, and fear until one lethal opening becomes clear. Bypasses ordinary guard on a prepared strike against a vulnerable target.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "65"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Light Blades 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Death Sense",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You recognize the nearness, trace, or wrongness of death before others can name it. Use this to sense recent death, undead presence, lethal curses, dying bodies, grave magic, or places where life has been unnaturally thinned.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "0"
+        },
+        {
+          "label": "Requirements",
+          "value": "Death Arcana 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Death's Threshold",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You seize temporary control of the boundary between life and death around a critical target or scene. You may delay a death, sever necromantic influence, or force an undead presence toward stillness, but you cannot casually restore the truly dead.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "62"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Death Arcana 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Deathless Interval",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Hold a dying creature at the threshold between life and death for a short crisis, preventing immediate passage while treatment, escape, or a final act remains possible. This does not heal the injury, restore the dead, or make the target safe once the interval ends.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Death Arcana Mastery 1, Death Arcana 60"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Deathroom Rewrite",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Reconfigure a lethal trap chamber so its own logic creates a safe path, false trigger, or controlled release. Turns an extreme hazard into a usable advantage if it is not purely magical will.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "80"
+        },
+        {
+          "label": "Cooldown",
+          "value": "11"
+        },
+        {
+          "label": "Requirements",
+          "value": "Traps 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Deathtrap Rewrite",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You seize a trap's mechanism, purpose, and timing so completely that it becomes your tool. Use this to reverse a legendary trap, weaponize it against enemies, preserve its useful parts, or turn a death mechanism into protection.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "70"
+        },
+        {
+          "label": "Cooldown",
+          "value": "11"
+        },
+        {
+          "label": "Requirements",
+          "value": "Traps 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Deathward",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You brace a living target against death-state magic, life drain, corpse influence, or the supernatural pull of a dying threshold. It delays or resists such pressure but does not heal ordinary wounds.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "18"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Death Arcana 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Deathward Surgery",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You perform a complex intervention on a critically injured patient while managing blood loss, shock, poison, breathing, and secondary damage together. Use this to keep a patient alive through an injury that ordinary first aid cannot stabilize; success still depends on tools, time, and the injury.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "45"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Medicine 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Debt of Compliments",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Make a favor feel like proper repayment after publicly praising, defending, legitimizing, or socially rescuing someone. Turns public praise or rescue into a soft obligation.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "20"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Persuasion 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Decisive Arc",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You turn one opening into a masterful sequence of Dueling-family weapon strikes, footwork, feints, and pressure. Use this to overwhelm a powerful opponent or move through several nearby threats; other weapon families and unarmed attacks remain governed by their own skills.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "45"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Dueling 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Decisive Command",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Identify the one coordinated action that can turn a battle, rout, rescue, or defense and drive allies to execute it together. Greatly improves a single group action that depends on discipline and trust.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "65"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Leadership 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Deckline Footwork",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Use rails, lines, mast positions, deck motion, and rigging clearance as part of close combat on a vessel. It keeps you functional while the deck moves and can create a quick reposition when shipboard terrain supports it.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Mariner Combatant 1, Sail Handling 30, Light Blades 30"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Deep Ore Revelation",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You recognize the deeper pattern beneath stone, mineral traces, tunnel supports, and worked ground. Use this to locate valuable deposits, identify unstable underground areas, or reveal hidden mining routes.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Natural Lore 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Defensive Brace",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Lock your stance behind shield, armor, or cover before impact lands. Reduces the chance of being shoved, knocked down, or driven from a defended position.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "25"
+        },
+        {
+          "label": "Cooldown",
+          "value": "4"
+        },
+        {
+          "label": "Requirements",
+          "value": "Shields 25"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Deny the Lane",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Establish a guarded arc that makes crossing one approach immediately dangerous, forcing ordinary opponents to slow, divert, or risk being checked. It controls a plausible lane rather than an entire battlefield.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "42"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Polearm Mastery 1, Polearms 60"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Depth Pressure",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You press abyssal weight into a target or area, making motion heavy, light dim, breath tighten, and courage falter. Use this to slow enemies, suppress an advance, darken a corridor, weaken morale, or create crushing depth.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "24"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Abyss Arcana 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Depth Step",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You wrap yourself in the sensation of impossible depth, muffling sound and making nearby observers misjudge your distance or vertical position for a brief movement.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "18"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Abyss Arcana 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Detail Focus",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You deliberately lock attention onto small visual inconsistencies such as scratches, stains, seams, motion, or altered placement that casual observation would miss.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "0"
+        },
+        {
+          "label": "Requirements",
+          "value": "Seeing 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Device Recognition",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You recognize common arms, badges, livery, rank marks, cadency, or heraldic conventions and know when a displayed device is obviously inconsistent.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "0"
+        },
+        {
+          "label": "Requirements",
+          "value": "Heraldry 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Devouring Focus",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Concentrate supernatural hunger onto one chosen source of effort, heat, magic, nourishment, or vitality that you can meaningfully reach, draining its available strength into temporary relief or pressure. The effect cannot consume abstract concepts without an established magical connection.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "55"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Hunger Arcana Mastery 1, Hunger Arcana 60"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Devouring Touch",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You draw stamina, warmth, magical charge, or another coherent form of usable energy from one contacted target or object. What you take depends on what is actually present and the target can resist.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "46"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Hunger Arcana 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Diagnostic Interview",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You turn symptoms, timing, diet, exposure, pain, and medical history into a structured differential rather than guessing from the most obvious sign.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "20"
+        },
+        {
+          "label": "Cooldown",
+          "value": "1"
+        },
+        {
+          "label": "Requirements",
+          "value": "Medicine 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dim Veil",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Draw nearby shadow around your outline and soften the signs of your movement. Makes casual sight-based detection unreliable in dim or broken light.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Shadow Arcana 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Diplomatic Opening",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Establish a formal diplomatic framing for a conversation - signal intent to negotiate in good faith, invoke protocol, or create a brief window where hostility is socially untenable.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "16"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Persuasion 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Direct Order",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Issue a clear, authoritative command that produces immediate compliance from those predisposed to follow orders. Works on soldiers, servants, and people in structured roles under stress.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "16"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Leadership 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Directional Listen",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You isolate the rough direction of a faint sound through noise, echo, or obstruction, helping locate footsteps, speech, machinery, animals, or movement.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "0"
+        },
+        {
+          "label": "Requirements",
+          "value": "Hearing 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dirty Opening",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Use a shoulder bump, low kick, sleeve pull, headbutt, or thrown dust to disrupt an opponent rhythm. Creates advantage for an immediate close-range follow-up.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "25"
+        },
+        {
+          "label": "Cooldown",
+          "value": "4"
+        },
+        {
+          "label": "Requirements",
+          "value": "Brawling 25"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Disarming Line",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Control the opponent weapon hand, balance, or angle long enough to strip away their advantage. Can disarm, bind, or neutralize a mundane weapon guard on success.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Dueling 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Disarming Performance",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Command attention so strongly through performance that tension drops, enemies hesitate, or a crowd gives room to act. Temporarily shifts the emotional pressure of a scene.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Performance 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Disaster Command",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You command crew, controls, engines, and conditions through a disaster as one system. Can keep a damaged craft operational long enough to finish the scene.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Vessel Piloting 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Disease Thief",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Draw a bounded disease, magical blight, fever-pattern, or spreading corruption out of one target and contain it temporarily in yourself, a prepared vessel, or sacrificial medium. The disease is transferred or contained, not simply erased, and mishandling remains dangerous.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Plague Arcana Mastery 1, Plague Arcana 60"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Displacement",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You fold space for a short visible jump, moving yourself, a willing target, or a contested nearby target to a place you can clearly see. The distortion is visible at both points and cannot pass unknown barriers safely.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Spatial Arcana 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Disrupting Volley",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Shoot to break casting focus, command rhythm, reload timing, or charge momentum. Interrupts one vulnerable action if the arrow lands cleanly.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Bows 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dissolution Bloom",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You release a powerful corrosive bloom across a limited target or area, turning acid into a battlefield hazard, armor-breaker, barrier-eater, or monster-burning surge. It must remain contained and can endanger allies, supplies, floors, and structures.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "45"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Acid Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Distance Read",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You judge identity, equipment, posture, banners, movement, or terrain detail at long visual range more reliably than ordinary sight conditions allow.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "20"
+        },
+        {
+          "label": "Cooldown",
+          "value": "1"
+        },
+        {
+          "label": "Requirements",
+          "value": "Seeing 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Doctrinal Arbitration",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You compare competing interpretations, precedents, and ritual obligations to identify where a religious dispute genuinely hinges and what recognized authorities might accept.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "42"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Religious Lore 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Doctrine of Restraint",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Challenge zealots, frightened mobs, or reckless officers by citing accepted duty, doctrine, law, or moral obligation without sounding rebellious. Checks zealotry, panic, or reckless command through recognized doctrine or duty.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Religious Lore 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Document Chain",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You reconstruct who created, copied, approved, amended, transmitted, and stored a set of records, helping expose gaps, substitutions, or suspicious changes in custody.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "42"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Archival Research 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dominating Presence",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Your gaze, voice, stillness, and supernatural hunger press on a weaker will. Use this to intimidate, hold attention, command hesitation, lure someone closer, or impose social pressure, but it cannot override firm loyalty, clear consent, magical protection, or someone with stronger will and reason to resist.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Vampire 1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Doom Echo",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You draw out the warning shape of a curse, prophecy, inherited doom, or recurring disaster and make its next likely pressure point easier to recognize.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "42"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Wyrd Arcana 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Doom Knot",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Bind a hostile curse, spirit, or fate-pattern into a temporary knot so it cannot act freely. Restrains a supernatural affliction long enough for escape or deeper work.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "65"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Forbidden Lore 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dormant Function",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Identify the practical function hidden behind a relic appearance or ritual casing. Reveals what the object is meant to do if enough evidence remains.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Relic Lore 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Double Release",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Send two prepared thrown weapons into separate immediate problems in one practiced sequence, such as two targets or a target and a nearby mechanism. Both throws still need plausible range and lines.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "60"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Thrown Weapon Mastery 1, Thrown Weapons 60"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Doubtbreaker",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You answer spiritual intimidation, blasphemous pressure, or corrupting temptation with practiced conviction. Use this to resist being shaken from a chosen belief or sacred duty without granting immunity to magic or persuasion.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Faith 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Draconic Mantle",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You wrap yourself in a visible draconic manifestation of your established Type and Nature: scale-like defense, a fitting breath-aura, bodily reinforcement, territorial warning, or another coherent draconic expression. Use this to resist a fitting hazard, strengthen a draconic action, intimidate, shield, or draw dragon-sensitive attention without gaining unrestricted domain control.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Dragon Arcana 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dragon Breath Spark",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You release a small draconic breath manifestation that expresses your established Type and Nature through a fitting substance or natural phenomenon. Use this to strike, mark, obscure, coat, chill, burn, shock, batter, or otherwise affect a nearby target only as that Nature plausibly allows; it does not grant independent control of the Nature's broader domain.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Dragon Arcana 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dragon Temper Reading",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You read draconic signs well enough to judge mood, territory, age, likely response, and visible clues to a dragon's established Type and Nature. Use this to avoid provoking a dragon, interpret its behavior, or prepare for its presence.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Dragon Lore 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dragon's Claim",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You manifest your established Type and Nature at scene-changing scale through breath, scales, bodily reinforcement, movement, resistance, or draconic presence. The effect must remain explicitly draconic and does not grant command over dragons, independent control of the Nature's substance or phenomenon, or inherited territorial or pact rights.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "45"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Dragon Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dragonheart Reading",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You read the deeper priorities behind a dragon's behavior: pride, territory, individual history, grievance, appetite, bargains, and any known Origin, State, or Condition that materially shapes the situation. Use this to choose a negotiating approach or predict how it may answer a meaningful provocation.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "55"
+        },
+        {
+          "label": "Cooldown",
+          "value": "4"
+        },
+        {
+          "label": "Requirements",
+          "value": "Dragon Lore 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Draining Touch",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You channel death-state energy through touch, weapon contact, or close focus to sap vitality and weaken a living or undead target. Use this to exhaust a foe, feed a desperate spell, or disrupt unnatural life-force at close range.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Death Arcana 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dread Mandate",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Rally or cow fear-sworn followers, shaken troops, desperate agents, or oath-bound subordinates through presence, reputation, and dread. Use this to restore order, halt a rout, secure attention, or demand a difficult action; loyalty, recognized authority, and consequences still determine whether they comply.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "65"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Intimidation 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dreadfield",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You flood the nearby area with supernatural dread, causing lesser threats to hesitate, scatter, freeze briefly, or fall back according to their own survival instincts. Disciplined or powerful targets may resist the pressure.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "60"
+        },
+        {
+          "label": "Cooldown",
+          "value": "10"
+        },
+        {
+          "label": "Requirements",
+          "value": "Intimidation 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dream Entry",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You observe the edge of a willing sleeper's dream or an established shared dream-space. Use this to witness symbols, repeated nightmares, dream-touched magic, or visible dream imagery without directly changing the dream.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Dream Arcana 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dream Message",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You place a short symbolic message into the dream of a willing sleeper or a target connected through an established consensual dream-link. The dreamer experiences it through their own imagery and may misunderstand symbolism.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "18"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Dream Arcana 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dream Shape",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You reshape an active dream-space by introducing symbolic scenery, sounds, warnings, comforts, or obstacles. Use this to communicate within a shared or willingly entered dream, calm a nightmare, or alter the dream environment while leaving the sleeper's waking state unchanged.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Dream Arcana 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dream Ward",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You reinforce a willing sleeper's dream or an established shared dream-space against hostile intrusion, recurring nightmare pressure, or destabilizing outside magic. The ward can shelter the dream, reveal interference, or help the sleeper wake cleanly.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "42"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Dream Arcana 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dreamscape Command",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You take structural control of an established shared or willingly entered dream-space for one intense scene, reshaping its rules, symbols, terrain, and atmosphere. Participants retain their own choices, and the effect does not alter their waking emotions, memories, or loyalties.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "45"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Dream Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dungeon Pathbreak",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You read airflow, dust, pressure marks, monster signs, and room logic to find the safest path through a dangerous structure. Use this to bypass obvious danger, identify a hidden route, or guide allies through a dungeon without triggering every threat.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "24"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Searching 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dungeonmind",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You read a dungeon, ruin, vault, or sealed structure as if its dangers are speaking through stone, dust, airflow, and silence. Use this to reveal hidden routes, predict layered traps, bypass deadly rooms, or guide allies through a complex dungeon safely.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "45"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Searching 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dusk Throne",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Your presence fills the nearby area with unstable dusk, deepening contrast and making your exact outline, approach, and position harder to read as radiance and shadow shift around you. Use this to control a close area through twilight obscurity and visual pressure; it does not command fear, loyalty, or obedience.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "24"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Twilight Arcana 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Duskstep",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You move through the boundary between light and shadow, becoming briefly difficult to target as your outline shifts between both. It works best where neither full brightness nor total darkness dominates.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "18"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Twilight Arcana 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dynastic Knot",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You reconstruct a multi-generation web of inheritance, legitimization, wards, marriages, cadet branches, extinct lines, and competing jurisdictions to show how several claims interact. Use this to reveal a succession consequence capable of changing national politics without treating genealogy alone as legal judgment.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "70"
+        },
+        {
+          "label": "Cooldown",
+          "value": "10"
+        },
+        {
+          "label": "Requirements",
+          "value": "Heraldry 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dynastic Leverage",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Use inheritance concerns, family prestige, alliance expectations, or long-term house survival to pressure a negotiation without open threats. Establishes noble obligation or alliance pressure where lineage and inheritance matter.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Heraldry 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Earthen Wall",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You raise, compact, or reshape earth and stone into a durable wall, ramp, brace, trench, or cover. Use this to block a charge, protect allies, seal a passage, stabilize rubble, or create a tactical barrier from the ground.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "24"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Earth Arcana 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Earthsplit Rescue Method",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You move rubble, earth, timber, and stone with expert sequencing that preserves what must not collapse. Use this to rescue trapped people, open sealed paths, stabilize ruin damage, or clear heavy debris under danger.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "42"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Might 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Echo Interrogation",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Focus on one lingering impression and pose a narrow question through matching place, object, emotion, or magical trace. The echo may answer through fragment, sensation, voice, or symbol, but remains incomplete and cannot invent information it never contained.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "55"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Echo Arcana Mastery 1, Echo Arcana 60"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Echo Map",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You use echoes, reverberation, and sound delay to estimate the size, openings, obstacles, and hidden spaces of an enclosed area you cannot fully see.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "40"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Hearing 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Echo Replay",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You draw a stronger echo into brief sensory replay: a sound, motion, phrase, emotional surge, spell-shape, or shadow of an event. Echoes are incomplete, symbolic, and can be distorted.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Echo Arcana 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Echo Sense",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You notice when a place, object, wound, or spell carries an unusually strong lingering impression. It tells you an echo exists without revealing the full event.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "1"
+        },
+        {
+          "label": "Requirements",
+          "value": "Echo Arcana 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Echoing Enchantment",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You make a prepared enchantment repeat its effect several times or persist through a demanding scene without constant attention. The effect must remain within the object or condition originally enchanted.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "48"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Enchantment Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Eclipse Edge",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You combine radiance and shadow along one attack or cutting effect, letting it challenge defenses that rely entirely on either light or darkness.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "48"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Twilight Arcana 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Eclipse Passage",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Step through deep connected shadow in a way that feels impossible to witnesses. Enables a dramatic escape or entry through darkness when the scene supports supernatural movement.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "80"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Shadow Arcana 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Eclipse Reversal",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You vanish from the enemy's winning moment and reappear inside their failure. Use this after dodging, surviving, or reading a major attack to reverse momentum and punish the attacker with decisive force.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "55"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Acrobatics 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Eclipse Turnabout",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You erase the enemy's decisive moment and replace it with your own. Use this after surviving, dodging, blocking, or reading a devastating attack to reverse the scene and punish the attacker with legendary precision.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "70"
+        },
+        {
+          "label": "Cooldown",
+          "value": "11"
+        },
+        {
+          "label": "Requirements",
+          "value": "Acrobatics 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Ecological Leverage",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You identify one practical way to use a local ecosystem without destroying it, such as attracting or avoiding animals, finding water, controlling pests, or locating a renewable resource.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "40"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Natural Lore 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Edge Line",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You guide a bladed strike along the cleanest path instead of forcing power through bad angle. Use this with swords, daggers, axes, scythes, or other edged weapons to make a precise cut or punish an exposed guard.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Heavy Blades 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Edge Temper",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You magically harden, straighten, or sharpen one metal tool, weapon, plate, or fitting for a short scene. It improves the object function without replacing skilled Smithing.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "20"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Metal Arcana 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Efficient Stroke",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You maintain a sustainable swimming rhythm through distance, equipment drag, or mild current without exhausting yourself as quickly as an untrained swimmer.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "20"
+        },
+        {
+          "label": "Cooldown",
+          "value": "1"
+        },
+        {
+          "label": "Requirements",
+          "value": "Swimming 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Eightfold Staffline",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You anchor an entire melee around one staff line, redirecting charges, throws, missiles, and weapon paths through timing and leverage. Can hold a chokepoint or protect a fallen ally against overwhelming physical pressure.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "60"
+        },
+        {
+          "label": "Cooldown",
+          "value": "11"
+        },
+        {
+          "label": "Requirements",
+          "value": "Staff Fighting 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Elemental Companion",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You summon and bind a sturdier companion, servant, or construct that can act during a full scene. Use this to fight, protect, scout, carry messages, or solve physical problems, but it remains limited by its nature and binding.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Conjuration Arcana 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Ember Renewal",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You kindle a small phoenix-like flame in body, spirit, or object. Use this to steady someone after injury, burn away minor corruption, rekindle morale, cleanse a small taint, or keep a wounded person conscious long enough to act.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Phoenix Arcana 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Emberheart",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You kindle a persistent reserve of phoenix vitality in yourself or one willing ally, allowing them to recover from one severe collapse during the scene if they are still alive.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Phoenix Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Emergency Antidote",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You combine available ingredients into a targeted temporary antidote or symptom suppressant when the toxin or contaminant is understood well enough to treat.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "42"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Brewing 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Emergency Bastion",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You rapidly assemble nearby doors, furniture, planks, rope, cloth, leather, carts, and other workable material into temporary cover, a barricade, reinforced gear, or a protected work position. The result is improvised handwork for the immediate danger, not structural engineering or a load-bearing bridge.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Handcrafting 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Emergency Dismount",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Leave a moving, falling, panicked, or wounded mount in a controlled way that preserves a chance to land, roll, or reach cover. It reduces the danger of a bad mounted situation rather than cancelling it.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Riding Mastery 1, Riding 60"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Emergency Jury-Rig",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Use ship structure and rigging knowledge to make one temporary repair or replacement that keeps a damaged vessel functional through the immediate hazard. It sacrifices durability for survival rather than restoring the ship completely.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Shipwright 1, Engineering 30, Sail Handling 30"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Emergency Triage",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Sort multiple wounded people by urgency and act fast enough to save the one most likely to die first. Stabilizes the most critical patient and improves survival odds for the scene.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Medicine 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Endless Star Throw",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Your thrown weapons, tools, and improvised projectiles move through the scene like a planned constellation. Use this to strike multiple targets, interrupt spellcasting, disarm foes, punish pursuit, or attack from angles no one expected.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "55"
+        },
+        {
+          "label": "Cooldown",
+          "value": "11"
+        },
+        {
+          "label": "Requirements",
+          "value": "Thrown Weapons 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Endstate",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You focus on one already compromised target and force its accumulated fractures toward decisive failure. Against a truly sound target it has far less leverage; Ruin Arcana remains strongest where collapse has already begun.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "70"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Ruin Arcana 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Endurance March",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Sustain travel pace through fatigue, poor conditions, or extended distance without significant degradation. Passive; reduces the stamina cost of long travel and prevents exhaustion events.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "16"
+        },
+        {
+          "label": "Cooldown",
+          "value": "1"
+        },
+        {
+          "label": "Requirements",
+          "value": "Running 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Entangle",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You urge nearby plants, roots, vines, branches, or living wood to hinder a target. Use this to slow pursuit, bind limbs, create cover, or turn vegetation into a temporary obstacle.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Wood Arcana 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Equalizing Edge",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Shape twilight into a balanced strike or ward that bites especially cleanly into effects relying on overwhelming radiance, consuming shadow, or one-sided magical extremes. It does not cancel unrelated magic and still requires a successful contest against powerful effects.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "58"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Twilight Arcana Mastery 1, Twilight Arcana 60"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Etching Touch",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You draw a controlled caustic trace across a small surface. Use this to etch a mark, weaken a thin fastener, clean corrosion, or damage a fragile material without flooding the area.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "1"
+        },
+        {
+          "label": "Requirements",
+          "value": "Acid Arcana 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Etiquette Trap",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Ask a formally correct question whose expected answer depends on status, precedent, procedure, or preparation. A revealing response can expose ignorance, false status, overreach, or weak preparation, but the ability does not read hidden intent or force someone to confess.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Etiquette 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Evasive Story",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Avoid a cornering question or demand for impossible knowledge through parable, misdirection, changed audience, or incomplete truth. Deflects a cornering question or social trap through controlled misdirection.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Deception 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Evasive Turn",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You execute an evasive maneuver that trades comfort for survival. Can dodge collision, hostile fire, reefs, debris, or sudden terrain when the craft can physically respond.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Vessel Piloting 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Event Horizon",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You create an extreme short-lived gravity boundary that bends trajectories and drags nearby matter toward a controlled center. It is broad, hazardous, and cannot safely distinguish allies from enemies inside the field.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "58"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Gravity Arcana 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Event Reconstruction",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You weave several compatible echoes into a coherent sequence of what likely occurred in a place. Missing or distorted impressions remain visible as uncertainty rather than being filled in automatically.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "42"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Echo Arcana 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Evidence Over Orders",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Act decisively when confirmed evidence contradicts incomplete, misleading, or politically compromised orders. Permits decisive action when confirmed facts contradict compromised orders.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Military Lore 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Exact Deposition",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You record testimony, sequence, names, qualifications, and uncertainty in a form that preserves what was actually said and makes later contradiction easier to detect.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "32"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Writing 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Exile Formula",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Name the mismatch between an outsider and the world strongly enough to weaken its hold. Improves banishment, dismissal, or forced retreat against planar beings.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Planar Lore 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Expedition Command Board",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You turn a dangerous mission into roles, fallback plans, supply priorities, and hazard responses. Use this before a journey, dungeon run, monster hunt, sea voyage, or risky negotiation to reduce chaos for the whole group.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "24"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Military Lore 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Exploit Opening",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Spot the moment when the enemy line, argument, pursuit, or defense has overextended and direct allies to act together. Turns one discovered weakness into group advantage.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Leadership 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Eye of the Tempest",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You seize command of an existing major storm for one decisive scene, bending its wind, rain, lightning, and pressure toward your intent. The storm remains dangerous, exhausting, and larger than the caster.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "45"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Storm Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Faction Etiquette",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You recall a faction customary greeting, taboo, rank signal, bargaining habit, or internal courtesy well enough to avoid an obvious social mistake.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "20"
+        },
+        {
+          "label": "Cooldown",
+          "value": "1"
+        },
+        {
+          "label": "Requirements",
+          "value": "Faction Lore 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fair Price",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Separate fair value from desperation, ignorance, or theater in a negotiation. Prevents ordinary overcharging or panic-selling from controlling the deal.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Bargaining 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Faith Under Pressure",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Resist intimidation, despair, public panic, and moral pressure when others are watching for certainty. Maintains resolve when others are watching for certainty.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "4"
+        },
+        {
+          "label": "Requirements",
+          "value": "Faith 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Falling Star Impact",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You focus stellar force into a visible point, releasing cold radiance, crushing light, and celestial shock. Use this to strike a major target, break a fortified position, scatter a formation, or reveal hidden supernatural structures.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "45"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Star Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Falling Star Volley",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You release several shots or projectiles in a controlled burst rather than a single attack. Use this to pressure multiple nearby targets, pin a group, punish a charge, or cover an ally's movement.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "24"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Bows 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "False Hand",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You chain misdirection, touch, and body angle so the audience remembers the wrong hand. Can steal or plant something on a guarded person if you first create social or physical cover.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Legerdemain 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "False Pattern",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You lose or win in a pattern that changes how others read you. Lets you bait overconfidence, hide competence, or draw a specific opponent into a larger wager.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Gambling 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "False Trail Loop",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You loop behind a search pattern and leave signs pointing the wrong way. Can break active pursuit if cover, crowd, terrain, or confusion gives you any opening.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Stealth 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Famine Aura",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You spread a draining pressure through an area that makes exertion feel costly and resources seem to vanish faster. It weakens sustained action rather than instantly starving anyone.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "42"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Hunger Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Farsight",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You remotely observe a known, visited, marked, or strongly connected place for a brief span. Use this to scout, verify danger, watch a ritual, or check on allies, but wards and sensitive targets may notice the observation.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "55"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Divination Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fate's Wager",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You make a high-stakes game feel like fate bending around your nerve and preparation. Can force a decisive social or financial outcome when all parties willingly remain at the table.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "60"
+        },
+        {
+          "label": "Cooldown",
+          "value": "10"
+        },
+        {
+          "label": "Requirements",
+          "value": "Gambling 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fatebreaker Moment",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You challenge one apparently inevitable outcome and create a narrow alternative path where none seemed to remain. The new possibility still requires action, sacrifice, or success; Fate Arcana does not guarantee victory.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "65"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Fate Arcana 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fated Crossroads",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You force the scene toward a decisive turning point where choices, consequences, luck, and destiny converge. It does not guarantee victory; it makes the next choice matter more.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "55"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Fate Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Faultline Touch",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You trace a physical object or structure by hand and identify a hidden crack, warped join, loose fitting, stress line, or concealed seam.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "42"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Touching 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fearbreak",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You break through the moment when fear would seize control of your next action. Use this to move, fight, speak, rescue, or decide under severe terror, including supernatural fear, while still respecting real danger.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Courage 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fearsome Persona",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Let reputation, costume, silence, and timing make an entrance feel larger than one person. Forces hesitation from enemies who believe the persona is dangerous.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "65"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Disguise 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Feast Before the Impossible",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You organize an extraordinary communal feast for a force, expedition, household, or battered company facing a legendary ordeal, using scarce ingredients and careful preparation to restore shared resolve and physical readiness. It cannot erase wounds or exhaustion that still require treatment and rest.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "55"
+        },
+        {
+          "label": "Cooldown",
+          "value": "11"
+        },
+        {
+          "label": "Requirements",
+          "value": "Brewing 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Featherfall Field",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You reduce effective weight across a small area enough to slow falls, ease lifting, or soften impacts for several people at once. It does not grant true flight.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "16"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Gravity Arcana 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fence Sense",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You judge what kind of buyer, broker, or middleman would handle a suspicious good and what risks, questions, or proof they are likely to demand.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "20"
+        },
+        {
+          "label": "Cooldown",
+          "value": "1"
+        },
+        {
+          "label": "Requirements",
+          "value": "Thieves' Lore 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Field Bridge",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You design and direct a temporary crossing from rope, timber, carts, debris, or local structure that can safely carry a defined load if materials are adequate.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "28"
+        },
+        {
+          "label": "Cooldown",
+          "value": "4"
+        },
+        {
+          "label": "Requirements",
+          "value": "Engineering 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Field Differential",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Use symptoms together with local plants, animals, water, weather, and environmental signs to narrow several plausible causes of illness or injury into the most likely immediate treatment path. It remains a diagnosis, not certainty.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Field Physician 1, Medicine 30, Natural Lore 30"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Field Distillation",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You improvise a controlled distillation, reduction, infusion, or separation with limited equipment to produce a useful extract, spirit, medicine base, or cleaner reagent.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Brewing 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Field Dressing",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Stabilize a bleeding, shocked, or collapsing person with fast practical care under pressure. Prevents an injury from immediately worsening if treatment is physically possible.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Medicine 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Field Evidence Judgment",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Compare orders, reports, doctrine, and visible evidence to identify contradictions before committing to action. Reveals contradictions between orders, reports, doctrine, and visible field evidence.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "20"
+        },
+        {
+          "label": "Cooldown",
+          "value": "1"
+        },
+        {
+          "label": "Requirements",
+          "value": "Military Lore 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Field Patch",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You make a fast repair sturdy enough to survive the next problem. Use this to fix torn cloth, loose straps, cracked handles, damaged packs, simple tools, or field gear under pressure.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "1"
+        },
+        {
+          "label": "Requirements",
+          "value": "Handcrafting 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Field Repair",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Patch a damaged mechanism, bridge, tool, lock housing, armor joint, or vehicle enough to keep it working. Restores temporary function until proper repairs are possible.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Engineering 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Final Benediction",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Stand as the living focus of oath, mercy, and judgment in a decisive crisis, giving willing allies a clear example and words to rally around. Use this to steady ordinary fear and confront others with the moral weight of your vow; it creates no supernatural compulsion, ward, or holy attack.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "80"
+        },
+        {
+          "label": "Cooldown",
+          "value": "11"
+        },
+        {
+          "label": "Requirements",
+          "value": "Faith 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Final Exchange",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Force a duel into one clear deciding moment where hesitation, poor footing, and false tempo are punished. Greatly improves the finishing exchange of a one-on-one fight.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "80"
+        },
+        {
+          "label": "Cooldown",
+          "value": "11"
+        },
+        {
+          "label": "Requirements",
+          "value": "Dueling 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Final Opening",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You read the finishing measure of a duel and strike through the one opening the opponent cannot close in time. Bypasses ordinary guard on a successful decisive exchange, but not supernatural protection.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "65"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Dueling 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Find the Third Route",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Identify a credible alternative passage when the obvious and known routes are blocked, provided the surrounding geography actually permits one. The route may still be dangerous, costly, or uncertain.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "42"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Navigation Mastery 1, Navigation 60"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Find the Unofficial Door",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Identify the kind of local intermediary, worker, fixer, tavern contact, runner, or neighborhood figure most likely to reach a person or service outside official channels. The contact can still refuse or demand a price.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Street Networker 1, Thieves' Lore 30, Social Inquiry 30"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Find the Weak Doctrine",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Identify one assumption in an enemy plan, formation, patrol pattern, or defensive doctrine that can be exploited by a plausible counter-plan. It creates tactical leverage, not an automatic victory.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "42"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Military Lore Mastery 1, Military Lore 60"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Firestep",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You burst heat and flame beneath or behind your movement for a sudden dash, leap, or evasive shift. It can cross a short hazard or punish pursuit but leaves obvious heat and ignition risk.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "18"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Fire Arcana 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Firestorm",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You unleash a wide destructive storm of flame and heat that dominates a scene. Use this to devastate a position, cleanse corrupted growth, break formations, or reshape terrain, but it is obvious, dangerous, and hard to contain.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "45"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Fire Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Aid Spark",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You act quickly before a small injury becomes a serious problem. Use this to bind wounds, slow bleeding, clean an injury, steady breathing, or stabilize someone long enough for better care.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Medicine 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Shock",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You steady your body against a first wave of nausea, pain, drink, smoke, heat, cold, or poison symptoms. Delays the immediate penalty long enough to act clearly.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Tolerance 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Flame Strike",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You channel fire into a directed burst, blade, hand, or thrown line of heat. Use this to burn a target, ignite material, cauterize quickly, scare beasts, or destroy flammable obstacles.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Fire Arcana 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Flame's Defiance",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You awaken the Flame within the Luporian medallion and deliberately act through fear, intimidation, despair, overwhelming odds, predatory presence, magical dread, humiliation, or other immediate pressure that would otherwise make you hesitate, retreat, submit, or lose your nerve. For this action, that pressure cannot prevent you from making the attempt, though the danger, disadvantage, and underlying pressure remain and can affect you again afterward. This does not make you fearless, remove tactical disadvantage, grant immunity to mental influence, or automatically make the chosen action succeed.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Relic Lore 101"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Flash Flask",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Create a sudden burst of smoke, light, stink, foam, heat, or irritant from carried reagents. Disrupts visibility, pursuit, or concentration in a small area.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Brewing 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Flashfreeze",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You drive cold into one target or tight area fast enough to seize joints, freeze liquid, lock a mechanism, or create brittle failure. The effect is focused and can be resisted by heat, insulation, or strong magic.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Cold Arcana 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Flood Surge",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You call or redirect a powerful mass of water through a scene. Use this to break formations, extinguish fire, clear obstacles, move heavy objects, or reshape terrain where enough liquid exists or can be gathered.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "45"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Water Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Focus Breaker",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You send a shot into the eye-line, fingers, reins, or casting focus of a target. Can interrupt concentration, spoil aim, or force a target to guard their face and hands.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Slings 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Folded Bastion",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You bend the paths around a protected position so attacks and movement must cross more distance than they appear to. It is broad defensive geometry rather than an impenetrable wall.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "44"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Spatial Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Folded Escape Route",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Prepare a short spatial return between your present position and one nearby visible or carefully marked point, allowing a rapid retreat or rescue through the fold once before it collapses. Wards, unknown barriers, and major spatial interference can block it.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "52"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Spatial Arcana Mastery 1, Spatial Arcana 60"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Follow the Flinch",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Notice which subject, name, claim, or relationship produces the strongest involuntary reaction and pursue that thread through careful questioning. It identifies emotional pressure without reading minds or proving why the reaction exists.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Social Investigator 1, Social Inquiry 30, Empathy 30"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Forbidden Footnote",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Recognize when a safe-looking source points toward censored, hidden, or dangerous knowledge. Opens a route toward deeper research while warning of risk.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Archival Research 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Forbidden Seal Recognition",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You identify the immediate structure and danger of a curse, taboo rite, sealed name, corrupt enchantment, or forbidden symbol, including the safest obvious way to avoid completing or triggering it. It tells you what kind of danger you face, not every hidden layer.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "42"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Forbidden Lore 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Forbidden Tingle",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You feel when a symbol, phrase, object, or magical effect belongs to dangerous knowledge. Use this to notice taboo lore, unsafe rituals, cursed signs, or hidden corruption before touching deeper.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "0"
+        },
+        {
+          "label": "Requirements",
+          "value": "Forbidden Lore 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Force Cascade",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You release a heavy directional wave of kinetic force that throws bodies, breaks cover, scatters objects, and can crack weak structures. Use this to clear a path, smash a formation, interrupt a charge, or weaponize debris.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "45"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Force Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Force Hold",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You lock invisible pressure around a target, limb, weapon, doorway, or moving object for a short time. The hold requires focus and can be broken by strength, magic, leverage, or damage.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Force Arcana 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Force Push",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You strike a nearby target, object, door, weapon, or incoming threat with invisible kinetic force. Use this to shove, stagger, interrupt, deflect, knock loose, or create space at short range.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Force Arcana 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Force Screen",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You maintain a flat or angled plane of invisible force that catches one direction of projectiles, impacts, or movement. It is stronger when braced against a clear line of attack.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "18"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Force Arcana 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Forest Wrath",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You awaken hostile plant growth across a scene, making roots, branches, thorns, and living wood attack, bind, shield, or reshape the battlefield. The effect is strongest in forests, gardens, ruins overgrown by nature, or places with deep roots.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "45"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Wood Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Forgeguard Temper",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You restore or strengthen metalwork so it can survive punishment beyond normal repair. Use this to reinforce armor, repair weapons, stabilize damaged tools, or prepare metal gear for a dangerous scene.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Smithing 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Forked Omen",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You read several plausible near-future branches around one declared choice. The vision highlights dangers and turning points rather than revealing a guaranteed future.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "45"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Divination Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Formal Draft",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You turn rough intent into a clear letter, petition, report, order, contract draft, or notice in an appropriate formal structure without inventing authority.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "20"
+        },
+        {
+          "label": "Cooldown",
+          "value": "1"
+        },
+        {
+          "label": "Requirements",
+          "value": "Writing 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Formal Hand",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You reproduce a formal hand, seal-adjacent layout, or official style well enough to pass procedural review. Can make a document look institutionally proper without forging authority that was never earned.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Fine Script 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fortress",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You raise a powerful protective field that makes a position difficult to breach for one major scene. Use this to shelter allies, hold a chokepoint, resist a ritual backlash, or survive overwhelming supernatural pressure.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "45"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Protection Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fortress Camp Doctrine",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You arrange a temporary camp like a small fortress of watchlines, supply protection, recovery space, and morale. Use this to protect a group from ambush, bad weather, exhaustion, night monsters, or travel collapse.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Military Lore 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fortunate Turn",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You tug on probability around one immediate action, creating a narrow lucky opening or forcing an enemy good fortune to stumble. Use this to turn a near miss into a chance, make a risky move barely work, or spoil enemy timing.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Fate Arcana 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fortune Engine",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Turn contacts, timing, goods, favors, and risk into a major opportunity others cannot easily copy. Creates a large commercial advantage if the region has enough trade to support it.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "80"
+        },
+        {
+          "label": "Cooldown",
+          "value": "10"
+        },
+        {
+          "label": "Requirements",
+          "value": "Bargaining 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fortune Reversal",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You restructure a failing high-stakes trade or supply situation across several parties, turning liabilities, timing, substitute goods, credit, and competing needs into a viable new arrangement. Use this to reverse a commercial disaster whose solution requires more than bargaining over one price.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "70"
+        },
+        {
+          "label": "Cooldown",
+          "value": "10"
+        },
+        {
+          "label": "Requirements",
+          "value": "Appraisal 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Freshness Read",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You judge whether blood, smoke, food, sweat, spoor, rot, perfume, or another scent is fresh, stale, diluted, or recently disturbed.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "18"
+        },
+        {
+          "label": "Cooldown",
+          "value": "1"
+        },
+        {
+          "label": "Requirements",
+          "value": "Smelling 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Frost Bite",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You project focused cold onto a target, surface, weapon, or patch of terrain. Use this to slow limbs, glaze footing, numb exposed flesh, preserve something briefly, or weaken heat-based effects.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Cold Arcana 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Frost Sheath",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You wrap an object, weapon, limb, or small surface in controlled frost. Use this to cool heat, stiffen material, numb contact, preserve something, or make a held edge dangerously cold.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "18"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Cold Arcana 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fullmoon Revelation",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You flood a major scene with silver lunar force that exposes hidden transformations, buried instincts, glamours, and suppressed truths while strengthening phase-driven Moon magic.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "58"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Moon Arcana 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Funeral Sense",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Recognize when a death, haunting, shrine, grave, or memorial has been handled wrongly. Reveals the immediate spiritual offense or unfinished duty.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "0"
+        },
+        {
+          "label": "Requirements",
+          "value": "Religious Lore 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Gale Step",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You ride controlled air around your body, weapon, or path for a short movement advantage. Use this to leap farther, slow a fall, cross unstable footing, redirect projectiles, or move through a tight battlefield opening.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "24"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Air Arcana 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Gate Across Distance",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You open a temporary passage to a distant location that is known, prepared, strongly attuned, or visibly connected through a valid anchor. Unknown or heavily warded destinations remain unsafe or unreachable.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "58"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Spatial Arcana 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Gate's Challenge",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You awaken the Gate within the Luporian medallion and deliberately take control of a nearby doorway, bridge, stair, narrow passage, or other clear threshold for the present action. Use this to bar ordinary passage through that point, forcing anyone who tries to cross while you hold it to overcome, displace, evade, or otherwise deal with you rather than simply moving past. It does not make you immovable, stop ranged attacks, prevent magical passage, or control a threshold too broad for you to meaningfully guard.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "0"
+        },
+        {
+          "label": "Requirements",
+          "value": "Relic Lore 101"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Gatewright",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Understand a major crossing well enough to open, close, redirect, or survive it under extreme pressure. Enables one decisive intervention at a planar gate or boundary.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "80"
+        },
+        {
+          "label": "Cooldown",
+          "value": "10"
+        },
+        {
+          "label": "Requirements",
+          "value": "Planar Lore 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Gatherer's Sweep",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You search an area in a practical pattern instead of wandering randomly. Use this to find edible plants, herbs, dry fuel, clean water signs, useful scraps, or simple natural materials.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "0"
+        },
+        {
+          "label": "Requirements",
+          "value": "Natural Lore 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Ghost Key",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You create a temporary working key from memory, tension, and improvised material after reading the mechanism. Allows repeated access to one lock for a short period without breaking it.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "65"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Lock Picking 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Ghost Step",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Move through a tense area while matching noise, shadow, crowd flow, or patrol rhythm. Bypasses ordinary watchers when no direct magical detection is involved.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Stealth 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Giantfall Stone",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You launch a single impossible stone into the exact weak point of giant, machine, siege gear, or monster. Can topple, crack, or disable something far larger than the projectile should affect.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "80"
+        },
+        {
+          "label": "Cooldown",
+          "value": "11"
+        },
+        {
+          "label": "Requirements",
+          "value": "Slings 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Glacial Dominion",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You drop the temperature across a dangerous scene until surfaces freeze, movement slows, and unprotected targets suffer sustained cold pressure. Use this to lock terrain, isolate enemies, protect an area, or turn the environment itself against a threat.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "45"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Cold Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Glass Gleam",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You read and shape small glass details: stress lines, reflections, clarity, hidden flaws, cutting edges, and trapped light. Use this to detect tampered glass, improve a lens, create a shard, or expose a hidden watcher.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Glass Arcana 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Glass Needle",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You draw nearby glass into one thin controlled shard or cutting filament. Use it for a precise attack, surgical cut, lock manipulation, or delicate material work.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "20"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Glass Arcana 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Glass Shardweave",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You shape glass into temporary blades, screens, lenses, mirrors, bindings, or fragile barriers. Use this to cut, deflect, hide, focus light, scatter sightlines, or create a dangerous obstacle.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Glass Arcana 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Glassstorm",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You suspend and drive a broad cloud of glass fragments through controlled currents, creating lethal area denial and moving cover. The storm threatens allies and unprotected surroundings as readily as enemies.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "58"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Glass Arcana 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Gloom Step",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Move between patches of shadow as if the darkness briefly covers the transition. Enables a short hidden reposition where the lighting supports it.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "25"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Shadow Arcana 25"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Golden Deadlock",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You restructure a stalled negotiation by trading secondary concessions, timing, guarantees, and competing interests until each side has a reason to move. Use this to break a serious deadlock where a single better offer would not be enough.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "65"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Bargaining 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Graceful Entry",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Enter a formal room, audience, feast, or negotiation without giving offense and with enough poise to be heard. Prevents immediate social dismissal in polite company.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "1"
+        },
+        {
+          "label": "Requirements",
+          "value": "Etiquette 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Grand Array",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You construct a large interlocking runic system that governs an area, ritual, fortification, or complex magical process. It can combine multiple conditions and effects, but requires time, layout, and stable anchors.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "60"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Rune Arcana 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Grand Expedition Doctrine",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You transform a dangerous journey into a master plan of roles, resources, routes, hazards, fallback options, and victory conditions. Use this to prepare a group for a major expedition, ruin delve, monster hunt, military march, or sea voyage.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "45"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Military Lore 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Grand Gate Summons",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You open a major conduit for one powerful summoned entity, construct, or force whose nature you understand. The arrival can reshape a scene, but bargaining, binding limits, and consequences remain real.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "60"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Conjuration Arcana 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Grasping Ground",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You buckle, ridge, or clutch the ground beneath a small cluster of targets. It can catch feet, spoil a charge, create rough cover, or hold a position without collapsing the whole area.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "26"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Earth Arcana 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Grave Chain",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You bind death-state energy around one spirit, corpse, undead target, or dying threshold. Use this to restrain unnatural movement, interrupt necromantic control, or keep a deathly presence from crossing a boundary.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "45"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Death Arcana 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Gravity Pulse",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You release a pulse of altered gravity that pulls, shoves, drops, or lifts everything in a small area. Use this to knock enemies off balance, drag targets from cover, break a charge, scatter loose objects, or create an opening.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "24"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Gravity Arcana 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Gravity Shift",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You locally increase, decrease, or tilt gravity around yourself, a small object, a falling body, or a nearby point. Use this to slow a fall, lighten a load, pin a loose object, pull something into reach, or make movement briefly strange.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Gravity Arcana 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Gravity Well",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You create a strong localized pull around one chosen point, dragging loose objects and contested targets toward it. Anchoring, distance, and opposing force matter.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "42"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Gravity Arcana 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Greater Conjuration",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You open a powerful conduit and call a significant entity, construct, or force into the scene. Use this to change a battle, bargain with a summoned presence, create a major helper, or answer an extraordinary threat, but the binding must be respected.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "55"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Conjuration Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Greenway",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You bend vegetation aside and regrow it behind a moving group, creating a temporary hidden route through dense woodland, hedges, or overgrowth without permanently clearing the land.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "44"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Wood Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Grounding Bind",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You bind weapon, limb, shield, or beast muzzle between staff and ground, using leverage to control a stronger opponent. Can immobilize one point of a target without matching raw strength.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Staff Fighting 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Guard Cut",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Cut into an enemy weapon line as it forms rather than after it lands. Disrupts a straightforward melee attack and creates room for a counterstroke.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Heavy Blades 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Guard Splitter",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You split guard, shield rim, weapon haft, or armor posture with a committed chopping line. Can break a defensive object or stance when the material can plausibly give.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Axes 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Guarded Casting",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Keep breath, stance, and guard intact while using magic under threat. Prevents ordinary melee pressure from immediately breaking a simple magical action.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "25"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Self-Discipline 25"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Guarded Triage",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Use a shielded position and healing magic together to stabilize someone who is still inside immediate danger. It creates a short treatment window under pressure rather than making the patient or healer immune to attack.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Battle Healer 1, Healing Arcana 30, Shields 30"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Guardian Last Line",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You anchor a group defense around yourself so nearby allies can fall back, recover, or act behind your protection. The effect holds many directions but ties you to the defended position.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "48"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Aegis Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Guardian Share",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You accept part of the pressure aimed at a nearby ally, extending your protective magic to split an incoming threat between defended positions.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "18"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Aegis Arcana 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Guardian's Refusal",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Interpose absolute guardian force between one threatened ally and a devastating incoming harm, taking the burden onto the ward and refusing displacement long enough to preserve a chance of survival. It does not negate consequences without limit and can be broken by overwhelming power.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "58"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Aegis Arcana Mastery 1, Aegis Arcana 60"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Guarding Reach",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You command a broad zone with point, hook, butt, and blade, protecting allies behind you. Can hold a line against several physical attackers if the terrain supports reach.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Polearms 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Guildhall Arbitration",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You arbitrate a major professional dispute by reconciling craft standards, guild privileges, workshop evidence, fees, apprenticeships, and competing claims. Use this to expose institutional fraud or produce a ruling framework experts must seriously answer, without granting yourself an office you do not hold.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "70"
+        },
+        {
+          "label": "Cooldown",
+          "value": "10"
+        },
+        {
+          "label": "Requirements",
+          "value": "Cultural Lore 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Guildhall Measure",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You judge professional authority, workmanship, fees, claims, workshop practice, and guild custom well enough to tell who is competent, who is overreaching, and which standard actually applies. Use this to secure cooperation or challenge bad professional practice with recognized grounds.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "55"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Cultural Lore 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Half-Sword Bind",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You shorten your grip on a large blade to gain leverage and point control in close quarters, allowing binds, armored thrusts, or safer work inside normal cutting distance.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "20"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Heavy Blades 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hall of Mirrors",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You connect several nearby reflective surfaces into a confusing network of sightlines and false positions. Observers may see targets from the wrong angle or lose track of the real path.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "44"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Mirror Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hammer Rhythm",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You hammer rhythm into a target until guard, stance, and breathing fall out of sync. Creates an opening against heavily armored or braced opponents.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Bludgeons 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hand Trap",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You catch a wrist, forearm, collar, or weapon hand during close contact and turn the grip into a brief control position instead of trading another strike.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "20"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Brawling 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Harbor Command",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Take control of dock crews, ship guards, boat hands, riverfolk, or port workers during weather, evacuation, sabotage, or harbor panic. Creates emergency control over crews, dockworkers, vessels, or port movement.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Sail Handling 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hard-Won Mercy",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Protect locals, workers, crews, or stranded travelers fiercely while demanding honest answers in return. Protects endangered locals or travelers while demanding honesty in return.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "20"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Persuasion 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Harmonic Diagnosis",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You analyze resonance, tuning, echo, and repeating tones to locate a hidden source, unstable instrument, structural vibration, or magical harmonic fault.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "42"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Musical Lore 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Harrying Throw",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Throw to spoil balance, vision, grip, or pursuit instead of simply wounding. Slows or disrupts one enemy long enough to reposition.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "25"
+        },
+        {
+          "label": "Cooldown",
+          "value": "4"
+        },
+        {
+          "label": "Requirements",
+          "value": "Thrown Weapons 25"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Haunting Accord",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Establish a temporary, clearly bounded accord with a present spirit, haunting, ancestor echo, or local presence, defining one question, task, boundary, or period of non-hostility. The spirit retains agency and can demand terms or refuse.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "52"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Spirit Arcana Mastery 1, Spirit Arcana 60"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hazard Map",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You mark likely choke points, flood paths, ambush ground, unstable slopes, exposed crossings, and safer alternatives on a working map for a group.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Cartography 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Healing Thread",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You guide restorative power through a wound, bruise, fever, toxin symptom, or exhausted body without wasting energy. Use this to stabilize someone, close minor harm, or prevent an injury from worsening.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Healing Arcana 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Heart Against Heaven",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You face a presence or crisis that could make lesser people abandon reason and still retain the freedom to choose your response. Use this against legendary terror, catastrophic pressure, or impossible odds; courage lets you act, not ignore consequences.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "80"
+        },
+        {
+          "label": "Cooldown",
+          "value": "10"
+        },
+        {
+          "label": "Requirements",
+          "value": "Courage 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Heartbeat Tell",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "At close range and under workable conditions, you distinguish breath and heartbeat changes that reveal exertion, fear, pain, or concealed presence without reading thoughts.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Hearing 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Heartglass Chorus",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You read the emotional current of a crowd, court, council, or faction gathering as a connected system, identifying coordinated manipulation, hidden blocs, contagious fear, and the points where collective mood may turn. Individual secrets still require individual evidence.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "55"
+        },
+        {
+          "label": "Cooldown",
+          "value": "11"
+        },
+        {
+          "label": "Requirements",
+          "value": "Empathy 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Heartglass Deep Read",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You map the conflicting fears, loyalties, desires, guilt, and influence inside a small group, revealing who is driving whom and which relationship is most likely to break first. Use this to understand the social structure beneath the spoken argument.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "45"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Empathy 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Heartglass Revelation",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You identify the central emotion or concealed motive shaping one person’s behavior in the present scene and distinguish it from the mask they are presenting. Use this to choose a better question, warning, reassurance, or pressure point without reading thoughts.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "42"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Empathy 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hearth's Respite",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You awaken the Hearth within the Luporian medallion and give one nearby willing person a brief supernatural moment of relief amid danger or exhaustion. For their next immediate action, pain, fatigue, fear, shock, or similar strain that would hinder them is held at bay enough for them to act clearly and effectively. This does not heal injuries, restore spent resources, cure conditions, or remove the underlying strain, which returns afterward.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Relic Lore 101"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Heartline Shot",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Read breath, armor gaps, movement, and fear to place one decisive arrow. Bypasses ordinary armor on a clean hit but not full supernatural protection.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "65"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Bows 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Heat Map",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You estimate where guards, investigators, gangs, informants, and frightened associates are likely to concentrate after a crime or scandal, helping plan safer movement.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "40"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Thieves' Lore 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Heat Without Ruin",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Apply magical heat with a smith's control to soften, join, cauterize, or work a precise part of a metal object without flooding the whole area with flame. Proper material, tools, and structure still matter.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Forge Mage 1, Fire Arcana 30, Smithing 30"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Heaven-Splitting Sequence",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You unleash a legendary chain of Dueling-family weapon attacks, movement, feints, parries, and ripostes that turns one opening into a battle-deciding sequence. Use this to overwhelm a powerful opponent or cut through several nearby threats; other weapon families and unarmed attacks remain governed by their own skills.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "55"
+        },
+        {
+          "label": "Cooldown",
+          "value": "11"
+        },
+        {
+          "label": "Requirements",
+          "value": "Dueling 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Heavenbolt",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You gather an extreme electrical charge into one precisely chosen strike from sky, focus, or conductive path. It is a narrow legendary attack with very high Power, but requires a viable line and produces enormous noise and collateral risk.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "75"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Lightning Arcana 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Heavy Beat",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You let weight and timing do the work instead of swinging wildly. Use this with hammers, maces, axes, clubs, or heavy weapons to stagger armor, break posture, or make a slow strike count.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Bludgeons 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Heraldic Challenge",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Invoke formal heraldic protocol to challenge, announce, or establish the standing of a person or party. Creates a socially binding formal moment.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Heraldry 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hero's Banquet Aura",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You prepare a substantial meal whose timing, nutrition, familiarity, and presentation restore morale and support recovery across a weary group. Use this before or after a major ordeal to reduce exhaustion, steady nerves, and help people recover together when ingredients and preparation time exist.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "45"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Brewing 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hero's Table",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You prepare a meal that restores spirit as much as strength. Use this to improve group morale, support recovery, reduce exhaustion, calm nerves, or prepare allies before a dangerous scene.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "24"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Brewing 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Heroic Radiance",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You draw heroic resolve into a visible champion's radiance that can manifest as dawn-bright, dusk-bright, silver, ember, shadow-edged, or otherwise personal heroic force. Use this to shield allies, defy fear or corruption, answer hostile magic, or become the focus of a decisive stand.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "45"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Heroic Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Heroic Refrain",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Turn an ally recent effort into a shared refrain that reminds the group what they are fighting for. Restores resolve and strengthens a coordinated push.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Performance 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hex Gesture",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Use word, glare, knot, mark, or small ritual to burden a target with doubt, clumsiness, dread, or hesitation. Inflicts a brief misfortune if the target is vulnerable to uncanny pressure.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "25"
+        },
+        {
+          "label": "Cooldown",
+          "value": "1"
+        },
+        {
+          "label": "Requirements",
+          "value": "Forbidden Lore 25"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hidden Cost",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Find the obligation, delay, reputation risk, or future favor hidden inside a good offer. Reveals what the deal will really cost beyond coin.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "25"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Bargaining 25"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hidden Draw",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Bring a small blade into position before the target realizes danger has begun. Enables a sudden close strike from concealment or distraction.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Light Blades 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hidden Hand",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You identify the habits of a particular encoder or institution from punctuation, grouping, errors, and favored transformations, helping link anonymous coded material to a source.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "4"
+        },
+        {
+          "label": "Requirements",
+          "value": "Cryptography 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hidden Harvest",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You uncover rare or abundant natural resources where others see scarcity. Use this to gather special herbs, emergency food, clean water signs, useful fibers, fuel, or natural materials enough to change a survival scene.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "42"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Natural Lore 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hidden Passage",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Find and use the overlooked gap in a guarded route, crowd, camp, or building. Creates an infiltration path where ordinary eyes assume none exists.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "65"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Stealth 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hidden Pattern Thesis",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Connect separated witness accounts, rumors, motives, relationships, and contradictions into one actionable theory before others see the social pattern. Reveals the most likely hidden structure supported by what people have said and how their accounts connect, not facts available only from records or physical evidence.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "65"
+        },
+        {
+          "label": "Cooldown",
+          "value": "4"
+        },
+        {
+          "label": "Requirements",
+          "value": "Social Inquiry 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hidden Principle",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Recognize the hidden principle behind a complex magical working and name the point where it can be changed. Opens a path to alter, stabilize, or dismantle major magic.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "65"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Arcane Lore 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hidden Road",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You reconstruct a concealed or forgotten route from terrain, weather, old roads, stars, water, and travel logic when ordinary navigation fails. Use this to find a credible passage through hostile or misleading country, though the route may remain dangerous or damaged.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "45"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Navigation 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hidden Route Synthesis",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You turn incomplete maps, old routes, ruins, terrain logic, and landmark patterns into a strategic travel advantage. Use this to reveal hidden routes, expose false maps, plan ambush-safe movement, or redraw a region's practical routes.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Cartography 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hidden Stroke",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You hide a small message, warning, count, or correction inside ornament, margin, stroke order, or spacing. Lets an intended reader find meaning while casual readers see decoration.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "20"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Fine Script 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hidden Trail Reading",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Read recent passage through disturbed moss, bark marks, scent, broken undergrowth, dust, water, or patrol signs even when tracks were hidden. Reveals recent passage even when tracks were partly concealed.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "20"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Tracking 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hoard Reading",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Understand what a treasure, relic, memory, or captive means to a dragon or dragon-touched power. Reveals leverage beyond simple value.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Dragon Lore 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hold Fast",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Name the danger and give allies a simple reason not to break. Resists panic, hesitation, or disorder among willing followers.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "25"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Leadership 25"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hold the Gate",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Organize workers, guards, allies, or bystanders to brace a doorway, bridge, tunnel, barricade, or choke point under pressure. Turns available people and material into a braced choke point or barricade.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "4"
+        },
+        {
+          "label": "Requirements",
+          "value": "Might 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hold the Room",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Keep an audience focused through interruption, unease, or competing attention long enough to land one message, cue an ally, or finish a crucial performance beat. It commands attention, not obedience.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "24"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Compelling Performer 1, Performance 30, Persuasion 30"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hook and Hew",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Catch a shield, weapon, limb, or obstacle with the axe profile and use the opening to pull it off line before striking or repositioning. The technique creates leverage rather than automatic disarmament.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Axe Mastery 1, Axes 60"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hook and Wedge",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You use the axe as both hook and wedge, dragging an enemy off balance before the next blow falls. Forces a choice between losing position, shield, or weapon control.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Axes 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hooked Guard",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You use hook, haft, head, or reach to catch a limb, shield, weapon, or obstacle and deny an approach without needing a full strike.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "20"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Polearms 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hooking Axe",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You hook with beard, haft, or blade edge to pull shield, ankle, rein, or weapon out of line. Creates an opening by moving the target rather than only cutting them.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Axes 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hooking Sweep",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You sweep hook, blade, and haft through legs, shields, reins, or weapon shafts. Can trip, drag, or pull an enemy out of formation at reach.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Polearms 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Horizon Eye",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You resolve tiny but physically visible details at extraordinary distance or through brief openings, provided light, line of sight, and scale still make observation possible.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "70"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Seeing 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Horizon Leap",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You make a legendary leap that turns distance, height, and danger into drama rather than impossibility. Can reach a critical target, rescue, ledge, or opening when the route is barely physically plausible.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "80"
+        },
+        {
+          "label": "Cooldown",
+          "value": "10"
+        },
+        {
+          "label": "Requirements",
+          "value": "Jumping 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Horizon Scry",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You extend magical perception toward a distant known place, person, or strongly attuned target with exceptional clarity. Powerful wards, false identities, planar barriers, or deliberate concealment can distort or block the view.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "60"
+        },
+        {
+          "label": "Cooldown",
+          "value": "11"
+        },
+        {
+          "label": "Requirements",
+          "value": "Divination Arcana 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Host of the Unseen",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You call a broad assembly of nearby spirits into visible or tangible cooperation for one major scene. They may guard, reveal, carry messages, or oppose hostile spirits, but they remain beings with motives rather than disposable summons.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "58"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Spirit Arcana 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hostile-Field Engineering",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Build or repair a complex device in hostile conditions by prioritizing function over elegance. Produces reliable temporary machinery from imperfect parts.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "65"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Engineering 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "House Survival Instinct",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You recognize the exact moment a noble household is in danger and act before reputation, leverage, or safety collapses. Use this to spot court traps, protect family interests, redirect scandal, choose the safest ally, or preserve influence during a crisis.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Empathy 35, Heraldry 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Household Command",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Direct servants, guards, guests, lesser kin, retainers, or household staff inside a domain where the character has recognized authority. Creates command authority inside a household, estate, ship, company, or controlled domain.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "20"
+        },
+        {
+          "label": "Cooldown",
+          "value": "4"
+        },
+        {
+          "label": "Requirements",
+          "value": "Leadership 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hunger Draw",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You sense need, craving, weakness, or draining pressure in a nearby creature, object, or scene. Use this to identify hunger, desperation, predatory intent, depleted reserves, or a vulnerable source of strength that could be pressured, fed, protected, or restored.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Hunger Arcana 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hunger Leash",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You seize the shape of hunger in a target or scene and pull it into focus. Use this to intensify need, suppress a dangerous appetite, draw attention toward bait, weaken a creature already acting from desperation, or redirect draining pressure away from an ally.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Hunger Arcana 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hunt Ends Here",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "Drive a pursued target into a chosen dead end, exposed path, or forced confrontation by reading their habits and escape logic. Prevents ordinary flight from continuing unless the target has exceptional help or magic.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "65"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Tracking 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hurricane Eye",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You create a localized eye of violent wind that bends movement, sightlines, missiles, and footing around you. Use this to control a battlefield lane, shield allies from ranged fire, scatter enemies, or reshape a dangerous scene with sustained air pressure.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "45"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Air Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hydraulic Grasp",
+      "group": "D–H",
+      "kind": "Ability",
+      "summary": "You coil water around one target or object with focused pressure, pulling, pinning, turning, or crushing according to available liquid. Strong anchors or lack of water limit the effect.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "46"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Water Arcana 50"
+        }
+      ],
+      "spoiler": false
+    }
+  ]
+}
