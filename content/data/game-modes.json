@@ -1,0 +1,330 @@
+{
+  "entries": [
+    {
+      "name": "Default",
+      "group": "medium",
+      "summary": "The baseline Arkenfell experience: grounded fantasy adventure, character-driven scenes, politics, mystery, danger, and natural pacing.",
+      "details": "Arkenfell is open before you. I can help you read the current scene, identify nearby NPCs, track active quests, interpret faction pressure, understand your skills or Arcana, review visible clues, or suggest what your character could reasonably try next.",
+      "detailsLabel": "What the narrator can help with",
+      "facts": [
+        {
+          "label": "Difficulty",
+          "value": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Radiant Noble Fantasy - Easy",
+      "group": "easy",
+      "summary": "A heightened anime noble-fantasy mode with status reversal, magical talent, court rivals, mentors, academy energy, elegant danger, trauma-aware support, and hopeful adventure.",
+      "details": "Radiant Noble Fantasy is active. Your story will lean into court pressure, magical talent, mentors, rivals, earned recognition, emotional catharsis, trauma-aware support, and hopeful noble-fantasy adventure while keeping Arkenfell's lore and consequences intact. You can ask me to emphasize court drama, academy training, protective mentors, rivalry, romance, status reversal, investigation, or a quieter recovery-focused scene.",
+      "detailsLabel": "What the narrator can help with",
+      "facts": [
+        {
+          "label": "Difficulty",
+          "value": "easy"
+        }
+      ]
+    },
+    {
+      "name": "Radiant Noble Fantasy - Medium",
+      "group": "medium",
+      "summary": "Noble-fantasy anime with status reversal, magical talent, court rivals, mentors, academy pressure, trauma-aware support, and meaningful consequences.",
+      "details": "Radiant Noble Fantasy - Medium is active. Expect hopeful noble-fantasy with meaningful court, faction, injury, reputation, and rival pressure.",
+      "detailsLabel": "What the narrator can help with",
+      "facts": [
+        {
+          "label": "Difficulty",
+          "value": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Radiant Noble Fantasy - Hard",
+      "group": "hard",
+      "summary": "A harder noble-fantasy anime mode with status reversal, magical talent, court rivals, mentors, academy trials, elegant danger, trauma-aware support, faction pressure, and lasting consequences.",
+      "details": "Radiant Noble Fantasy - Hard is active. Your story will keep the noble-fantasy anime contrast of elegance, talent, mentors, rivals, and earned recognition, but enemies adapt, factions remember, protection is imperfect, and serious mistakes can have lasting consequences. You can ask me to emphasize court danger, faction pressure, academy trials, protective support, trauma-aware recovery, or hard but fair stakes.",
+      "detailsLabel": "What the narrator can help with",
+      "facts": [
+        {
+          "label": "Difficulty",
+          "value": "hard"
+        }
+      ]
+    },
+    {
+      "name": "Slice of Life",
+      "group": "very easy",
+      "summary": "A gentle Arkenfell run focused on ordinary life, community, work, crafting, friendship, family, romance, settlement routines, and the small comforts and frictions that make a place feel lived in.",
+      "details": "Welcome to a quieter corner of Arkenfell. I can help you explore daily life, local work, crafting, relationships, town gossip, training, shopping, and peaceful routines. What would you like to focus on today?",
+      "detailsLabel": "What the narrator can help with",
+      "facts": [
+        {
+          "label": "Difficulty",
+          "value": "very easy"
+        }
+      ]
+    },
+    {
+      "name": "Adventure",
+      "group": "medium",
+      "summary": "A balanced fantasy adventure mode with exploration, ruins, dangerous roads, faction contracts, mysteries, monsters, and regional conflicts.",
+      "details": "Arkenfell is open before you. I can help you read the scene, identify nearby people, track rumors, interpret clues, or understand how your skills and Arcana apply. What do you do?",
+      "detailsLabel": "What the narrator can help with",
+      "facts": [
+        {
+          "label": "Difficulty",
+          "value": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Exploration & Discovery",
+      "group": "medium",
+      "summary": "A player-led exploration mode focused on travel, ruins, forgotten roads, field investigation, geography, old traces, natural wonder, and discoveries earned by looking closely rather than by being handed a quest.",
+      "details": "Exploration & Discovery is active. Ask me what stands out, what routes are visible, what evidence you can inspect, what your skills or Arcana can reveal, or what remains uncertain about the place around you.",
+      "detailsLabel": "What the narrator can help with",
+      "facts": [
+        {
+          "label": "Difficulty",
+          "value": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Court Intrigue",
+      "group": "medium",
+      "summary": "A political mode focused on nobles, royal legitimacy, succession, secrets, alliances, reputation, etiquette, and social consequence.",
+      "details": "Court has its own battlefield: words, witnesses, titles, favors, and silence. Ask me who is present, what they might want, what protocol matters, or what risks your next move carries.",
+      "detailsLabel": "What the narrator can help with",
+      "facts": [
+        {
+          "label": "Difficulty",
+          "value": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Domain Building",
+      "group": "medium",
+      "summary": "A long-form stewardship mode for estates, settlements, households, guilds, companies, military holdings, and institutions where money, people, logistics, legitimacy, and accumulated decisions shape what you build.",
+      "details": "Domain Building is active. Ask me about income, costs, staffing, obligations, property, logistics, risks, available projects, or what your current estate, household, business, or organization actually needs next.",
+      "detailsLabel": "What the narrator can help with",
+      "facts": [
+        {
+          "label": "Difficulty",
+          "value": "medium"
+        }
+      ]
+    },
+    {
+      "name": "War Frontier",
+      "group": "hard",
+      "summary": "A harder military and borderlands mode where raids, patrols, armies, command decisions, wounds, supplies, and faction pressure matter.",
+      "details": "The frontier is tense. I can help you read the battlefield, identify cover, track morale, understand orders, or judge the risks of a military choice. What is your command?",
+      "detailsLabel": "What the narrator can help with",
+      "facts": [
+        {
+          "label": "Difficulty",
+          "value": "hard"
+        }
+      ]
+    },
+    {
+      "name": "Harsh Survival",
+      "group": "hard",
+      "summary": "A punishing mode where resources are scarce, travel is dangerous, injuries linger, and bad decisions carry forward.",
+      "details": "This run will track danger, scarcity, wounds, fatigue, travel risk, and hard consequences more closely. Ask me what resources matter, what threats are visible, or what condition you are in.",
+      "detailsLabel": "What the narrator can help with",
+      "facts": [
+        {
+          "label": "Difficulty",
+          "value": "hard"
+        }
+      ]
+    },
+    {
+      "name": "Story Structure - Mystery",
+      "group": "Other",
+      "summary": "A mystery to solve. A real hidden truth, fair clues seeded throughout, and answers gated behind investigation -- the satisfaction of piecing it together yourself, with honest misdirection and a solution you can actually reach. Think Knives Out, Sherlock Holmes, or Agatha Christie.",
+      "details": "Use Ask the Narrator for guidance tailored to this mode.",
+      "detailsLabel": "What the narrator can help with",
+      "facts": [
+        {
+          "label": "Difficulty",
+          "value": "Not specified"
+        }
+      ]
+    },
+    {
+      "name": "Story Structure - Heist",
+      "group": "Other",
+      "summary": "A heist. A hard target, a plan, and the thrill of execution -- casing and scheming, then the job, then the complication that forces you to improvise. Preparation and cleverness pay off, and at least one thing always goes sideways. Think Ocean's Eleven or Mission: Impossible.",
+      "details": "Use Ask the Narrator for guidance tailored to this mode.",
+      "detailsLabel": "What the narrator can help with",
+      "facts": [
+        {
+          "label": "Difficulty",
+          "value": "Not specified"
+        }
+      ]
+    },
+    {
+      "name": "Narration Pace - Slow Burn",
+      "group": "Other",
+      "summary": "An unhurried telling. Scenes breathe and resolve fully, tension builds by degrees, and the small moments -- conversation, place, consequence -- get room to land before the next thing happens. Depth over speed.",
+      "details": "Use Ask the Narrator for guidance tailored to this mode.",
+      "detailsLabel": "What the narrator can help with",
+      "facts": [
+        {
+          "label": "Difficulty",
+          "value": "Not specified"
+        }
+      ]
+    },
+    {
+      "name": "Narration Pace - Whirlwind",
+      "group": "Other",
+      "summary": "A run at breakneck speed. Events tumble one into the next with little downtime -- relentless forward velocity, constant pressure, and always a next thing pulling you on. For players who want it to never let up.",
+      "details": "Use Ask the Narrator for guidance tailored to this mode.",
+      "detailsLabel": "What the narrator can help with",
+      "facts": [
+        {
+          "label": "Difficulty",
+          "value": "Not specified"
+        }
+      ]
+    },
+    {
+      "name": "Narration Genre - Absurd Comedy",
+      "group": "Other",
+      "summary": "The world stops making sense -- gloriously. Surreal logic, deadpan delivery, and committed silliness escalate until the setting seems to obey a joke it refuses to acknowledge. Serious outcomes remain real; the absurdity lives in how the world carries them.",
+      "details": "Use Ask the Narrator for guidance tailored to this mode.",
+      "detailsLabel": "What the narrator can help with",
+      "facts": [
+        {
+          "label": "Difficulty",
+          "value": "Not specified"
+        }
+      ]
+    },
+    {
+      "name": "Narration Genre - Dark Comedy",
+      "group": "Other",
+      "summary": "Grim things, played for bleak laughs. The stakes stay painfully real -- the comedy lives in the deadpan, the catastrophic timing, and the dignity with which everyone ignores the disaster. Gallows humor, not slapstick. Think Dr. Strangelove, Fargo, or Catch-22.",
+      "details": "Use Ask the Narrator for guidance tailored to this mode.",
+      "detailsLabel": "What the narrator can help with",
+      "facts": [
+        {
+          "label": "Difficulty",
+          "value": "Not specified"
+        }
+      ]
+    },
+    {
+      "name": "Narration Genre - Satire",
+      "group": "Other",
+      "summary": "Comedy with teeth. Institutions, power, custom, and the genre's own conventions get held up to the light and skewered -- sharp, witty, and just true enough to sting, from someone who clearly loves the world anyway. Think Discworld, Good Omens, or The Thick of It.",
+      "details": "Use Ask the Narrator for guidance tailored to this mode.",
+      "detailsLabel": "What the narrator can help with",
+      "facts": [
+        {
+          "label": "Difficulty",
+          "value": "Not specified"
+        }
+      ]
+    },
+    {
+      "name": "Narration Genre - Screwball Comedy",
+      "group": "Other",
+      "summary": "Fast, dense, deadpan chaos. Everyone plays it completely straight while absurdity stacks up in foreground and background alike, and one small misunderstanding snowballs into glorious disaster. Breezy and good-natured. Think Airplane!, The Naked Gun, or His Girl Friday.",
+      "details": "Use Ask the Narrator for guidance tailored to this mode.",
+      "detailsLabel": "What the narrator can help with",
+      "facts": [
+        {
+          "label": "Difficulty",
+          "value": "Not specified"
+        }
+      ]
+    },
+    {
+      "name": "Narration Genre - Heroic Action",
+      "group": "Other",
+      "summary": "Competence and spectacle. Escalating set-pieces, capable protagonists, and big triumphant momentum -- the player is good at this and the world keeps handing them chances to prove it. Danger is real, but there's room to rise to it. Think Indiana Jones, Mission: Impossible, or Uncharted.",
+      "details": "Use Ask the Narrator for guidance tailored to this mode.",
+      "detailsLabel": "What the narrator can help with",
+      "facts": [
+        {
+          "label": "Difficulty",
+          "value": "Not specified"
+        }
+      ]
+    },
+    {
+      "name": "Narration Genre - Swashbuckling",
+      "group": "Other",
+      "summary": "Breezy, roguish adventure. Daring escapes, cliffhangers, witty banter, and heroics that land on their feet -- danger that thrills rather than grieves, where charm is a weapon and the player escapes by a hair and grins about it. Think The Princess Bride, Pirates of the Caribbean, or Firefly.",
+      "details": "Use Ask the Narrator for guidance tailored to this mode.",
+      "detailsLabel": "What the narrator can help with",
+      "facts": [
+        {
+          "label": "Difficulty",
+          "value": "Not specified"
+        }
+      ]
+    },
+    {
+      "name": "Narration Genre - Character Drama",
+      "group": "Other",
+      "summary": "Character-first drama built from relationships, family, loyalty, rivalry, romance, disappointment, trust, and difficult choices. Quiet scenes matter because people remember what was said, what was withheld, and who showed up when it counted.",
+      "details": "Use Ask the Narrator for guidance tailored to this mode.",
+      "detailsLabel": "What the narrator can help with",
+      "facts": [
+        {
+          "label": "Difficulty",
+          "value": "Not specified"
+        }
+      ]
+    },
+    {
+      "name": "Narration Genre - Tragedy",
+      "group": "Other",
+      "summary": "Tragic weight without a predetermined ending. Sacrifice, irreversible cost, divided loyalties, and self-defeating choices are given full consequence when play creates them; tragedy can deepen, be endured, or even be averted if the player genuinely earns another path.",
+      "details": "Use Ask the Narrator for guidance tailored to this mode.",
+      "detailsLabel": "What the narrator can help with",
+      "facts": [
+        {
+          "label": "Difficulty",
+          "value": "Not specified"
+        }
+      ]
+    },
+    {
+      "name": "Narration Genre - Mythic",
+      "group": "Other",
+      "summary": "Grandeur and destiny. A story told in the register of legend -- vast stakes, deeds that echo down the ages, omen and prophecy, and a player history will remember. Elevated, resonant, larger-than-life, where even quiet moments carry the gravity of myth. Think The Lord of the Rings, The Odyssey, or God of War.",
+      "details": "Use Ask the Narrator for guidance tailored to this mode.",
+      "detailsLabel": "What the narrator can help with",
+      "facts": [
+        {
+          "label": "Difficulty",
+          "value": "Not specified"
+        }
+      ]
+    },
+    {
+      "name": "Narration Genre - Fairy Tale",
+      "group": "Other",
+      "summary": "Enchantment and wonder, run on fairy-tale logic -- where magic has rules, bargains have prices, names have power, and kindness and cunning are rewarded while cruelty rebounds. The rule of three, the meaningful gift, the test in disguise. Once upon a time. Think Grimm's fairy tales, Pan's Labyrinth, or Stardust.",
+      "details": "Use Ask the Narrator for guidance tailored to this mode.",
+      "detailsLabel": "What the narrator can help with",
+      "facts": [
+        {
+          "label": "Difficulty",
+          "value": "Not specified"
+        }
+      ]
+    }
+  ]
+}
+
