@@ -1,7 +1,7 @@
 ---
 id: tide-empire
 title: The Tide Empire
-category: Realms
+category: Countries
 knowledge: common
 status: canon
 ---
