@@ -14,6 +14,25 @@ const directoryPages = {
   'faction-directory': {
     source: 'content/data/factions.json',
     searchPlaceholder: 'Search factions, houses, orders, or political powers…'
+  },
+  'pantheon-directory': {
+    source: 'content/data/faith.json',
+    searchPlaceholder: 'Search deities, domains, cultures, symbols, or standings…'
+  },
+  'creature-directory': {
+    source: [
+      'content/data/creatures-a-e.json',
+      'content/data/creatures-f-j.json',
+      'content/data/creatures-k-m.json',
+      'content/data/creatures-n-o.json',
+      'content/data/creatures-p-t.json',
+      'content/data/creatures-u-z.json'
+    ],
+    searchPlaceholder: 'Search creatures, traits, roles, resistances, or vulnerabilities…'
+  },
+  'item-directory': {
+    source: 'content/data/items.json',
+    searchPlaceholder: 'Search items, categories, slots, descriptions, or bonuses…'
   }
 };
 
@@ -88,6 +107,34 @@ function appendDirectoryMetadata(container, entry) {
   container.appendChild(row);
 }
 
+function formatDirectoryBonus(bonus) {
+  if (!bonus || typeof bonus !== 'object') return String(bonus);
+  const value = Number(bonus.value);
+  const signedValue = Number.isFinite(value) && value > 0 ? `+${value}` : String(bonus.value ?? '');
+  return [bonus.variable || bonus.type, signedValue].filter(Boolean).join(' ');
+}
+
+function appendDirectoryFacts(container, entry) {
+  const facts = [
+    ['Resistances', entry.resistances],
+    ['Immunities', entry.immunities],
+    ['Vulnerabilities', entry.vulnerabilities],
+    ['Bonuses', Array.isArray(entry.bonuses) ? entry.bonuses.map(formatDirectoryBonus) : []]
+  ].filter(([, values]) => Array.isArray(values) && values.length);
+
+  if (!facts.length) return;
+  const list = document.createElement('dl');
+  list.className = 'directory-entry-facts';
+  facts.forEach(([label, values]) => {
+    const term = document.createElement('dt');
+    term.textContent = label;
+    const detail = document.createElement('dd');
+    detail.textContent = values.join(', ');
+    list.append(term, detail);
+  });
+  container.appendChild(list);
+}
+
 function createDirectoryEntry(entry) {
   const card = document.createElement('article');
   card.className = 'directory-entry';
@@ -104,6 +151,7 @@ function createDirectoryEntry(entry) {
   }
   card.appendChild(title);
   appendDirectoryMetadata(card, entry);
+  appendDirectoryFacts(card, entry);
 
   const summary = String(entry.summary || '').trim();
   if (entry.spoiler) {
@@ -135,17 +183,22 @@ function createDirectoryEntry(entry) {
   }
 
   card.dataset.group = entry.group || 'Other';
-  card.dataset.searchText = Object.values(entry).join(' ').toLowerCase();
+  card.dataset.searchText = JSON.stringify(entry).toLowerCase();
   return card;
 }
 
 async function loadDirectoryData(source) {
-  if (directoryDataCache.has(source)) return directoryDataCache.get(source);
-  const response = await fetch(source, { cache: 'no-store' });
-  if (!response.ok) throw new Error(`HTTP ${response.status}`);
-  const data = await response.json();
-  const entries = Array.isArray(data.entries) ? data.entries : [];
-  directoryDataCache.set(source, entries);
+  const sources = Array.isArray(source) ? source : [source];
+  const cacheKey = sources.join('|');
+  if (directoryDataCache.has(cacheKey)) return directoryDataCache.get(cacheKey);
+
+  const datasets = await Promise.all(sources.map(async path => {
+    const response = await fetch(path, { cache: 'no-store' });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    return response.json();
+  }));
+  const entries = datasets.flatMap(data => Array.isArray(data.entries) ? data.entries : []);
+  directoryDataCache.set(cacheKey, entries);
   return entries;
 }
 
