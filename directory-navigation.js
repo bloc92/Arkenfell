@@ -112,7 +112,8 @@ function enhanceDirectoryPage() {
     if (content) delete content.dataset.directoryEnhanced;
     return;
   }
-  if (!content || content.hidden || content.dataset.directoryEnhanced === state.activeId) return;
+  if (!content || content.hidden) return;
+  if (content.dataset.directoryEnhanced === state.activeId && content.querySelector('.directory-toolbar')) return;
   content.dataset.directoryEnhanced = state.activeId;
 
   const groups = collectDirectoryGroups(content);
