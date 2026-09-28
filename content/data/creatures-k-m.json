@@ -1,0 +1,563 @@
+{
+  "realm": "Arkenfell",
+  "entries": [
+    {
+      "name": "Kelp Dryad",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nKelp Dryads are seaweed or reef-bound nature spirits similar to dryads but tied to underwater forests, tidal pools, and coastal groves.\n\nDESCRIPTION\nHumanoid forms woven from kelp, sea grass, shells, wet hairlike fronds, and eyes reflecting shallow water.\n\nUSE IN PLAY\nUse Kelp Dryads for coastal Wood Arcana, reef protection, underwater bargains, and sea ecology mysteries.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [
+        "fire"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Kobold",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nKobolds are small reptilian humanoids with scales, snouts, claws, tails, and a strong instinct for tunnels, traps, mining, scavenging, and service to stronger reptilian or draconic powers. Some are cowardly raiders; others are clever engineers, miners, or shrine-keepers.\n\nDESCRIPTION\nAlways include reptilian traits: small scaled body, snout, tail, claws, bright eyes, and quick nervous movement. Gear should look scavenged, trap-focused, or tool-heavy.\n\nSOCIAL / COMBAT USE\nKobolds rely on tunnels, traps, ambush, pack tactics, alarms, and terrain. They may worship dragons, serve drakes, defend mines, or maintain strange underground settlements.\n\nNAMING CONVENTION\nUse sharp, short names, tool nicknames, or draconic-sounding names for important kobolds.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Kobold Engineer",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nKobold Engineers are kobolds specialized in traps, tunnels, devices, and improvised defenses. They are physically weak but dangerous when prepared.\n\nDESCRIPTION\nSmall reptilian humanoids with tool belts, goggles, patched armor, soot stains, and clever hands.\n\nUSE IN PLAY\nUse Kobold Engineers for trap-heavy lairs, dwarven border tunnels, dragon-adjacent servants, and comedic but real danger.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Kobold Scale-Priest",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nKobold Scale-Priests are kobolds who serve dragons, old reptile spirits, or clan ancestor cults through ritual, prophecy, and obsessive devotion.\n\nDESCRIPTION\nSmall reptilian humanoids with ritual paint, scale charms, bone rattles, dragon symbols, and intense ceremonial bearing.\n\nUSE IN PLAY\nUse Scale-Priests for dragon cults, kobold tribes, old shrines, and situations where small creatures know ancient things.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Kraken Spawn",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nKraken Spawn are smaller offspring, servants, or fragments of kraken power that haunt deep reefs and wreck fields.\n\nDESCRIPTION\nTentacled bodies, black eyes, hooked beaks, slick skin, and a habit of attacking from below or around corners underwater.\n\nSOCIAL / COMBAT USE\nUse for Stormpearl, Coral Throne, and deep-water danger before a true kraken-level threat appears.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "bludgeoning",
+        "piercing"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Lamia",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nLamia are serpentine humanoids with humanlike upper bodies and snake-like lower bodies or strong serpentine features. They may appear in deserts, ruins, temples, old noble courts, oasis politics, or monster territories. Some are predators; others are seers, rulers, guardians, or exiles.\n\nDESCRIPTION\nUse a long snake body, scaled lower half, slit pupils, ornate jewelry, smooth movement, and controlled posture. They should look graceful and dangerous, not generic humans.\n\nSOCIAL / COMBAT USE\nLamia favor patience, charm, prophecy, poison lore, constriction, blades, and ambush. They can be villains, desert nobles, shrine guardians, or tragic survivors of old curses.\n\nNAMING CONVENTION\nUse desert, temple, serpent, or ancient court names.",
+      "resistances": [
+        "poison"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Lantern Ghost",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nLantern Ghosts are gentle or dangerous spirits attached to lanterns, road shrines, old guides, or travelers who died trying to lead others home.\n\nDESCRIPTION\nDim spectral figures carrying lanterns, or floating lights with human silhouettes barely visible behind the glow.\n\nSOCIAL / COMBAT USE\nUse for roads, marshes, mountain passes, and emotional scenes where guidance and danger are hard to separate.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "slashing",
+        "piercing",
+        "bludgeoning"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Lava Drake",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nLava Drakes are volcanic dragonkin living around lava roads, ash slopes, and infernal borders.\n\nDESCRIPTION\nDark red or black-scaled drakes with glowing cracks, heated claws, and smoke from nostrils.\n\nSOCIAL / COMBAT USE\nUse for Emberhorn, Ashen Maw, volcanic ruins, and fire-region hazards.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "fire",
+        "slashing"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Leech Swarm",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nLeech Swarms are masses of blood-drinking marsh parasites that become dangerous in cursed or magically fertile wetlands.\n\nDESCRIPTION\nDark ribbons of small leeches moving through water, clinging to boots, animals, and wounds.\n\nSOCIAL / COMBAT USE\nUse for low-level horror, disease pressure, swamp crossings, and scenes where armor does not solve the problem.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "piercing"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Leshy",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nLeshies are small or medium forest spirits who embody local plant life, paths, or grove moods.\n\nDESCRIPTION\nLeafy humanoid bodies, bark masks, moss hair, twig fingers, and eyes like dew or seeds.\n\nSOCIAL / COMBAT USE\nUse for Verdant Expanse diplomacy, forest warnings, minor spirit bargains, and guides who care more about balance than human law.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [
+        "fire"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Lesser Demon",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nLesser Demons are unstable infernal creatures, cult-bound servants, or weak breach-spawn from failed summons, cult sites, or unstable planar breaches. Unlike civilized demons, they are usually driven by hunger, spite, command, fear, or simple corruptive instinct. They are dangerous but not necessarily intelligent enough for long intrigue.\n\nDESCRIPTION\nUse overt demonic features: jagged horns, claws, ember eyes, smoke breath, charred skin, barbed tails, or warped animal shapes. They should feel wrong, hot, hungry, or contract-bound.\n\nSOCIAL / COMBAT USE\nLesser Demons harass, corrupt, guard cult sites, serve stronger entities, or swarm weakened seals. They use claws, fire, ambush, fear, and pain. They should appear as signs of escalation, not common wildlife.\n\nNAMING CONVENTION\nUse harsh infernal names, titles, or cult-given labels rather than ordinary names.",
+      "resistances": [
+        "fire"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Leviathan Spawn",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nLeviathan Spawn are young or lesser forms of enormous sea or sand titans, already dangerous enough to change routes.\n\nDESCRIPTION\nLarge serpentine or whale-like bodies with armored plates, deep eyes, and a size that makes ships feel small.\n\nSOCIAL / COMBAT USE\nUse as serious regional threats, warning signs of greater monsters, and encounters that may require avoidance rather than victory.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "piercing",
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Lich",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nA lich is a powerful undead spellcaster who preserved mind and magic through forbidden rites. Liches are rare, story-level beings, never casual dungeon filler. They may rule hidden towers, sealed archives, dead cities, or cult networks, but many prefer secrecy over open conquest.\n\nDESCRIPTION\nDescribe ancient robes, dry skin or exposed bone, cold arcane light, old jewelry, preserved sigils, dustless movement, and eyes bright with intellect rather than life.\n\nSOCIAL / COMBAT USE\nLiches bargain, manipulate, research, and prepare contingencies. In combat they use arcane phenomena, wards, undead servants, traps, and knowledge of the enemy. Their defeat should require story effort, not a random fight.\n\nNAMING CONVENTION\nUse ancient scholar names, titles, forbidden epithets, or names erased from official records.",
+      "resistances": [
+        "arcane",
+        "slashing",
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Light Elemental",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nLight Elementals are rare spirits of radiance, revelation, heatless flame, or temple-aligned magic. They may heal, judge, blind, or expose.\n\nDESCRIPTION\nBodies of white-gold light, lantern flame, glowing script, or humanoid silhouettes too bright to look at directly.\n\nUSE IN PLAY\nUse Light Elementals for Solarian sites, Lantern Synod rites, sacred seals, and moments where truth becomes physically uncomfortable.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "arcane"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Lionfolk Beastkin",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nLionfolk Beastkin are proud feline beastkin with lion traits, strong builds, social dominance instincts, and a reputation for courage or arrogance.\n\nDESCRIPTION\nHumanlike bodies with lion ears, tails, manes or mane-like hair, golden eyes, and confident posture.\n\nUSE IN PLAY\nUse Lionfolk for champions, noble retainers, mercenary leaders, arena fighters, and steppe or courtly pride conflicts.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Living Fungal Colony",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nLiving Fungal Colonies are large semi-sentient networks of fungus that act as a single environmental creature. Unlike Myconids, they are not ordinary humanoid people and may possess only instinctive or diffuse intelligence.\n\nDESCRIPTION\nMasses of mushrooms, mycelial cords, puffing growths, swollen fruiting bodies, creeping mold, and roots spreading through soil, corpses, timber, or stone cracks.\n\nSOCIAL / COMBAT USE\nUse as cave ecology, corrupted woodland hazards, abandoned-mine infestations, territorial organisms, or strange biological obstacles. They spread spores, reshape terrain, obscure vision, and may animate or entangle material within the colony.\n\nNAMING CONVENTION\nUse descriptive names based on color, location, symptoms, spores, or local folklore.",
+      "resistances": [
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [
+        "fire"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Living Meteor Shard",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nLiving Meteor Shards are fragments of fallen celestial matter animated by unknown will, resonance, or embedded spirit. They are object-creatures rather than animals.\n\nDESCRIPTION\nFloating or crawling mineral shards, metal-stone fragments, glowing cracks, and pulses that feel like a heartbeat in rock.\n\nUSE IN PLAY\nUse Living Meteor Shards as strange hazards, research prizes, or signs that fallen celestial fragments remain active.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "slashing",
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Living Statue",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nLiving Statues are carved figures animated by magic, curses, temple wards, or old commands. They are often mistaken for decoration until they move.\n\nDESCRIPTION\nStone or metal statues with carved faces, ceremonial weapons, dust in joints, and subtle signs of shifted position.\n\nUSE IN PLAY\nUse Living Statues for temples, noble gardens, tombs, archives, and old palace defenses.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "slashing",
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Lizardfolk",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nLizardfolk are natural reptilian humanoid people with no inherent connection to dragons. They are found across Eldaven in settled communities as well as wetlands, riverlands, warm forests, deserts, coasts, and frontier regions. Their ancestry does not determine culture, profession, intelligence, morality, temperament, or social status.\n\nDESCRIPTION\nLizardfolk have upright humanoid bodies with full scales, reptilian heads and eyes, tails, claws, strong jaws, and two arms and two legs. Lineages may resemble monitors, iguanas, crocodilians, geckos, desert lizards, or other reptiles while retaining practical humanoid proportions. Ordinary humanoid clothing, armor, weapons, and equipment remain usable with tailoring around the head and tail. Do not give ordinary Lizardfolk dragon horns, wings, breath weapons, or automatic draconic features.\n\nSOCIAL / COMBAT USE\nUse Lizardfolk as farmers, fishers, artisans, soldiers, merchants, scholars, sailors, priests, officials, servants, nobles, guides, adventurers, hunters, or any other role appropriate to their culture and circumstances. Their scales, claws, jaws, tails, and resilient physiology matter physically, but training and profession determine how they actually fight.\n\nNAMING CONVENTION\nUse names appropriate to the individual's home culture. Communities preserving older Lizardfolk traditions may use clipped, sibilant, clan-based, ancestral, or translated names without making that the default for Lizardfolk raised elsewhere.",
+      "resistances": [
+        "piercing"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Lynxfolk Beastkin",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nLynxfolk Beastkin are feline beastkin with tufted ears, quiet movement, sharp sight, and cold-weather hunting instincts.\n\nDESCRIPTION\nHumanlike bodies with lynx ears, short tails, pale or spotted markings, silent steps, and watchful eyes.\n\nSOCIAL / COMBAT USE\nUse for northern scouts, winter hunters, ranger lodges, mountain guides, and people who vanish into snow or pines.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Lythael Moon Beast",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nLythael Moon Beasts are forest creatures altered by moonwells, elven rites, or old living-road magic.\n\nDESCRIPTION\nGraceful animal forms with pale eyes, silver markings, leaf shadows, and movement that seems timed to moonlight.\n\nSOCIAL / COMBAT USE\nUse for Lythael forests, sacred hunts, diplomacy tests, and creatures that respond to etiquette as much as threat.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Mana Leech",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nMana Leeches are small parasitic creatures that feed on magical energy, spell residue, or enchanted items. They are pests until they gather in numbers.\n\nDESCRIPTION\nSlug, eel, insect, or batlike bodies with translucent bellies glowing faintly from stolen magic.\n\nUSE IN PLAY\nUse Mana Leeches in academies, ruins, enchanted forests, and after magical battles. They create resource pressure without needing big combat.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Mana Wraith",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nMana Wraiths are spectral predators or anomalies that feed on spell energy, arcana pressure, and enchanted objects.\n\nDESCRIPTION\nThin luminous spirits with hollow centers, long fingers, and light drawn from nearby magic into their shape.\n\nSOCIAL / COMBAT USE\nUse for academy wards, relic vaults, celestial-anomaly sites, and encounters that pressure spellcasters without needing brute force.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "arcane",
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Manticore",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nManticores are cruel winged predators with lionlike bodies, humanlike or monstrous faces, batlike wings, and venomous tail spines. Some speak; most mock.\n\nDESCRIPTION\nLionlike bodies, wings, scorpion or spine tails, sharp teeth, and expressions too intelligent for comfort.\n\nUSE IN PLAY\nUse Manticores for badlands, mountains, border ruins, and arrogant predator encounters. Talking manticores should be spiteful, vain, and dangerous.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Mantisfolk",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nMantisfolk are insectoid humanoids known for stillness, precision, blade-like limbs, and ceremonial patience.\n\nDESCRIPTION\nTall bodies with mantis-like eyes, folding forearms or blade weapons, green or brown chitin, and a posture of perfect waiting.\n\nSOCIAL / COMBAT USE\nUse for duelists, assassins, monastery guardians, forest predators, and alien but structured honor cultures.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Marsh Revenant",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nMarsh Revenants are vengeance-bound dead who rise from bogs, drowned roads, or hidden murder sites.\n\nDESCRIPTION\nWet corpse or ghostly figures with reeds in hair, mud in wounds, and eyes fixed on one remembered wrong.\n\nSOCIAL / COMBAT USE\nUse for murder mysteries, hidden bodies, old battlefield marshes, and enemies whose target matters.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Medusa",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nMedusas are a specific cursed lineage or individual class of serpent-haired petrifiers. They are more personal and tragic than generic stone monsters.\n\nDESCRIPTION\nHumanoid body, serpent hair, dangerous eyes, and signs of isolation, veiling, or careful control over sightlines.\n\nUSE IN PLAY\nUse Medusas for personal curse stories, abandoned estates, hidden temples, and social tragedy. Do not reduce them to simple jump-scare monsters.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "poison"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Merfolk",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nMerfolk are aquatic humanoids with humanlike upper bodies and fishlike lower bodies or strong aquatic traits. They live in reefs, sea caves, river mouths, hidden lagoons, undersea courts, and coastal sanctuaries. Some trade peacefully; others drown intruders who violate sacred waters.\n\nDESCRIPTION\nUse aquatic features: scales, fins, webbed hands, flowing hair, gills, pearl ornaments, coral jewelry, or shimmering skin. On land they may require magic, water, or special aid unless the NPC entry says otherwise.\n\nSOCIAL / COMBAT USE\nMerfolk understand tides, currents, sea law, pearl trade, drowned ruins, and ocean spirits. In combat they use spears, nets, songs, water movement, ambush from below, and terrain.\n\nNAMING CONVENTION\nUse flowing names tied to waves, pearls, reefs, moons, storms, or old sea lineages.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Merrow",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nMerrow are brutal deep-water humanoids or corrupted merfolk kin associated with raids, drowned caves, and predatory sea clans.\n\nDESCRIPTION\nLarge aquatic humanoids with fishlike features, webbed claws, heavy jaws, deep-water eyes, and trophies taken from wrecks.\n\nUSE IN PLAY\nUse Merrow as hostile sea raiders, cave dwellers, or enemies of more civilized merfolk and coastal settlements.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "piercing"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Meteor Golem",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nMeteor Golems are constructs or awakened fragments made from fallen star-metal and crater stone.\n\nDESCRIPTION\nHeavy bodies of black metal, silver cracks, floating fragments, and gravity that feels wrong around their steps.\n\nSOCIAL / COMBAT USE\nUse for ancient impact sites, Arcanum containment, and celestial-impact mysteries.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "slashing",
+        "piercing",
+        "arcane"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Mimic",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nMimics are shapeshifting ambush creatures capable of imitating ordinary objects, architectural features, containers, furnishings, or other stationary shapes. Their disguises are biological or magical hunting adaptations rather than true craftsmanship.\n\nDESCRIPTION\nWhen disguised they appear convincingly mundane. Revealed Mimics show adhesive surfaces, jagged teeth, tendrils, false wood or metal textures, and concealed limbs unfolding from the disguise.\n\nSOCIAL / COMBAT USE\nUse Mimics in ruins, abandoned houses, dungeons, vaults, laboratories, ships, and places where scavengers expect unattended objects. Their danger comes from surprise, adhesion, grappling, and making the environment untrustworthy.\n\nNAMING CONVENTION\nUsually unnamed; intelligent specimens may acquire names from former owners, prey, or repeated disguises.",
+      "resistances": [
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Minotaur",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nMinotaurs are large bull-headed or bull-horned humanoids with powerful bodies, hooves or heavy feet, thick necks, and immense charging strength. They may live in labyrinth ruins, steppe clans, arena circuits, mountain holds, or as elite guards.\n\nDESCRIPTION\nAlways include horns, broad shoulders, heavy build, and bovine features. Their gear should suit strength: axes, mauls, shields, arena armor, or clan totems.\n\nSOCIAL / COMBAT USE\nMinotaurs are often direct, proud, territorial, and bound by personal codes. In combat they charge, grapple, gore, smash, and hold narrow passages.\n\nNAMING CONVENTION\nUse strong names with horn, stone, maze, arena, or clan associations.",
+      "resistances": [
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Mirage Spirit",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nMirage Spirits are desert illusions with semi-real will, often appearing as loved ones, water, cities, or impossible roads.\n\nDESCRIPTION\nThey may appear beautiful, ordinary, or comforting at first, but edges blur with heat haze, glass light, or repeated details.\n\nUSE IN PLAY\nUse Mirage Spirits for temptation, guidance, trials, lost cities, and survival scenes where desire becomes dangerous.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Mireling",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nMirelings are small swamp humanoids, spirits, or fey-adjacent creatures who live in mud banks, reed huts, and drowned paths.\n\nDESCRIPTION\nSmall muddy bodies, wide eyes, webbed fingers, reed clothing, and quick nervous movement through water.\n\nSOCIAL / COMBAT USE\nUse for swamp guides, thieves, tricksters, frightened witnesses, and strange communities that know paths outsiders cannot see.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Mirror Golem",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nMirror Golems are reflective constructs made to guard salons, courts, cursed estates, or illusion chambers.\n\nDESCRIPTION\nHumanoid bodies of mirrored plates, reflected faces, bright seams, and movements that arrive half a heartbeat late.\n\nSOCIAL / COMBAT USE\nUse for identity horror, noble defenses, mage trials, and enemies that punish direct gaze or predictable movement.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "slashing",
+        "arcane"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [
+        "bludgeoning"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Molefolk",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nMolefolk are burrowing humanoids with poor surface vision, strong digging claws, and practical underground cultures.\n\nDESCRIPTION\nShort sturdy bodies with broad digging hands, dark-adapted eyes, whiskers, earth-stained clothes, and scent-focused behavior.\n\nSOCIAL / COMBAT USE\nUse for mines, buried towns, deep roads, tunnel guides, and communities that know the ground as a map.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Moon Elf",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nMoon Elves are elven lineages associated with night courts, moon wells, old memory, dream rites, and careful prophecy.\n\nDESCRIPTION\nPointed ears, pale or silver tones, moonstone jewelry, calm eyes, ceremonial braids, and clothing that catches dim light.\n\nSOCIAL / COMBAT USE\nUse for Lythael mystics, moonwell guardians, court seers, diplomatic envoys, and characters who speak around truths until trust is earned.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Moon-Cursed Lycanthrope",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nMoon-Cursed Lycanthropes are people afflicted by a true transformative curse rather than beastkin ancestry. They shift under instinct, moon pressure, rage, trauma, or curse triggers.\n\nDESCRIPTION\nIn mortal form they may look ordinary but tense; in changed form they become wolfish, bear-like, boar-like, or otherwise bestial with claws, fangs, fur, and dangerous strength.\n\nUSE IN PLAY\nUse this type when the story needs curse horror, hidden identities, uncontrolled violence, or difficult treatment by temples and mages. Keep it distinct from Werewolf Beastkin, who are a lineage rather than a curse.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "slashing"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Mossback Boar",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nMossback Boars are ancient forest boars with moss, bark, or fungal growths across their backs. They are territorial, stubborn, and tied to old woodland paths.\n\nDESCRIPTION\nBoar bodies covered in moss, bark plates, mushrooms, roots, and tusks stained by soil or sap.\n\nUSE IN PLAY\nUse Mossback Boars in Verdant Expanse, Valenreach forests, and protected groves. They can be monsters, sacred animals, or signs of forest imbalance.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Mothfolk",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nMothfolk are rare intelligent winged insectoid people with nocturnal senses and strong visual variation between lineages. Some communities have historical ties to Dream Arcana, fey regions, caves, or night traditions, but Mothfolk are a people in their own right rather than automatically spirits or fey creatures.\n\nDESCRIPTION\nHumanoid bodies with moth wings, soft antennae, large dark-adapted eyes, fine hair or fuzz in limited areas, and patterned wings ranging from muted camouflage to striking markings. Clothing, armor, harnesses, and packs must leave the wings free or be specially fitted around them.\n\nSOCIAL / COMBAT USE\nUse Mothfolk as night couriers, artisans, scholars, merchants, scouts, performers, navigators, shrine attendants, diplomats, cave dwellers, or members of small settled communities. Their wings and nocturnal senses matter, but do not make every Mothfolk fragile, mystical, timid, dream-obsessed, or fey-aligned.\n\nNAMING CONVENTION\nUse names shaped by local culture. Isolated Mothfolk communities may favor names associated with night, moonlight, lamps, seasons, wing patterns, or family lineages.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Mousefolk Beastkin",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nMousefolk Beastkin are small, quick beastkin with mouse ears, tails, sharp hearing, and strong instincts for hiding, gathering, and surviving under larger powers.\n\nDESCRIPTION\nHumanlike but small or slight, with mouse ears, thin tail, bright eyes, quick hands, and clothing suited to city corners, kitchens, archives, or caravans.\n\nSOCIAL / COMBAT USE\nUse for servants, scribes, messengers, thieves, cooks, street children, and survivors who know every small route through a place.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Mud Elemental",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nMud Elementals are living mixtures of earth and water formed in bogs, floodplains, and broken river wards.\n\nDESCRIPTION\nHeavy shifting bodies of mud, reeds, stones, bones, and bubbles, with limbs forming only when needed.\n\nSOCIAL / COMBAT USE\nUse for marsh hazards, old flood magic, swamp shrines, and enemies that pull rather than strike.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "bludgeoning",
+        "slashing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [
+        "fire"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Mummy",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nMummies are preserved undead bound by burial rites, desert curses, noble tomb magic, or ancient guardianship. They often protect places that were never meant to be opened.\n\nDESCRIPTION\nDesiccated bodies wrapped in linen, gold charms, funeral masks, cracked seals, and dust that clings like a warning.\n\nUSE IN PLAY\nUse Mummies for Sunspine Pilgrimlands tombs, buried cities, ancient priesthoods, and curses tied to violated rest or stolen relics.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [
+        "fire"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Myconid",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nMyconids are intelligent fungal humanoids and colony beings found in deep caverns, damp forests, old root systems, fungal groves, and subterranean settlements. Their biology and social communication are unusual to animal peoples, but they are capable of memory, negotiation, planning, community, trade, and individual judgment.\n\nDESCRIPTION\nUse mushroom caps, fungal skin, layered growths, soft or fibrous bodies, spore structures, and coloration reflecting age, species, health, or colony. Some Myconids communicate partly through spores, scent, gesture, or shared fungal networks. Do not assume every individual is mentally controlled by a hive mind.\n\nSOCIAL / COMBAT USE\nUse Myconids for underground settlements, medicine, fungal agriculture, ecological stewardship, trade, diplomacy, ancient memory, territorial disputes, or encounters with alien but comprehensible social customs. They may defend themselves with spores, toxins, tools, magic, or cultivated organisms depending on community and profession.\n\nNAMING CONVENTION\nNames may be spoken approximations, translated concepts, colony names, scent or spore meanings rendered into Common, or names adopted for dealing with other peoples.",
+      "resistances": [
+        "poison"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "fire"
+      ],
+      "spoiler": false
+    }
+  ]
+}
