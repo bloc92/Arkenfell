@@ -302,6 +302,94 @@ html[data-access="gm"] .sidebar-note strong { color: var(--gm-strong); }
 .secondary-button:hover { background: var(--panel-2); }
 .gm-login-footnote { margin: -4px 0 0; color: var(--muted); font-size: .78rem; text-align: right; }
 
+
+.directory-toolbar {
+  display: grid;
+  grid-template-columns: minmax(220px, 1fr) minmax(180px, 260px);
+  gap: 14px;
+  margin: 24px 0 34px;
+  padding: 18px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--panel-2);
+}
+.directory-search,
+.directory-filter {
+  display: grid;
+  gap: 6px;
+  color: var(--body-text);
+  font-size: .8rem;
+  font-weight: 800;
+}
+.directory-toolbar input,
+.directory-toolbar select {
+  width: 100%;
+  min-height: 44px;
+  padding: 10px 12px;
+  border: 1px solid var(--line);
+  border-radius: 9px;
+  background: var(--panel);
+  color: var(--text);
+}
+.directory-results {
+  grid-column: 1 / -1;
+  margin: 0;
+  color: var(--muted);
+  font-size: .84rem;
+}
+.directory-group {
+  margin-top: 2.6rem;
+}
+.directory-group > h2 {
+  margin-top: 0;
+}
+.directory-entry {
+  margin: 12px 0;
+  padding: 17px 19px;
+  border: 1px solid var(--line);
+  border-radius: 11px;
+  background: var(--panel);
+}
+.directory-entry:hover {
+  border-color: var(--accent);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, .05);
+}
+.directory-entry > h3 {
+  margin: 0 0 7px;
+  font-size: 1.18rem;
+}
+.directory-entry > :last-child {
+  margin-bottom: 0;
+}
+.directory-group > ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 10px;
+  padding: 0;
+  list-style: none;
+}
+.directory-group > ul > .directory-search-item {
+  margin: 0;
+  padding: 13px 15px;
+  border: 1px solid var(--line);
+  border-radius: 9px;
+  background: var(--panel);
+}
+.directory-search-item[hidden],
+.directory-group[hidden] {
+  display: none !important;
+}
+.directory-has-no-results::after {
+  display: block;
+  margin: 24px 0;
+  padding: 18px;
+  border: 1px dashed var(--line);
+  border-radius: 10px;
+  color: var(--muted);
+  content: "No directory entries match those filters.";
+  text-align: center;
+}
+
 @media (max-width: 980px) {
   .site-header { grid-template-columns: 1fr auto; }
   .search-box { grid-column: 1 / -1; grid-row: 2; }
@@ -329,4 +417,8 @@ html[data-access="gm"] .sidebar-note strong { color: var(--gm-strong); }
   .gm-login-actions { flex-direction: column-reverse; }
   .primary-button, .secondary-button { width: 100%; }
   .gm-login-footnote { text-align: left; }
+}
+
+@media (max-width: 700px) {
+  .directory-toolbar { grid-template-columns: 1fr; }
 }
