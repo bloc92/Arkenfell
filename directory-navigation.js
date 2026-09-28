@@ -61,6 +61,14 @@ const directoryPages = {
       'content/data/traits-t-z.json'
     ],
     searchPlaceholder: 'Search traits, categories, modifiers, abilities, items, or story effects…'
+  },
+  'story-start-directory': {
+    source: 'content/data/story-starts.json',
+    searchPlaceholder: 'Search Story Starts, premises, locations, characters, or quests…'
+  },
+  'game-mode-directory': {
+    source: 'content/data/game-modes.json',
+    searchPlaceholder: 'Search Game Modes, difficulty, tone, pacing, or instructions…'
   }
 };
 
@@ -117,7 +125,7 @@ function createDirectoryToolbar(groups, placeholder) {
 
 function appendDirectoryMetadata(container, entry) {
   const metadata = [entry.kind, entry.location || entry.region || entry.realm].filter(Boolean);
-  if (!metadata.length && !entry.spoiler) return;
+  if (!metadata.length && !entry.spoiler && !entry.spoilerDetails) return;
 
   const row = document.createElement('div');
   row.className = 'directory-entry-meta';
@@ -126,7 +134,7 @@ function appendDirectoryMetadata(container, entry) {
     chip.textContent = value;
     row.appendChild(chip);
   });
-  if (entry.spoiler) {
+  if (entry.spoiler || entry.spoilerDetails) {
     const spoiler = document.createElement('span');
     spoiler.className = 'directory-spoiler-badge';
     spoiler.textContent = 'Spoiler';
@@ -168,6 +176,33 @@ function appendDirectoryFacts(container, entry) {
     list.append(term, detail);
   });
   container.appendChild(list);
+}
+
+function appendDirectoryDetails(container, entry) {
+  const disclosures = [
+    {
+      text: entry.details,
+      label: entry.detailsLabel || 'Read full details',
+      className: 'directory-entry-details'
+    },
+    {
+      text: entry.spoilerDetails,
+      label: 'Spoiler warning — reveal full setup',
+      className: 'directory-spoiler-disclosure'
+    }
+  ].filter(disclosure => String(disclosure.text || '').trim());
+
+  disclosures.forEach(disclosure => {
+    const details = document.createElement('details');
+    details.className = disclosure.className;
+    const summary = document.createElement('summary');
+    summary.textContent = disclosure.label;
+    const text = document.createElement('p');
+    text.className = 'directory-long-details';
+    text.textContent = disclosure.text;
+    details.append(summary, text);
+    container.appendChild(details);
+  });
 }
 
 function createDirectoryEntry(entry) {
@@ -216,6 +251,8 @@ function createDirectoryEntry(entry) {
       card.appendChild(details);
     }
   }
+
+  appendDirectoryDetails(card, entry);
 
   card.dataset.group = entry.group || 'Other';
   card.dataset.searchText = JSON.stringify(entry).toLowerCase();
