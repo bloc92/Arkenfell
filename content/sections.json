@@ -8,14 +8,14 @@
     },
     {
       "id": "world",
-      "title": "World",
+      "title": "Arkenfell",
       "landing": "world-overview",
       "articles": ["eldaven"]
     },
     {
-      "id": "realms",
-      "title": "Realms",
-      "landing": "realm-directory",
+      "id": "countries",
+      "title": "Countries",
+      "landing": "country-directory",
       "articles": [
         "kingdom-of-valenreach",
         "dreadmark-dominion",
