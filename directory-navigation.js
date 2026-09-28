@@ -105,7 +105,7 @@ function collectDirectoryGroups(content) {
 }
 
 function enhanceDirectoryPage() {
-  if (!window.state) return;
+  if (typeof state === 'undefined') return;
 
   const content = document.getElementById('article-content');
   if (!directoryPageIds.has(state.activeId)) {
