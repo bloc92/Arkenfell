@@ -1,7 +1,7 @@
 ---
 id: palegrave-crown
 title: The Palegrave Crown
-category: Realms
+category: Countries
 knowledge: regional
 status: canon
 ---
