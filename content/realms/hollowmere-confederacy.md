@@ -1,7 +1,7 @@
 ---
 id: hollowmere-confederacy
 title: The Hollowmere Confederacy
-category: Realms
+category: Countries
 knowledge: regional
 status: canon
 ---
