@@ -10,7 +10,9 @@
       "id": "world",
       "title": "Arkenfell",
       "landing": "world-overview",
-      "articles": ["eldaven"]
+      "articles": [
+        "eldaven"
+      ]
     },
     {
       "id": "countries",
@@ -41,13 +43,17 @@
       "id": "places",
       "title": "Places",
       "landing": "place-directory",
-      "articles": ["highcourt-armathen"]
+      "articles": [
+        "highcourt-armathen"
+      ]
     },
     {
       "id": "people",
       "title": "People",
       "landing": "important-npcs",
-      "articles": ["edgar-vaust"]
+      "articles": [
+        "edgar-vaust"
+      ]
     },
     {
       "id": "factions",
@@ -70,8 +76,23 @@
     {
       "id": "faith",
       "title": "Faith",
-      "landing": "divine-powers-of-eldaven",
-      "articles": ["pantheon-directory", "ardoval"]
+      "landing": "pantheon-directory",
+      "articles": [
+        "divine-powers-of-eldaven",
+        "ardoval"
+      ]
+    },
+    {
+      "id": "items",
+      "title": "Items",
+      "landing": "item-directory",
+      "articles": []
+    },
+    {
+      "id": "creatures",
+      "title": "Creatures",
+      "landing": "creature-directory",
+      "articles": []
     },
     {
       "id": "rules-and-play",
