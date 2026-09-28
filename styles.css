@@ -421,6 +421,18 @@ html[data-access="gm"] .sidebar-note strong { color: var(--gm-strong); }
   font-weight: 800;
   text-transform: uppercase;
 }
+
+.directory-entry-facts {
+  display: grid;
+  grid-template-columns: max-content minmax(0, 1fr);
+  gap: 3px 9px;
+  margin: 0 0 11px;
+  color: var(--muted);
+  font-size: .78rem;
+}
+.directory-entry-facts dt { font-weight: 800; }
+.directory-entry-facts dd { margin: 0; }
+
 .directory-entry-preview { margin: 0; }
 .directory-entry-details,
 .directory-spoiler-disclosure {
