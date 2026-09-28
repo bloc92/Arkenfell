@@ -321,6 +321,22 @@
       "tags": ["Abilities","Requirements","Character Options","Reference"]
     },
     {
+      "id": "story-start-directory",
+      "title": "Story Start Directory",
+      "category": "Play Options",
+      "summary": "A searchable directory of all 40 configured Story Starts, with full setups behind spoiler warnings.",
+      "path": "content/play/story-start-directory.md",
+      "tags": ["Story Starts","Campaigns","Play Options","Reference"]
+    },
+    {
+      "id": "game-mode-directory",
+      "title": "Game Mode Directory",
+      "category": "Play Options",
+      "summary": "A searchable directory of all 25 configured Game Modes and their complete narrator instructions.",
+      "path": "content/play/game-mode-directory.md",
+      "tags": ["Game Modes","Difficulty","Pacing","Reference"]
+    },
+    {
       "id": "rules-and-play",
       "title": "Rules and Play",
       "category": "Character Reference",
