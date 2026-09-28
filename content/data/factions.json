@@ -1,0 +1,397 @@
+{
+  "realm": "Arkenfell",
+  "entries": [
+    {
+      "name": "Eldmark Kingdom",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "Eldmark Kingdom is a unified crown realm of timber-and-stone halls, shield-wall musters, rune stones, beacon towers, ancestral barrows, iron law-courts, fortified river towns, hill forts, raider keeps, and oathbound warrior households. Its power is central enough to draw clear royal borders, but local nobles, old families, and law-speakers still matter because inheritance and feud shape daily authority. Outsiders see Eldmark as ancient, proud, martial, tradition-bound, and difficult to sway with soft diplomacy. Its public virtue is honor under old law, while its contradiction is that oaths can preserve justice or trap entire families in inherited conflict. Use it for warrior courts, raids, feuds, ancestral claims, storm shrines, royal musters, and hard-won provincial loyalty.",
+      "spoiler": false
+    },
+    {
+      "name": "Kingdom of Valenreach",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Kingdom of Valenreach is the central royal power of Eldaven and the primary political frame for many campaigns. Ruled by King Aldric and Queen Ceralie, it presents itself as lawful, wealthy, fortified, and legitimate through Highcourt Armathen, noble estates, mage roads, abbeys, military musters, river trade, and rural villages. Most citizens experience the crown through taxes, patrols, road repairs, local officials, traveling clerks, and rumors from the capital. Valenreach contains loyal soldiers, ambitious nobles, tired scribes, temple witnesses, servants, frightened villagers, and officials who prize stability over candor. Use it for royal authority, court access, military protection, legal recognition, succession pressure, and reputation becoming procedure.",
+      "spoiler": false
+    },
+    {
+      "name": "The Arcanum Ascendancy",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Arcanum Ascendancy is an independent mage-ruled state of spire cities, research enclaves, academies, relic courts, transit circles, resonance maps, and archives where access can matter more than coin. Archmages and senior magical authorities govern through recognized achievement, laboratory control, patronage, and classification rights rather than noble blood. The Ascendancy seldom fights conventional wars, preferring arbitration, recruitment, ward networks, controlled transit, research funding, and early detection of unusual magic. Outsiders value its expertise while fearing its habit of treating people as cases. Use it for rare Arcana attention, relic disputes, research ethics, magical bureaucracy, and helpful institutions with possessive curiosity.",
+      "spoiler": false
+    },
+    {
+      "name": "The Argent Ledger",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Argent Ledger is a merchant consortium controlling caravan insurance, river contracts, grain reserves, warehouse seals, debt instruments, and logistics intelligence across Valenreach and nearby trade routes. Its members are financiers, weighmasters, factors, insurers, convoy sponsors, accountants, and route planners rather than nobles. Publicly, the Ledger supports stable coinage, safe roads, predictable markets, and contracts that survive politics. In practice, anyone who controls food, transport, and debt controls more than many dukes admit. Use it for trade disputes, famine planning, suspicious cargo, price shocks, supply failures, and politics becoming visible through disrupted trade before proclamations.",
+      "spoiler": false
+    },
+    {
+      "name": "The Ashen Maw",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Ashen Maw is an independent demon nation bordering the Emberhorn Accord. Its people are organized through clans, strongholds, warbands, blood ties, oath circles, local rulers, and temporary coalitions rather than a single heavily bureaucratic state. Maw authority rests on kin loyalty, strength, courage, reputation, guest law, blood obligation, martial achievement, and the ability of leaders to protect those who follow them. Outsiders often call the Maw barbaric, but it is not lawless. Use it for demon clan politics, feuds, warbands, challenge customs, harsh hospitality, raiding conflicts, border diplomacy, martial rivalries, and alliances built through personal obligation rather than written institutions.",
+      "spoiler": false
+    },
+    {
+      "name": "The Ashen Veil",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Ashen Veil is a decentralized western resistance movement descended from opposition to Valenreach's long westward expansion and annexation. Supporters include old loyalists, displaced families, smugglers, former soldiers, local autonomists, frontier fighters, informants, and people radicalized by Crown policy; the Crown calls the movement insurgents, kidnappers, smugglers, and destabilizers. The Veil does not rule the west, and western identity does not imply Veil membership. It works through local cells, safehouses, road sympathizers, coded couriers, route keepers, deniable agents, and leaders whose authority depends as much on trust and logistics as title. Use the Ashen Veil for resistance politics, anti-crown arguments, insurgent logistics, contested legitimacy, and situations where patriotism, justice, revenge, survival, and opportunism overlap.",
+      "spoiler": false
+    },
+    {
+      "name": "The Broken Crown Claimants",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Broken Crown Claimants are rival noble lines, oath towns, military remnants, old-law jurists, mercenary backers, and dispossessed heirs struggling over the fallen realm of the Broken Crownlands. Each claimant insists they alone preserve the legitimate future, whether through castles, blood records, popular loyalty, foreign coin, or a banner with enough soldiers to keep the war unfinished. Outsiders see a feud that should have ended; locals see law, grief, and survival tangled together. The Claimants are a conflict that has become an institution. Use them for contested legitimacy, ruined courts, refugees, mercenary politics, false heirs, and mirrors of Valenreach's own inheritance fears.",
+      "spoiler": false
+    },
+    {
+      "name": "The Cinder Gate Cults",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Cinder Gate Cults are scattered demon-worshipping, abyss-touched, and forbidden-summoning cells operating through the southeastern borderlands and vulnerable roads of Eldaven. They are not one church and they do not represent either the organized demon society of the Emberhorn Accord or the harsher, clan-based peoples of the Ashen Maw. They are a shifting pattern of summoners, failed exorcists, desperate nobles, prophets, blood-oath fanatics, corrupted warriors, and relic hunters who seek power through abyssal forces that established demon societies themselves may consider dangerous. Cells may hide behind charitable houses, mercenary fronts, black-market relic trade, pilgrimage escorts, criminal clans, raiding bands, or scholarly curiosity. Their symbols vary, but ash rings, cracked gate marks, blood-marked idols, ritual scars, and deliberately broken wards often appear around their work. Use them for corruption plots, forbidden summoning, missing travelers, abyssal pacts, cult infiltration, unstable relics, and the temptation to solve one crisis by opening a worse door.",
+      "spoiler": false
+    },
+    {
+      "name": "The Cloudspire Dominion",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Cloudspire Dominion is the highland and sky-island power of floating keeps, wind bridges, cliff cities, storm temples, winged couriers, airship docks, sky knights, weather mages, and families who treat altitude as inheritance. Its people are used to looking down on the politics of low roads, sometimes literally and sometimes with dangerous arrogance.\n\nThe Dominion controls air routes, storm passes, high observatories, rare sky minerals, and messenger paths that can bypass borders below. It values poise, daring, clean lineage, weather discipline, and the ability to act before earthbound rivals realize movement has begun.\n\nUse it for sky travel, airship politics, floating ruins, storm monsters, aerial duels, weather rites, and nobles whose grace hides ruthless practicality.",
+      "spoiler": false
+    },
+    {
+      "name": "The Coral Throne",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Coral Throne is the coastal and undersea-adjacent power of reef courts, sea elf houses, merfolk envoys, tide priests, pearl judges, leviathan pact-keepers, shipwreck archivists, and harbor families sworn to the deep law. Its authority is strongest where land politics meet water no crown can fully patrol.\n\nThe Throne does not rule all seas, but it commands respect across reefs, tide gates, sacred wrecks, and routes where sailors know to lower their voices. It values tide debt, witness shells, storm mercy, safe return, and the right of the deep to keep secrets from land.\n\nUse it for ocean diplomacy, sea peoples, reef mysteries, pearl courts, leviathan omens, shipwreck law, and conflicts between mainland trade and coastal sovereignty.",
+      "spoiler": false
+    },
+    {
+      "name": "The Crownless Court",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Crownless Court is a shadow society dealing in lineage secrets, inheritance disputes, erased identities, adoption records, hidden heirs, false witnesses, and inconvenient family truths. Its members include genealogists, dismissed clerks, noble bastards, blackmailers, legal scholars, archivists, false-name brokers, disgraced heralds, and servants who learned that paper can wound more safely than knives. Many nobles dismiss the Court as scandal folklore until a perfect sealed letter arrives without a seal. It prefers document timing, rumor, and social ruin over open violence. Use it for inheritance threats, missing records, forged claims, blackmail, and legitimacy weaponized without a throne.",
+      "spoiler": true
+    },
+    {
+      "name": "The Crownspire Collegium",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Crownspire Collegium is Valenreach's premier magical institution and a semi-autonomous academy inside Highcourt Armathen's wider capital structure. It trains promising mages, tests Arcana, advises the crown, maintains arcane records, and provides court-recognized expertise through its gates, tutors, archives, testing chambers, and restricted stacks. Its public mission is responsible education in theory, ward law, battlefield use, ritual discipline, and royal advisory practice. Crownspire serves the crown but is not identical to it; instructors, nobles, Arcanum observers, and Lantern witnesses all compete over its future. Use it for academy rivalry, rare Arcana scrutiny, archive access, and education becoming oversight.",
+      "spoiler": false
+    },
+    {
+      "name": "The Dreadmark Dominion",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Dreadmark Dominion is an eastern militarized state ruled by the Malrec bloodline from Vhal Kareth. It is built on rigid hierarchy, compulsory service, public punishment, disciplined legions, restricted movement, and the doctrine that obedience is the price of order. Its strength lies in infantry, siege trains, engineers, beast-handlers, registrars, overseers, harsh cavalry, logistics, and an administrative system that assigns people according to rank and state need. Dreadmark cruelty is controlled rather than chaotic: papers, permits, rank, quotas, inspections, and punishments are part of governance. Use it for oppressive cities, border inspections, prison arcs, resistance cells, war-beasts, escape attempts, and enemies who are organized rather than reckless.",
+      "spoiler": false
+    },
+    {
+      "name": "The Emberhorn Accord",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Emberhorn Accord is the organized demon-blooded nation of southeastern Eldaven, ruled through contract courts, noble houses, citizen militias, infernal academies, volcanic councils, and legal traditions older than many human kingdoms. Outsiders often call its people demons, but the Accord distinguishes carefully between lawful demon-blooded citizens, tiefling families, infernal spirits, abyssal corruption, and predatory demons. It values binding word, personal strength, house honor, hospitality, controlled passion, public debt, and formal consequence. Its magistrates can be fair, severe, or terrifyingly precise. Use it for demon diplomacy, contract trials, volcanic cities, honorable rivals, tiefling ancestry, and alliances against worse abyssal threats.",
+      "spoiler": false
+    },
+    {
+      "name": "The Emberwright Compact",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Emberwright Compact is a guild alliance of smiths, rune-engravers, wardwrights, siege engineers, artificers, furnace masters, and battlefield technicians. It maintains enchanted weapons, fortress defenses, bridge wards, gate mechanisms, and military infrastructure for Valenreach and select foreign clients. The Compact is independent but favors authorities that protect roads, mines, workshops, apprenticeships, and magical industry. Members respect proven work, signed commissions, material honesty, and the duty to repair what others only praise after victory. Use it for enchanted arms, fortification repairs, rune failures, star-metal rumors, craft politics, and working expertise nobles cannot simply command.",
+      "spoiler": false
+    },
+    {
+      "name": "The Fangbound Clans",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Fangbound Clans are the roaming and semi-settled peoples of the eastern steppe: orc holds, beastkin riders, wolf-banner families, storm shamans, ogre pact-bands, fortified well-keepers, monster herders, and champion-led war camps. Courts call them barbaric because they do not build power around palaces. The clans judge power by survival, guest law, herd rights, battle reputation, and whether a leader remains worthy.\n\nSome clans raid. Some trade. Some protect caravans more faithfully than royal guards. Some follow chieftains, shamans, beastlords, or champions whose authority lasts only while courage and food endure.\n\nUse them for warrior companions, steppe tournaments, clan diplomacy, mounted raids, monster hunts, honor conflicts, and outsiders learning which insult actually matters.",
+      "spoiler": false
+    },
+    {
+      "name": "The Freefang Captains",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Freefang Captains are the shifting warlord-brotherhood that gives much of Freefang society its political shape: outlaw chiefs, mercenary bosses, caravan raiders, fugitive knights, bounty brokers, dueling champions, and road-town protectors who gather under temporary banners when a threat, dispute, or profit is large enough. They are not a unified state and do not speak for every Freefang community.\n\nSome captains are predators. Others are exiles, folk heroes, deserters, debtors, mercenaries, or practical rulers of settlements abandoned by stronger authorities. Their power depends heavily on reputation, visible strength, useful mercy, kept bargains, followers, supplies, and the ability to survive the consequences of their decisions.\n\nUse them for bounty arcs, caravan protection, mercenary recruitment, outlaw politics, road justice, dueling scenes, temporary alliances, and choices where law and morality separate.",
+      "spoiler": false
+    },
+    {
+      "name": "The Hollowmere Confederacy",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Hollowmere Confederacy is a fragile league of small human border states, old town charters, marshland baronies, toll republics, oath villages, and minor lordships caught between larger powers. Its people are fiercely practical because independence survives through negotiation, terrain, stubborn law, and making conquest too expensive.\n\nNo single ruler speaks for all Hollowmere. Councils, barons, reeves, militia captains, ferrymen, clergy, and charter families bargain constantly over roads, bridges, tax rights, refugee movement, and which outside power is currently least dangerous.\n\nUse the Confederacy for border politics, small-state diplomacy, hostage exchanges, disputed roads, local militias, refugees, and stories where minor powers are not helpless just because they are small.",
+      "spoiler": false
+    },
+    {
+      "name": "The Ironroot Holds",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Ironroot Holds are the dwarven mountain federation of northwestern Eldaven, bound by clan law, forge oaths, deep-road charters, ancestral halls, mining rights, siegecraft contracts, and mutual defense compacts. They are not a single human-style kingdom; each holdfast has its own clan elders, craft masters, shield companies, and grudges, but all understand that the mountain survives through shared stone.\n\nIronroot smiths, engineers, runesmiths, tunnel wardens, gem cutters, and siege architects are respected across the continent. Their goods are expensive because they are built for the grandchildren of the buyer.\n\nUse the Holds for craft politics, underground expeditions, clan debts, forge secrets, sealed lower roads, monster breaches, and stubborn allies who demand proof before trust.",
+      "spoiler": false
+    },
+    {
+      "name": "The Ironwatch Marches",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Ironwatch Marches are a hardened frontier brotherhood stationed along Valenreach's northern ruin-belts, broken fortress roads, old signal lines, and dangerous watch corridors. They include scouts, ruin-wardens, veterans, signal officers, monster hunters, quartermasters, field medics, mapkeepers, and captains who trust warning stones more than court reassurance. They began as route guards but became the kingdom's early-warning force against ancient dangers beneath abandoned borderlands. Their autonomy is tolerated because threats often reach the frontier before permission reaches them. Use them for northern patrols, old forts, missing scouts, ruin exploration, monster breaches, and soldiers reporting truths the capital dislikes.",
+      "spoiler": false
+    },
+    {
+      "name": "The Lantern Synod",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Lantern Synod is a Valenreach religious-scholarly order devoted to Heroic Arcana, Healing Arcana, healing witness, oath tradition, sacred records, and careful ritual procedure. It is not the Solarian Theocracy, though the two may cooperate or dispute doctrine. Synod members serve as healers, priests, scribes, archivists, witness-clerks, ritual specialists, and moral counselors. They commonly witness marriages, inheritance declarations, legal oaths, healing reviews, recognition ceremonies, and other acts where an independent record strengthens public credibility. A Lantern witness certifies what was actually witnessed and whether a Synod procedure was properly followed; Synod approval does not by itself create, erase, or overrule Crown law, noble authority, civil judgment, succession, marriage, inheritance, or personal status. Use the Synod for healing houses, oaths, sacred archives, respected witnesses, moral counsel, procedural expertise, and disputes over evidence or doctrine rather than as a second government.",
+      "spoiler": false
+    },
+    {
+      "name": "The Lythael Elven Dominion",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Lythael Elven Dominion is an ancient southern power of living roads, guarded borderwoods, hidden cities, moonwell sanctuaries, noble matriarchs, memory archives, root bridges, and patient magic. It has been ruled for more than a thousand years by the Lythael royal line and old houses with long political memory. The Dominion is beautiful but not gentle, preferring patience over display and control over noise. Its envoys speak softly because time is one of their weapons, and its forests redirect unwanted visitors before debate begins. Use Lythael for ancient forest diplomacy, matriarchal intrigue, rare Arcana observation, hidden roads, elegant danger, and long-lived grudges.",
+      "spoiler": false
+    },
+    {
+      "name": "The Mourning Bell Wardens",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Mourning Bell Wardens are a grim containment order operating throughout and around the Blackbell Deadroads. They include funeral knights, plague-priests, battlefield exorcists, oath scribes, grave scouts, bell-ringers, and soldiers trained to determine whether the dead are mindless, oathbound, contagious, hostile, or still capable of testimony.\n\nThey are respected by border settlements and distrusted by people who fear what their investigations may uncover. Their work is practical and bleak: seal roads, secure unsafe remains, escort survivors, record ghost testimony, mark cursed wells, maintain warning bells, and decide when mercy means destroying something that once had a name.\n\nUse them for undead containment, moral horror, battlefield records, plague memory, escort missions, abandoned roads, and scenes where the living must answer for what the dead still remember.",
+      "spoiler": false
+    },
+    {
+      "name": "The Nightglass Principality",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Nightglass Principality is a vampire-ruled gothic state of immortal houses, blood courts, mortal village charters, night chapels, oath-bound estates, and ancient hospitality law. It is small in land but deep in memory, wealth, influence, and leverage. Publicly it presents itself as lawful, elegant, and restrained: hunger is not denied, but regulated through guest-right, blood contracts, feeding law, and punishment for uncontrolled predation. Outsiders fear its nobles for good reason, yet some border villages prefer Nightglass law to bandits, famine, or wandering undead. Use it for vampire diplomacy, blood debts, old treaties, protected guests, and social danger where wording matters.",
+      "spoiler": false
+    },
+    {
+      "name": "The Palegrave Crown",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Palegrave Crown is the remnant authority of the far northern frost ruins: giant-blooded thanes, icebound oath-keepers, winter spirits, buried hall stewards, frost priests, and old banners that still command loyalty in places where modern kings rarely travel. Some outsiders call it a dead kingdom. Its own people call it a crown in winter sleep.\n\nThe Palegrave Crown values endurance, ancestry, oath-stone, memory, and the difference between retreat and patience. Its settlements are sparse, severe, and built around surviving seasons that would kill softer courts before politics began.\n\nUse it for frost ruins, giant legacies, ancient oaths, northern expeditions, lost halls, winter diplomacy, and powers that may wake slowly but move with enormous weight when roused.",
+      "spoiler": false
+    },
+    {
+      "name": "The Rootbound Moot",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Rootbound Moot is the loose council-tradition by which monster villages, dryad circles, awakened beasts, forest ogres, wolfkin packs, goblin elders, treant speakers, spirit envoys, and other peoples of the Verdant Expanse negotiate shared threats. It is not a crown, senate, or kingdom. The Moot gathers when axes cross sacred roots, outsiders break guest-law, or a danger grows large enough that isolation becomes weakness. Its authority is uneven: some clans honor it, some ignore it, and some listen only when an ancient tree, beast matriarch, slime lord, or war-chief makes disobedience costly. Use it for monster diplomacy, forest politics, nonhuman custom, and wild peoples organizing without becoming human-style civilization.",
+      "spoiler": false
+    },
+    {
+      "name": "The Solarian Theocracy",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Solarian Theocracy is a southeastern religious state of sanctuaries, pilgrimage roads, healing houses, confession gates, temple courts, doctrinal schools, white-gold basilicas, rural shrines, and fortified holy sites. It is ruled by a High Synod of temple-lords rather than a royal dynasty. Its influence crosses borders through priests, healers, confessors, scribes, relic keepers, doctrinal examiners, and temple guards who bless, judge, record, and comfort. The Theocracy should feel compassionate and controlling at the same time: it feeds pilgrims and treats the sick, but also classifies unusual power and turns mercy into obligation. Use it for pilgrimage arcs, Healing Arcana, holy trials, disputed miracles, legitimacy petitions, and kindness bound to authority.",
+      "spoiler": false
+    },
+    {
+      "name": "The Solmire Concord",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Solmire Concord is a western merchant republic of harbor cities, convoy hubs, contract courts, grain exchanges, bonded warehouses, senate blocs, trade houses, insurers, and private security companies. It has no king; authority belongs to those who control credit, shipping, food, arbitration, and risk. The Concord exports grain, salt, cloth, ship timber, convoy protection, insurance, banking, legal arbitration, and profitable neutrality. Foreign nobles underestimate it because its leaders wear merchant colors instead of crowns. Use it for contract intrigue, debt leverage, maritime protection, neutral diplomacy, merchant heirs, trade wars, shipping intelligence, and political crises first visible through prices.",
+      "spoiler": false
+    },
+    {
+      "name": "The Stormpearl Free Captains",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Stormpearl Free Captains are the ship-lords, privateers, smugglers, lighthouse families, pearl fleet commanders, island council envoys, and storm-route navigators of the western island chain. They are not pirates by default, though many mainland officials use the word whenever island law refuses to obey mainland profit.\n\nTheir power moves by ship, weather, fresh water, reef knowledge, sworn crew, and which harbor will shelter a vessel when flags become inconvenient. Some captains sell escort. Some raid. Some serve island councils. Some carry diplomats under false manifests.\n\nUse them for sea travel, piracy, privateering, shipwreck salvage, island politics, forbidden cargo, storm monsters, and morally flexible allies.",
+      "spoiler": false
+    },
+    {
+      "name": "The Stormscale Conclave",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Stormscale Conclave is a loose alliance of white and air-aligned dragons controlling high-altitude territories, storm passes, remote aeries, wind routes, and mountain skies. It avoids direct rule over mortal settlements but influences weather, trade routes, dragonrider diplomacy, and the balance between kingdoms and older draconic claims. Conclave authority depends on age, territory, sky-oath, memory, elemental strength, and whether a dragon can enforce boundaries without waste. Mortals usually meet it through omens, envoys, rider intermediaries, weather changes, or warnings carved into high passes. Use it for dragon diplomacy, mountain routes, pact law, sky threats, and mortal politics answering older maps.",
+      "spoiler": false
+    },
+    {
+      "name": "The Tide Empire",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Tide Empire is one of Eldaven's oldest surviving powers and a long-standing ally of Valenreach. It controls fortified river cities, cold coastal strongholds, mountain passes, naval bastions, winter roads, governorates, fishing towns, dragonrider aeries, and treaty ports. Its public strength is continuity: fleets patrol in winter, governors administer river law, magistrates preserve treaties, and rider orders guard the skies. Imperial culture values endurance, public duty, restraint, oaths, river memory, and naval discipline. Use it for allied diplomacy, river politics, naval travel, dragonrider arcs, imperial ceremonies, old treaties, winter survival, and a friendly power that may still disagree with Valenreach.",
+      "spoiler": false
+    },
+    {
+      "name": "The Umbral Brood",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Umbral Brood are rare shadow-aligned dragons believed extinct by most scholars and reduced to warning myths in modern courts. Legends describe them as vast, patient, territorial beings tied to darkness, memory, hidden flame, soul-deep silence, and magic unlike ordinary elements. They are not a normal faction with banners or envoys; their existence alone could change diplomacy, Arcana theory, and royal legitimacy. Public tales claim one may slumber beneath ancient ruins near Greyhaven or along forgotten pact-lines, though most treat this as superstition. Use them for ancient dragon fear, Shadow Arcana escalation, pact history, catastrophic imbalance, and late truths that make rural mysteries feel older.",
+      "spoiler": false
+    },
+    {
+      "name": "The Valmere family",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Valmere family, formally House Valmere, is one of the wealthiest ducal houses in western Valenreach. Its power rests on fertile valleys, river access, inland routes, harvest contracts, private retainers, guarded warehouses, marriage politics, and usefulness to the Crown at exactly the right moment. The family appears loyal, refined, indispensable, and reasonable, with polished estates, clean ledgers, generous hospitality, and guards professional enough to seem ornamental. Valmere influence travels through trade agreements, river fleets, correspondence, household placements, financial favors, and marriage proposals. Lady Selira Valmere is formally and publicly betrothed to Crown Prince Rowan, making the planned royal marriage House Valmere's most important current dynastic alliance. Use the family for elegant pressure, noble courtship, rich estates, debt-backed influence, western trade power, and velvet invitations more dangerous than threats.",
+      "spoiler": false
+    },
+    {
+      "name": "The Veilward Compact",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Veilward Compact is an unofficial protective network of retired royal agents, archivists, oath-bound watchers, former guards, quiet informants, and sworn families concerned with succession manipulation. It is not publicly acknowledged and should feel like a rumor even to people it protects. The Compact does not rule or command armies; it watches, compares records, hides endangered witnesses, intercepts forged documents, preserves testimony, and disrupts plots that turn lineage into a weapon. Its signs are subtle: an unlocked archive shelf, a safer hallway, a retired soldier with sealed letters, or a ribbon placed where only one person understands it. Use it for hidden protection, archive anomalies, unexplained help, and old watchers acting without thanks.",
+      "spoiler": true
+    },
+    {
+      "name": "The Verdant Circle",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Verdant Circle is a loose alliance of druids, rangers, beastwardens, herbalists, wild-magic observers, shrine keepers, and frontier guides monitoring natural and elemental balance across Valenreach's outer lands. Villagers may know them as wanderers, hermits, woodsfolk, or the people who arrive before bad weather stops being weather. The Circle works through groves, ranger camps, seasonal gatherings, old oaks, field shrines, animal signs, marsh routes, and trusted local families. Some cooperate with the crown, while others distrust royal roads, noble logging rights, and academy classification. Use it for monster movement, blighted harvests, animal omens, old groves, ranger aid, frontier ecology, and conflict between settlement and living balance.",
+      "spoiler": false
+    },
+    {
+      "name": "Tide Empire Dragonrider Orders",
+      "group": "Major factions and powers",
+      "kind": "Major",
+      "summary": "The Tide Empire Dragonrider Orders are the oath-bound rider companies, aerie households, storm handlers, harness masters, sky scouts, and imperial officers who coordinate dragon-backed patrols across the empire’s northern waters and high routes. They serve the Tide Empire but preserve traditions older than some governorates, giving them honor, autonomy, and political weight beyond ordinary cavalry. Commoners see them as protectors and omens; officials see them as strategic assets that cannot be commanded like infantry. Use them for rider trials, sky patrols, old treaties, dragon etiquette, imperial military tension, and duty that moves above roads and borders.",
+      "spoiler": false
+    },
+    {
+      "name": "Eldmark Barrow-Keepers",
+      "group": "Minor factions and houses",
+      "kind": "Minor",
+      "summary": "The Eldmark Barrow-Keepers are the grave wardens, ancestor-priests, rune cutters, storm-shrine attendants, burial witnesses, and oath singers responsible for the kingdom’s ancestral mounds and saga-marked stones. They are not a single temple, but a respected network of families and shrine houses whose authority comes from tending the dead correctly. Common folk value them because ancestors remain socially present in Eldmark life; nobles value them because old graves can strengthen or ruin inheritance claims. Use them for barrow rites, disturbed graves, ancestor oaths, shrine warnings, old weapons, and the fear that the dead remember promises better than the living.",
+      "spoiler": false
+    },
+    {
+      "name": "Eldmark Beacon Wardens",
+      "group": "Minor factions and houses",
+      "kind": "Minor",
+      "summary": "The Eldmark Beacon Wardens maintain the hilltop fires, storm towers, crown-road signal posts, mustering horns, and watch shelters that bind the kingdom across rough timber and stone country. They are scouts, tower keepers, road riders, weather readers, retired shield-warriors, and messenger families who treat a delayed warning as a broken oath. Outsiders see them as grim but useful, while Eldmark villages often trust a beacon keeper before a distant lord. Use them for raids, lost messages, storm warnings, road danger, border musters, and scenes where one light on a hill can move a province.",
+      "spoiler": false
+    },
+    {
+      "name": "Eldmark Lawspeaker Circles",
+      "group": "Minor factions and houses",
+      "kind": "Minor",
+      "summary": "The Eldmark Lawspeaker Circles are the judges, oath-readers, inheritance witnesses, saga-keepers, and rune-literate legal families who carry old law through the Eldmark Kingdom. They do not rule in place of the crown, but royal authority is strongest when a lawful judgment can be spoken before stones, witnesses, and armed households. Villagers may fear them as stern arbiters, nobles court them as legitimizers, and warriors resent them when a feud must become testimony instead of blood. Use them for inheritance disputes, oath trials, boundary stones, hostage terms, feud settlements, and scenes where law is ancient, public, and personal.",
+      "spoiler": false
+    },
+    {
+      "name": "High Elven Noble Houses",
+      "group": "Minor factions and houses",
+      "kind": "Minor",
+      "summary": "The High Elven Noble Houses are old-blood elven families whose influence comes from lineage memory, magical refinement, patronage, and diplomatic seniority. Some belong directly to Lythael, while others act as expatriate blocs, academy sponsors, court guests, or envoys in human realms. They operate through formal speech, marriage pressure, tutoring access, policy arguments, and the quiet habit of closing ranks when younger kingdoms challenge elven prestige. Outsiders admire their poise but often resent the way they make inherited authority sound like public duty. Use them for elven court rivalry, lineage debate, academy influence, and refinement used as both shield and weapon.",
+      "spoiler": false
+    },
+    {
+      "name": "House Aurenth",
+      "group": "Minor factions and houses",
+      "kind": "Minor",
+      "summary": "House Aurenth is a refined Valenreach noble house associated with diplomacy, artistic patronage, social ceremonies, and the cultivation of elegant influence. It survives by mastering salons, patronage, introductions, poetry, private dinners, guest rights, and the soft power that shapes reputation before law becomes involved.\n\nThe house is useful to greater powers because it can make meetings happen without making them official. Aurenth hosts may bring together nobles, foreign envoys, artists, scholars, and marriage candidates under the cover of culture rather than politics.\n\nUse House Aurenth for salons, courtly diplomacy, patronage, marriage introductions, artistic status, soft influence, and scenes where a poem, dance, or seating arrangement carries political meaning.",
+      "spoiler": false
+    },
+    {
+      "name": "House Fenrisard-Argenwald",
+      "group": "Minor factions and houses",
+      "kind": "Minor",
+      "summary": "House Fenrisard-Argenwald is the ancient noble house charged with Varglund, the Argent territories, and Valenreach’s approach to Argent Gate. Its authority joins the modern dignity of High Argent Palatine with the older title of High Argent Princeps, while its hereditary bond to the Runed Argent Fang gives the house unusual military weight. Outsiders remember a severe border lineage of spellswords, wardens, and oath-bound rulers. In the present day, however, the house is visibly divided, financially weakened, and unable to agree whether blood, law, service, or proven competence should decide its future.",
+      "spoiler": false
+    },
+    {
+      "name": "House Frostmere",
+      "group": "Minor factions and houses",
+      "kind": "Minor",
+      "summary": "House Frostmere is a northern Valenreach noble house known for Cold Arcana traditions, winter trade influence, severe manners, and old lineage pride. Its seat, Frostmere Hall, displays cold beauty, controlled hospitality, ancestral records, and a refusal to appear weakened before guests. The house lacks Valmere wealth but retains prestige through northern routes, ice-magic demonstrations, and noble circles that still prize elemental inheritance. Its heirs are expected to embody composure, magical strength, and family dignity. Use House Frostmere for noble rivalry, ice-arcana pressure, marriage negotiations, and fear of bloodline decline hidden behind etiquette.",
+      "spoiler": false
+    },
+    {
+      "name": "House Sablethorn",
+      "group": "Minor factions and houses",
+      "kind": "Minor",
+      "summary": "House Sablethorn is a disciplined and prosperous noble house known for military engineering, logistics, roadwork, and reliable administration. It expands influence through service, investment, and long custodial agreements rather than crude conquest, earning a reputation for solving problems other houses allow to fester. Its retainers arrive prepared, its contracts are thorough, and its officials rarely promise what they cannot deliver. Admirers see a model of competent stewardship; critics note that territories placed in Sablethorn care have a habit of becoming permanently dependent on Sablethorn personnel, money, and law.",
+      "spoiler": false
+    },
+    {
+      "name": "House Silverveil",
+      "group": "Minor factions and houses",
+      "kind": "Minor",
+      "summary": "House Silverveil is a discreet noble house known for refinement, secrecy, aesthetic restraint, and skill at remaining near power without standing directly in front of it. Its members often serve as quiet advisors, court companions, tutors, social observers, and diplomatic attendants.\n\nSilverveil influence is subtle. The house cultivates beauty, composure, letter-writing, etiquette, and the ability to notice what louder houses miss. It is not usually the first name in a crisis, but it is often present in the room where the crisis was first misunderstood.\n\nUse House Silverveil for quiet court intrigue, social observation, etiquette pressure, private counsel, hidden correspondence, and noble characters who appear decorative until their memory becomes dangerous.",
+      "spoiler": false
+    },
+    {
+      "name": "House Vale",
+      "group": "Minor factions and houses",
+      "kind": "Minor",
+      "summary": "House Vale is a lesser Valenreach noble house connected to court service, rural estates, and the quieter machinery of noble obligation. It lacks the overwhelming wealth of Valmere or the severe prestige of Frostmere, but it survives by being useful, polite, and difficult to accuse directly.\n\nMembers of House Vale often serve as minor envoys, household administrators, marriage witnesses, estate managers, tutors, junior officers, and court guests who hear more than they say. The house cultivates an image of loyalty and harmlessness, which makes it a useful shelter for secrets that stronger houses overlook.\n\nUse House Vale for minor noble politics, quiet alliances, court gossip, low-profile patronage, socially delicate favors, and characters caught between ambition and caution.",
+      "spoiler": false
+    },
+    {
+      "name": "House Veyrath",
+      "group": "Minor factions and houses",
+      "kind": "Minor",
+      "summary": "House Veyrath is a Valenreach noble house associated with martial tradition, disciplined service, and the cultivation of battlefield credibility inside court society. It is neither the richest nor the oldest house, but it has produced officers, duelists, patrol sponsors, and military patrons who prefer action to ornament.\n\nThe house values duty, honor, visible courage, and reputation earned under pressure. Its members may support tournaments, officer training, road patrols, guard appointments, and military marriages meant to bind court power to practical defense.\n\nUse House Veyrath for martial noble politics, duel culture, officer patronage, guard rivalries, tournament pressure, and conflicts between courtly status and actual competence.",
+      "spoiler": false
+    },
+    {
+      "name": "The Ashbound Wardens",
+      "group": "Minor factions and houses",
+      "kind": "Minor",
+      "summary": "The Ashbound Wardens are a hard containment order active across the southeastern borderlands around Emberhorn, the Ashen Maw, pilgrimage routes, volcanic scars, and old summoning sites. Their members include demon-blooded soldiers, human exorcists, oath-judges, ward engineers, ash scouts, and condemned specialists offered service instead of execution. Their enemy is not either demon nation. Their duty is to contain genuine abyssal corruption, failed summoning, unstable relics, breach phenomena, cult activity, ash sickness, and supernatural threats capable of spreading across political borders. Their work often requires cooperation with both Emberhorn authorities and the harsher, clan-based peoples of the Ashen Maw, whose customs outsiders frequently call barbaric or uncivilized without distinguishing them from genuine supernatural corruption. Use the Ashbound Wardens for border patrols, uneasy alliances, demon and mortal cooperation, exorcism logistics, damaged wards, cult investigations, ash sickness, and practical crisis response.",
+      "spoiler": false
+    },
+    {
+      "name": "The Blackwater Caravans",
+      "group": "Minor factions and houses",
+      "kind": "Minor",
+      "summary": "The Blackwater Caravans are a deniable logistics and smuggling network moving restricted goods through rivers, marsh routes, mountain roads, customs gaps, and border crossings. They specialize in hidden passengers, relic fragments, illegal spell components, false manifests, and cargo that cannot be openly declared. Their operators are caravan masters, drovers, ferrymen, toll informants, stable owners, false-bottom cartwrights, and accountants who know how to make a shipment vanish plausibly. They work with or against Knives, Red Salt smugglers, Solmire brokers, and rebels depending on route and payment. Use them when travel, cargo, and secrecy are the danger.",
+      "spoiler": false
+    },
+    {
+      "name": "The Gilded Knives",
+      "group": "Minor factions and houses",
+      "kind": "Minor",
+      "summary": "The Gilded Knives are an underground intelligence and criminal network operating through cities, trade roads, docks, noble estates, and border routes. They sell information, theft, sabotage, blackmail, smuggling aid, and selective assassination to nobles, guilds, foreign agents, and desperate people with enough coin or leverage. Their strongest members are brokers, watchers, couriers, poisoners, locksmiths, servants, dock intermediaries, accountants, and social predators. Outsiders mistake them for common criminals, but they prefer rumor, timing, and access over open violence. Use them for covert deals, stolen records, underworld introductions, assassination rumors, and secrets with a price.",
+      "spoiler": false
+    },
+    {
+      "name": "The Hollow Lanterns",
+      "group": "Minor factions and houses",
+      "kind": "Minor",
+      "summary": "The Hollow Lanterns are a covert circle trading in outlawed spell components, relic fragments, suppressed magical texts, forbidden diagrams, and knowledge respectable academies deny possessing. They work through coded couriers, private auctions, disguised prayer lamps, traveling sellers, and scholars willing to request what they cannot ask for openly. Unlike the Lantern Synod, they seek access rather than legitimacy. Some are criminals, while others are desperate researchers, outlaw healers, ruined students, or archivists who believe institutions bury useful truth. Use them for forbidden books, black-market magic, component trafficking, missing archive pages, and dangerous bargains for knowledge.",
+      "spoiler": true
+    },
+    {
+      "name": "The Order of the Runed Argent Fang",
+      "group": "Minor factions and houses",
+      "kind": "Minor",
+      "summary": "The Order of the Runed Argent Fang is the ancient military brotherhood sworn to guard Argent Gate, defend the surrounding territories, and serve the lawful bearer of the Argent charge. Once renowned for spellsword companies, ward engineers, and disciplined border patrols, it now survives as a depleted body of aging veterans with little recruitment and failing equipment. Outsiders still treat its name with respect, but few understand how close Wolfsward is to institutional collapse. The order publicly presents a single oath and command tradition while its surviving officers disagree sharply over what lawful service now requires.",
+      "spoiler": false
+    },
+    {
+      "name": "The Red Salt Brotherhood",
+      "group": "Minor factions and houses",
+      "kind": "Minor",
+      "summary": "The Red Salt Brotherhood controls hidden river crossings, ferry cuts, marsh approaches, and western bypass routes used to avoid customs enforcement in Valenreach and contested territories. They move contraband, fugitives, undeclared cargo, rebel messengers, desperate families, and people who cannot survive official attention. The Brotherhood is rougher and more local than the Blackwater Caravans, built from ferrymen, dock hands, old soldiers, smugglers, river widows, route families, and former rebels. Some see criminals; others see the only mercy left on watched roads. Use them for river escapes, western resentment, fugitive movement, rebel logistics, and choices where illegal passage may be crime, mercy, or treason.",
+      "spoiler": false
+    },
+    {
+      "name": "The Silent Choir",
+      "group": "Minor factions and houses",
+      "kind": "Minor",
+      "summary": "The Silent Choir is a secretive order that locates magical echoes left by ancient relics, vanished spell traditions, broken rituals, and artifacts whose power still resonates after their physical form is gone. Members rarely speak in public while operating together, using gestures, breath patterns, finger signs, written fragments, and placed objects. Its recruits include relic scholars, failed mages, shrine attendants, archivists, traveling monks, echo-sensitive seers, and people who hear magic where others hear silence. They have little army power, but they can find traces others miss. Use them for relic trails, coded silence, vanished spellcraft, strange witnesses, and clues that arrive as echoes rather than records.",
+      "spoiler": true
+    },
+    {
+      "name": "The Whisper Network",
+      "group": "Minor factions and houses",
+      "kind": "Minor",
+      "summary": "The Whisper Network is an informal information web of servants, maids, grooms, laundresses, pages, kitchen staff, message-runners, clerks, dressers, stablehands, and household aides who hear what nobles forget to hide from people carrying trays. It is not a formal guild or spy order with one leader. It survives through favors, warnings, gossip, shared risk, small kindnesses, and the knowledge that servants are often punished for secrets they never chose to hear. The Network can move rumors through palaces, estates, inns, markets, and guest wings faster than official messengers. Use it for servant intelligence, palace rumors, hidden relationships, soft warnings, and information reaching the player through people powerful characters underestimate.",
+      "spoiler": true
+    },
+    {
+      "name": "Unaffiliated",
+      "group": "Minor factions and houses",
+      "kind": "Minor",
+      "summary": "Unaffiliated represents people who are not meaningfully attached to a faction, kingdom, noble house, order, guild, cult, state, or organized power bloc. This can include wanderers, common villagers, independent artisans, lone adventurers, hermits, unaffiliated travelers, temporary hirelings, and characters whose personal loyalties matter more than institutional allegiance.\n\nUse this entry sparingly and intentionally. It is useful for NPCs whose neutrality, isolation, personal mystery, or outsider status should remain clear. It should not be used when a more specific faction applies.",
+      "spoiler": false
+    }
+  ]
+}
