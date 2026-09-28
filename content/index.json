@@ -25,6 +25,14 @@
       "tags": ["World","Eldaven","Geography","Politics"]
     },
     {
+      "id": "realm-directory",
+      "title": "Realm Directory",
+      "category": "Realms",
+      "summary": "A searchable guide to the established realms and major political powers of Eldaven.",
+      "path": "content/realms/realm-directory.md",
+      "tags": ["Realms","Eldaven","Politics","Reference"]
+    },
+    {
       "id": "kingdom-of-valenreach",
       "title": "Kingdom of Valenreach",
       "category": "Realms",
@@ -167,6 +175,14 @@
       "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
       "path": "content/realms/palegrave-crown.md",
       "tags": ["Eldaven","Palegrave","Realm"]
+    },
+    {
+      "id": "place-directory",
+      "title": "Place Directory",
+      "category": "Geography",
+      "summary": "A searchable guide to documented cities, regions, strongholds, wilds, and other places in Arkenfell.",
+      "path": "content/geography/place-directory.md",
+      "tags": ["Places","Geography","Locations","Reference"]
     },
     {
       "id": "highcourt-armathen",
