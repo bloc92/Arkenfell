@@ -1,0 +1,1588 @@
+{
+  "realm": "Arkenfell",
+  "entries": [
+    {
+      "name": "Abyssal Beast",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nAbyssal Beasts are animals or monsters warped by demonic influence, failed summoning, breach exposure, or abyssal corruption. They are not civilized demons; they are predatory expressions of infernal damage to the natural world.\n\nDESCRIPTION\nUse corrupted animal traits: extra eyes, smoking wounds, horn growths, blackened claws, ember veins, twisted jaws, barbed tails, or ash falling from fur or scales.\n\nSOCIAL / COMBAT USE\nAbyssal Beasts hunt, guard cult places, spread fear, or signal that a seal is weakening. They fight like animals enhanced by fire, pain, frenzy, or unnatural endurance.\n\nNAMING CONVENTION\nUsually descriptive: Ash-Hound, Maw Boar, Cinder Stag, or cult-given names.",
+      "resistances": [
+        "fire"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Abyssal Larva",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nAbyssal Larvae are infantile or half-formed demonic life, disgusting signs that a breach or corruption is reproducing.\n\nDESCRIPTION\nPale or charred wormlike bodies, tiny horn buds, too many mouths, and blind hunger for heat or fear.\n\nSOCIAL / COMBAT USE\nUse for horror, contamination evidence, cult nurseries, and early warnings that something worse is coming.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "fire"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Abyssal Tiefling",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nAbyssal Tieflings are tieflings whose bodies or bloodlines have been altered by abyssal corruption, breach exposure, or dangerous infernal forces rather than ordinary demon-blooded ancestry.\n\nDESCRIPTION\nTiefling base with sharper horns, darker markings, ember cracks, unsettling eyes, or other visible signs of supernatural alteration.\n\nSOCIAL / COMBAT USE\nUse sparingly for cult stories, breach aftermath, infernal contamination, internal conflict, and characters who may be feared for altered ancestry even when innocent.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "fire"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Academy Familiar",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nAcademy Familiars are bonded helpers used by students and scholars for lab tasks, note-carrying, detection, or comfort.\n\nDESCRIPTION\nSmall animals or constructs with ribbons, tags, little satchels, ink stains, or arcane marks showing ownership.\n\nSOCIAL / COMBAT USE\nUse for Crownspire and Arcanum scenes, student life, accidents, and clues moving through nonhuman witnesses.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Air Elemental",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nAir Elementals are living wind spirits associated with storms, mountain heights, sky islands, and ancient weather magic.\n\nDESCRIPTION\nMostly invisible or translucent bodies of wind, dust, cloud, leaves, feathers, or pressure distortions.\n\nUSE IN PLAY\nUse Air Elementals for Cloudspire, mountain passes, sky rituals, and weather-based encounters.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "slashing",
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Ancient Vampire",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nAncient Vampires are old night-blooded rulers or survivors whose memories and contracts predate many living houses.\n\nDESCRIPTION\nPale, refined, corpse-still figures with old clothing, predatory composure, fangs, cold hands, and a gaze that makes time feel heavy.\n\nSOCIAL / COMBAT USE\nUse rarely for Nightglass high politics, ancient debts, forbidden bargains, and figures too dangerous to treat as ordinary enemies.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "slashing",
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Angel",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nAngels are powerful celestial beings tied to judgment, protection, divine command, or ancient holy wars. They should be rare and awe-inspiring, not common temple guards.\n\nDESCRIPTION\nRadiant humanoid forms with wings or light-structures, weapon-like halos, impossible symmetry, and expressions that may feel merciful or terrifying.\n\nUSE IN PLAY\nUse Angels only for major temple mysteries, world-scale oaths, ancient seals, or high religious escalation. Their morality may be strict rather than comforting.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "arcane",
+        "slashing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Animated Armor",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nAnimated Armor is empty armor moved by magic, ghost pressure, bound command, or protective enchantment. It is a guardian type rather than a person.\n\nDESCRIPTION\nSuits of armor moving without visible wearer, sometimes with floating weapons, glowing visors, or old heraldry.\n\nUSE IN PLAY\nUse Animated Armor for castles, training halls, noble vaults, ruins, and magical security encounters.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "slashing",
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Arcane Construct",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nArcane Constructs are artificial beings powered by spellwork, cores, runes, relic engines, or bound energy. They may be tools, guards, experiments, or abandoned servants.\n\nDESCRIPTION\nMetal, crystal, stone, wood, or composite bodies with visible runes, glowing cores, joint seams, and movements shaped by design rather than biology.\n\nUSE IN PLAY\nUse Arcane Constructs in Arcanum facilities, ruins, Collegium vaults, celestial-anomaly sites, and old defensive systems.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "slashing",
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Arcanum Test Subject",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nArcanum Test Subjects are people or creatures changed by sanctioned or failed magical study. They are a condition-template, not a species.\n\nDESCRIPTION\nBase form remains visible under test marks, containment tags, spell scars, altered eyes, or controlled restraints.\n\nSOCIAL / COMBAT USE\nUse for ethical dilemmas, escaped experiments, voluntary study, and people treated as cases by institutions.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Ash Imp",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nAsh Imps are smaller, soot-stained imps from burned ruins, failed summons, and Ashen Maw borders.\n\nDESCRIPTION\nTiny horned creatures with gray skin, ember eyes, singed wings, black fingers, and nervous gleeful energy.\n\nSOCIAL / COMBAT USE\nUse for spies, arson pests, cult messengers, bad bargains, and comic-danger scenes around infernal contamination.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "fire"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Ashbound Mortal",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nAshbound Mortals are people altered by demon-tainted lands, failed summoning, cult rites, or long exposure to infernal corruption. They remain partly themselves, which makes them more tragic than ordinary monsters.\n\nDESCRIPTION\nHumanlike or ancestry-appropriate base with ash-gray skin, ember cracks, burnt veins, blackened fingertips, heatless smoke, or eyes reflecting distant fire.\n\nUSE IN PLAY\nUse Ashbound Mortals as cult victims, corrupted soldiers, failed summoners, desperate pilgrims, or survivors of breach zones, failed summoning sites, or severe infernal contamination. Their condition should suggest danger and loss, not always willing evil.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "fire"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Ashen Gargoyle",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nAshen Gargoyles are demonic or volcanic variants of gargoyles that perch on infernal ruins and contract courts.\n\nDESCRIPTION\nStone-winged forms with ember cracks, horned faces, ash-scarred claws, and stillness like architecture waiting to judge.\n\nSOCIAL / COMBAT USE\nUse for Emberhorn gates, Ashen Maw ruins, and places where law or corruption has become stone.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "slashing",
+        "piercing",
+        "fire"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "bludgeoning"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Astral Construct",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nAstral Constructs are artificial forms shaped from Star Arcana, planar residue, or broken transit geometry.\n\nDESCRIPTION\nBodies of blue-white lines, floating plates, transparent limbs, and surfaces filled with shifting constellations.\n\nSOCIAL / COMBAT USE\nUse for celestial-anomaly sites, Arcanum transit failures, Cloudspire ruins, and encounters where space itself has instructions.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "arcane",
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Astral Jellyfish",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nAstral Jellyfish are floating translucent creatures that drift through air or water around magical thin places.\n\nDESCRIPTION\nBell-shaped translucent bodies, trailing luminous tendrils, and pulsing inner stars.\n\nSOCIAL / COMBAT USE\nUse for magical thin places, Cloudspire, undersea anomalies, and scenes where wonder and danger drift together.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "piercing",
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Astral Wraith",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nAstral Wraiths are spectral beings touched by stars, void, or broken magical transit. They haunt high places, impact craters, and failed teleportation sites.\n\nDESCRIPTION\nGhostly figures threaded with starlight, dark gaps, drifting motes, and voices that echo as if spoken across distance.\n\nUSE IN PLAY\nUse Astral Wraiths for celestial-impact mysteries, Arcanum transit failures, Cloudspire ruins, and cosmic horror.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "slashing",
+        "piercing",
+        "bludgeoning",
+        "arcane"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Aurochs Beast",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nAurochs Beasts are enormous wild cattle or monster-bred herd animals dangerous enough to crush fences and armored riders.\n\nDESCRIPTION\nHuge horned bovines with scarred hides, heavy shoulders, and earth-shaking charges.\n\nSOCIAL / COMBAT USE\nUse for hunts, steppe hazards, noble sport gone wrong, and rural danger that is not supernatural.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Awakened Animal",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nAwakened Animals are ordinary animals granted speech, unusual intelligence, or magical awareness by old forest power, fey influence, druidic rites, or accidents.\n\nDESCRIPTION\nThey retain animal form but show intelligent gaze, deliberate gestures, chosen adornments, or behavior too purposeful for a normal beast.\n\nUSE IN PLAY\nUse Awakened Animals for Verdant Expanse diplomacy, strange allies, comic wisdom, local guides, or environmental warnings. Do not make every animal awakened.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Awakened Tree",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nAwakened Trees are living trees with awareness but less mobility or personhood than Treants. They speak slowly, remember deeply, and may guard specific places.\n\nDESCRIPTION\nOld trees with faces in bark, shifting roots, creaking branches, carved marks grown over, or leaves that turn toward conversation.\n\nUSE IN PLAY\nUse Awakened Trees for grove guardians, ancient witnesses, hidden paths, and slow environmental conversation.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "fire"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Badgerfolk Beastkin",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nBadgerfolk Beastkin are compact, stubborn beastkin associated with burrows, defense, endurance, and refusing to move once committed.\n\nDESCRIPTION\nHumanlike but sturdy, with badger ears, striped markings, strong hands, heavy shoulders, and grounded stance.\n\nSOCIAL / COMBAT USE\nUse for miners, guards, farmers, tunnel fighters, stubborn elders, and small defenders who become terrifying when cornered.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Banshee",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nBanshees are grief-warped spirits tied to death warnings, betrayed women, broken lineages, ruined houses, or places where mourning became a curse.\n\nDESCRIPTION\nPale spectral figures with hair floating like mist, torn formal clothing or burial garments, and a voice that makes air feel thin.\n\nUSE IN PLAY\nUse Banshees for haunted estates, mourning fields, Nightglass tragedy, and locations where grief is the real danger. They should foreshadow death or reveal emotional truth.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "slashing",
+        "piercing",
+        "bludgeoning"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Basilisk",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nBasilisks are dangerous reptilian monsters whose gaze, venom, or magical presence can petrify, numb, or paralyze prey depending on local lore.\n\nDESCRIPTION\nLow heavy reptile bodies, crown-like head ridges, stone-colored scales, and eyes that characters instinctively avoid meeting.\n\nUSE IN PLAY\nUse Basilisks for caves, ruined quarries, desert stones, monster forests, and old-road hazards. Their danger should be signaled by statues, stiff corpses, or animals turned unnaturally still.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "piercing"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Bat Swarm",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nBat Swarms are dense masses of ordinary or oversized bats capable of becoming dangerous when disturbed, panicked, magically agitated, or trapped in confined spaces.\n\nDESCRIPTION\nA churning cloud of wings, claws, teeth, echoes, and sudden direction changes rather than a single targetable creature.\n\nSOCIAL / COMBAT USE\nUse for caves, ruins, towers, abandoned buildings, and underground roads. Their main dangers are confusion, obscured vision, panic, noise, and countless small bites.\n\nNAMING CONVENTION\nUsually unnamed and described by location or unusual behavior.",
+      "resistances": [
+        "piercing"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Batfolk Beastkin",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nBatfolk Beastkin are nocturnal beastkin with bat ears, sharp hearing, membrane-like features, and strong cave or night instincts.\n\nDESCRIPTION\nHumanlike base with bat ears, dark eyes, subtle membrane-like cloak or sleeve styling if desired, fine hearing posture, and clothing adapted for night or caverns. Do not give them full bat wings, animal faces, muzzles, clawed wing-hands, or nonhuman body anatomy.\n\nSOCIAL / COMBAT USE\nUse for cave guides, night messengers, undercity scouts, musicians, spies, and people uncomfortable in harsh daylight.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Battle Familiar",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nBattle Familiars are magically bonded creatures trained to support combat without replacing full companions.\n\nDESCRIPTION\nSmall but fierce beasts, birds, imps, drakes, constructs, or spirits with armor tags, signal ribbons, and alert posture.\n\nSOCIAL / COMBAT USE\nUse for mages, nobles, scouts, and monster trainers. They harry, warn, distract, and deliver small effects rather than dominate combat.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Bearfolk Beastkin",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nBearfolk Beastkin are a powerful beastkin lineage with rounded bear ears, heavy builds, strong arms, thick hair, endurance, and a calm presence that can become terrifying when angered. They are valued as laborers, guards, soldiers, smith assistants, caravan protectors, and mountain guides.\n\nDESCRIPTION\nHumanlike base with bear ears, dense build, broad shoulders, and heavy movement. They may have clawlike nails, thick hair, or a deep voice.\n\nSOCIAL / COMBAT USE\nBearfolk often prefer patience, food, family, craft, and directness. In battle they rely on strength, grappling, shields, axes, hammers, and the ability to stay standing under punishment.\n\nNAMING CONVENTION\nUse sturdy regional names, mountain names, clan names, or practical frontier names.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Bell Wraith",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nBell Wraiths are spirits bound to warning bells, plague bells, watch bells, or funeral towers.\n\nDESCRIPTION\nThin spectral forms vibrating with sound, cracked bell metal in the chest, and voices that arrive as ringing pressure.\n\nSOCIAL / COMBAT USE\nUse for Blackbell Deadroads towers, plague towns, drowned churches, and hauntings that warn before they kill.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "slashing",
+        "piercing",
+        "bludgeoning"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Blink Fox",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nBlink Foxes are small magical foxlike creatures able to vanish, reappear, or mislead pursuers through short-range spatial tricks.\n\nDESCRIPTION\nFoxes with bright eyes, faint shimmer trails, multiple tail markings, or fur that catches starlight even in shade.\n\nUSE IN PLAY\nUse Blink Foxes as magical wildlife, omens, familiar candidates, trickster guides, or signs of fey or celestial disturbance.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Blood Knight",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nBlood Knights are martial vampires, dhampirs, or blood-bound undead trained for war and court enforcement.\n\nDESCRIPTION\nArmored pale figures with red-lined cloaks, elegant weapons, fangs, controlled posture, and armor maintained like noble dress.\n\nSOCIAL / COMBAT USE\nUse for Nightglass duelists, vampire house guards, cursed champions, and enemies who fight with discipline rather than frenzy.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "slashing",
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Boarkin Beastkin",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nBoarkin Beastkin are a beastkin lineage with boar traits, strong builds, tusks or tusk-like teeth, stubborn temperament, and high endurance.\n\nDESCRIPTION\nHumanlike build with boar ears, small tusks, coarse hair, powerful shoulders, and grounded stance.\n\nUSE IN PLAY\nUse Boarkin for farmers, guards, soldiers, clan fighters, and frontier communities where endurance and stubborn loyalty matter.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Bog Beast",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nBog Beasts are large swamp monsters made from reptile, boar, bear, or amphibian traits shaped by wetland survival.\n\nDESCRIPTION\nHeavy low bodies, mud-caked hide, moss or algae growth, wide jaws, and eyes barely above black water.\n\nSOCIAL / COMBAT USE\nUse for Silverfen Marsh, the Drowned Green Coast, and remote marsh roads. They are territorial and hard to track.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Bog Mummy",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nBog Mummies are preserved dead from peat, black water, and old sacrifices rather than dry tombs.\n\nDESCRIPTION\nDark leathery bodies, rope marks, peat-stained skin, ritual cuts, and silence that feels older than the marsh.\n\nSOCIAL / COMBAT USE\nUse for ancient marsh sacrifices, drowned rites, and discoveries that force locals to remember what they buried.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [
+        "fire"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Bog Troll",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nBog Trolls are swamp-adapted trolls with mud-colored or algae-covered skin, stronger ambush habits, and regeneration fed by wetland conditions.\n\nDESCRIPTION\nLarge blue-green or mud-dark trolls with long limbs, swamp growth, hooked noses, and bodies that blend into reeds and black water.\n\nUSE IN PLAY\nUse Bog Trolls for Silverfen Marsh, the Drowned Green Coast, and marsh roads. Fire should remain an important counter.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "fire"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Bog Witch",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nBog Witches are humanoid or semi-human occult figures tied to swamps, black reeds, old bargains, disease lore, herbs, curses, midwifery, river ghosts, and hidden rites. They are not a race in the strict biological sense, but function as a recurring supernatural NPC type in marsh regions.\n\nDESCRIPTION\nDescribe wet hems, reed charms, bone beads, herb bundles, mossy hair, old hands, strange eyes, or a hut-smoke smell. Some may look harmless until the environment answers them.\n\nSOCIAL / COMBAT USE\nBog Witches bargain, heal, curse, hide fugitives, demand prices, and know old swamp paths. They are best used as morally ambiguous powers, not simple evil hags.\n\nNAMING CONVENTION\nUse local names, feared titles, or names tied to reeds, mud, water, crows, or old midwife traditions.",
+      "resistances": [
+        "poison"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Bone Dragon",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nBone Dragons are skeletal remains of dragons animated by necromancy, old curse, or lingering draconic will.\n\nDESCRIPTION\nVast dragon skeletons with empty eye sockets, ragged wings, old scale fragments, and necromantic light inside the ribs.\n\nSOCIAL / COMBAT USE\nUse only for major ruins, late-game undead arcs, and dragon-history horror. They are not ordinary skeletons.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "piercing",
+        "slashing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [
+        "bludgeoning"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Bone Golem",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nBone Golems are necromantic constructs assembled from skeletal material, ritual bindings, grave metal, and death-magic. They are not ghosts but artificial guardians given movement through magic.\n\nDESCRIPTION\nLarge pale frameworks reinforced with grave metal, armor plates, and visible binding marks. Their shape may resemble an oversized skeleton or an angular funerary statue, and their movement sounds dry and heavy.\n\nUSE IN PLAY\nUse Bone Golems as necromantic guardians, tomb sentinels, battlefield constructs, or evidence that forbidden magic has disturbed a burial place.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "piercing",
+        "slashing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [
+        "bludgeoning"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Bone Swarm",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nBone Swarms are collections of small bones, fragments, and animal remains animated together by crude necromancy or a lingering curse.\n\nDESCRIPTION\nA clattering cloud of pale fragments that flows across floors, climbs obstacles, and briefly gathers into waves, barriers, or grasping shapes before scattering again. Its motion should appear magically coordinated rather than anatomically grotesque.\n\nUSE IN PLAY\nUse Bone Swarms in catacombs, ossuaries, old burial grounds, and collapsed battlefields. They create eerie environmental danger through numbers, movement, and difficult terrain.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "piercing",
+        "slashing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [
+        "bludgeoning"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Brass Automaton",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nBrass Automatons are clockwork constructs made for service, security, calculation, or ceremonial display.\n\nDESCRIPTION\nBrass bodies with gears, glass eyes, ticking joints, polished plates, and movements that repeat designed habits.\n\nSOCIAL / COMBAT USE\nUse for Solmire offices, Arcanum labs, gnome workshops, noble estates, and scenes where machinery adds order or unease.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "slashing",
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Briar Beast",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nBriar Beasts are animal-shaped masses of thorn, root, and old forest anger.\n\nDESCRIPTION\nBestial bodies of tangled briars, wood, leaves, thorns, and glowing eyes hidden in the growth.\n\nSOCIAL / COMBAT USE\nUse for Verdant Expanse borders, druidic defenses, abandoned groves, and environmental monsters.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "piercing"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "fire"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Brimstone Beast",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nBrimstone Beasts are demonic animals or war-beasts that carry sulfur heat, smoke, and brutal trained aggression.\n\nDESCRIPTION\nLarge bestial bodies with horns, smoking jaws, ember veins, cracked hooves or claws, and heat haze around movement.\n\nSOCIAL / COMBAT USE\nUse for Ashen Maw patrols, Emberhorn war kennels, cult guards, and creatures that punish panic with pursuit.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "fire"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Bugbear",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nBugbears are large stealthy goblinoids known for ambush, intimidation, and surprising quiet despite their size.\n\nDESCRIPTION\nTall hairy goblinoids with long arms, broad shoulders, sharp teeth, and predatory stillness.\n\nUSE IN PLAY\nUse Bugbears as ambushers, enforcers, ruin lurkers, and dangerous muscle in goblin or bandit groups.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Bullfolk Beastkin",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nBullfolk Beastkin are powerful bovine-featured beastkin with horns, broad builds, endurance, and strong protective instincts.\n\nDESCRIPTION\nHumanlike bodies with bull horns, ears, tails, thick necks, and heavy-footed presence.\n\nUSE IN PLAY\nUse Bullfolk for guards, laborers, soldiers, clan protectors, and characters whose size makes others assume simplicity.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Burrower Beast",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nBurrower Beasts are large subterranean predators that dig through soil, mine walls, dunes, or old tunnels. They are felt before they are seen.\n\nDESCRIPTION\nHeavy bodies with digging claws, armored snouts, poor eyes, and bodies coated in soil, gravel, or mineral dust.\n\nUSE IN PLAY\nUse Burrower Beasts for mines, desert travel, tunnel collapses, and places where the ground itself becomes unsafe.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Butterflyfolk",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nButterflyfolk are delicate winged humanoids associated with color, transformation, gardens, dream pollen, and social beauty.\n\nDESCRIPTION\nHumanoid bodies with butterfly wings, soft antennae, patterned clothing, and gentle movements that can become sudden flight.\n\nSOCIAL / COMBAT USE\nUse for fey courts, garden societies, Dream Arcana, fragile diplomats, and characters whose beauty should not make them powerless.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Catfolk Beastkin",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nCatfolk Beastkin are a feline beastkin lineage with cat ears, tails, sharp senses, quiet steps, expressive eyes, and strong agility. They are common enough to appear in cities, villages, courts, guilds, caravans, and adventuring work, but often face social condescension in noble or bureaucratic settings.\n\nDESCRIPTION\nHumanlike facial structure with visible cat ears and tail. Movement should be light, balanced, and observant. Their ears, tail, pupils, and posture should react to emotion.\n\nSOCIAL / COMBAT USE\nCatfolk often excel as scouts, messengers, servants, thieves, duelists, dancers, hunters, and agile fighters. They may be underestimated until movement matters.\n\nNAMING CONVENTION\nUse names suited to local culture, household service, frontier life, or personal reinvention.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Cave Crawler",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nCave Crawlers are large subterranean predators adapted to tunnels, ruins, mines, and deep caverns. Their many limbs and powerful senses allow them to hunt across walls, ceilings, and narrow stone passages.\n\nDESCRIPTION\nLong low bodies with many grasping legs, pale or stone-colored hide, sensory feelers, powerful jaws, and little reliance on sight.\n\nSOCIAL / COMBAT USE\nUse for mines, abandoned tunnels, deep roads, cave systems, and underground ruins. They attack from difficult angles, cling to stone, pursue through tight passages, and drag prey away from groups.\n\nNAMING CONVENTION\nUsually descriptive names used by miners, delvers, or local communities.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Cave Goblin",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nCave Goblins are goblins adapted to darkness, tunnels, fungus farms, and underground scavenging.\n\nDESCRIPTION\nPale or deep-green goblins with large eyes, soot, fungus packs, bone lamps, and tools stolen from miners.\n\nSOCIAL / COMBAT USE\nUse for Ironroot lower roads, old mines, and cave lairs where alarms, narrow passages, and hidden pits matter.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Cave Leviathan",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nCave Leviathans are enormous subterranean creatures that inhabit deep roads, underground lakes, or vast caverns. Most surface people think they are legends.\n\nDESCRIPTION\nHuge pale or stone-colored bodies, blind eyes, long sensory feelers, and movement that makes caverns tremble.\n\nUSE IN PLAY\nUse Cave Leviathans as legendary underground hazards, not common monsters. Their presence should reshape routes, clan politics, and mining decisions.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "bludgeoning",
+        "piercing"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Celestial Spirit",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nCelestial Spirits are light-aligned spiritual entities associated with oaths, healing, judgment, mercy, stars, or temple rites. They should feel remote and symbolic rather than casually friendly.\n\nDESCRIPTION\nManifest as figures of light, winged silhouettes, burning script, calm voices, silver eyes, or pressure that makes lies difficult to speak.\n\nUSE IN PLAY\nUse them for visions, holy sites, old vows, relic reactions, and rare interventions. They should not solve problems cheaply; their presence should create responsibility.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Centaur",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nCentaurs are horse-bodied humanoids often associated with plains, old roads, star lore, archery, and clan movement. They may be proud allies or hostile border guardians.\n\nDESCRIPTION\nHumanlike torso joined to a horse body, with strong posture, travel gear, weapons, and cultural markings suited to clan or region.\n\nUSE IN PLAY\nUse Centaurs for steppe clans, ancient roads, ranger allies, mounted culture, and conflicts over territory or respect.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Chimera",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nChimeras are composite magical beasts combining traits from several animals or monsters. They may arise through wild magic, Arcanum experimentation, demon influence, ancient ruins, unusual bloodlines, or natural monster evolution.\n\nDESCRIPTION\nAlways describe several distinct but integrated creature traits, such as a lionlike body, goatlike horns, a serpent tail, drake scales, wings, unusual eyes, or elemental markings. Chimeras should look clearly supernatural while remaining recognizable as functional living creatures.\n\nSOCIAL / COMBAT USE\nMost Chimeras are territorial predators with varied attacks such as bites, claws, tail strikes, breath, venom, flight, or charges. Intelligent Chimeras are rare and should possess motives and behavior appropriate to their origin.\n\nNAMING CONVENTION\nUsually descriptive names or experiment labels unless intelligent.",
+      "resistances": [
+        "slashing"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Chimera Spawn",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nChimera Spawn are lesser creatures descended from, created alongside, or magically influenced by greater Chimera bloodlines. They combine recognizable animal and monster traits in varied ways.\n\nDESCRIPTION\nTheir forms may combine goat, lion, serpent, drake, boar, bird, or insect characteristics. Each individual should have a coherent combination of traits suited to its movement, environment, and preferred attacks.\n\nUSE IN PLAY\nUse Chimera Spawn as magical predators, experimental creatures, unusual offspring, or localized threats around celestial-impact sites, Arcanum facilities, wild-magic regions, and old monster-breeding grounds.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Cinder Devil",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nCinder Devils are mid-tier infernal beings associated with punishment, ash, broken contracts, and fires that consume evidence.\n\nDESCRIPTION\nLean horned figures with burnt parchment skin, coal eyes, long claws, and smoke curling from legal-looking brands.\n\nSOCIAL / COMBAT USE\nUse for contract enforcement, infernal courts, arson coverups, and enemies who destroy proof as a tactic.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "fire",
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Civilized Demon",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nCivilized Demons are demon-blooded or true infernal peoples who belong to organized societies such as the Emberhorn Accord. They are not mindless corrupters by default. They may be citizens, judges, soldiers, artisans, merchants, scholars, priests, duelists, diplomats, or nobles bound by law, family, and contract.\n\nDESCRIPTION\nUse clear demonic traits: horns, tails, unusual eyes, clawed nails, heat shimmer, dark or red-toned markings, emberlike aura, or infernal elegance. Their clothing should reflect station: court robes, contract chains, volcanic jewelry, military coats, ash-garden silk, or formal armor.\n\nSOCIAL / COMBAT USE\nCivilized Demons value binding word, strength, controlled passion, hospitality, debt, honor, and legal precision. They can be intimidating without being evil. Their conflicts should involve pride, treaty, bloodline, contract, exile, or politics rather than random corruption.\n\nNAMING CONVENTION\nUse infernal fantasy names with noble house sounds, contract titles, or formal epithets.",
+      "resistances": [
+        "fire",
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Clay Golem",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nClay Golems are molded guardians made from earth, clay, prayer, blood, or ritual labor. They are durable and often tied to temples, tombs, or old laboratories.\n\nDESCRIPTION\nHeavy clay bodies with cracked surfaces, stamped seals, thick limbs, and impressions of hands or tools left by their makers.\n\nUSE IN PLAY\nUse Clay Golems for ancient temples, Solarian rites, desert tombs, and old protective magic.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "slashing",
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Clockwork Familiar",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nClockwork Familiars are small mechanical assistants made to fetch, scout, record, or assist a mage or inventor.\n\nDESCRIPTION\nTiny brass birds, spiders, cats, mice, or humanoids with winding keys, lens eyes, and delicate joints.\n\nSOCIAL / COMBAT USE\nUse for Arcanum scholars, gnome inventors, spies, and utility companions. They are fragile but useful.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Clockwork Gnome",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nClockwork Gnomes are gnomes shaped by mechanism culture, tinkering families, Arcanum workshops, or strange inherited engineering traditions.\n\nDESCRIPTION\nSmall expressive humanoids with goggles, delicate gloves, spring tools, brass cases, ink stains, and pockets full of parts.\n\nSOCIAL / COMBAT USE\nUse for inventors, academy aides, trap repairers, engine keepers, artificer rivals, and comic but competent experts. They are people first, not jokes.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Cloud Drake",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nCloud Drakes are lesser dragonkin adapted to high altitude, cloudbanks, and sky ruins.\n\nDESCRIPTION\nLong pale drake bodies with featherlike fins, light scales, hooked claws, and movements that vanish into mist.\n\nSOCIAL / COMBAT USE\nUse for Cloudspire, mountain aeries, and sky-route hazards.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "piercing",
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Cloud Giant",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nCloud Giants are true giants associated with high mountains, cloud castles, sky ruins, storm roads, and ancient authority over weather or height.\n\nDESCRIPTION\nEnormous humanoids with pale or storm-toned skin, grand clothing, huge hands, and a voice that seems to move through air before sound.\n\nUSE IN PLAY\nUse Cloud Giants as rare high-tier figures, ancient rulers, skyland nobles, or threats in Cloudspire and northern mountains.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Cloud Ray",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nCloud Rays are manta-like aerial creatures drifting through high winds, sky islands, and cloud seas.\n\nDESCRIPTION\nBroad winglike bodies, pale undersides, trailing tendrils, and slow graceful movement through air instead of water.\n\nSOCIAL / COMBAT USE\nUse for Cloudspire ecology, sky travel, peaceful wonder, or dangerous herds if startled.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Cockatrice",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nCockatrices are vicious small monsters with birdlike, reptilian, or drake-like features and a cursed bite or gaze that can stiffen flesh.\n\nDESCRIPTION\nA nasty hybrid of rooster, lizard, bat, and thorny tail, usually smaller than a human but aggressive beyond reason.\n\nUSE IN PLAY\nUse Cockatrices as lower-tier but memorable threats in farms, ruins, and monster forests. They work well as pests that become serious when ignored.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Coffin Wight",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nCoffin Wights are undead bound to sealed coffins, family crypts, or burial contracts that should not have been opened.\n\nDESCRIPTION\nPreserved corpses with splintered coffin wood, burial jewelry, clawed hands, and eyes that open only after trespass.\n\nSOCIAL / COMBAT USE\nUse for crypts, Nightglass secrets, noble tombs, and old burial law. They guard personal guilt as much as treasure.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Comet Hound",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nComet Hounds are magical canines touched by starfall, speed, and night-sky omens.\n\nDESCRIPTION\nLean hounds with silver streaks, bright eyes, light-trailing paws, and coats that flash like meteor dust.\n\nSOCIAL / COMBAT USE\nUse for chases around celestial-impact sites, noble hunts, omens, and companions or predators drawn to magical disturbance.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Comet Stag",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nComet Stags are rare magical deer or elk touched by starfall, moonlight, or ancient sky omens. They are pursued by hunters, scholars, and fools.\n\nDESCRIPTION\nGraceful stag bodies with star-speckled coats, antlers like silver branches, and hooves that leave brief sparks or light marks.\n\nUSE IN PLAY\nUse Comet Stags as omens, guides, sacred prey, or moral tests. Killing one should feel consequential.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Construct",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nConstructs are artificial beings made from metal, stone, wood, bone, crystal, or arcane mechanisms. They may be dwarven engines, Arcanum guardians, ancient ruins' defenders, animated armor, golems, or contract-bound machines.\n\nDESCRIPTION\nDescribe the construction clearly: joints, runes, plates, gears, stone limbs, crystal cores, carved faces, or missing human warmth. They should not bleed or breathe unless designed to mimic life.\n\nSOCIAL / COMBAT USE\nConstructs follow commands, guard places, perform labor, enforce trials, or malfunction after centuries. They fight with strength, built-in weapons, armor, and tireless persistence.\n\nNAMING CONVENTION\nUse model names, forge names, guardian titles, or names given by caretakers.",
+      "resistances": [
+        "slashing",
+        "piercing",
+        "bludgeoning"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Contract Devil",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nContract Devils are infernal legalists and pact-beings who treat language, consent, obligation, loopholes, and debt as weapons sharper than blades. They are associated with formal bargains rather than chaotic corruption.\n\nDESCRIPTION\nTall or elegant infernal figures with horns, immaculate clothing, parchment-like skin patterns, burning eyes, or claws stained like ink. They should feel civilized and dangerous.\n\nUSE IN PLAY\nUse Contract Devils for high-stakes bargains, infernal courts, contested souls, cursed agreements, and Emberhorn legal disputes. They should not attack first if a conversation can trap someone more effectively.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "fire",
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Coral Golem",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nCoral Golems are reef constructs or living coral guardians protecting undersea temples and court roads.\n\nDESCRIPTION\nHumanoid or beastlike bodies of coral, shell, stone, and reef growth, with fish moving through gaps in their limbs.\n\nSOCIAL / COMBAT USE\nUse for Coral Throne defenses, drowned temples, and places where harming the guardian also harms the reef.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "slashing",
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [
+        "bludgeoning"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Coral Siren",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nCoral Sirens are reef-bound sirens associated with coral temples, pearl courts, and songs that shape memory.\n\nDESCRIPTION\nBeautiful or eerie aquatic humanoids with coral jewelry, finlike ears, shell ornaments, and voices that seem to echo underwater.\n\nSOCIAL / COMBAT USE\nUse for Coral Throne intrigue, undersea romance, dangerous diplomacy, and songs that reveal or conceal truth.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Coral Wraith",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nCoral Wraiths are drowned spirits bound to coral growth, wrecks, reefs, or undersea ruins. Their haunting is beautiful and dangerous.\n\nDESCRIPTION\nSpectral figures threaded with coral, shells, seaweed, and pale light, often accompanied by drifting sand or bubbles.\n\nUSE IN PLAY\nUse Coral Wraiths for Coral Throne ruins, shipwrecks, drowned temples, and sea-memory encounters.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "slashing",
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Corpse Candle",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nCorpse Candles are small ghost-lights or undead flame spirits that appear near graves, marsh deaths, mass burials, or cursed roads.\n\nDESCRIPTION\nFloating pale flames, candle-like spirits, or tiny skull-lights hovering over ground where something was buried badly.\n\nUSE IN PLAY\nUse Corpse Candles as omens, lures, guides, or minor hazards. They should lead toward secrets, traps, graves, or unfinished stories rather than simply attack.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Corpse Leviathan",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nCorpse Leviathans are enormous dead beasts, whales, serpents, or giants animated by necromancy or deadland pressure.\n\nDESCRIPTION\nVast undead forms with weathered hide or bone, pale grave lights shining across their frames, and ponderous movement that makes the surrounding terrain feel unnatural.\n\nSOCIAL / COMBAT USE\nUse rarely for sea horror, dead rivers, plague battlefields, or late-game undead spectacle. Fighting one should be a major event.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "piercing",
+        "bludgeoning"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [
+        "fire"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Corrupted Mortal",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nCorrupted Mortals are people changed by demonic influence, cursed relics, cult rites, or long exposure to corrupted sites, unstable breaches, or failed summoning grounds.\n\nDESCRIPTION\nBase ancestry remains visible beneath blackened veins, ember cracks, horn buds, feverish eyes, or ash-stained skin.\n\nSOCIAL / COMBAT USE\nUse for tragic cult victims, failed summoners, altered soldiers, and people whose danger comes from what was done to them as much as what they chose.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "fire"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Court Familiar",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nCourt Familiars are magically bonded small creatures used by nobles, mages, witches, or spies in elite households.\n\nDESCRIPTION\nCats, birds, foxes, lizards, tiny drakes, or odd animals with unnatural eyes, jewelry, or behavior too deliberate for pets.\n\nSOCIAL / COMBAT USE\nUse for court intrigue, spying, messages, emotional support, and subtle magical surveillance. They are small but narratively useful.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Crabfolk",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nCrabfolk are coastal or reef humanoids with shell plating, clawlike hands, and strong ties to tide pools, reefs, docks, and undersea settlements.\n\nDESCRIPTION\nHumanoid bodies with chitin plates, crab claws or clawlike fingers, side-stepping habits, and shell jewelry or coral gear.\n\nSOCIAL / COMBAT USE\nUse for Coral Throne citizens, reef guards, dock workers, shellsmiths, and defensive coastal communities.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "slashing",
+        "piercing"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Craterborn Beast",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nCraterborn Beasts are animals or monsters changed by meteoric residue, impact-site magic, or long exposure to impossible minerals.\n\nDESCRIPTION\nRetain a recognizable animal or monster shape while adding crystalline patches, luminous markings, unusual coloration, mineral armor, altered senses, or supernatural resilience associated with the impact site.\n\nUSE IN PLAY\nUse Craterborn Beasts as localized threats around ancient impact sites. Keep them varied but always visibly connected to the strange terrain and magical minerals that changed them.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Crystal Golem",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nCrystal Golems are constructs of gemstone, star-crystal, or magical mineral grown into defensive shape.\n\nDESCRIPTION\nHumanoid bodies of crystal plates, prism eyes, ringing joints, and light scattered through internal flaws.\n\nSOCIAL / COMBAT USE\nUse for celestial-impact sites, Ironroot mines, Arcanum vaults, and ancient crystal sanctuaries.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "slashing",
+        "arcane"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [
+        "bludgeoning"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Crystal Spider",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nCrystal Spiders are cave or celestial-anomaly arachnids with mineral bodies that refract light and magic. They harvest crystal growths, prey, or resonance.\n\nDESCRIPTION\nSpider bodies made partly of crystal, glassy legs, prism eyes, and clicking movement like gems striking stone.\n\nUSE IN PLAY\nUse Crystal Spiders in meteor craters, dwarven mines, crystal caves, and Arcanum research disasters.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "slashing"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "bludgeoning"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cyclops",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nCyclopes are intelligent one-eyed giant-blooded humanoids found in isolated highlands, mountain valleys, old giant territories, remote islands, ruins, and scattered settled communities. They are smaller than the greatest true giants but considerably larger and stronger than ordinary humans.\n\nDESCRIPTION\nUse very large humanoid bodies with a single central eye, heavy bones, broad hands, powerful limbs, and features influenced by local giant ancestry or regional population. Clothing, armor, tools, furniture, and weapons must be built or adapted for their scale.\n\nSOCIAL / COMBAT USE\nUse Cyclopes as shepherds, smiths, builders, sailors, guards, mercenaries, ruin-keepers, hunters, craftspeople, elders, traders, or members of surviving giant-descended communities. Their size grants reach and strength, but they are not automatically stupid, solitary, primitive, violent, or hostile.\n\nNAMING CONVENTION\nUse regional names where Cyclopes live among other peoples. Isolated communities may preserve old giant-influenced personal names, family names, occupational titles, or names tied to mountains, weather, islands, and craft.",
+      "resistances": [
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Dark Elf",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDark Elves are elven peoples shaped by caves, shadowed forests, old exile, underways, or night courts. They are not automatically evil, but often carry histories outsiders distrust.\n\nDESCRIPTION\nPointed ears, graceful but watchful posture, dark-adapted eyes, muted clothing, silver ornaments, underground dyes, or shadow-threaded garments.\n\nSOCIAL / COMBAT USE\nUse for underways, hidden courts, exile politics, Nightglass contact, Arcanum tunnels, and Lythael secrets. Their strength is caution, memory, and precision.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Death Knight",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDeath Knights are fallen champions, oathbroken commanders, or cursed paladins bound after death by duty, vengeance, pride, or punishment.\n\nDESCRIPTION\nArmored undead figures with preserved martial bearing, old heraldry, dead eyes, and weapons maintained with unnatural discipline.\n\nUSE IN PLAY\nUse Death Knights for major undead military encounters, old war mysteries, and commanders still following impossible orders. They should have memory and command presence, not just raw aggression.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "slashing",
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Deep Dwarf",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDeep Dwarves are dwarven peoples adapted to lower tunnels, sealed roads, old mines, and underground citadels far beneath the surface. They are practical, suspicious, and shaped by darkness more than sunlight.\n\nDESCRIPTION\nShort, broad builds like other dwarves, with paler or stone-toned skin, dark-adapted eyes, heavy protective clothing, lamps, masks, and tools suited to deep work.\n\nUSE IN PLAY\nUse Deep Dwarves for Ironroot lower roads, sealed delvings, undercity trade, old warnings, and conflicts between surface diplomacy and underground survival.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Deep Gnome",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDeep Gnomes are small underground gnomes shaped by tunnels, hidden workshops, crystal caves, and cautious survival beneath larger powers.\n\nDESCRIPTION\nSmall light builds with large dark-adapted eyes, pale or stone-toned skin, tool belts, lamps, lenses, and quiet practical movement.\n\nSOCIAL / COMBAT USE\nUse for Ironroot lower roads, Arcanum underlabs, secret mines, and hidden enclaves. They solve problems through craft, caution, and silence.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Deep One",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDeep Ones are ancient aquatic humanoids from abyssal waters, old sea temples, or forgotten pacts beneath the waves. They are alien, patient, and unsettling.\n\nDESCRIPTION\nFishlike or amphibious humanoids with slick skin, lidless eyes, gills, webbed limbs, and jewelry or carvings from deep cultures.\n\nUSE IN PLAY\nUse Deep Ones for sea horror, old pacts, undersea politics, and coastal villages with strange bargains. They should feel organized but not easily understood.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "poison"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Deerfolk Beastkin",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDeerfolk Beastkin are a graceful beastkin lineage with deer ears, antlers in some individuals, strong hearing, and woodland instincts.\n\nDESCRIPTION\nHumanlike bodies with deer ears, soft eyes, possible antlers, light steps, and clothing that may reflect forest, village, or court upbringing.\n\nUSE IN PLAY\nUse Deerfolk for scouts, herbalists, temple attendants, forest communities, and characters whose gentleness does not mean weakness.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Demon-Touched Beastkin",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDemon-Touched Beastkin are beastkin whose lineage or body has been altered by infernal exposure, cursed breeding, old pact magic, or abyssal corruption. They are feared because ordinary animal traits become sharper, hotter, or stranger.\n\nDESCRIPTION\nBase kemonomimi beastkin features remain visible, with fully humanlike face and body. Horns, ember eyes, spade tails, heated clawlike nails, ash markings, or unnatural aggression may overlay the original lineage. Do not turn them into animal-headed demons, furry monsters, paw-handed creatures, or full anthropomorphic animals.\n\nUSE IN PLAY\nUse this type for borderlands, demon raids, corruption arcs, and tragic transformations. They should not replace normal Beastkin; they show what corruption or infernal pressure can do to a living people.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "fire"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Demonblood",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDemonblood are mortal people with visible infernal ancestry, often descended from ancient contracts, mixed bloodlines, old pacts, or distant Emberhorn Accord families. They may have horns, tails, ember-bright eyes, unusual heat tolerance, or faintly ritualized instincts around oath and debt. They are not automatically corrupt or evil.\n\nDESCRIPTION\nUsually humanlike in build with one or more infernal traits: small horns, swept horns, tails, unusual pupils, warm-toned markings, sharper teeth, or heat-shimmer around strong emotion. Clothing should reflect local culture rather than defaulting to cult robes.\n\nUSE IN PLAY\nUse Demonblood for social NPCs with infernal heritage who are not full demons or tieflings, especially in Emberhorn, border courts, mixed households, mercenary companies, and foreign embassies. Their conflict should often come from prejudice, contract expectations, family history, or political suspicion.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Demonblood Commoner",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDemonblood Commoners are mortal people with visible infernal ancestry who live ordinary lives in Emberhorn, border towns, mixed households, armies, workshops, farms, ports, and servant quarters. They are not automatically corrupt or evil.\n\nDESCRIPTION\nHumanlike or ancestry-appropriate build with small horns, ember eyes, warm markings, tails, sharp teeth, or ritual jewelry worn cautiously or proudly.\n\nSOCIAL / COMBAT USE\nUse for ordinary infernal-blooded citizens, workers, soldiers, servants, apprentices, traders, and refugees. Their drama often comes from prejudice, family expectation, contract culture, and proving they are more than a superstition.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "fire"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Demonblood Noble",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDemonblood Nobles are mortal or near-mortal infernal-blooded aristocrats, usually tied to Emberhorn houses, old contracts, diplomatic marriages, or families whose bloodline carries visible authority.\n\nDESCRIPTION\nElegant humanoids with refined horns, formal tails, emberlike eyes, volcanic jewelry, contract chains, court robes, or controlled heat around strong emotion.\n\nSOCIAL / COMBAT USE\nUse for demon-court politics, infernal diplomacy, contract disputes, proud heirs, house rivals, and characters who wield etiquette and bloodline as weapons. They should be dangerous socially before physically.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "fire",
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Desire Demon",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDesire Demons are infernal beings that weaponize longing, shame, admiration, loneliness, ambition, or romantic fantasy.\n\nDESCRIPTION\nBeautiful or shifting demonic forms with horns, perfect smiles, impossible eyes, perfume-like heat, and details tailored to the target.\n\nSOCIAL / COMBAT USE\nUse for temptation, court corruption, forbidden bargains, and social danger. They should not reduce every scene to lust; desire includes power, praise, safety, revenge, and belonging.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "fire",
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Dhampir",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDhampirs are half-vampiric or vampire-touched humanoids, often born from bloodline pacts, forbidden unions, curses, or controlled Nightglass arrangements. They are living enough to walk among mortals but carry signs of night-blood: hunger, pale eyes, sharpened teeth, cold pulse, or heightened senses.\n\nDESCRIPTION\nDhampirs should look mostly humanoid with subtle vampire traits such as faint fangs, cool skin, red-tinted eyes, unusual stillness, or discomfort around bright rites. They should not automatically look monstrous.\n\nSOCIAL / COMBAT USE\nDhampirs can become hunters, spies, courtiers, outcasts, heirs, assassins, or mediators between mortal and vampire societies. Their drama lies in inheritance, control, hunger, and whether others trust them.\n\nNAMING CONVENTION\nUse names from mortal culture or Nightglass-style noble names depending on upbringing.",
+      "resistances": [
+        "piercing"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Dhampir Noble",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDhampir Nobles are half-vampiric or bloodline-touched aristocrats raised within courtly night society or among families hiding old vampire ties. They are more socially dangerous than visibly monstrous.\n\nDESCRIPTION\nPale or refined humanoid appearance, subtle fangs, cold elegance, unusual stillness, intense gaze, and clothing shaped by wealth, lineage, or secrecy.\n\nUSE IN PLAY\nUse Dhampir Nobles for Nightglass politics, secret heirs, courtship and intrigue, bloodline disputes, and characters caught between mortal law and vampire etiquette. They should have restraint, hunger, and social pressure.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Dire Wolf",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDire Wolves are oversized predatory wolves with unusual endurance, pack coordination, and territorial intelligence. Some are natural; others are shaped by magic, old forest pacts, or monster regions.\n\nDESCRIPTION\nHuge wolves with heavy shoulders, scarred muzzles, intense eyes, and movement coordinated enough to feel tactical.\n\nUSE IN PLAY\nUse Dire Wolves for frontier danger, ranger reports, monster forests, winter roads, and beastkin-adjacent stories. They work best in packs with terrain advantage.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Dissonant Bombard",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDissonant Bombards are unstable manifestations in which trapped emotional-magical pressure has become physically overcharged. They repeatedly build and release dangerous bursts of accumulated energy.\n\nDESCRIPTION\nRounded or compressed manifestations surrounded by colorful shells, masklike faces, trembling outlines, bright fault-lines, and visible surges of unstable light or magical pressure.\n\nSOCIAL / COMBAT USE\nUse Bombards as clearly telegraphed explosive threats. They build toward dangerous releases, throw unstable magical globes, expand their surrounding aura before detonation, or discharge stored pressure when sufficiently destabilized. Dangerous explosions must always be signaled clearly enough for movement, interruption, separation, or deliberate triggering to matter. Piercing the pressurized manifested shell can destabilize them quickly, though doing so at close range may remain dangerous.\n\nNAMING CONVENTION\nBombard, Burstling, Anger Bomb, Pressure Wretch, and similar names are common.",
+      "resistances": [
+        "psychic"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "piercing"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dissonant Bully",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDissonant Bullies are large manifestations associated with intimidation, resentment, humiliation, dominance, fear turned outward, and repeated emotional pressure between stronger and weaker people.\n\nDESCRIPTION\nHeavy brightly colored bodies with oversized shoulders, thick limbs, tiny masklike faces, broad hands, and exaggerated threatening posture. Smaller Dissonants often cluster around or behind them.\n\nSOCIAL / COMBAT USE\nUse Bullies as heavy control enemies. They shove smaller Dissonants toward opponents, grab characters, block routes, throw victims, slam obstacles, and attempt to dominate space through physical presence. They withstand ordinary impact and Psychic pressure well, but force attacks disrupt the unstable magical mass holding their exaggerated bodies together.\n\nNAMING CONVENTION\nBully, Brute, Shameback, Big Temper, and similar names are common.",
+      "resistances": [
+        "psychic",
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "force"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dissonant Hexer",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDissonant Hexers form around unstable magical residue, repeated conflict, cursed places, hostile enchantment, failed magical interrogation, or rituals that leave persistent psychic and arcane distortion.\n\nDESCRIPTION\nThin vividly patterned bodies with floating masks, long fingers, many expressive symbols, and visible waves of color, heat, distortion, or trembling light moving around them.\n\nSOCIAL / COMBAT USE\nUse Hexers as disruption-casters for other Dissonants. They interfere with concentration, clarity, coordination, spell control, and sensory certainty rather than controlling emotions or decisions. Their influence weakens when victims leave the contaminated area, regain stable footing and focus, or disrupt the magical source. They resist Psychic and Arcane effects but are vulnerable to radiant power that imposes clarity and destabilizes their distortion.\n\nNAMING CONVENTION\nHexer, Mood-Witch, Dissonant Whisperer, Bitter Seer, and similar names are common.",
+      "resistances": [
+        "psychic",
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "radiant"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dissonant Scrapper",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDissonant Scrappers are aggressive close-combat manifestations associated with frustration, anger, resentment, repeated conflict, and emotional pressure forced into physical action by unstable magic.\n\nDESCRIPTION\nCompact brightly marked bodies with oversized fists, hornlike projections, clenched mask-faces, thick forearms, and abrupt jerking movement. Their bodies often appear permanently tensed for another strike.\n\nSOCIAL / COMBAT USE\nUse Scrappers as relentless melee attackers. They rush targets, interrupt actions, throw repeated combinations, kick obstacles aside, chase anyone who retreats, and become increasingly aggressive when resisted. They endure emotional and blunt pressure well but lack the defensive patience and tactical discipline of trained fighters.\n\nNAMING CONVENTION\nScrapper, Temperling, Red-Fist, Hothead, and similar local names are common.",
+      "resistances": [
+        "psychic",
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Dissonant Spinner",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDissonant Spinners embody agitation, panic, restless energy, overstimulation, and emotional pressure that cannot settle into a stable direction.\n\nDESCRIPTION\nRound or narrow brightly colored creatures with rotating limbs, masks, ribbons, blades, fins, or other exaggerated extensions that accelerate as their agitation increases.\n\nSOCIAL / COMBAT USE\nUse Spinners as high-mobility disruption enemies. They cross battlefields rapidly, create sweeping attacks, knock combatants out of position, rebound from terrain, and become harder to control as they gain momentum. After a major spin or charge they should briefly become vulnerable, and concentrated force is particularly effective at breaking their unstable rotational cohesion.\n\nNAMING CONVENTION\nSpinner, Whirl, Panic Wheel, Rattlewheel, and similar movement-based names are common.",
+      "resistances": [
+        "psychic"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "force"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dissonant Spitter",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDissonant Spitters are ranged manifestations frequently associated with contempt, spite, disgust, suspicion, resentment, and hostility that has been repeatedly suppressed or magically amplified.\n\nDESCRIPTION\nLean brightly colored creatures with masklike faces, swollen throats or chest sacs, long arms, narrow bodies, and exaggerated recoiling posture. Their mouths or facial openings distort immediately before launching attacks.\n\nSOCIAL / COMBAT USE\nUse Spitters behind other Dissonants. They launch acidic, poisonous, irritating, sticky, or magically disruptive projectiles appropriate to the outbreak and environment, then retreat when approached. Their manifested physiology is resistant to poison and Psychic pressure but they perform poorly when forced into sustained melee.\n\nNAMING CONVENTION\nSpitter, Spite-Slinger, Bittermouth, Sourling, and similar hostile nicknames are common.",
+      "resistances": [
+        "psychic",
+        "poison"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Dissonant Titan",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDissonant Titans are rare massive manifestations produced when a severe emotional-magical outbreak becomes concentrated around a powerful magical source, catastrophe, artifact, ritual chamber, experiment, or deliberately constructed Dissonance Core.\n\nDESCRIPTION\nHuge exaggerated bodies combining several emotional motifs, shifting colors, cracked masks, oversized limbs, and waves of visible magical distortion. Their posture, coloration, and proportions may change as different emotions dominate the outbreak.\n\nSOCIAL / COMBAT USE\nUse Dissonant Titans as outbreak bosses. Their behaviour shifts according to dominant emotional pressure: rage creates charges and relentless attacks, fear produces evasive bursts or frantic defenses, grief creates slowing or clinging pressure, shame conceals weak points, and frustration creates increasingly reckless attacks. They resist Psychic pressure and heavy impacts. Destroying the Titan ends the immediate threat but does not automatically remove the magical source or circumstances that created the outbreak.\n\nNAMING CONVENTION\nUse Dissonant Titan, Great Dissonant, or a unique title based on the incident, location, dominant emotion, or people affected.",
+      "resistances": [
+        "psychic",
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Dissonant Wretch",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDissonant Wretches are the smallest manifestations produced when intense negative emotion becomes trapped, amplified, extracted, reflected, or repeatedly fed through unstable magic. Ordinary sadness, anger, fear, shame, or frustration does not create them without an enabling magical disturbance.\n\nDESCRIPTION\nSmall vividly colored creatures with distorted masklike faces, exaggerated eyes or mouths, uneven limbs, and bodies that pulse, shake, shrink, stretch, or swell according to their dominant emotional pressure.\n\nSOCIAL / COMBAT USE\nUse Dissonant Wretches in groups as erratic low-level enemies. They hesitate, rush, scatter, regroup, flinch, lash out, and react dramatically to pressure rather than following disciplined tactics. Psychic attacks interact poorly with creatures already made from emotional-magical turbulence.\n\nNAMING CONVENTION\nWretch is the scholarly category. Local names are usually frightened or insulting descriptions based on color, sound, expression, or behaviour.",
+      "resistances": [
+        "psychic"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Djinn",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDjinn are powerful air, storm, or desert spirits associated with wind, freedom, old bargains, and impossible travel.\n\nDESCRIPTION\nTall radiant or wind-wrapped figures with flowing garments, storm eyes, floating hair, and bodies partly made of moving air or sand.\n\nSOCIAL / COMBAT USE\nUse for desert courts, ancient lamps, sky bargains, and beings who value freedom enough to make captivity catastrophic.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "arcane",
+        "piercing"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Dogfolk Beastkin",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDogfolk Beastkin are a canine beastkin lineage with dog ears, tails, keen hearing, strong scent, and a reputation for loyalty, attentiveness, and practical reliability. This reputation can help them find work but also causes nobles and officers to stereotype them as servants or soldiers.\n\nDESCRIPTION\nHumanlike facial structure with visible dog ears and tail. Expressive posture, alert attention, scent-testing, and ear movement should appear in description.\n\nSOCIAL / COMBAT USE\nDogfolk are often scouts, messengers, guards, assistants, patrol soldiers, searchers, and frontier companions. They are good at tracking, warning others, and staying focused under stress.\n\nNAMING CONVENTION\nUse local names shaped by service households, military culture, village life, or personal bonds.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Doll Construct",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDoll Constructs are small humanoid constructs built from porcelain, cloth, wood, wax, or clockwork for service, spying, or haunting.\n\nDESCRIPTION\nChild-sized or smaller doll bodies with painted faces, glass eyes, stitched joints, and movements too deliberate for toys.\n\nSOCIAL / COMBAT USE\nUse for haunted estates, laboratories, noble nurseries, witch huts, and unsettling helpers or traps.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "piercing"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "fire"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Doppelganger",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDoppelgangers are rare humanoid shapeshifters capable of assuming the outward appearance of other people. Their origins are uncertain and may differ between individuals or lineages.\n\nDESCRIPTION\nTheir natural forms are pale, smooth-featured, or subtly unfinished humanoids, but most are encountered while imitating another person. Physical imitation does not automatically grant memories, skills, magical abilities, relationships, or knowledge.\n\nSOCIAL / COMBAT USE\nUse Doppelgangers for infiltration, espionage, identity mysteries, criminal work, survival among hostile societies, and political intrigue. They may be enemies, neutral actors, frightened fugitives, professional spies, or complicated allies rather than universally malicious impostors.\n\nNAMING CONVENTION\nThey may use personal names, inherited names, aliases, or the identities under which they currently live.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Dracolich",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDracoliches are undead dragons that preserved mind and power through forbidden rites. They should be rare, mythic, and campaign-shaping.\n\nDESCRIPTION\nAncient skeletal or mummified dragon bodies with cold arcane fire, cracked horns, dead wings, and intelligence burning in empty eyes.\n\nSOCIAL / COMBAT USE\nUse only for story-gated threats, forbidden dragon lore, and conflicts where death did not end ambition.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "arcane",
+        "slashing",
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Draconic Scion",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDraconic Scions are rare humanoids whose blood, oath, or soul has been marked by a specific dragon or draconic pact. They are more story-facing than ordinary Dragonkin.\n\nDESCRIPTION\nHumanoid base with elemental marks: ember veins, stone-dark scales, water-bright eyes, wind-pale hair, horn buds, or a voice with faint resonance.\n\nSOCIAL / COMBAT USE\nUse sparingly for pact heirs, dragon-linked NPCs, ancient tests, and bloodline attention. Their importance must be earned through authored story context, not assumed from type alone.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Dragon",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDragons are mighty ageless creatures tied to elemental power, ancient territory, and history older than many kingdoms. Fire dragons are usually red and breathe fire; earth dragons are often black, mountain-bound, peaceful unless provoked, and able to fly or burrow; water dragons are blue, territorial, and tied to oceans, rivers, or deep waters; air dragons are white, nomadic, and often more approachable than other dragons. Age greatly increases power.\n\nDESCRIPTION\nAlways describe dragons as vast, nonhuman, and majestic: scales, wings, claws, horns, long neck, elemental aura, and a presence that changes the environment. Young dragons are still dangerous; ancient dragons should feel like living natural disasters or sovereign powers.\n\nSOCIAL / COMBAT USE\nDragons should not appear casually. They may be neutral, territorial, friendly, anciently bound, sleeping, watching, or politically significant. They fight with breath, claws, wings, tail, elemental force, fear, and overwhelming endurance.\n\nNAMING CONVENTION\nUse ancient titles, elemental epithets, or names that sound older than kingdoms.",
+      "resistances": [
+        "fire",
+        "slashing",
+        "bludgeoning",
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Dragon (Spiritual Entity)",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nA dragon spirit is the lingering soul, echo, memory, or bound consciousness of an ancient dragon. It should never appear casually. It acts through dreams, relics, ruins, omens, old pacts, pressure in stone, elemental changes, or rare manifestations unless directly awakened by major story events.\n\nDESCRIPTION\nManifestations may appear as burning eyes in darkness, ash-like mist, a vast shadow, a voice in stone, a spectral dragon outline, cold pressure around relics, or ancient language carried by wind or flame.\n\nSOCIAL / COMBAT USE\nDragon spirits should be mysterious and dangerous even when not hostile. They may test bloodlines, recall ancient pacts, haunt territory, guard seals, or tempt ambitious mortals. Direct confrontation should be rare and story-gated.\n\nNAMING CONVENTION\nUse ancient titles, elemental names, or epithets rather than ordinary names.",
+      "resistances": [
+        "fire",
+        "arcane",
+        "slashing",
+        "bludgeoning",
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Dragonblood Mortal",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDragonblood Mortals carry distant draconic ancestry, pact residue, or bloodline reaction without being dragons. They are rare enough to draw attention if obvious.\n\nDESCRIPTION\nMostly humanoid with subtle scale patterns, slit pupils, heatless pressure, unusual eye colors, faint horns, or elemental reactions under stress.\n\nSOCIAL / COMBAT USE\nUse for rare bloodline mysteries, pact history, noble suspicion, academy interest, and characters who may be watched before they understand why. Do not make them automatically chosen or powerful.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Dragonflyfolk",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDragonflyfolk are winged insectoid humanoids tied to wetlands, river edges, and fast aerial movement.\n\nDESCRIPTION\nLight humanoid bodies with iridescent wings, large eyes, quick movements, and clothing that leaves wings free.\n\nSOCIAL / COMBAT USE\nUse for marsh scouts, river couriers, messengers, and fragile-looking characters whose speed controls the scene.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Dragonfolk",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDragonfolk are full-sized draconic humanoid people with clearly nonhuman dragonlike anatomy. They are mortal people rather than lesser dragons and may belong to any realm, culture, profession, faith, social class, or political allegiance. They are distinct from humanlike Dragonkin, natural Lizardfolk, kobolds, drakes, and true dragons.\n\nDESCRIPTION\nDragonfolk have upright humanoid bodies with full scales, distinctly draconic heads and snouts, horns, tails, claws, and powerful humanoid proportions. Their scale colors, horn shapes, facial structures, and builds vary widely. They have two arms and two legs and remain compatible with ordinary humanoid clothing, armor, weapons, and equipment with practical tailoring around horns and tails. Wings are not a standard Dragonfolk trait and should only appear when explicitly established.\n\nSOCIAL / COMBAT USE\nUse Dragonfolk as ordinary citizens, soldiers, craftspeople, merchants, scholars, priests, adventurers, nobles, diplomats, laborers, guards, or members of older draconic communities. Their scales and strong builds make them physically resilient, but they do not automatically possess breath weapons, elemental powers, magical armor, or the authority of true dragons.\n\nNAMING CONVENTION\nUse names shaped primarily by the culture and region where the Dragonfolk was raised. Isolated or old draconic communities may preserve ancient draconic names, lineage names, or translated ancestral titles.",
+      "resistances": [
+        "slashing",
+        "piercing"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Dragonkin",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDragonkin are a stable mortal people with humanlike faces and bodies combined with visible draconic traits. They occupy a different physical niche from Dragonfolk: a Dragonkin should look like a human with dragon features, never like a humanoid dragon. They may belong to any realm, culture, profession, faith, social class, or political allegiance.\n\nDESCRIPTION\nDragonkin retain fully humanlike facial structure, skin, hands, feet, legs, and general body proportions. Their defining draconic traits normally include horns, a scaled tail, and a pair of draconic wings, with possible slit pupils, small scale patches, unusual eye colors, or subtly sharpened teeth and nails. Do not give Dragonkin draconic heads, reptilian muzzles, full-body scales, digitigrade monster legs, animal paws, or Dragonfolk anatomy. Clothing and armor use ordinary humanoid construction with practical openings or fittings for wings, tail, and horns.\n\nSOCIAL / COMBAT USE\nUse Dragonkin in the same full range of social roles as humans and other settled peoples. Their wings improve balance, controlled descent, gliding, and aerial movement where space and load permit; strong sustained flight depends on the individual's physique, training, equipment, and explicitly established capabilities. Dragonkin do not automatically possess breath weapons or elemental magic.\n\nNAMING CONVENTION\nUse names appropriate to the culture and region in which the Dragonkin was raised. Families preserving old draconic lineage traditions may retain ancestral draconic names or secondary lineage names.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Drake",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDrakes are lesser dragonkin: powerful reptilian beasts with scales, claws, fangs, and elemental hints, but usually without the full intelligence, age, wings, or authority of true dragons. They may be mountain predators, war beasts, cave guardians, desert hunters, or young offshoots of dragon territory.\n\nDESCRIPTION\nDescribe scales, heavy bodies, claws, fangs, horns, reptilian eyes, and elemental coloration. Some drakes have vestigial wings or breath-like heat, but they are not true dragons unless specified.\n\nSOCIAL / COMBAT USE\nDrakes act more like dangerous beasts than ancient rulers. They guard territory, hunt, bond with rare handlers, or serve as elite mounts and war-beasts. They fight with bites, claws, tail strikes, charges, and armored hides.\n\nNAMING CONVENTION\nUsually named by handlers or described by color, lair, or trait.",
+      "resistances": [
+        "slashing",
+        "piercing"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Dreadmark Chain Beast",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDreadmark Chain Beasts are state-bred or captured monsters controlled by chains, handlers, pain, and military discipline.\n\nDESCRIPTION\nHuge scarred beasts with iron collars, chain harnesses, clipped horns or claws, and eyes trained to fear commands.\n\nSOCIAL / COMBAT USE\nUse for Dreadmark war scenes, state patrols, border terror, and moral conflict around weaponized creatures.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Drowned Dead",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDrowned Dead are waterlogged undead tied to floods, shipwrecks, river sacrifices, sea battles, or bodies hidden in marsh and harbor water.\n\nDESCRIPTION\nWaterlogged undead figures with pale eyes, river weeds tangled through hair or clothing, salt-stiff garments, and voices carrying a wet, distant resonance.\n\nUSE IN PLAY\nUse Drowned Dead for marshes, docks, Stormpearl wrecks, river mysteries, and places where water preserved the crime.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Drowned Knight",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDrowned Knights are armored undead pulled from river battles, shipwrecks, flooded tombs, or marsh graves.\n\nDESCRIPTION\nWaterlogged armor, weed-wrapped swords, pale eyes behind visors, and water pouring from seams that should be dry.\n\nSOCIAL / COMBAT USE\nUse for the Stormpearl Isles, Hollowmere, the Drowned Green Coast, and old bridge battles. They carry the weight of duty drowned before completion.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Dryad",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDryads are tree-bound or forest-spirit humanoids tied to groves, ancient trees, springs, roots, or natural pacts. They may appear in the Verdant Expanse, Lythael borders, Valenreach forests, or sacred wildlands. They are not ordinary elves, though outsiders may confuse them.\n\nDESCRIPTION\nUse bark-like skin, leaf hair, flower eyes, root markings, green or brown tones, seasonal changes, or a body that seems partly grown rather than born.\n\nSOCIAL / COMBAT USE\nDryads protect places, bargains, memory, and balance. They may charm, warn, mislead, heal, curse, or call forest creatures. Violence against their bonded tree or grove should matter.\n\nNAMING CONVENTION\nUse names tied to trees, flowers, seasons, old groves, or whispered forest sounds.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [
+        "fire"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dune Strider",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDune Striders are tall desert beasts or insectoid mounts adapted for crossing sand, salt flats, and glass dunes with remarkable speed.\n\nDESCRIPTION\nLong-legged creatures with narrow bodies, protective eyelids, tough feet, and packs or saddles used by desert travelers.\n\nUSE IN PLAY\nUse Dune Striders as mounts, caravan beasts, wild herds, or prey animals that signal desert culture and travel logistics.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Dune Wyrm",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDune Wyrms are large desert burrowers smaller than Sand Leviathans but still dangerous to caravans.\n\nDESCRIPTION\nLong armored bodies under sand, hooked jaws, heat-sensing whiskers, and ridges that break dune surfaces before attack.\n\nSOCIAL / COMBAT USE\nUse for desert travel, caravan defense, and ruins where the ground is unsafe.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "bludgeoning",
+        "piercing"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Dwarf",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nDwarves are shorter and broader than humans, with dense builds, strong bones, long lifespans, and great endurance. Many grow thick beards and favor durable clothing, practical tools, heavy boots, metalwork, stonecraft, and clan marks. They are especially common in mountain holds, forge-cities, tunnel networks, mining settlements, and fortified passes.\n\nDESCRIPTION\nDo not describe dwarves as small humans. Emphasize compact strength, broad shoulders, heavy hands, sturdy movement, weathered skin, beard traditions, craft tools, clan jewelry, stone-dust, forge burns, or armor built for endurance.\n\nSOCIAL / COMBAT USE\nDwarves value oaths, craft, debt, proper work, ancestry, and proof. They can be stubborn allies, severe judges, excellent engineers, disciplined shield fighters, runesmiths, miners, brewers, merchants, or siege specialists. They often fight defensively with axes, hammers, shields, crossbows, runes, and formation tactics.\n\nNAMING CONVENTION\nUse sturdy names with stone, iron, forge, mountain, clan, or craft associations. Titles and clan names matter.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Earth Elemental",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nEarth Elementals are living stone, soil, crystal, or metal spirits tied to mountains, caves, old roads, and deep places.\n\nDESCRIPTION\nBodies of rock, clay, crystal, roots, or mineral plates, moving with heavy inevitability.\n\nUSE IN PLAY\nUse Earth Elementals for dwarven holds, ancient seals, mountain passes, and ruins where the land itself resists intrusion.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "bludgeoning",
+        "slashing",
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Elemental Spirit",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nElemental Spirits are nonhuman beings formed from fire, water, earth, air, storm, ice, or mixed natural forces. They may appear as guardians, hazards, companions, omens, or echoes of old magic. They are usually tied to place, contract, ritual, or imbalance.\n\nDESCRIPTION\nDescribe the element visibly: flame body, water shape, stone limbs, wind outline, crackling light, frost breath, or shifting natural matter. They should not look like ordinary people unless deliberately disguised.\n\nSOCIAL / COMBAT USE\nElemental Spirits act according to nature, pact, emotion, or command. They may help, test, ignore, or attack depending on disturbance. Their combat style should follow their element.\n\nNAMING CONVENTION\nUse titles, translated natural names, or sounds tied to the element.",
+      "resistances": [
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Elf",
+      "group": "A–E",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nElves are long-lived humanoids with humanlike bodies, refined features, pointy ears, graceful movement, and strong ties to old magic, nature, memory, and lineage. They are often associated with ancient forests, patient diplomacy, archery, spellcraft, and careful etiquette. Most elves are not fragile; they can be fast and deadly fighters when pressed.\n\nDESCRIPTION\nAlways include pointed ears and a visibly elven bearing. Elves should not be described as generic humans. Their clothing and posture should reflect culture: Lythael elves often appear elegant, calm, and controlled; border elves may wear living wood, leaf-dyed cloth, soft armor, or ward-thread; wandering elves may look more practical and weathered.\n\nSOCIAL / COMBAT USE\nElves tend to think in longer time frames than humans. They may seem peaceful, but peaceful does not mean naive. They favor precision, ambush, archery, blade-dance, Wood Arcana, wardcraft, and social pressure over blunt force.\n\nNAMING CONVENTION\nUse flowing fantasy names tied to nature, stars, seasons, moonlight, old lineages, or formal courts. Match the individual's region and rank.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    }
+  ]
+}
