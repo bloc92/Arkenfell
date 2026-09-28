@@ -1,0 +1,3483 @@
+{
+  "realm": "Arkenfell",
+  "entries": [
+    {
+      "name": "Employer May Replace You",
+      "group": "Adult Pressure",
+      "kind": "Trait",
+      "summary": "Your employer, master, patron, household, supervisor, or client has alternatives and has made it clear that your position is not guaranteed.\n\nNarrative effects: Job insecurity has taught you both to demonstrate your value and maintain consistent performance when replacement is possible.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Persuasion +8, Self-Discipline +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Everyone Else Moved On",
+      "group": "Adult Pressure",
+      "kind": "Trait",
+      "summary": "Friends, siblings, rivals, classmates, coworkers, or peers seem to have found careers, partners, homes, status, travel, or direction while you still feel as though your own life is waiting to begin.\n\nNarrative effects: Comparison has made you sensitive to the different pressures shaping other people's choices and to the difference between appearances and actual satisfaction.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Empathy +8, Social Inquiry +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Expected to Take Over the Business",
+      "group": "Adult Pressure",
+      "kind": "Trait",
+      "summary": "A shop, workshop, farm, inn, vessel, practice, office, caravan, or other business is expected to become your responsibility whether or not that was originally your plan.\n\nNarrative effects: Succession pressure has made commercial decisions and responsibility for other people's work increasingly important.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Bargaining +8, Leadership +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Failed Noble Suitor",
+      "group": "Adult Pressure",
+      "kind": "Trait",
+      "summary": "You pursued a courtship, marriage, patronage-linked relationship, or formal match involving noble or high-status expectations and failed to secure it.\n\nNarrative effects: The failed pursuit taught you both the rules of formal courtship and how difficult it can be to persuade people whose decisions are constrained by status.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Etiquette +8, Persuasion +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Failed Your First Adult Responsibility",
+      "group": "Adult Pressure",
+      "kind": "Trait",
+      "summary": "One of the first responsibilities that was unquestionably yours ended badly. Someone depended on you, something important was neglected, or a task you were expected to handle simply went wrong.\n\nNarrative effects: Failure taught you that adulthood is often defined by consequences other people cannot absorb for you.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Self-Discipline +8, Empathy +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Family Debt Bearer",
+      "group": "Adult Pressure",
+      "kind": "Trait",
+      "summary": "A debt attached to your household, family, estate, business, or inherited obligations has become your problem to manage.\n\nNarrative effects: You have learned to negotiate inherited obligations while examining records closely enough to understand what is genuinely owed.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Bargaining +8, Archival Research +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Family Name Disgraced",
+      "group": "Adult Pressure",
+      "kind": "Trait",
+      "summary": "Your family, household, clan, or inherited name carries a damaged reputation because of scandal, failure, accusation, crime, politics, debt, or another public disgrace.\n\nNarrative effects: You have become highly aware of what people believe about your name and practiced at arguing against assumptions you did not personally create.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Social Inquiry +8, Persuasion +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Real Contract on the Line",
+      "group": "Adult Pressure",
+      "kind": "Trait",
+      "summary": "Your first contract important enough to affect your future reputation, income, business, or career depends on whether you can deliver what you promised.\n\nNarrative effects: You have learned to examine formal obligations carefully and negotiate details because failure now carries consequences beyond one payment.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Archival Research +8, Bargaining +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Time You Had to Kill",
+      "group": "Adult Pressure",
+      "kind": "Trait",
+      "summary": "As an adult, circumstances finally placed you in a situation where killing another person or dangerous creature became something you actually did rather than only imagined.\n\nNarrative effects: Lethal action taught you how fear and self-control matter when consequences cannot be undone. This trait does not determine what weapon or method was used.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Courage +8, Self-Discipline +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Friend Needs Your Help",
+      "group": "Adult Pressure",
+      "kind": "Trait",
+      "summary": "A friend has a serious problem and has turned to you because they trust you, lack better options, or believe you can actually help.\n\nNarrative effects: Supporting someone close to you has required understanding their needs while remaining dependable when the situation becomes inconvenient.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Empathy +8, Self-Discipline +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fugitive Under Alias",
+      "group": "Adult Pressure",
+      "kind": "Trait",
+      "summary": "You are living under another name or deliberately altered identity because being recognized could bring arrest, capture, coercion, retaliation, or another serious consequence.\n\nNarrative effects: Maintaining another identity has made both your story and your outward presentation matters of practical survival.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Deception +8, Disguise +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Gang Escapee",
+      "group": "Adult Pressure",
+      "kind": "Trait",
+      "summary": "You recently left a gang, criminal crew, or coercive criminal network that may not accept your departure as final.\n\nNarrative effects: Leaving criminal life has made you difficult to track and highly familiar with the informal structures you are trying to avoid.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Stealth +8, Thieves' Lore +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Good at a Life You Hate",
+      "group": "Adult Pressure",
+      "kind": "Trait",
+      "summary": "You have become competent at work, duties, or a way of life that increasingly makes you unhappy. Leaving means giving up something you are actually good at.\n\nNarrative effects: You know how to keep performing despite dissatisfaction and understand that changing direction can require more courage than enduring what already works.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Self-Discipline +8, Courage +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Expedition Scribe",
+      "group": "Adult Role",
+      "kind": "Trait",
+      "summary": "You recorded supplies, routes, discoveries, deaths, contracts, maps, relic descriptions, and dangerous mistakes for an expedition, caravan, noble survey, temple mission, or ruin team.\n\nNarrative effects: You know the official record is often cleaner than what actually happened.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Writing +8, Cartography +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Farm Laborer",
+      "group": "Adult Role",
+      "kind": "Trait",
+      "summary": "You worked fields, barns, animals, harvests, irrigation, fences, tools, and weather as a young adult.\n\nNarrative effects: You respect weather because it never negotiates.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Natural Lore +8, Might +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fresh Academy Graduate",
+      "group": "Adult Role",
+      "kind": "Trait",
+      "summary": "You recently completed academy study, formal magical education, tutor certification, temple schooling, or institutional instruction.\n\nNarrative effects: You still think of magic in lessons, warnings, diagrams, and instructors' voices.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Writing +8, Archival Research +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "General Repair Hand",
+      "group": "Adult Role",
+      "kind": "Trait",
+      "summary": "You became the person called for ordinary repairs: gates, hinges, carts, roofs, shutters, handles, tools, fences, furniture, sheds, harness fittings, and whatever else had broken badly enough to matter but not badly enough to require a master craftsperson.\n\nNarrative effects: You look for the actual point of failure before deciding whether something needs replacing.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Handcrafting +8, Engineering +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Guild Contract Holder",
+      "group": "Adult Role",
+      "kind": "Trait",
+      "summary": "You hold an active or recently completed guild contract that people can recognize. It marks you as someone doing formal work for coin, reputation, or obligation. Guild clerks, merchants, guards, and rivals may care about the terms.\n\nNarrative effects: You read fine print before accepting praise.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Bargaining +8, Cultural Lore +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Guild Journeyman",
+      "group": "Adult Role",
+      "kind": "Trait",
+      "summary": "You completed enough training to function as a young journeyman, licensed assistant, guild worker, or recognized professional under guild expectations.\n\nNarrative effects: You ask who trained someone, who certifies them, and who profits from the rules.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Handcrafting +8, Appraisal +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fascinated by Magic",
+      "group": "Childhood Nature and Memory",
+      "kind": "Trait",
+      "summary": "Whenever magic appeared, you wanted to know how it worked. You watched demonstrations, asked questions, inspected harmless enchanted objects, collected rumors, or searched for whatever explanations adults would allow you to hear.\n\nNarrative effects: Magical phenomena invite investigation rather than passive awe. This trait represents interest and knowledge, not possession of an Arcana.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Arcane Lore +6, Searching +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Familiar Bond",
+      "group": "Childhood Nature and Memory",
+      "kind": "Trait",
+      "summary": "A pet, working animal, stray, unusual creature, or familiar household beast became one of your closest childhood companions. Learning its habits taught you that communication does not always require words.\n\nNarrative effects: You are comfortable building trust with animals through patience and attention. This bond does not grant Beast Arcana or magical control.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Animal Handling +6, Empathy +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fought Other Children's Battles",
+      "group": "Childhood Nature and Memory",
+      "kind": "Trait",
+      "summary": "You regularly stepped into fights that did not begin as yours. Perhaps a friend was smaller, a sibling was targeted, or you simply could not tolerate watching someone be cornered.\n\nNarrative effects: You know how quickly informal groups form around conflict and are willing to take physical responsibility when others hesitate.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Brawling +6, Leadership +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Found a Strange Relic",
+      "group": "Childhood Nature and Memory",
+      "kind": "Trait",
+      "summary": "As a child, you found or briefly handled an object that seemed older, stranger, or more significant than ordinary household possessions. It may have been genuine, misunderstood, harmless, dangerous, or later taken away.\n\nNarrative effects: Unusual old objects draw your attention, and you instinctively consider both their material qualities and possible historical significance.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Relic Lore +6, Appraisal +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Garden Child",
+      "group": "Childhood Nature and Memory",
+      "kind": "Trait",
+      "summary": "Gardens, orchards, hedges, flowerbeds, herbs, insects, soil, pruning, watering, and the slow changes of growing things occupied much of your childhood attention.\n\nNarrative effects: Plants and cultivated environments feel familiar, and you naturally examine leaves, soil, stems, texture, and physical condition.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Natural Lore +6, Touching +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Estate Tenant Child",
+      "group": "Childhood Place and Role",
+      "kind": "Trait",
+      "summary": "You spent childhood among tenant households whose daily life was tied to land or property controlled by a larger estate. Rents, dues, harvests, permissions, favors, and local customs shaped the community.\n\nNarrative effects: You understand that rural life often involves negotiation and custom between the people working land and the people claiming authority over it.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Bargaining +6, Cultural Lore +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Farmyard Child",
+      "group": "Childhood Place and Role",
+      "kind": "Trait",
+      "summary": "Barns, fences, troughs, chickens, goats, cattle, horses, feed, mud, tools, and the constant presence of working animals defined much of your childhood play.\n\nNarrative effects: Farm animals and ordinary rural conditions feel familiar, even if you later chose a life far from agriculture.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Animal Handling +6, Natural Lore +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Ferry Child",
+      "group": "Childhood Place and Role",
+      "kind": "Trait",
+      "summary": "You spent childhood around a ferry crossing where people, livestock, carts, goods, and messages repeatedly moved across a river, lake, channel, or strait.\n\nNarrative effects: Small-watercraft movement and repeated crossings feel ordinary and practical.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Rowing +6, Vessel Piloting +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Festival Circuit Child",
+      "group": "Childhood Place and Role",
+      "kind": "Trait",
+      "summary": "Your childhood followed fairs, festivals, markets, seasonal gatherings, competitions, celebrations, performances, and temporary commercial crowds from place to place.\n\nNarrative effects: Crowds feel like both audiences and marketplaces, and you understand the value of attracting attention before asking for an exchange.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Performance +6, Bargaining +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fishing Boat Child",
+      "group": "Childhood Place and Role",
+      "kind": "Trait",
+      "summary": "Small working boats, nets, oars, sails, fish, wet decks, cold mornings, and repeated trips onto local waters were ordinary parts of childhood.\n\nNarrative effects: Small-boat work under oar and simple sail feels familiar, though childhood experience does not make you a professional fisher.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Rowing +6, Sail Handling +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Forest Wanderer",
+      "group": "Childhood Place and Role",
+      "kind": "Trait",
+      "summary": "Forests, woods, groves, trails, clearings, game paths, streams, and the spaces beyond maintained roads formed much of your childhood playground.\n\nNarrative effects: Wooded environments feel readable rather than featureless, and you naturally orient yourself through terrain and natural landmarks.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Natural Lore +6, Navigation +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Garden Helper",
+      "group": "Childhood Place and Role",
+      "kind": "Trait",
+      "summary": "You regularly helped in gardens, orchards, herb plots, courtyards, kitchen gardens, or landscaped grounds by watering, carrying, weeding, gathering, or simply staying close to the work.\n\nNarrative effects: Cultivated plants and their physical condition feel familiar, especially when examined directly through leaf, stem, soil, and texture.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Natural Lore +6, Touching +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Gatehouse Child",
+      "group": "Childhood Place and Role",
+      "kind": "Trait",
+      "summary": "You spent childhood around a gatehouse, checkpoint, toll point, estate entrance, bridge gate, or guarded entry where strangers regularly had to explain why they wanted through.\n\nNarrative effects: You pay attention to arrivals and are comfortable with the social exchange involved in questioning, directing, or explaining access.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Seeing +6, Persuasion +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Graveyard Keeper's Child",
+      "group": "Childhood Place and Role",
+      "kind": "Trait",
+      "summary": "Graveyards, burial grounds, memorial stones, funeral paths, mourning families, old names, and the practical work of maintaining places for the dead were familiar parts of childhood.\n\nNarrative effects: Burial customs and old memorials feel familiar, and you naturally read graveyards as records of both faith and local history.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Religious Lore +6, Historical Lore +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Evasive Fighter",
+      "group": "Combat Discipline",
+      "kind": "Trait",
+      "summary": "You specialize in surviving attacks through movement rather than meeting every blow directly. Your training emphasizes slips, sidesteps, rolls, changes of angle, distance management, and reading the moment an opponent commits to an attack.\n\nNarrative effects: You leave yourself routes to move and instinctively watch hips, shoulders, weapon lines, and footing for the instant an attack becomes difficult to redirect.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Acrobatics +15, Dueling +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Formation Fighter",
+      "group": "Combat Discipline",
+      "kind": "Trait",
+      "summary": "You specialize in fighting as part of an organized group rather than as an isolated duelist. You understand spacing, ranks, mutual protection, command calls, maintaining a line, controlled advances, and how individual movement affects everyone beside you.\n\nNarrative effects: In a group fight you instinctively look for the line, the exposed flank, the person drifting out of position, and the space your allies need you to hold.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Military Lore +15, Shields +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Grappler",
+      "group": "Combat Discipline",
+      "kind": "Trait",
+      "summary": "You specialize in clinches, holds, throws, pins, locks, chokes, restraints, and controlling another person's body at close range. Your training focuses on leverage and position rather than simply exchanging strikes.\n\nNarrative effects: You watch hips, shoulders, footing, weight distribution, and available leverage, always noticing when someone's position can be taken away from them.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Brawling +15, Might +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Enduring Intellect",
+      "group": "Core Aptitudes",
+      "kind": "Trait",
+      "summary": "You combine endurance, resilience, recovery, and resistance to strain with memory, structured reasoning, theory, and technical understanding in nearly equal measure. Grants +4 Constitution and +4 Intelligence.\n\nNarrative effects: You tend to approach difficult situations by bringing endurance, resilience, recovery, and resistance to strain and memory, structured reasoning, theory, and technical understanding together rather than relying on either aptitude alone.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Constitution +4, Intelligence +4"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Enduring Mobility",
+      "group": "Core Aptitudes",
+      "kind": "Trait",
+      "summary": "You combine lasting endurance with fluid movement in nearly equal measure, staying coordinated even as effort accumulates. Grants +4 Constitution and +4 Dexterity.\n\nNarrative effects: You tend to approach difficult situations by bringing endurance, resilience, recovery, and resistance to strain and agility, balance, speed, and bodily control together rather than relying on either aptitude alone.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Constitution +4, Dexterity +4"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Expressive Precision",
+      "group": "Core Aptitudes",
+      "kind": "Trait",
+      "summary": "You combine aim, precision, hand control, and exact placement with presence, expression, persuasion, and social projection in nearly equal measure. Grants +4 Accuracy and +4 Communication.\n\nNarrative effects: You tend to approach difficult situations by bringing aim, precision, hand control, and exact placement and presence, expression, persuasion, and social projection together rather than relying on either aptitude alone.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Accuracy +4, Communication +4"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fine Coordination",
+      "group": "Core Aptitudes",
+      "kind": "Trait",
+      "summary": "You combine agility, balance, speed, and bodily control with aim, precision, hand control, and exact placement in nearly equal measure. Grants +4 Dexterity and +4 Accuracy.\n\nNarrative effects: You tend to approach difficult situations by bringing agility, balance, speed, and bodily control and aim, precision, hand control, and exact placement together rather than relying on either aptitude alone.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Dexterity +4, Accuracy +4"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Focused Precision",
+      "group": "Core Aptitudes",
+      "kind": "Trait",
+      "summary": "You combine aim, precision, hand control, and exact placement with resolve, focus, emotional control, and resistance to pressure in nearly equal measure. Grants +4 Accuracy and +4 Willpower.\n\nNarrative effects: You tend to approach difficult situations by bringing aim, precision, hand control, and exact placement and resolve, focus, emotional control, and resistance to pressure together rather than relying on either aptitude alone.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Accuracy +4, Willpower +4"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Forceful Combat",
+      "group": "Core Aptitudes",
+      "kind": "Trait",
+      "summary": "Your aptitude strongly favors physical power, leverage, and force, while close-combat timing, pressure, defense, and weapon exchanges provides a meaningful secondary strength. Grants +6 Strength and +2 Fighting.\n\nNarrative effects: You usually lead with physical power, leverage, and force, calling on close-combat timing, pressure, defense, and weapon exchanges to support that strength when the situation demands it.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Strength +6, Fighting +2"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Forceful Precision",
+      "group": "Core Aptitudes",
+      "kind": "Trait",
+      "summary": "You combine physical power, leverage, and force with aim, precision, hand control, and exact placement in nearly equal measure. Grants +4 Strength and +4 Accuracy.\n\nNarrative effects: You tend to approach difficult situations by bringing physical power, leverage, and force and aim, precision, hand control, and exact placement together rather than relying on either aptitude alone.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Strength +4, Accuracy +4"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Forceful Presence",
+      "group": "Core Aptitudes",
+      "kind": "Trait",
+      "summary": "You combine physical power, leverage, and force with presence, expression, persuasion, and social projection in nearly equal measure. Grants +4 Strength and +4 Communication.\n\nNarrative effects: You tend to approach difficult situations by bringing physical power, leverage, and force and presence, expression, persuasion, and social projection together rather than relying on either aptitude alone.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Strength +4, Communication +4"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Graceful Presence",
+      "group": "Core Aptitudes",
+      "kind": "Trait",
+      "summary": "You combine agility, balance, speed, and bodily control with presence, expression, persuasion, and social projection in nearly equal measure. Grants +4 Dexterity and +4 Communication.\n\nNarrative effects: You tend to approach difficult situations by bringing agility, balance, speed, and bodily control and presence, expression, persuasion, and social projection together rather than relying on either aptitude alone.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Dexterity +4, Communication +4"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Grounded Presence",
+      "group": "Core Aptitudes",
+      "kind": "Trait",
+      "summary": "You combine endurance, resilience, recovery, and resistance to strain with presence, expression, persuasion, and social projection in nearly equal measure. Grants +4 Constitution and +4 Communication.\n\nNarrative effects: You tend to approach difficult situations by bringing endurance, resilience, recovery, and resistance to strain and presence, expression, persuasion, and social projection together rather than relying on either aptitude alone.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Constitution +4, Communication +4"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Entertainer's Line",
+      "group": "Family Legacy",
+      "kind": "Trait",
+      "summary": "Performers, musicians, actors, storytellers, dancers, festival workers, entertainers, or travelling artists recur through your family history. Audiences, applause, bad crowds, borrowed stages, reputation, and the need to hold attention became familiar long before you chose your own path.\n\nNarrative effects: You notice audiences quickly and understand how timing, confidence, embarrassment, expectation, and attention can change a room.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Performance +6, Persuasion +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fallen House",
+      "group": "Family Legacy",
+      "kind": "Trait",
+      "summary": "Your family once possessed greater title, property, wealth, or influence than it holds today. You inherited the name, stories, expectations, and perhaps old relationships long after much of the power behind them disappeared.\n\nNarrative effects: You recognize the difference between being treated with respect for what your family is and curiosity for what it used to be, and you pay close attention to how people react to a diminished but recognizable name.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Heraldry +6, Social Inquiry +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Family Under a Curse",
+      "group": "Family Legacy",
+      "kind": "Trait",
+      "summary": "Your family believes, fears, or has credible reason to suspect that an inherited curse, supernatural debt, recurring omen, magical consequence, or pattern of unnatural misfortune follows the line. The exact cause and truth may be known, misunderstood, disputed, or still unresolved.\n\nNarrative effects: You take recurring omens, inherited warnings, strange family patterns, and supernatural obligations more seriously than most. This trait does not define a new curse or reveal its truth by itself.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Forbidden Lore +6, Self-Discipline +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Farmstead Line",
+      "group": "Family Legacy",
+      "kind": "Trait",
+      "summary": "Generations of your family worked fields, animals, barns, orchards, fences, irrigation, harvests, or other rural livelihoods. Their inheritance is practical knowledge of land and livestock rather than courtly reputation.\n\nNarrative effects: You notice weather, soil, animals, seasonal work, neglected maintenance, and whether someone understands where food actually comes from.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Natural Lore +6, Animal Handling +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Ferrykeeper Line",
+      "group": "Family Legacy",
+      "kind": "Trait",
+      "summary": "Your family repeatedly operated ferries, crossing boats, river services, or other short-route transport where safe passage depended on reading current, loading people sensibly, and keeping a small vessel under control.\n\nNarrative effects: You understand the practical work of repeated short crossings and the difference between simply being aboard a boat and actually controlling one.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Vessel Piloting +6, Rowing +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Firstblood House Scion",
+      "group": "Family Legacy",
+      "kind": "Trait",
+      "summary": "You belong to one of the rare surviving Firstblood Houses, ancient dynasties whose recognized succession descends from the First Crowned. Your House may carry great hereditary dignity across modern borders, while ancient things tied to its lineage may sometimes recognize the blood and obligations you inherited.\n\nNarrative effects: Your family belongs to a recognized Firstblood dynasty. This carries unusual pedigree and Ancestral Recognition, but does not grant universal authority, legal immunity, automatic magical power, or knowledge of ancient secrets.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Heraldry +6, Historical Lore +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fishing Family",
+      "group": "Family Legacy",
+      "kind": "Trait",
+      "summary": "Generations of your family earned part or all of their living from rivers, lakes, coasts, nets, traps, small boats, or seasonal fisheries. The family memory is full of weather, catches, bad water, repaired gear, lean seasons, and the practical work of bringing food home from water.\n\nNarrative effects: You understand the rhythms of working water and the natural conditions that shape when, where, and whether a catch is worth pursuing.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Rowing +6, Natural Lore +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Forester Family",
+      "group": "Family Legacy",
+      "kind": "Trait",
+      "summary": "Foresters, woodsmen, coppice workers, charcoal burners, timber crews, woodland wardens, or other forest livelihoods recur through your family history. Trees were resources, boundaries, hazards, habitats, and long-term work rather than merely scenery.\n\nNarrative effects: You understand managed woodland and the practical use, maintenance, and repair work that grows around timber-based livelihoods.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Natural Lore +6, Handcrafting +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Frontier Family",
+      "group": "Family Legacy",
+      "kind": "Trait",
+      "summary": "Your family spent generations where settled authority, markets, healers, soldiers, or easy assistance could not be relied upon. Repairing, enduring, sharing work, preparing for shortages, and dealing with danger personally became part of the family's identity.\n\nNarrative effects: You instinctively think about weather, distance, repair options, supplies, and the practical work required when outside help cannot be relied upon.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Natural Lore +6, Handcrafting +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Generations in Service",
+      "group": "Family Legacy",
+      "kind": "Trait",
+      "summary": "Your family has spent generations as attendants, servants, stewards, retainers, household officers, estate workers, or trusted staff. Service is not shameful in your family memory; competence, discretion, reliability, and understanding how important households actually function are sources of pride.\n\nNarrative effects: You notice who actually keeps a household functioning, what powerful people reveal around staff, and the difference between respectful service and degrading treatment.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Etiquette +6, Empathy +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Gravekeeper Line",
+      "group": "Family Legacy",
+      "kind": "Trait",
+      "summary": "Gravediggers, cemetery keepers, tomb attendants, burial workers, memorial caretakers, or people trusted with the dead recur through your family history. Burial customs, grieving families, old names, local memory, and respect for resting places were ordinary parts of the work.\n\nNarrative effects: You are familiar with how faith and local custom shape burial, mourning, remembrance, and the treatment of the dead.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Religious Lore +6, Cultural Lore +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Economic Scholar",
+      "group": "Knowledge Focus",
+      "kind": "Trait",
+      "summary": "You study markets, trade networks, taxation, guild influence, supply, demand, credit, scarcity, commercial policy, and the movement of practical wealth through institutions and communities. Your expertise concerns economic systems rather than merely bargaining over one transaction.\n\nNarrative effects: You read shortages, prices, cargo movement, guild behavior, debt, taxation, and control of resources as evidence of wider economic pressure.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Appraisal +15, Faction Lore +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Engineer",
+      "group": "Knowledge Focus",
+      "kind": "Trait",
+      "summary": "You understand structures, mechanisms, constructed systems, bridges, locks, lifts, gears, fortifications, tunnels, pressure systems, and the ways built things transmit force or fail. This is technical understanding rather than automatic mastery of every craft needed to build the design.\n\nNarrative effects: You look for load paths, moving parts, tolerances, weak joints, hidden mechanisms, structural assumptions, and the component most likely to fail first.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Engineering +15, Handcrafting +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Faction Analyst",
+      "group": "Knowledge Focus",
+      "kind": "Trait",
+      "summary": "You have developed substantial knowledge of organized power: noble blocs, guilds, temples, orders, armies, academies, rebel movements, cults, criminal networks, and other factions. You study their goals, resources, rivalries, internal fractures, public claims, and likely reactions without assuming personal membership in any of them.\n\nNarrative effects: When an organization matters, you look for who leads it, who funds it, what it wants, where it is divided, and which relationships actually shape its choices.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Faction Lore +15, Social Inquiry +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Folklorist",
+      "group": "Knowledge Focus",
+      "kind": "Trait",
+      "summary": "You specialize in oral tradition, local legends, superstitions, songs, customs, household stories, cautionary tales, festival traditions, and the ways communities remember events outside formal archives. You know folklore can preserve truth, distortion, prejudice, metaphor, or all four at once.\n\nNarrative effects: You compare local stories with older versions, cultural context, historical fragments, and the practical fears or values that may have shaped the tale.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Cultural Lore +15, Historical Lore +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Forbidden Scholar",
+      "group": "Knowledge Focus",
+      "kind": "Trait",
+      "summary": "You have studied knowledge that is banned, suppressed, dangerous, taboo, deliberately erased, or preserved only in restricted records. This may include prohibited magic, heresies, cursed practices, sealed entities, suppressed history, and other subjects that authorities or communities have reason to fear.\n\nNarrative effects: You notice censored gaps, euphemisms, burned records, forbidden names, contradictory official accounts, and evidence that someone deliberately tried to prevent a subject from being understood.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Forbidden Lore +15, Archival Research +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Geographer",
+      "group": "Knowledge Focus",
+      "kind": "Trait",
+      "summary": "You study the physical organization of regions: terrain, rivers, coasts, mountain systems, climate zones, settlement patterns, natural barriers, and the spatial relationships that shape travel, trade, conflict, and habitation. Geography concerns the land itself more than the craft of drawing maps.\n\nNarrative effects: You think in watersheds, passes, coastlines, climate, settlement patterns, and the physical relationships that explain why roads, borders, towns, and conflicts developed where they did.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Cartography +15, Natural Lore +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Earth Arcana",
+      "group": "Magic Arcana",
+      "kind": "Trait",
+      "summary": "You have a natural gift for Earth Arcana: stone, soil, weight, pressure, stability, and terrain. Your magic is grounded, defensive, forceful, and hard to move once set.\n\nNarrative effects: You prefer steady footing and often judge places by their weight, walls, floors, and foundations.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Earth Arcana +15, Mana +2"
+        },
+        {
+          "label": "Abilities",
+          "value": "Stone Fragment"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Enchantment Arcana",
+      "group": "Magic Arcana",
+      "kind": "Trait",
+      "summary": "You have a natural gift for Enchantment Arcana: wards, bindings, magical marks, persistent effects, conditional triggers, permissions, and enchanted objects.\n\nNarrative effects: You instinctively notice magical bindings, marks, conditions, permissions, and the structure of persistent enchantments.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Enchantment Arcana +15, Mana +2"
+        },
+        {
+          "label": "Abilities",
+          "value": "Minor Binding"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fiber Arcana",
+      "group": "Magic Arcana",
+      "kind": "Trait",
+      "summary": "You have a natural gift for Fiber Arcana: thread, cloth, rope, cordage, woven materials, knots, tension, and the structure of flexible fibers. Your magic favors precise manipulation, binding, reinforcement, repair, and control through material already present.\n\nNarrative effects: You notice weave, tension, knots, fraying, stitching, and how cloth or cordage carries strain.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Fiber Arcana +15, Mana +2"
+        },
+        {
+          "label": "Abilities",
+          "value": "Living Thread"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fire Arcana",
+      "group": "Magic Arcana",
+      "kind": "Trait",
+      "summary": "You have a natural gift for Fire Arcana: flame, heat, sparks, smoke, combustion, and explosive force. Your magic favors intensity, pressure, decisive action, and controlled destruction.\n\nNarrative effects: Your emotions seem to warm the air around you, and your gaze lingers on flame longer than most people find comfortable.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Fire Arcana +15, Mana +2"
+        },
+        {
+          "label": "Abilities",
+          "value": "Flame Strike"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Eldmark Barrowland",
+      "group": "Origin Culture",
+      "kind": "Trait",
+      "summary": "You were shaped by Eldmark's ancestral barrows, old claims, remembered kings, feud histories, inheritance customs, and formal respect for the past. Earth magic belongs to that same sense that land, stone, and memory outlast individual lives.\n\nNarrative effects: You understand how old history and formal custom continue to shape present relationships. Earth Arcana reflects Eldmark's enduring cultural relationship with land and stone.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Earth Arcana +5, Historical Lore +8, Etiquette +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Eldmark Beaconlander",
+      "group": "Origin Culture",
+      "kind": "Trait",
+      "summary": "You were shaped by Eldmark's beacon towers, fortified routes, musters, remote holdings, and the practical duty of warning one settlement when danger threatens another. Earth magic fits a culture that relies on walls, roads, high ground, and the defensibility of familiar terrain.\n\nNarrative effects: You recognize defensive geography, muster logic, beacon routes, and the practical movement between Eldmark communities. Earth Arcana is culturally familiar magic, not proof of military service.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Earth Arcana +5, Military Lore +8, Navigation +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Eldmark Oathstone",
+      "group": "Origin Culture",
+      "kind": "Trait",
+      "summary": "You were shaped by Eldmark's oath-stones, crown law, local assemblies, old promises, sacred places, and the belief that public commitments bind communities across generations. Earth magic reflects a culture rooted in land, stone, boundaries, barrows, and enduring places.\n\nNarrative effects: You understand Eldmark's sacred and social weight of oaths, places, and communal obligation. Earth Arcana expresses the culture's connection to enduring land and stone without defining your faith or profession.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Earth Arcana +5, Religious Lore +8, Cultural Lore +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Emberhorn Accord-Bred",
+      "group": "Origin Culture",
+      "kind": "Trait",
+      "summary": "You were shaped by the political Emberhorn of negotiated settlements, competing houses, written accords, public argument, and the difficult work of making strong interests coexist under law. Power magic mirrors that cultural ideal of strength brought under deliberate control.\n\nNarrative effects: You are comfortable reading organized interests and arguing within systems where power must be negotiated rather than merely displayed. Power Arcana represents disciplined cultural magic.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Power Arcana +5, Persuasion +8, Faction Lore +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Emberhorn Housewise",
+      "group": "Origin Culture",
+      "kind": "Trait",
+      "summary": "You were shaped by Emberhorn's established houses, written law, public obligation, family rank, cultured pride, and the expectation that power should be made legible through recognized forms. Power magic is a characteristic cultural expression of controlled strength rather than uncontrolled force.\n\nNarrative effects: You understand Emberhorn house customs, formal conduct, and the responsibilities attached to recognized status. Power Arcana reflects a cultural tradition of disciplined magical force without reducing demon society to raw aggression.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Power Arcana +5, Etiquette +8, Cultural Lore +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Emberhorn Steel-Law",
+      "group": "Origin Culture",
+      "kind": "Trait",
+      "summary": "You were shaped by Emberhorn's martial institutions, disciplined public order, military obligations, and the belief that strength is respectable when controlled by law and responsibility. Power magic is part of that same cultural language of force made deliberate.\n\nNarrative effects: You understand Emberhorn military discipline and the importance placed on controlling strength rather than indulging it. Power Arcana is a cultural magical foundation, not proof of military service.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Power Arcana +5, Military Lore +8, Self-Discipline +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fangbound Guest-Law",
+      "group": "Origin Culture",
+      "kind": "Trait",
+      "summary": "You were shaped by Fangbound guest law, challenge customs, clan reputation, hospitality, negotiations between mobile groups, and the difference between authority that is claimed and authority others actually respect. Beast magic remains part of the culture's close relationship with living companions and herds.\n\nNarrative effects: You understand Fangbound social obligations and how reputation shapes negotiation between clans and travelers. Beast Arcana is the culture's magical signature without defining your personal occupation.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Beast Arcana +5, Cultural Lore +8, Persuasion +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fangbound Saddleborn",
+      "group": "Origin Culture",
+      "kind": "Trait",
+      "summary": "You were shaped by the mounted side of Fangbound life, where herds, long travel, animal partnership, clan movement, and skill in the saddle are visible parts of status and survival. Beast magic is culturally familiar because animals are treated as active participants in life rather than distant resources.\n\nNarrative effects: You are comfortable with mounts, working animals, and the practical relationships built around them. Beast Arcana reflects a Fangbound magical tradition and does not imply that every animal automatically obeys you.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Beast Arcana +5, Riding +8, Animal Handling +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fangbound Trailwise",
+      "group": "Origin Culture",
+      "kind": "Trait",
+      "summary": "You were shaped by Fangbound hunting routes, seasonal movement, open-country travel, boundary signs, and the need to read what animals and people have recently done. Beast magic belongs naturally to a culture where understanding living creatures can matter as much as controlling them.\n\nNarrative effects: You read trails and natural signs with confidence and understand how Fangbound communities move through shared territory. Beast Arcana is culturally learned magic rather than a profession.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Beast Arcana +5, Tracking +8, Natural Lore +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Freefang Bannerwise",
+      "group": "Origin Culture",
+      "kind": "Trait",
+      "summary": "You were shaped by Freefang's mercenary banners, free companies, local protectors, shifting alliances, and settlements that often depend on whoever can actually keep an agreement. Motion magic suits a culture where mobility, rapid response, and the ability to relocate power matter constantly.\n\nNarrative effects: You understand Freefang armed factions, protection arrangements, and the practical politics of forces that may serve one town today and another tomorrow. Motion Arcana reflects the culture's mobile character.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Motion Arcana +5, Faction Lore +8, Military Lore +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Freefang Fort-Town",
+      "group": "Origin Culture",
+      "kind": "Trait",
+      "summary": "You were shaped by Freefang's hard-edged towns and fortified settlements, where reputation, local deals, capable protectors, and personal networks often matter more than distant law. Motion magic reflects a culture accustomed to changing circumstances and acting before opportunities disappear.\n\nNarrative effects: You are practiced at learning who actually matters locally and persuading people whose authority may be informal. Motion Arcana represents Freefang's culturally mobile outlook.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Motion Arcana +5, Social Inquiry +8, Persuasion +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Freefang Roadfree",
+      "group": "Origin Culture",
+      "kind": "Trait",
+      "summary": "You were shaped by Freefang roads, caravans, roadside bargains, moving work, independent travelers, and communities connected more by practical routes than central government. Motion magic is culturally useful wherever speed, travel, and getting from one opportunity to the next matter.\n\nNarrative effects: You are comfortable with routes, changing terms, and the practical freedom created by movement. Motion Arcana is a cultural magical foundation rather than proof that you lived permanently on the road.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Motion Arcana +5, Navigation +8, Bargaining +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Earth Arcana Mastery",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have trained Earth Arcana beyond simple affinity into a major specialization. Your control is more precise, economical, and reliable inside its established domain, but mastery does not expand what the Arcana governs or remove mana costs, opposition, risk, or story consequences. This mastery grants the signature ability Stoneflow Passage.\n\nNarrative effects: Treat Earth Arcana as a major specialization. Favor deliberate, technically informed expressions of the authored Earth Arcana domain; do not reinterpret it as another Arcana, grant effects outside its definition, or waive normal mana, strain, witnesses, and consequences. The character may use Stoneflow Passage when its fictional setup is plausible; it is a mastery technique, not automatic success or permission to exceed the Arcana domain.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Earth Arcana +6, Mana +3"
+        },
+        {
+          "label": "Abilities",
+          "value": "Stoneflow Passage"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 30, Earth Arcana skill 60"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Earth Arcana"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Earthwright",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have deliberately learned to combine Earth Arcana and Engineering as one working discipline instead of treating them as unrelated skills. The overlap gives you options that depend on both kinds of competence and grants the signature ability Rapid Brace.\n\nNarrative effects: Treat Earthwright as a genuine hybrid specialization. The character combines Earth Arcana with Engineering when both materially matter to the approach; do not let either skill substitute for the other or bypass normal tools, authority, resources, evidence, positioning, or consequences.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Earth Arcana +5, Engineering +5"
+        },
+        {
+          "label": "Abilities",
+          "value": "Rapid Brace"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 10, Earth Arcana skill 30, Engineering skill 30, Earth Arcana trait 1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Echo Arcana",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You carry a rare resonance with Echo Arcana, awakened through exposure, relic influence, violent history, lingering magic, or story consequence. Echo Arcana governs impressions left behind by events, voices, emotions, spells, wounds, deaths, and powerful presences. It does not simply reveal the past; it lets places, objects, and moments answer faintly after they should be silent.\n\nNarrative effects: You notice repeated sounds, emotional residue, old violence, and places that still remember.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Echo Arcana +15, Mana +3"
+        },
+        {
+          "label": "Abilities",
+          "value": "Echo Sense"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Echo Arcana Mastery",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have trained Echo Arcana beyond simple affinity into a major specialization. Your control is more precise, economical, and reliable inside its established domain, but mastery does not expand what the Arcana governs or remove mana costs, opposition, risk, or story consequences. This mastery grants the signature ability Echo Interrogation.\n\nNarrative effects: Treat Echo Arcana as a major specialization. Favor deliberate, technically informed expressions of the authored Echo Arcana domain; do not reinterpret it as another Arcana, grant effects outside its definition, or waive normal mana, strain, witnesses, and consequences. The character may use Echo Interrogation when its fictional setup is plausible; it is a mastery technique, not automatic success or permission to exceed the Arcana domain.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Echo Arcana +6, Mana +3"
+        },
+        {
+          "label": "Abilities",
+          "value": "Echo Interrogation"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 30, Echo Arcana skill 60"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Echo Arcana"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Enchantment Arcana Mastery",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have trained Enchantment Arcana beyond simple affinity into a major specialization. Your control is more precise, economical, and reliable inside its established domain, but mastery does not expand what the Arcana governs or remove mana costs, opposition, risk, or story consequences. This mastery grants the signature ability Rewrite Condition.\n\nNarrative effects: Treat Enchantment Arcana as a major specialization. Favor deliberate, technically informed expressions of the authored Enchantment Arcana domain; do not reinterpret it as another Arcana, grant effects outside its definition, or waive normal mana, strain, witnesses, and consequences. The character may use Rewrite Condition when its fictional setup is plausible; it is a mastery technique, not automatic success or permission to exceed the Arcana domain.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Enchantment Arcana +6, Mana +3"
+        },
+        {
+          "label": "Abilities",
+          "value": "Rewrite Condition"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 30, Enchantment Arcana skill 60"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Enchantment Arcana"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Engineering Apex",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "Your command of engineering is exceptional even among seasoned specialists. You combine economy, judgement, and control across structures, machines, loads, mechanisms, failure points, repairs, and making physical systems work under real constraints, while still respecting tools, resources, environment, and credible opposition.\n\nNarrative effects: Treat the character as an exceptional engineering practitioner. Let expertise change what approaches are plausible, but never erase consequences, impossible geometry, unavailable tools, social authority, or established world rules.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Engineering +8"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 50, Engineering skill 80"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Engineering Mastery"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Engineering Discipline",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have turned engineering into a deliberate specialty through repeated practice. You are reliably trained in structures, machines, loads, mechanisms, failure points, repairs, and making physical systems work under real constraints, but difficult situations still depend on position, tools, opposition, and judgement.\n\nNarrative effects: Treat engineering as a practiced specialization. The character deliberately applies structures, machines, loads, mechanisms, failure points, repairs, and making physical systems work under real constraints; give that training weight without granting automatic success or ignoring normal constraints.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Engineering +4"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 5, Engineering skill 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Engineering Expertise",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "Your engineering remains reliable when conditions become complicated. You can adapt structures, machines, loads, mechanisms, failure points, repairs, and making physical systems work under real constraints to pressure, poor timing, difficult terrain, and active opposition instead of relying on ideal circumstances.\n\nNarrative effects: Treat the character as an experienced engineering specialist who adapts technique under pressure. Preserve normal risk, resource costs, physical limits, law, witnesses, and opposition.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Engineering +5"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 15, Engineering skill 40"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Engineering Discipline"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Engineering Mastery",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "Engineering has become one of your defining masteries. You recognize advanced openings and methods within structures, machines, loads, mechanisms, failure points, repairs, and making physical systems work under real constraints, and this trait grants the signature ability Controlled Failure.\n\nNarrative effects: Treat engineering as a defining mastery. The character may use Controlled Failure when its fictional setup is plausible; it creates a special option, not guaranteed success or permission to bypass unrelated skills.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Engineering +6"
+        },
+        {
+          "label": "Abilities",
+          "value": "Controlled Failure"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 30, Engineering skill 60"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Engineering Expertise"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Etiquette Apex",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "Your command of etiquette is exceptional even among seasoned specialists. You combine economy, judgement, and control across formal address, ceremony, rank, precedence, table and court behavior, and recognizing when manners are being used as pressure, while still respecting tools, resources, environment, and credible opposition.\n\nNarrative effects: Treat the character as an exceptional etiquette practitioner. Let expertise change what approaches are plausible, but never erase consequences, impossible geometry, unavailable tools, social authority, or established world rules.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Etiquette +8"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 50, Etiquette skill 80"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Etiquette Mastery"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Etiquette Discipline",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have turned etiquette into a deliberate specialty through repeated practice. You are reliably trained in formal address, ceremony, rank, precedence, table and court behavior, and recognizing when manners are being used as pressure, but difficult situations still depend on position, tools, opposition, and judgement.\n\nNarrative effects: Treat etiquette as a practiced specialization. The character deliberately applies formal address, ceremony, rank, precedence, table and court behavior, and recognizing when manners are being used as pressure; give that training weight without granting automatic success or ignoring normal constraints.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Etiquette +4"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 5, Etiquette skill 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Etiquette Expertise",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "Your etiquette remains reliable when conditions become complicated. You can adapt formal address, ceremony, rank, precedence, table and court behavior, and recognizing when manners are being used as pressure to pressure, poor timing, difficult terrain, and active opposition instead of relying on ideal circumstances.\n\nNarrative effects: Treat the character as an experienced etiquette specialist who adapts technique under pressure. Preserve normal risk, resource costs, physical limits, law, witnesses, and opposition.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Etiquette +5"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 15, Etiquette skill 40"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Etiquette Discipline"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Etiquette Mastery",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "Etiquette has become one of your defining masteries. You recognize advanced openings and methods within formal address, ceremony, rank, precedence, table and court behavior, and recognizing when manners are being used as pressure, and this trait grants the signature ability Protocol Reversal.\n\nNarrative effects: Treat etiquette as a defining mastery. The character may use Protocol Reversal when its fictional setup is plausible; it creates a special option, not guaranteed success or permission to bypass unrelated skills.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Etiquette +6"
+        },
+        {
+          "label": "Abilities",
+          "value": "Protocol Reversal"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 30, Etiquette skill 60"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Etiquette Expertise"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Expedition Scholar",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have deliberately learned to combine Historical Lore and Navigation as one working discipline instead of treating them as unrelated skills. The overlap gives you options that depend on both kinds of competence and grants the signature ability Route Through History.\n\nNarrative effects: Treat Expedition Scholar as a genuine hybrid specialization. The character combines Historical Lore with Navigation when both materially matter to the approach; do not let either skill substitute for the other or bypass normal tools, authority, resources, evidence, positioning, or consequences.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Historical Lore +5, Navigation +5"
+        },
+        {
+          "label": "Abilities",
+          "value": "Route Through History"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 10, Historical Lore skill 30, Navigation skill 30"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Faction Lore Apex",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "Your command of faction lore is exceptional even among seasoned specialists. You combine economy, judgement, and control across organizations, leadership, internal tensions, agendas, procedures, and the difference between public position and real influence, while still respecting tools, resources, environment, and credible opposition.\n\nNarrative effects: Treat the character as an exceptional faction lore practitioner. Let expertise change what approaches are plausible, but never erase consequences, impossible geometry, unavailable tools, social authority, or established world rules.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Faction Lore +8"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 50, Faction Lore skill 80"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Faction Lore Mastery"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Faction Lore Discipline",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have turned faction lore into a deliberate specialty through repeated practice. You are reliably trained in organizations, leadership, internal tensions, agendas, procedures, and the difference between public position and real influence, but difficult situations still depend on position, tools, opposition, and judgement.\n\nNarrative effects: Treat faction lore as a practiced specialization. The character deliberately applies organizations, leadership, internal tensions, agendas, procedures, and the difference between public position and real influence; give that training weight without granting automatic success or ignoring normal constraints.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Faction Lore +4"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 5, Faction Lore skill 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Faction Lore Expertise",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "Your faction lore remains reliable when conditions become complicated. You can adapt organizations, leadership, internal tensions, agendas, procedures, and the difference between public position and real influence to pressure, poor timing, difficult terrain, and active opposition instead of relying on ideal circumstances.\n\nNarrative effects: Treat the character as an experienced faction lore specialist who adapts technique under pressure. Preserve normal risk, resource costs, physical limits, law, witnesses, and opposition.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Faction Lore +5"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 15, Faction Lore skill 40"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Faction Lore Discipline"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Faction Lore Mastery",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "Faction Lore has become one of your defining masteries. You recognize advanced openings and methods within organizations, leadership, internal tensions, agendas, procedures, and the difference between public position and real influence, and this trait grants the signature ability Map the Real Allegiances.\n\nNarrative effects: Treat faction lore as a defining mastery. The character may use Map the Real Allegiances when its fictional setup is plausible; it creates a special option, not guaranteed success or permission to bypass unrelated skills.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Faction Lore +6"
+        },
+        {
+          "label": "Abilities",
+          "value": "Map the Real Allegiances"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 30, Faction Lore skill 60"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Faction Lore Expertise"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fate Arcana",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You carry a legendary resonance with Fate Arcana, awakened only through a major story gate, explicit start rule, or manually authored consequence. Fate Arcana governs omen, turning points, fortune, curse, consequence, narrow timing, and the pressure of paths that seem ready to happen. It should create dread and possibility, not remove choice.\n\nNarrative effects: You notice meaningful coincidences, weighted choices, and moments that feel ready to turn.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Fate Arcana +15, Mana +3"
+        },
+        {
+          "label": "Abilities",
+          "value": "Omen Thread"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fate Arcana Mastery",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have trained Fate Arcana beyond simple affinity into a major specialization. Your control is more precise, economical, and reliable inside its established domain, but mastery does not expand what the Arcana governs or remove mana costs, opposition, risk, or story consequences. This mastery grants the signature ability Second-Chance Thread.\n\nNarrative effects: Treat Fate Arcana as a major specialization. Favor deliberate, technically informed expressions of the authored Fate Arcana domain; do not reinterpret it as another Arcana, grant effects outside its definition, or waive normal mana, strain, witnesses, and consequences. The character may use Second-Chance Thread when its fictional setup is plausible; it is a mastery technique, not automatic success or permission to exceed the Arcana domain.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Fate Arcana +6, Mana +3"
+        },
+        {
+          "label": "Abilities",
+          "value": "Second-Chance Thread"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 30, Fate Arcana skill 60"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Fate Arcana"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fearless Heart",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have learned to act while afraid instead of waiting for fear to disappear. Courage and discipline reinforce each other when terror, pain, threat, or supernatural pressure would otherwise break your action.\n\nNarrative effects: Fear still reaches the character, but they are unusually practiced at functioning through it. Do not erase rational fear, trauma, magical domination, or the consequences of choosing to stand.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Courage +5, Self-Discipline +5, Health +10"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 20, Courage skill 35, Self-Discipline skill 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fiber Arcana Mastery",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have trained Fiber Arcana beyond simple affinity into a major specialization. Your control is more precise, economical, and reliable inside its established domain, but mastery does not expand what the Arcana governs or remove mana costs, opposition, risk, or story consequences. This mastery grants the signature ability Seamless Weave.\n\nNarrative effects: Treat Fiber Arcana as a major specialization. Favor deliberate, technically informed expressions of the authored Fiber Arcana domain; do not reinterpret it as another Arcana, grant effects outside its definition, or waive normal mana, strain, witnesses, and consequences. The character may use Seamless Weave when its fictional setup is plausible; it is a mastery technique, not automatic success or permission to exceed the Arcana domain.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Fiber Arcana +6, Mana +3"
+        },
+        {
+          "label": "Abilities",
+          "value": "Seamless Weave"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 30, Fiber Arcana skill 60"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Fiber Arcana"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Field Physician",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have deliberately learned to combine Medicine and Natural Lore as one working discipline instead of treating them as unrelated skills. The overlap gives you options that depend on both kinds of competence and grants the signature ability Field Differential.\n\nNarrative effects: Treat Field Physician as a genuine hybrid specialization. The character combines Medicine with Natural Lore when both materially matter to the approach; do not let either skill substitute for the other or bypass normal tools, authority, resources, evidence, positioning, or consequences.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Medicine +5, Natural Lore +5"
+        },
+        {
+          "label": "Abilities",
+          "value": "Field Differential"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 10, Medicine skill 30, Natural Lore skill 30"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fire Arcana Mastery",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have trained Fire Arcana beyond simple affinity into a major specialization. Your control is more precise, economical, and reliable inside its established domain, but mastery does not expand what the Arcana governs or remove mana costs, opposition, risk, or story consequences. This mastery grants the signature ability White-Heat Edge.\n\nNarrative effects: Treat Fire Arcana as a major specialization. Favor deliberate, technically informed expressions of the authored Fire Arcana domain; do not reinterpret it as another Arcana, grant effects outside its definition, or waive normal mana, strain, witnesses, and consequences. The character may use White-Heat Edge when its fictional setup is plausible; it is a mastery technique, not automatic success or permission to exceed the Arcana domain.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Fire Arcana +6, Mana +3"
+        },
+        {
+          "label": "Abilities",
+          "value": "White-Heat Edge"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 30, Fire Arcana skill 60"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Fire Arcana"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Fang of the Runed Argent Fang",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "The Runed Argent Fang has completed its recognition process and acknowledged you as First Fang, the order's lawful commander. You may issue order-wide commands, appoint officers within the order's rules, direct its fortresses and patrols, and speak for the institution. The title gives genuine command authority, but the order remains depleted, divided, underfunded, and dependent upon the willingness and ability of its surviving members to carry out those commands.\n\nNarrative effects: The character has been formally recognized as First Fang and is the lawful commander of the Runed Argent Fang. Members of every internal camp should recognize that the command question has been institutionally settled, even when they disagree with the character's policies, distrust their judgment, request release from service, or resist specific reforms through lawful order procedure. The character may issue order-wide commands, appoint or remove officers within established rules, direct Wolfsward and order patrols, and represent the order before outside authorities. This trait does not restore lost personnel, equipment, wages, recruitment systems, unity, morale, or regalia. Orders that are impossible, unlawful, suicidal, or unsupported may still produce protest, refusal, desertion, or institutional consequences rather than effortless obedience.",
+      "facts": [],
+      "spoiler": false
+    },
+    {
+      "name": "Forbidden Antiquarian",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have deliberately learned to combine Forbidden Lore and Relic Lore as one working discipline instead of treating them as unrelated skills. The overlap gives you options that depend on both kinds of competence and grants the signature ability Read the Warning Backwards.\n\nNarrative effects: Treat Forbidden Antiquarian as a genuine hybrid specialization. The character combines Forbidden Lore with Relic Lore when both materially matter to the approach; do not let either skill substitute for the other or bypass normal tools, authority, resources, evidence, positioning, or consequences.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Forbidden Lore +5, Relic Lore +5"
+        },
+        {
+          "label": "Abilities",
+          "value": "Read the Warning Backwards"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 10, Forbidden Lore skill 30, Relic Lore skill 30"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Force Arcana",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You carry a rare resonance with Force Arcana, awakened through exposure, violent impact, relic influence, supernatural pressure, or story consequence. Force Arcana governs raw push, impact, pressure, resistance, kinetic release, invisible blows, and the transfer of motion through bodies and objects. It is direct, dangerous, and easy to misuse around fragile surroundings.\n\nNarrative effects: You notice pressure, balance, impact lines, braced objects, and the moment force is about to move through a scene.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Force Arcana +15, Mana +3"
+        },
+        {
+          "label": "Abilities",
+          "value": "Force Push"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Force Arcana Mastery",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have trained Force Arcana beyond simple affinity into a major specialization. Your control is more precise, economical, and reliable inside its established domain, but mastery does not expand what the Arcana governs or remove mana costs, opposition, risk, or story consequences. This mastery grants the signature ability Vector Reversal.\n\nNarrative effects: Treat Force Arcana as a major specialization. Favor deliberate, technically informed expressions of the authored Force Arcana domain; do not reinterpret it as another Arcana, grant effects outside its definition, or waive normal mana, strain, witnesses, and consequences. The character may use Vector Reversal when its fictional setup is plausible; it is a mastery technique, not automatic success or permission to exceed the Arcana domain.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Force Arcana +6, Mana +3"
+        },
+        {
+          "label": "Abilities",
+          "value": "Vector Reversal"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 30, Force Arcana skill 60"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Force Arcana"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Forge Mage",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have deliberately learned to combine Fire Arcana and Smithing as one working discipline instead of treating them as unrelated skills. The overlap gives you options that depend on both kinds of competence and grants the signature ability Heat Without Ruin.\n\nNarrative effects: Treat Forge Mage as a genuine hybrid specialization. The character combines Fire Arcana with Smithing when both materially matter to the approach; do not let either skill substitute for the other or bypass normal tools, authority, resources, evidence, positioning, or consequences.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Fire Arcana +5, Smithing +5"
+        },
+        {
+          "label": "Abilities",
+          "value": "Heat Without Ruin"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 10, Fire Arcana skill 30, Smithing skill 30, Fire Arcana trait 1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Forge Temper",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have deliberately learned to combine Smithing and Engineering as one working discipline instead of treating them as unrelated skills. The overlap gives you options that depend on both kinds of competence and grants the signature ability Read the Fracture.\n\nNarrative effects: Treat Forge Temper as a genuine hybrid specialization. The character combines Smithing with Engineering when both materially matter to the approach; do not let either skill substitute for the other or bypass normal tools, authority, resources, evidence, positioning, or consequences.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Smithing +5, Engineering +5"
+        },
+        {
+          "label": "Abilities",
+          "value": "Read the Fracture"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 10, Smithing skill 30, Engineering skill 30"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Glass Arcana",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You carry a rare resonance with Glass Arcana, awakened through exposure, relic influence, mirror-glass contact, crystalline trauma, or story consequence. Glass Arcana governs brittle transparency, cutting edges, lenses, panes, fragile barriers, reflection, refraction, and truths made visible through breakable things. It can reveal, shield, cut, distort, or shatter with little warning.\n\nNarrative effects: You notice reflections, stress lines, hidden watchers in panes, and the sharp truth inside fragile things.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Glass Arcana +15, Mana +3"
+        },
+        {
+          "label": "Abilities",
+          "value": "Glass Gleam"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Glass Arcana Mastery",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have trained Glass Arcana beyond simple affinity into a major specialization. Your control is more precise, economical, and reliable inside its established domain, but mastery does not expand what the Arcana governs or remove mana costs, opposition, risk, or story consequences. This mastery grants the signature ability Clearwall Labyrinth.\n\nNarrative effects: Treat Glass Arcana as a major specialization. Favor deliberate, technically informed expressions of the authored Glass Arcana domain; do not reinterpret it as another Arcana, grant effects outside its definition, or waive normal mana, strain, witnesses, and consequences. The character may use Clearwall Labyrinth when its fictional setup is plausible; it is a mastery technique, not automatic success or permission to exceed the Arcana domain.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Glass Arcana +6, Mana +3"
+        },
+        {
+          "label": "Abilities",
+          "value": "Clearwall Labyrinth"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 30, Glass Arcana skill 60"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Glass Arcana"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Goblin",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "Goblins are small, wiry humanoids with greenish skin, sharp teeth, quick reflexes, and a talent for survival through numbers, traps, tunnels, ambushes, and opportunistic cruelty. Individually they are weak, but goblin tribes can become dangerous when united under a strong or cunning leader. They favor knives, spears, night raids, tunnel fighting, alarms, crude tricks, and overwhelming isolated enemies before discipline can matter.\n\nNarrative effects: You look for exits, weak spots, shiny objects, and who in the room is easiest to trick.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Stealth +15, Traps +15, Light Blades +10, Thieves' Lore +10, Stamina +25"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Gravity Arcana",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You carry a rare resonance with Gravity Arcana, awakened through exposure, falling danger, spatial distortion, relic influence, or story consequence. Gravity Arcana governs weight, falling, pressure, pull, crushing force, balance, and the invisible rule that tells bodies where down should be. It can make movement feel heavy, weightless, inevitable, or terrifyingly wrong.\n\nNarrative effects: You notice weight before beauty: how things fall, lean, drag, resist, or crush.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Gravity Arcana +15, Mana +3"
+        },
+        {
+          "label": "Abilities",
+          "value": "Gravity Shift"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Gravity Arcana Mastery",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have trained Gravity Arcana beyond simple affinity into a major specialization. Your control is more precise, economical, and reliable inside its established domain, but mastery does not expand what the Arcana governs or remove mana costs, opposition, risk, or story consequences. This mastery grants the signature ability Anchor the World.\n\nNarrative effects: Treat Gravity Arcana as a major specialization. Favor deliberate, technically informed expressions of the authored Gravity Arcana domain; do not reinterpret it as another Arcana, grant effects outside its definition, or waive normal mana, strain, witnesses, and consequences. The character may use Anchor the World when its fictional setup is plausible; it is a mastery technique, not automatic success or permission to exceed the Arcana domain.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Gravity Arcana +6, Mana +3"
+        },
+        {
+          "label": "Abilities",
+          "value": "Anchor the World"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 30, Gravity Arcana skill 60"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Gravity Arcana"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Greatblade Apex",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "Your command of greatblade is exceptional even among seasoned specialists. You combine economy, judgement, and control across reach, momentum, committed cuts, recovery, and using a large blade without surrendering control, while still respecting tools, resources, environment, and credible opposition.\n\nNarrative effects: Treat the character as an exceptional greatblade practitioner. Let expertise change what approaches are plausible, but never erase consequences, impossible geometry, unavailable tools, social authority, or established world rules.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Heavy Blades +8"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 50, Heavy Blades skill 80"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Greatblade Mastery"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Greatblade Discipline",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You have turned greatblade into a deliberate specialty through repeated practice. You are reliably trained in reach, momentum, committed cuts, recovery, and using a large blade without surrendering control, but difficult situations still depend on position, tools, opposition, and judgement.\n\nNarrative effects: Treat greatblade as a practiced specialization. The character deliberately applies reach, momentum, committed cuts, recovery, and using a large blade without surrendering control; give that training weight without granting automatic success or ignoring normal constraints.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Heavy Blades +4"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 5, Heavy Blades skill 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Greatblade Expertise",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "Your greatblade remains reliable when conditions become complicated. You can adapt reach, momentum, committed cuts, recovery, and using a large blade without surrendering control to pressure, poor timing, difficult terrain, and active opposition instead of relying on ideal circumstances.\n\nNarrative effects: Treat the character as an experienced greatblade specialist who adapts technique under pressure. Preserve normal risk, resource costs, physical limits, law, witnesses, and opposition.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Heavy Blades +5"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 15, Heavy Blades skill 40"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Greatblade Discipline"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Greatblade Mastery",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "Greatblade has become one of your defining masteries. You recognize advanced openings and methods within reach, momentum, committed cuts, recovery, and using a large blade without surrendering control, and this trait grants the signature ability Cleaving Line.\n\nNarrative effects: Treat greatblade as a defining mastery. The character may use Cleaving Line when its fictional setup is plausible; it creates a special option, not guaranteed success or permission to bypass unrelated skills.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Heavy Blades +6"
+        },
+        {
+          "label": "Abilities",
+          "value": "Cleaving Line"
+        },
+        {
+          "label": "Requirements",
+          "value": "characterLevel 30, Heavy Blades skill 60"
+        },
+        {
+          "label": "Unlocked by",
+          "value": "Greatblade Expertise"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Greyhaven Foundling",
+      "group": "Other and story traits",
+      "kind": "Trait",
+      "summary": "You were raised in or around Greyhaven as a foundling, with uncertain origins and old silences around your arrival. Some villagers may remember more than they say, and certain records, rumors, or local reactions may not fully match the simple story you were given.\n\nNarrative effects: Greyhaven knows you as one of its own, but some old silences around your arrival have never quite settled.",
+      "facts": [
+        {
+          "label": "Excluded by",
+          "value": "Lost Royal Child of Valenreach"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Exposure Hardened",
+      "group": "Physical Utility Focus",
+      "kind": "Trait",
+      "summary": "You are especially accustomed to remaining functional through weather and environmental hardship: heat, cold, rain, wind, poor shelter, hunger, thirst, insects, mud, altitude, and prolonged outdoor exposure.\n\nNarrative effects: You notice exposure risks early and make small practical adjustments before discomfort becomes danger.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Tolerance +15, Natural Lore +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Field Repairer",
+      "group": "Physical Utility Focus",
+      "kind": "Trait",
+      "summary": "You are highly capable at keeping practical equipment usable with limited tools and imperfect materials. Straps, packs, tents, ropes, clothing, fittings, containers, and simple gear tend to survive longer when you can work on them.\n\nNarrative effects: You notice wear, weak joins, bad stitching, strained fittings, and small failures before they become expensive problems.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Handcrafting +15, Appraisal +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Forceful Mover",
+      "group": "Physical Utility Focus",
+      "kind": "Trait",
+      "summary": "You specialize in applying bodily force to practical obstacles: forcing stuck doors, shifting debris, wrenching objects loose, dragging resistance, levering barriers, and overpowering stubborn mechanisms through direct physical effort.\n\nNarrative effects: You look for where force can be applied most effectively before simply throwing your weight at an obstacle.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Might +15, Brawling +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Elder Care Helper",
+      "group": "Preteen Responsibility",
+      "kind": "Trait",
+      "summary": "You regularly assisted an elderly relative, neighbor, patient, or household member with meals, movement, medicine, company, or everyday tasks.\n\nNarrative effects: You are sensitive to the needs of older people and familiar with basic care surrounding illness, weakness, or reduced mobility.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Empathy +6, Medicine +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Farmhand",
+      "group": "Preteen Responsibility",
+      "kind": "Trait",
+      "summary": "You were expected to help with real farm work: lifting, carrying, clearing, feeding, harvesting, digging, moving supplies, or whatever the season demanded.\n\nNarrative effects: Physical agricultural work and the environmental conditions surrounding it feel familiar.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Might +6, Natural Lore +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Ferry Hand",
+      "group": "Preteen Responsibility",
+      "kind": "Trait",
+      "summary": "You work aboard a ferry or short-route passenger and cargo vessel, helping guide the craft, handle crossings, move passengers or goods, manage lines, and keep repeated trips running safely.\n\nNarrative effects: You think of waterways in crossings, current, landing points, load balance, and how different the same route becomes when weather or traffic changes.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Vessel Piloting +8, Rowing +6"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fishing Dock Helper",
+      "group": "Preteen Responsibility",
+      "kind": "Trait",
+      "summary": "You helped around working fishing boats by carrying gear, steadying craft, handling oars, assisting with simple sail work, and preparing vessels for departure or return.\n\nNarrative effects: Small-boat propulsion and basic sail work are familiar through repeated dockside responsibility.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Rowing +6, Sail Handling +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Forest Path Runner",
+      "group": "Preteen Responsibility",
+      "kind": "Trait",
+      "summary": "You regularly carried messages, food, tools, or news along woodland paths between homes, camps, work sites, or nearby settlements.\n\nNarrative effects: Moving quickly through wooded terrain feels familiar, and you pay attention to ordinary natural hazards along the route.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Running +6, Natural Lore +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Game Hall Scorekeeper",
+      "group": "Preteen Responsibility",
+      "kind": "Trait",
+      "summary": "You kept score, watched wagers, counted simple stakes, explained rules, fetched pieces, or helped maintain games in an inn, hall, festival, club, or household.\n\nNarrative effects: Games of chance and stake-based play are familiar, along with the social behavior surrounding them. This trait does not imply addiction or criminality.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Gambling +6, Social Inquiry +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Gang Lookout",
+      "group": "Preteen Responsibility",
+      "kind": "Trait",
+      "summary": "You were expected to watch streets, doors, alleys, rooftops, or approaches and warn older companions when guards, rivals, adults, or trouble appeared.\n\nNarrative effects: You naturally choose useful sightlines and know how to watch an area without making your attention obvious.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Seeing +6, Stealth +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Graveyard Tender",
+      "group": "Preteen Responsibility",
+      "kind": "Trait",
+      "summary": "You helped clean paths, maintain markers, carry flowers, clear weeds, assist visitors, and perform simple work around a burial ground.\n\nNarrative effects: Burial customs and the historical information preserved in memorials feel familiar.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Religious Lore +6, Historical Lore +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Escaped a Rising Flood",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "Rising water trapped, separated, or threatened you while you were old enough to understand the danger and actively find a way through or around it.\n\nNarrative effects: You learned to move through dangerous water and think about routes differently when ordinary roads, crossings, and landmarks become unusable.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Swimming +6, Navigation +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Failed First Casting",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "Your first serious attempt at deliberate magic failed badly enough to become memorable. The spell collapsed, misfired, embarrassed you, frightened someone, or simply proved that wanting magic and controlling it were different things.\n\nNarrative effects: Failure taught you to approach magical theory and personal control more seriously. This trait does not grant an Arcana.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Arcane Lore +6, Self-Discipline +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Failed Someone Who Trusted You",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "Someone relied on you, and despite your intentions you failed them. The consequence may have been small or serious, but their disappointment stayed with you.\n\nNarrative effects: You learned that good intentions do not erase consequences and became more conscious of the discipline reliability requires.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Empathy +6, Self-Discipline +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Falsely Accused",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You were seriously accused of something you had not done and had to live with suspicion, defend yourself, or wait for the truth to emerge.\n\nNarrative effects: You learned how difficult innocence can be to prove once a social group has accepted a convincing accusation.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Persuasion +6, Social Inquiry +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Axe Lessons",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You were taught to fight with axes rather than merely use them as tools. The weight, edge alignment, recovery, and commitment behind each attack made a strong impression.\n\nNarrative effects: Axes became your main early heavy one-handed attack style, with secondary familiarity using similarly forceful striking weapons.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Axes +6, Bludgeons +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Betrayal",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "Someone you trusted knowingly betrayed that trust for advantage, fear, approval, convenience, or another reason you could not easily dismiss.\n\nNarrative effects: You learned that understanding why someone acts does not mean trusting them, and you pay closer attention to relationships and motives.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Empathy +6, Social Inquiry +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Bow Lessons",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You received genuine instruction with a bow rather than merely playing at archery. Stance, draw, release, range, target focus, and safe handling became practiced skills.\n\nNarrative effects: Archery became your primary early ranged foundation, with some familiarity carrying over to other aimed projectile weapons.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Bows +6, Crossbows +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Brave Rescue",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You acted when another person or creature was in real danger, despite being frightened yourself. The rescue may have been small by adult standards, but the choice changed how you understood courage.\n\nNarrative effects: You learned that courage is action under fear and that decisive behavior can cause others to follow.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Courage +6, Leadership +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Close-Quarters Lessons",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You were deliberately taught how to fight when opponents were close enough for grabs, shoves, knees, fists, and short weapons to matter.\n\nNarrative effects: Unarmed fighting became your primary early combat foundation, supported by some familiarity with compact blades.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Brawling +6, Light Blades +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Crossbow Lessons",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You learned to load, handle, aim, and fire a crossbow under supervision. The mechanical nature of the weapon made the lessons different from ordinary archery, though both taught patience and ranged accuracy.\n\nNarrative effects: Crossbows became your primary early ranged weapon, while broader projectile training gave you some familiarity with bows.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Crossbows +6, Bows +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Greatblade Lessons",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You received supervised instruction with large swords or similarly heavy blades, usually using training weapons suited to your size. Reach, commitment, balance, and recovery mattered from the beginning.\n\nNarrative effects: Large blades became your primary early weapon foundation, while basic blade principles also gave you some understanding of lighter swordplay.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Heavy Blades +6, Dueling +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Knife-Fighting Lessons",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "Someone taught you how a knife or other light blade differs from simply waving a sharp object around. Close distance, quick attacks, free-hand movement, and fighting when space is limited became familiar concepts.\n\nNarrative effects: You developed an early close-quarters fighting foundation combining light blades with unarmed movement.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Light Blades +6, Brawling +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Lance Lessons",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You were introduced to using a lance from horseback or through appropriate training exercises. Riding line, reach, commitment, and keeping the weapon controlled during movement were central to the lessons.\n\nNarrative effects: Lance use became your primary early martial discipline, with secondary familiarity transferring to other thrusting pole weapons.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Lances +6, Spears +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Long Journey",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You traveled far enough from home that landscapes, customs, accents, food, roads, or ways of living became noticeably different.\n\nNarrative effects: Long-distance travel taught you both how routes connect and how quickly customs change between communities.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Navigation +6, Cultural Lore +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Mace-and-Club Lessons",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You learned that clubs, maces, hammers, and similar weapons depend on controlled impact rather than simply swinging as hard as possible.\n\nNarrative effects: Bludgeoning weapons became your primary early fighting style, alongside modest familiarity with other weight-driven one-handed attacks.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Bludgeons +6, Axes +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Paid Work",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You completed work for actual payment rather than merely helping because family or adults expected it.\n\nNarrative effects: Being paid taught you that labor has negotiable value and that effort, quality, and compensation do not always align automatically.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Bargaining +6, Appraisal +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Polearm Lessons",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You received basic instruction with longer hafted weapons whose reach, leverage, and handling demanded more space and control than a simple spear or staff.\n\nNarrative effects: Polearms became your primary early weapon foundation, supported by transferable staff handling.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Polearms +6, Staff Fighting +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Public Shame",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You were embarrassed, reprimanded, mocked, exposed, or humiliated in front of enough people that the memory changed how you thought about reputation.\n\nNarrative effects: You became more aware of public expectations and how quickly embarrassment or reputation can spread through a group.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Etiquette +6, Social Inquiry +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Real Grief",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You lost someone or something you genuinely loved deeply enough that grief became more than an abstract idea.\n\nNarrative effects: Personal loss taught you something about how grief changes behavior and how people continue functioning while carrying it.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Empathy +6, Self-Discipline +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Sling Lessons",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You learned to use a sling properly, whether for sport, pest control, herding, hunting, or simple martial practice. Timing and controlled release mattered far more than the weapon's simplicity suggested.\n\nNarrative effects: You developed an early foundation in sling use and a secondary familiarity with judging arcs and releases for thrown attacks.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Slings +6, Thrown Weapons +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Spear-and-Shield Lessons",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You learned basic spear fighting alongside shield use, practicing reach, thrusts, guarded movement, and keeping an opponent outside comfortable striking distance.\n\nNarrative effects: You possess an early spear foundation supported by practical shield familiarity.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Spears +6, Shields +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Spell Lessons",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You received your first structured lessons about deliberate spellcasting, mana control, magical safety, and the difference between theory and actual practice.\n\nNarrative effects: Basic magical theory and the discipline surrounding spell practice became familiar, without automatically granting a specific Arcana.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Arcane Lore +6, Self-Discipline +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Staff Lessons",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You were taught to use a staff as a weapon through controlled strikes, guards, changes of grip, reach, and movement rather than treating it as a simple stick.\n\nNarrative effects: Staff fighting became your main early martial foundation, with some understanding of longer hafted weapons carrying over.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Staff Fighting +6, Polearms +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Storm at Sea",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You experienced a serious storm aboard a working vessel and saw how quickly ordinary sailing became urgent coordinated labor.\n\nNarrative effects: Bad weather taught you practical respect for sail work and for hearing commands, warnings, and changes in a vessel through heavy noise.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Sail Handling +6, Hearing +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Sword-and-Shield Lessons",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You received your first real instruction in fighting with a one-handed sword and shield. The lessons were basic, but they introduced distance, guard, footwork, attack, and active defense as parts of the same fighting style.\n\nNarrative effects: You possess a genuine early foundation in one-handed weapon fighting supported by shield use, but not adult martial mastery.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Dueling +6, Shields +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Throwing Lessons",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You practiced deliberately throwing stones, darts, small javelins, knives, or other suitable objects at targets rather than relying on wild force.\n\nNarrative effects: Thrown attacks became your primary early ranged skill, with some familiarity transferring to other release-based projectile weapons.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Thrown Weapons +6, Slings +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Thrown-Blade Lessons",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You practiced with knives or similarly balanced blades both in the hand and through deliberate throwing drills, learning that the two uses required different timing.\n\nNarrative effects: Thrown weapons became your primary early skill, with practical familiarity handling light blades at close range.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Thrown Weapons +6, Light Blades +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Time Left Home Alone",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You made your first meaningful journey away from home without a parent or familiar adult supervising you directly.\n\nNarrative effects: Independent travel taught you both how to find your way and how to ask unfamiliar people for useful information.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Navigation +6, Social Inquiry +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Forbidden Book Discovered",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You discovered a book, record, manual, journal, or collection of writings that adults clearly considered dangerous, restricted, immoral, illegal, or better forgotten.\n\nNarrative effects: Restricted knowledge became something concrete rather than abstract, and you learned how dangerous information can hide inside ordinary records.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Forbidden Lore +6, Archival Research +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Found a Buried Charm",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You found a charm, token, relic, amulet, ward, or other deliberately hidden object beneath earth, floorboards, rubble, roots, or another concealed place.\n\nNarrative effects: Unusual old objects make you consider both their historical significance and their physical authenticity or value.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Relic Lore +6, Appraisal +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Found a Lost Child",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You encountered a younger or similarly aged child who had become separated from home, caregivers, or companions and helped work out where they belonged.\n\nNarrative effects: You learned to combine practical searching with careful questions when helping someone who cannot clearly explain where they belong.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Searching +6, Social Inquiry +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Found an Old Map",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You discovered an old map, chart, property plan, route sketch, or geographic record that showed places differently from the world you knew.\n\nNarrative effects: Old maps taught you that geography changes and that maps can preserve evidence of forgotten roads, borders, structures, and names.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Cartography +6, Historical Lore +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Got Lost Far From Home",
+      "group": "Preteen Turning Point",
+      "kind": "Trait",
+      "summary": "You became genuinely lost far enough from familiar surroundings that returning required observation, orientation, help, or luck.\n\nNarrative effects: Being lost taught you to pay attention to direction, landmarks, and visible clues instead of simply continuing in panic.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Navigation +6, Seeing +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Enchanter",
+      "group": "Professional Focus",
+      "kind": "Trait",
+      "summary": "You are professionally trained in the practical craft of preparing, stabilizing, modifying, and working with enchanted objects. This training includes a minimal functional awakening of Enchantment Arcana, enough to unlock the Arcana and participate in the craft without implying developed mastery or broad magical power.\n\nNarrative effects: You examine materials, bindings, resonance, existing enchantment structure, and where magical influence is meant to settle before altering an enchanted object. Your Enchantment Arcana access is real but may still be rudimentary.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Handcrafting +15, Arcane Lore +5, Enchantment Arcana +1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Excavator",
+      "group": "Professional Focus",
+      "kind": "Trait",
+      "summary": "You are experienced in digging, clearing rubble, opening blocked passages, recovering buried material, bracing unstable work, and judging how soil, stone, fill, timber supports, and confined spaces respond when disturbed.\n\nNarrative effects: You think about load, collapse, spoil placement, bracing, leverage, access, and where displaced material must go before anyone starts digging enthusiastically.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Engineering +15, Handcrafting +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Expedition Planner",
+      "group": "Professional Focus",
+      "kind": "Trait",
+      "summary": "You prepare dangerous or complicated journeys before departure by assessing personnel, supplies, tools, routes, weather, fallback plans, transport, communications, likely hazards, and mission priorities. Good expedition work reduces avoidable surprises without pretending risk can be eliminated.\n\nNarrative effects: You ask what happens if the road closes, an animal is lost, food spoils, someone is injured, weather turns, a tool breaks, or the expedition has to return by a different route.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Military Lore +15, Navigation +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Farmer",
+      "group": "Professional Focus",
+      "kind": "Trait",
+      "summary": "You are professionally experienced in crop production and field work: soil preparation, planting, irrigation, weeding, harvest, storage, seasonal timing, tool use, and the practical effects of weather, pests, labor, and exhausted ground.\n\nNarrative effects: You read fields by soil condition, growth, drainage, weeds, pest signs, tool marks, and whether the season's work is ahead of schedule or quietly failing.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Natural Lore +15, Handcrafting +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Ferryman",
+      "group": "Professional Focus",
+      "kind": "Trait",
+      "summary": "You are practiced at operating ferries and small working vessels across rivers, channels, harbors, and difficult crossings. You understand current, landing approach, passenger balance, poles, oars, simple steering, loading, and the local judgment needed to make repeated crossings safely.\n\nNarrative effects: You read current, wind, load balance, landing angle, boat response, and how much room a crossing really needs before pushing away from shore.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Vessel Piloting +15, Rowing +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fisher",
+      "group": "Professional Focus",
+      "kind": "Trait",
+      "summary": "You are professionally experienced at taking food and useful catch from rivers, lakes, coasts, or open water. You understand fish behavior, currents, seasons, bait, hooks, nets, cleaning, preservation, and the practical signs that tell you where a catch is likely to be.\n\nNarrative effects: You read water by current, color, insects, birds, weather, depth, and small surface changes that tell an experienced fisher what is happening below.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Natural Lore +15, Swimming +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Forager",
+      "group": "Professional Focus",
+      "kind": "Trait",
+      "summary": "You are professionally practiced at finding edible plants, water, fuel, useful roots, fungi, herbs, game signs, and other natural resources without exhausting the area or confusing a dangerous lookalike for something useful.\n\nNarrative effects: You notice what can be safely gathered, where water is likely to collect, what has already been harvested, and which attractive plants or fungi should be left untouched.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Natural Lore +15, Searching +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Gardener",
+      "group": "Professional Focus",
+      "kind": "Trait",
+      "summary": "You are experienced in tending cultivated plants, herbs, flowers, kitchen plots, orchards, estate grounds, temple gardens, and other managed growing spaces. You understand soil, pruning, watering, pests, propagation, seasons, and the difference between a plant surviving and actually thriving.\n\nNarrative effects: You notice thirsty leaves, bad pruning, compacted soil, pest damage, useful volunteers, and the quiet signs that a tended garden has been neglected or deliberately altered.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Natural Lore +15, Handcrafting +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Guild Professional",
+      "group": "Professional Focus",
+      "kind": "Trait",
+      "summary": "You understand guild life from the inside: ranks, apprenticeships, journeymanship, charters, licenses, dues, workshop obligations, professional favors, trade protections, internal disputes, and the economics of organized skilled work.\n\nNarrative effects: You ask who holds the charter, who trained whom, what work is protected, which dues are owed, and whether a claimed professional standing would actually be recognized.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Cultural Lore +15, Bargaining +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Elementborn — Ashborn",
+      "group": "Race",
+      "kind": "Trait",
+      "summary": "Elementborn are mortal people whose ancestry carries a persistent elemental expression strong enough to shape physiology and magical affinity. Elementborn are not elementals, and their element does not determine culture, morality, profession, or personality. Ashborn carry smoke, ash, soot, haze, and volcanic-air traits such as charcoal undertones, smoke-like markings, darkened sclera, muted scent, or fine ash appearing around them under magical stress.\n\nNarrative effects: Your body is unusually comfortable around smoke and airborne particulates and carries Smoke affinity. This does not grant immunity to suffocation, invisibility, or the ability to become smoke without explicit magic.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Stealth +8, Tolerance +8, Smoke Arcana +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Elementborn — Emberborn",
+      "group": "Race",
+      "kind": "Trait",
+      "summary": "Elementborn are mortal people whose ancestry carries a persistent elemental expression strong enough to shape physiology and magical affinity. Elementborn are not elementals, and their element does not determine culture, morality, profession, or personality. Emberborn carry fire-linked traits such as unusual body heat, emberlike eyes, warm markings, soot-dark hair tones, or skin that handles heat unusually well.\n\nNarrative effects: Your body and magic carry a stable Fire affinity. Heat-linked traits are inherited, but you do not automatically ignite objects, resist all fire, or possess fire abilities you have not learned.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Tolerance +8, Courage +8, Fire Arcana +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Elementborn — Frostborn",
+      "group": "Race",
+      "kind": "Trait",
+      "summary": "Elementborn are mortal people whose ancestry carries a persistent elemental expression strong enough to shape physiology and magical affinity. Elementborn are not elementals, and their element does not determine culture, morality, profession, or personality. Frostborn carry cold-linked traits such as low body temperature, frostlike markings, pale or crystalline coloration, and exceptional comfort in severe cold.\n\nNarrative effects: Your physiology is exceptionally adapted to temperature stress and carries Cold affinity. Cold skin and temperature sensitivity do not make you immune to freezing or harmful heat.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Tolerance +11, Touching +5, Cold Arcana +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Elementborn — Galeborn",
+      "group": "Race",
+      "kind": "Trait",
+      "summary": "Elementborn are mortal people whose ancestry carries a persistent elemental expression strong enough to shape physiology and magical affinity. Elementborn are not elementals, and their element does not determine culture, morality, profession, or personality. Galeborn carry air-linked traits such as unusually light movement, hair or clothing that reacts readily to small currents, pale cloudlike markings, or an instinctive sense for changes in airflow.\n\nNarrative effects: Your body favors light, controlled movement and carries Air affinity. This does not grant flight or immunity to falling without another established capability.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Acrobatics +8, Seeing +8, Air Arcana +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Elementborn — Ironveined",
+      "group": "Race",
+      "kind": "Trait",
+      "summary": "Elementborn are mortal people whose ancestry carries a persistent elemental expression strong enough to shape physiology and magical affinity. Elementborn are not elementals, and their element does not determine culture, morality, profession, or personality. Ironveined carry metal-linked traits such as metallic flecks in skin or eyes, unusual bodily density, mineral-colored nails, or heightened tactile awareness of worked metal and rigid materials.\n\nNarrative effects: Your body carries a stable Metal affinity and unusually strong tactile response to dense materials. You are not literally made of metal and gain no automatic armor.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Touching +8, Tolerance +8, Metal Arcana +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Elementborn — Rootborn",
+      "group": "Race",
+      "kind": "Trait",
+      "summary": "Elementborn are mortal people whose ancestry carries a persistent elemental expression strong enough to shape physiology and magical affinity. Elementborn are not elementals, and their element does not determine culture, morality, profession, or personality. Rootborn carry wood- and living-growth traits such as barklike patches, leaf or vine markings, earthy scents, unusual hair textures, or subtle seasonal changes in coloration.\n\nNarrative effects: Your physiology carries Wood affinity and heightened organic scent awareness. You remain a mortal person rather than a plant creature and do not automatically photosynthesize, root, or regenerate.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Smelling +8, Tolerance +8, Wood Arcana +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Elementborn — Stoneborn",
+      "group": "Race",
+      "kind": "Trait",
+      "summary": "Elementborn are mortal people whose ancestry carries a persistent elemental expression strong enough to shape physiology and magical affinity. Elementborn are not elementals, and their element does not determine culture, morality, profession, or personality. Stoneborn carry earth-linked traits such as dense musculature, mineral flecks, stone-toned patches, heavy bones, or a grounded physical presence.\n\nNarrative effects: Your body is unusually dense and carries an Earth affinity. This does not make you literally stone, immovable, or immune to ordinary injury.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Might +8, Tolerance +8, Earth Arcana +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Elementborn — Stormborn",
+      "group": "Race",
+      "kind": "Trait",
+      "summary": "Elementborn are mortal people whose ancestry carries a persistent elemental expression strong enough to shape physiology and magical affinity. Elementborn are not elementals, and their element does not determine culture, morality, profession, or personality. Stormborn carry lightning-linked traits such as static in the hair, bright irises, branching markings, tingling skin, or visible electrical reactions under stress.\n\nNarrative effects: Your body and magic carry Lightning affinity and respond strongly to sudden exertion. You do not automatically discharge electricity or resist lightning without an explicit mechanic.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Running +8, Courage +8, Lightning Arcana +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Elementborn — Tideborn",
+      "group": "Race",
+      "kind": "Trait",
+      "summary": "Elementborn are mortal people whose ancestry carries a persistent elemental expression strong enough to shape physiology and magical affinity. Elementborn are not elementals, and their element does not determine culture, morality, profession, or personality. Tideborn carry water-linked traits such as cool skin, subtle webbing, aquatic coloration, unusual comfort in water, or eyes resembling deep water.\n\nNarrative effects: Your physiology is unusually comfortable in water and carries Water affinity. This does not grant underwater breathing unless another mechanic explicitly does so.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Swimming +8, Tolerance +8, Water Arcana +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Elf",
+      "group": "Race",
+      "kind": "Trait",
+      "summary": "Elves are long-lived mortal humanoids with pointed ears, graceful proportions, and naturally keen senses. Their ancestry does not determine culture, profession, morality, magical tradition, or preference for nature; those come from Origin Culture, Upbringing, and lived experience.\n\nNarrative effects: Your long-lived elven body carries sharp sight and hearing with naturally controlled movement. Do not infer archery training, animal affinity, Heroic Arcana, courtly behavior, or Lythael culture from Race alone.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Seeing +8, Hearing +8, Acrobatics +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Foxfolk Beastkin",
+      "group": "Race",
+      "kind": "Trait",
+      "summary": "Foxfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus fox ears, one or more foxlike tails, keen hearing, sharp eyes, and agile movement. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Sharp hearing, strong visual awareness, agile movement, and quiet footwork favor noticing danger and moving unobtrusively. Foxfolk ancestry does not imply deception, trickery, playfulness, or dishonesty.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Hearing +8, Seeing +8, Stealth +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Gnome",
+      "group": "Race",
+      "kind": "Trait",
+      "summary": "Gnomes are small mortal humanoids with fine hand control, sensitive touch, sharp close attention, and compact bodies suited to precise manipulation. Gnome ancestry does not automatically make someone an engineer, alchemist, scholar, inventor, or mage.\n\nNarrative effects: Your hands and tactile perception are naturally precise, making small details and delicate manipulation easier to manage. Technical knowledge still comes from actual training.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Searching +8, Touching +8, Legerdemain +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Goatfolk Beastkin",
+      "group": "Race",
+      "kind": "Trait",
+      "summary": "Goatfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus goat horns, goat ears, sturdy human feet or practical mountain footwear, and sure-footed movement. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Sure-footed balance and strong climbing instincts make steep slopes, broken ground, narrow ledges, and vertical movement unusually natural. Stubbornness is not an enforced personality trait.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Climbing +8, Acrobatics +8, Jumping +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Empathic Listener",
+      "group": "Social Focus",
+      "kind": "Trait",
+      "summary": "You are skilled at understanding and emotionally reaching people through patience, careful questions, reassurance, and genuine attention. You can help people feel heard without forcing agreement, manufacturing trust, or overriding their choices.\n\nNarrative effects: You give people enough room to reveal what they are feeling before deciding what might actually help.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Empathy +15, Persuasion +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "False Identity Specialist",
+      "group": "Social Focus",
+      "kind": "Trait",
+      "summary": "You are skilled at maintaining an invented social identity over extended interaction. You understand that a false name needs believable manners, status cues, habits, dress, explanations, and knowledge of how someone in that role is expected to behave.\n\nNarrative effects: You build false identities from the small details that keep other people from asking the next dangerous question.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Disguise +15, Etiquette +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fine Ball Attire Set",
+      "group": "Starting Outfit",
+      "kind": "Trait",
+      "summary": "Elegant formal clothing suited for dances, court gatherings, noble celebrations, and social occasions where appearance becomes a weapon.",
+      "facts": [
+        {
+          "label": "Starting items",
+          "value": "1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Frontier Travel Clothes Set",
+      "group": "Starting Outfit",
+      "kind": "Trait",
+      "summary": "Hard-wearing clothes for dangerous roads, border settlements, rough camps, and places where help arrives late. Less refined than city travel wear, but more forgiving.",
+      "facts": [
+        {
+          "label": "Starting items",
+          "value": "1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Gambeson Set",
+      "group": "Starting Protection",
+      "kind": "Trait",
+      "summary": "A sturdy quilted gambeson meant to absorb impact, soften cuts, and serve either as light protection or padding beneath heavier armor. Practical, warm, and common among soldiers and travelers.",
+      "facts": [
+        {
+          "label": "Starting items",
+          "value": "1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Estoc",
+      "group": "Starting Weapons",
+      "kind": "Trait",
+      "summary": "Starting weapon for Dueling. A stiff thrusting sword designed to find gaps in.",
+      "facts": [
+        {
+          "label": "Starting items",
+          "value": "1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fauchard",
+      "group": "Starting Weapons",
+      "kind": "Trait",
+      "summary": "A long polearm with a forward-curving blade suited for hooking, slashing, and controlling reach from outside sword range.",
+      "facts": [
+        {
+          "label": "Starting items",
+          "value": "1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Flail",
+      "group": "Starting Weapons",
+      "kind": "Trait",
+      "summary": "A chain-linked striking weapon used to wrap around shields, punish guarded enemies, and deliver unpredictable impact. Dangerous to the wielder without training, and worse for the enemy with it.",
+      "facts": [
+        {
+          "label": "Starting items",
+          "value": "1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Glaive",
+      "group": "Starting Weapons",
+      "kind": "Trait",
+      "summary": "Starting weapon for Polearms. A long pole blade suited for sweeping cuts and re.",
+      "facts": [
+        {
+          "label": "Starting items",
+          "value": "1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Great Axe",
+      "group": "Starting Weapons",
+      "kind": "Trait",
+      "summary": "A heavy two-handed axe built for overwhelming force, shield-breaking swings, and terrifying execution blows. It is not subtle, but few things that survive it care about subtlety.",
+      "facts": [
+        {
+          "label": "Starting items",
+          "value": "1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Greatsword",
+      "group": "Starting Weapons",
+      "kind": "Trait",
+      "summary": "A large two-handed sword built for reach, weight, and decisive cutting force. It is difficult to hide, exhausting to use poorly, and terrifying when carried by someone trained to let momentum speak.",
+      "facts": [
+        {
+          "label": "Starting items",
+          "value": "1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Escaped a Gang",
+      "group": "Teenage Complication",
+      "kind": "Trait",
+      "summary": "You left a gang, criminal crew, violent peer group, or similar organization that did not expect members to simply walk away.\n\nNarrative effects: Leaving taught you the practical value of moving quickly, staying difficult to find, and avoiding familiar patterns.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Running +6, Stealth +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Evicted With the Household",
+      "group": "Teenage Complication",
+      "kind": "Trait",
+      "summary": "Your household lost the right or ability to remain where you lived, forcing everyone to relocate with limited control over the timing.\n\nNarrative effects: Sudden relocation taught you to think practically about where to go next and what terms might secure another place to stay.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Navigation +6, Bargaining +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Exiled Teen",
+      "group": "Teenage Complication",
+      "kind": "Trait",
+      "summary": "You were formally or effectively forced away from your home, community, institution, territory, or people while still a teenager.\n\nNarrative effects: Exile exposed you to unfamiliar communities and made route-finding away from home a practical necessity.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Cultural Lore +6, Navigation +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Expelled Without Scandal",
+      "group": "Teenage Complication",
+      "kind": "Trait",
+      "summary": "You were removed from a school, academy, guild program, monastery, military institution, or other structured path for comparatively ordinary reasons rather than spectacular wrongdoing.\n\nNarrative effects: Institutional failure taught you about expectations, consequences, and continuing after a structured path closes. Do not invent a hidden scandal unless established elsewhere.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Self-Discipline +6, Cultural Lore +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Failed to Join the Guard",
+      "group": "Teenage Complication",
+      "kind": "Trait",
+      "summary": "You attempted to join a guard, militia, watch, military unit, or similar organization and were rejected or failed to qualify.\n\nNarrative effects: Preparing for recruitment still taught you about military expectations and the discipline required to meet formal standards.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Military Lore +6, Self-Discipline +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Duel Lost Badly",
+      "group": "Teenage Complication",
+      "kind": "Trait",
+      "summary": "Your first serious duel or formal fight ended decisively against you. Pain, humiliation, fear, or simple technical inferiority made the lesson impossible to ignore.\n\nNarrative effects: Defeat still taught you real combat lessons and made returning to a serious fight an act of courage rather than ignorance.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Dueling +6, Courage +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Duel Won",
+      "group": "Teenage Complication",
+      "kind": "Trait",
+      "summary": "You won a serious duel, spar, challenge, or formal fight that mattered to the people watching and to your own sense of ability.\n\nNarrative effects: Victory gave you confidence in formal combat and experience carrying yourself when others look to the winner.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Dueling +6, Leadership +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Kill Remembered",
+      "group": "Teenage Complication",
+      "kind": "Trait",
+      "summary": "You killed a person or dangerous creature for the first time and found that the memory stayed with you long after the immediate danger passed.\n\nNarrative effects: You understand that lethal action has consequences beyond the moment itself. This trait does not define which weapon or method was used.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Empathy +6, Self-Discipline +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Love Scandal",
+      "group": "Teenage Complication",
+      "kind": "Trait",
+      "summary": "Your first serious romantic attachment became the subject of gossip, disapproval, embarrassment, exposure, or conflict.\n\nNarrative effects: You learned how private feelings can become difficult to conceal and how exposure affects everyone involved.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Deception +6, Empathy +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Spell Gone Wrong",
+      "group": "Teenage Complication",
+      "kind": "Trait",
+      "summary": "A serious attempt at magic failed badly enough to become a defining teenage memory. The spell collapsed, misfired, caused damage, frightened someone, or exposed how much control you still lacked.\n\nNarrative effects: You learned to treat magical failure as something to understand and control rather than simply fear. This trait does not grant a specific Arcana.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Arcane Lore +6, Self-Discipline +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "First Spell Saved Someone",
+      "group": "Teenage Complication",
+      "kind": "Trait",
+      "summary": "Magic you used, helped direct, or understood made a real difference when someone was in danger. The experience proved that magical knowledge could matter under pressure.\n\nNarrative effects: You associate magic with decisive action under pressure. This trait does not establish Healing Arcana or any other specific form of magic.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Courage +6, Arcane Lore +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Forbidden Romance",
+      "group": "Teenage Complication",
+      "kind": "Trait",
+      "summary": "A romantic relationship was forbidden or strongly opposed because of family, status, culture, faction, faith, politics, law, or another external boundary.\n\nNarrative effects: You learned to balance another person's feelings against the practical need for secrecy. This trait does not establish the relationship as still active.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Empathy +6, Deception +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Friendship Became Rivalry",
+      "group": "Teenage Complication",
+      "kind": "Trait",
+      "summary": "A close friendship became competitive, strained, resentful, or openly rivalrous as your ambitions, relationships, abilities, or circumstances changed.\n\nNarrative effects: Competition taught you to control yourself while remaining conscious of the personal feelings beneath rivalry.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Self-Discipline +6, Empathy +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Early Magic Prodigy",
+      "group": "Teenage Path",
+      "kind": "Trait",
+      "summary": "You displayed exceptional natural magical aptitude during your teenage years. Magic came to you with unusual speed and intuition, and teachers or other experienced practitioners recognized that your potential was far beyond what they normally expected from someone your age. Your talent applied to the forms of magic you genuinely possessed rather than granting mastery over every Arcana.\n\nNarrative effects: The character was genuinely regarded as a magical prodigy during adolescence. Their unusual gift concerns the Arcana and magical capabilities they actually possess; it never grants an Arcana, spell, or ability by itself. Their rapid progress and exceptional magical aptitude are established parts of their history rather than merely academic knowledge.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Arcane Lore +8, Self-Discipline +4, Mana +5"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Estate Worker",
+      "group": "Teenage Path",
+      "kind": "Trait",
+      "summary": "You worked across the practical needs of a larger estate: fields, grounds, repairs, harvests, fencing, stores, animals, roads, or whatever work needed another capable pair of hands.\n\nNarrative effects: Estate work gave you broad environmental familiarity and practical competence maintaining ordinary physical things.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Natural Lore +8, Handcrafting +4"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Failed Academy Student",
+      "group": "Teenage Path",
+      "kind": "Trait",
+      "summary": "You spent meaningful time in formal education but failed to complete the path successfully. Poor results, missed expectations, personal difficulties, changing circumstances, or simply not fitting the institution eventually ended your studies.\n\nNarrative effects: Failure did not erase what you learned. You retain substantial experience with formal study and the discipline required to work through difficult material.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Archival Research +8, Self-Discipline +4"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Farmstead Worker",
+      "group": "Teenage Path",
+      "kind": "Trait",
+      "summary": "You spent your teenage years doing sustained agricultural work: planting, harvesting, repairing, moving supplies, handling seasonal tasks, and performing physically demanding jobs around a farmstead.\n\nNarrative effects: Years of agricultural work gave you substantial environmental familiarity and practical physical strength.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Natural Lore +8, Might +4"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fisher's Apprentice",
+      "group": "Teenage Path",
+      "kind": "Trait",
+      "summary": "You trained aboard small fishing vessels or around working fisheries, learning oars, simple sails, gear, departure routines, and the physical demands of getting a catch home.\n\nNarrative effects: Small-vessel propulsion under oar became a major skill, supported by practical sail experience.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Rowing +8, Sail Handling +4"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Forbidden Text Reader",
+      "group": "Teenage Path",
+      "kind": "Trait",
+      "summary": "Your teenage studies repeatedly led you toward writings that were restricted, censored, dangerous, immoral, illegal, or deliberately hidden from ordinary students.\n\nNarrative effects: You became practiced at locating and understanding restricted knowledge while learning that written information can carry real consequences.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Forbidden Lore +8, Archival Research +4"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Gang Runner",
+      "group": "Teenage Path",
+      "kind": "Trait",
+      "summary": "A gang or criminal crew used you for messages, collections, introductions, distractions, lookout work, or other low-level tasks during adolescence.\n\nNarrative effects: You learned how criminal groups communicate, recruit, conceal their business, and maintain believable explanations.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Deception +8, Thieves' Lore +4"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Guild Apprentice",
+      "group": "Teenage Path",
+      "kind": "Trait",
+      "summary": "You entered a guild-controlled apprenticeship or training program where practical work came with rules, hierarchy, traditions, dues, expectations, and a recognized professional community.\n\nNarrative effects: You gained broad craft competence while learning the customs and expectations of organized professional life.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Handcrafting +8, Cultural Lore +4"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fostered Between Homes",
+      "group": "Toddler Circumstance",
+      "kind": "Trait",
+      "summary": "You spent your first years moving between two or more established homes under a fostering, custody, kinship, protection, or practical arrangement. Each place had its own rules and expectations.\n\nNarrative effects: You learned early that what counts as proper behavior depends heavily on which household door you have just walked through.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Etiquette +6, Cultural Lore +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Found After Vanishing",
+      "group": "Toddler Circumstance",
+      "kind": "Trait",
+      "summary": "You disappeared once as a toddler and were later found somewhere strange, dangerous, impossible, or embarrassingly close by. Adults remembered the fear of searching for you.\n\nNarrative effects: People losing track of you feels familiar rather than frightening.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Navigation +6, Searching +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Found in the Rain",
+      "group": "Toddler Circumstance",
+      "kind": "Trait",
+      "summary": "You were found during rain, storm, mud, or miserable weather, too young to explain how you survived. Some call it luck, some call it mercy, and some still wonder who left you there.\n\nNarrative effects: Rain makes you quiet, as if some part of you still remembers being discovered under it.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Tolerance +6, Seeing +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Early Questioner",
+      "group": "Toddler Temperament",
+      "kind": "Trait",
+      "summary": "Once you learned to ask questions, you did so relentlessly. Who, why, where, what, and how became tools for testing every adult's patience.\n\nNarrative effects: Asking people directly for explanations still feels more natural than quietly remaining confused.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Social Inquiry +6, Persuasion +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Early Walker",
+      "group": "Toddler Temperament",
+      "kind": "Trait",
+      "summary": "You were on your feet earlier than expected and quickly became difficult to keep in one place. Once movement became possible, you used it constantly.\n\nNarrative effects: Movement feels more natural to you than standing around waiting for something to happen.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Running +6, Acrobatics +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fascinated by Firelight",
+      "group": "Toddler Temperament",
+      "kind": "Trait",
+      "summary": "Candles, hearths, lanterns, sparks, and dancing flame could hold your attention far longer than adults expected. Where some children recoiled, you watched.\n\nNarrative effects: Flame draws your attention without immediately frightening you. This temperament does not imply Fire Arcana.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Seeing +6, Courage +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Feared Deep Water",
+      "group": "Toddler Temperament",
+      "kind": "Trait",
+      "summary": "Water you could not stand comfortably in frightened you. Wells, deep pools, rivers, docks, and boats could provoke an instinctive need to stay close to safety.\n\nNarrative effects: You respect deep water and have learned to function despite the fear it once provoked.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Swimming +6, Courage +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Feared Dogs",
+      "group": "Toddler Temperament",
+      "kind": "Trait",
+      "summary": "Barking, teeth, fast movement, or simply unfamiliar dogs frightened you as a toddler. Even friendly animals could trigger immediate caution.\n\nNarrative effects: You pay close attention to canine behavior and know the difference between controlling fear and pretending an animal cannot hurt you.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Animal Handling +6, Courage +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fed Every Animal",
+      "group": "Toddler Temperament",
+      "kind": "Trait",
+      "summary": "Pets, livestock, birds, strays, and any creature willing to approach you were likely to receive pieces of your food whether adults approved or not.\n\nNarrative effects: You pay attention to what animals want and how they react when approached.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Animal Handling +6, Natural Lore +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Followed Music",
+      "group": "Toddler Temperament",
+      "kind": "Trait",
+      "summary": "A song somewhere nearby could pull you across a room, down a hall, or toward an open window. You wanted to know where music was coming from.\n\nNarrative effects: Melody, rhythm, and unusual musical sounds catch your attention quickly.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Hearing +6, Musical Lore +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Followed Older Children",
+      "group": "Toddler Temperament",
+      "kind": "Trait",
+      "summary": "Older siblings, cousins, wards, or neighborhood children seemed far more interesting than adults. You followed them, copied them, and tried to understand their games and rules.\n\nNarrative effects: You are good at observing a group's informal rules and figuring out how people fit together socially.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Cultural Lore +6, Social Inquiry +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Gentle With Small Things",
+      "group": "Toddler Temperament",
+      "kind": "Trait",
+      "summary": "Insects, tiny animals, fragile objects, flowers, small toys, and anything easily damaged brought out unusual care in your hands.\n\nNarrative effects: You instinctively moderate your touch around delicate things and vulnerable living creatures.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Touching +6, Empathy +3"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Endurance Conditioning",
+      "group": "Training",
+      "kind": "Trait",
+      "summary": "Years of deliberate conditioning, long marches, hard drills, or sustained physical work trained your body to keep functioning as fatigue accumulates. Grants +2 Constitution and +1 Strength.\n\nNarrative effects: You pace effort instinctively, conserve energy when possible, and recognize the difference between discomfort and genuine physical failure.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Tolerance +8, Running +5, Swimming +3, Constitution +2, Strength +1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Explosive Power Drills",
+      "group": "Training",
+      "kind": "Trait",
+      "summary": "You trained short bursts of force through jumps, sprints, launches, rapid lifts, and other movements that demand power immediately rather than over time. Grants +2 Strength and +1 Dexterity.\n\nNarrative effects: You coil before sudden effort and instinctively coordinate legs, hips, and timing when a task demands immediate power.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Jumping +8, Might +5, Running +3, Strength +2, Dexterity +1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fear Conditioning",
+      "group": "Training",
+      "kind": "Trait",
+      "summary": "You deliberately practiced functioning while afraid through controlled exposure, dangerous training, harsh drills, or repeated work where panic would make matters worse. Grants +2 Willpower and +1 Constitution.\n\nNarrative effects: Fear still registers, but you are practiced at separating the body's alarm response from the decision about what you actually do next.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Courage +8, Self-Discipline +5, Tolerance +3, Willpower +2, Constitution +1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Formation Combat Drills",
+      "group": "Training",
+      "kind": "Trait",
+      "summary": "You trained to fight as part of an organized line, maintaining spacing, weapon lanes, mutual protection, and awareness of orders around you. Grants +2 Fighting and +1 Intelligence.\n\nNarrative effects: You think about adjacent allies, lanes of movement, exposed flanks, and whether your position helps or endangers the people fighting beside you.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Polearms +8, Shields +5, Military Lore +3, Fighting +2, Intelligence +1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Grappling Practice",
+      "group": "Training",
+      "kind": "Trait",
+      "summary": "You practiced holds, escapes, leverage, clinches, takedowns, and contests of bodily control. The discipline turns strength into close-range technique rather than simple force. Grants +2 Strength and +1 Fighting.\n\nNarrative effects: At close range you naturally notice balance, grip, hips, shoulders, and where an opponent can be turned or pinned.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Brawling +8, Might +5, Self-Discipline +3, Strength +2, Fighting +1"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Elven Enclave",
+      "group": "Upbringing",
+      "kind": "Trait",
+      "summary": "You were raised in an elven-majority enclave, estate, town, or community whose own history, manners, institutions, art, and social expectations shaped everyday life. You need not be an elf yourself.\n\nNarrative effects: You are familiar with an established community's history and formal social habits without assuming all elves share one personality or way of life.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Historical Lore +8, Etiquette +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Estate Tenant Village",
+      "group": "Upbringing",
+      "kind": "Trait",
+      "summary": "You grew up among households farming, herding, or working land controlled by a larger estate. Rural work mixed with rents, dues, customary rights, estate authority, shared obligations, and local traditions.\n\nNarrative effects: You understand both rural environmental knowledge and the customs and social arrangements through which tenant communities organize daily life.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Natural Lore +8, Cultural Lore +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Farm Household",
+      "group": "Upbringing",
+      "kind": "Trait",
+      "summary": "You were raised in a working farm household where crops, livestock, weather, planting, harvest, fencing, feed, births, repairs, and seasonal labor structured the year.\n\nNarrative effects: You possess everyday familiarity with working animals and the environmental conditions that determine whether rural work succeeds.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Animal Handling +8, Natural Lore +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Ferry Settlement",
+      "group": "Upbringing",
+      "kind": "Trait",
+      "summary": "You grew up where moving people, animals, carts, and goods across a river, strait, lake, or other crossing formed an important part of local life.\n\nNarrative effects: Repeated crossings made small-watercraft propulsion and control familiar parts of ordinary life.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Rowing +8, Vessel Piloting +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Festival Caravan",
+      "group": "Upbringing",
+      "kind": "Trait",
+      "summary": "You grew up among vendors, performers, cooks, craftsmen, animal handlers, laborers, games, temporary stalls, fairs, seasonal gatherings, and the constant need to attract a crowd before moving onward.\n\nNarrative effects: You are comfortable gaining public attention and negotiating everyday exchanges in temporary, competitive marketplaces.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Performance +8, Bargaining +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fishing Fleet Household",
+      "group": "Upbringing",
+      "kind": "Trait",
+      "summary": "You were raised among working fishers whose household followed boats, nets, catches, weather, markets, tides, repairs, and the daily uncertainty of returning with enough.\n\nNarrative effects: You are familiar with practical small-vessel work under sail and sustained use of oars.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Sail Handling +8, Rowing +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Frontier Homestead",
+      "group": "Upbringing",
+      "kind": "Trait",
+      "summary": "You were raised on the edge of settled lands where households repaired their own property, understood the surrounding terrain, preserved supplies, and solved practical problems before distant specialists could arrive.\n\nNarrative effects: You are familiar with practical repair and the plants, animals, weather, terrain, and hazards surrounding isolated settlement.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Handcrafting +8, Natural Lore +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Garrison Town",
+      "group": "Upbringing",
+      "kind": "Trait",
+      "summary": "You grew up in a civilian settlement whose economy, politics, streets, businesses, and public life were heavily shaped by a permanent military presence. Soldiers were common without necessarily being members of your household.\n\nNarrative effects: You understand the place of military institutions within local society and how organized groups compete for authority, resources, and influence.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Military Lore +8, Faction Lore +8"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Guildhall Raised",
+      "group": "Upbringing",
+      "kind": "Trait",
+      "summary": "You spent formative years around a guildhall, trade association, professional fraternity, or organized body of craftspeople and merchants. Masters, apprentices, contracts, standards, disputes, dues, reputations, and professional politics were familiar.\n\nNarrative effects: You understand how organized professional groups function and are accustomed to the standards by which goods and workmanship are judged.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Faction Lore +8, Appraisal +8"
+        }
+      ],
+      "spoiler": false
+    }
+  ]
+}
