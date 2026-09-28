@@ -234,9 +234,9 @@
     },
     {
       "id": "pantheon-directory",
-      "title": "Pantheon Directory",
+      "title": "Faith and Pantheon Directory",
       "category": "Religion",
-      "summary": "Directory of the wider Arkenfell pantheon and the divine powers currently represented in canon.",
+      "summary": "A searchable directory of all 26 dedicated deity records in Arkenfell.",
       "path": "content/religion/pantheon-directory.md",
       "tags": ["Religion","Pantheon","Deities","Reference"]
     },
@@ -287,6 +287,22 @@
       "summary": "Willpower-based magical amplification of force, output, reinforcement, and impact.",
       "path": "content/magic/power-arcana.md",
       "tags": ["Magic","Arcana","Willpower","Power"]
+    },
+    {
+      "id": "item-directory",
+      "title": "Item Directory",
+      "category": "Items",
+      "summary": "A searchable directory of all 191 configured item types in Arkenfell.",
+      "path": "content/items/item-directory.md",
+      "tags": ["Items","Equipment","Weapons","Reference"]
+    },
+    {
+      "id": "creature-directory",
+      "title": "Creature Directory",
+      "category": "Creatures",
+      "summary": "A searchable directory of all 427 configured creature and NPC types in Arkenfell.",
+      "path": "content/creatures/creature-directory.md",
+      "tags": ["Creatures","NPC Types","Bestiary","Reference"]
     },
     {
       "id": "rules-and-play",
