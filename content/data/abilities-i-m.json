@@ -1,0 +1,3932 @@
+{
+  "realm": "Arkenfell",
+  "entries": [
+    {
+      "name": "Ice Barrier",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You rapidly form a solid ice shield, wall, brace, bridge, or obstacle from moisture and cold. Use this to block attacks, create cover, seal a route, cross danger, or control movement until heat or force breaks it.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Cold Arcana 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Identify the Hidden Rule",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Study an unfamiliar magical effect long enough to infer one governing rule, limitation, or repeated condition that can be tested. It reveals a workable principle, not the entire secret of the magic.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "42"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Arcane Scholarship Mastery 1, Arcane Lore 60"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Identity Split",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Keep evidence, habits, allies, and timing from linking two identities together. Resists investigation that relies on ordinary social pattern matching.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Disguise 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Identity Ward",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You reinforce the spiritual identity of yourself or several willing allies against hostile supernatural alteration, displacement, and effects that threaten their sense of self.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "46"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Soul Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Immediate Riposte",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You turn a narrow parry, sidestep, or avoided thrust into an immediate riposte before the opponent recovers. Enables a counterattack after a successful close defense.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Dueling 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Impact Mantle",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You maintain raw amplification through a short exchange, strengthening several related impacts or acts of exertion. The effect magnifies what you are already doing rather than creating independent force.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "46"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Power Arcana 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Impossible Accord",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You construct a compromise around the interests neither side can surrender and the concessions each can survive. Use this to break a major deadlock, preserve an alliance under severe strain, or turn open hostility into a workable settlement whose costs are explicit.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "45"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Persuasion 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Impossible Angle",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Use terrain, elevation, wind, timing, and ricochet logic to make a shot others would reject. Can strike a target that is barely reachable if the scene gives any real line or indirect path.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "80"
+        },
+        {
+          "label": "Cooldown",
+          "value": "11"
+        },
+        {
+          "label": "Requirements",
+          "value": "Bows 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Impossible Ascent",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You make an impossible ascent into a route, carrying rope, tools, and confidence behind you. Can open a path for the group through cliffs, towers, ruins, or storm-lashed rigging.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "60"
+        },
+        {
+          "label": "Cooldown",
+          "value": "10"
+        },
+        {
+          "label": "Requirements",
+          "value": "Climbing 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Impossible Expedition Plan",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You turn a dangerous expedition into a legendary operation of roles, supplies, routes, contingencies, hazard answers, and victory conditions. Use this to prepare a group for a world-class journey, ruin delve, monster hunt, sea voyage, or military-scale exploration.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "55"
+        },
+        {
+          "label": "Cooldown",
+          "value": "10"
+        },
+        {
+          "label": "Requirements",
+          "value": "Military Lore 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Impossible Helm",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You make a legendary craft answer impossible conditions through nerve, timing, and total system awareness. Can survive or accomplish one maneuver that should be beyond the vehicle's normal limits.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "70"
+        },
+        {
+          "label": "Cooldown",
+          "value": "10"
+        },
+        {
+          "label": "Requirements",
+          "value": "Vessel Piloting 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Impossible Labyrinth",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You read a dungeon, ruin, vault, or impossible structure as a complete living system of danger, design, history, and hidden routes. Use this to reveal the true path, bypass legendary threats, locate secret chambers, or guide allies through a place meant to kill intruders.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "55"
+        },
+        {
+          "label": "Cooldown",
+          "value": "11"
+        },
+        {
+          "label": "Requirements",
+          "value": "Searching 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Impossible Machine",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Design a daring mechanism that should barely work but answers the crisis exactly. Creates a one-use engineered solution to a major obstacle if the materials and time exist.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "80"
+        },
+        {
+          "label": "Cooldown",
+          "value": "11"
+        },
+        {
+          "label": "Requirements",
+          "value": "Engineering 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Impossible Recovery",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Turn a near fall, failed landing, sudden shove, or collapsing footing into a controlled recovery that preserves a useful position. It can salvage movement that would normally end badly without negating impossible physics.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Acrobatics Mastery 1, Acrobatics 60"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Impossible Route",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You cross an impossible-looking route of ledges, beams, ropes, walls, and moving hazards as one continuous flow. Bypasses ordinary ground-based obstacles and pursuit.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "65"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Acrobatics 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Impossible Scene",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You sustain a large multi-sense fabrication that can replace the apparent shape, sound, and atmosphere of an entire encounter area. Contradictory evidence, touch, wards, or careful investigation can still break the deception.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "58"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Illusion Arcana 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Impossible Whisper",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You recover meaning from extraordinarily faint, distant, or partially masked sound when a physical acoustic path still exists, separating signal from noise with legendary precision.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "65"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Hearing 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Improvised Rig",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Assemble a temporary tool, brace, trigger, pulley, or mechanism from available parts. Creates a useful device for one immediate task.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Engineering 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Inconsistent Report",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Compare patrol accounts, witness statements, route claims, official explanations, and repeated retellings to catch contradictions between what people say. Reveals a useful inconsistency in the accounts; contradictions that depend primarily on written records belong to Archival Research.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "20"
+        },
+        {
+          "label": "Cooldown",
+          "value": "1"
+        },
+        {
+          "label": "Requirements",
+          "value": "Social Inquiry 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Index Jump",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You use catalog structure, cross-references, clerical habits, and archive organization to move quickly from a broad question to the most promising record group.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "20"
+        },
+        {
+          "label": "Cooldown",
+          "value": "1"
+        },
+        {
+          "label": "Requirements",
+          "value": "Archival Research 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Inferno Column",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You call or shape a pillar, wall, or rolling surge of sustained flame in a target area. Use this to block movement, scatter enemies, burn cover, punish clustered foes, or force a dangerous battlefield shift.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "24"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Fire Arcana 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Information Stake",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You set a safe stake that buys information, access, or goodwill without risking ruin. Turns a game into a controlled social probe rather than simple chance.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "20"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Gambling 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Ingredient Read",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You identify obvious ingredients, spoilage, excessive salt, dilution, common herbs, or preparation mistakes from a careful taste.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "0"
+        },
+        {
+          "label": "Requirements",
+          "value": "Tasting 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Inside Cut",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You slip inside a larger guard and strike at straps, tendons, exposed wrists, or gaps rather than trading blows. Can disable grip, movement, or equipment when you reach close range.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Light Blades 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Inside the Guard",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Slip a light blade through the space created by a committed guard, grapple, shield edge, or cramped exchange. It creates a close-range opening that heavier weapons usually cannot exploit.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Light Blade Mastery 1, Light Blades 60"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Institutional Override",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You find the records, permissions, schedules, responsible offices, and procedural leverage needed to make one institution act during a crisis. Use this to cut through internal delay, assign a workable chain of responsibility, or mobilize resources that already fall within that institution’s authority.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "55"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Archival Research 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Interest Read",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You read whether attraction, curiosity, admiration, hesitation, or pride is shaping a romantic exchange. Reveals a fitting approach without creating attraction or overriding boundaries.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "20"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Courtship 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Interpose",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Move a shield into the line of a dangerous attack aimed at a nearby ally and turn the impact into a defended exchange. It can protect someone you can physically reach without making either of you invulnerable.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Shield Mastery 1, Shields 60"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Intrusion Break",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You strike at the bond between a hostile spiritual presence and its host, object, or location. It can force separation or create an opening for exorcism when the intruding presence is actually vulnerable.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "48"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Spirit Arcana 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Inversion Zone",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You tilt the direction of down across a defined area, making walls, ceiling, or a chosen vector become temporary falling directions. The zone affects friend and foe and can be extremely disorienting.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "44"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Gravity Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Invisible Repair",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Repair or alter a crafted object so the work preserves its intended appearance, balance, and ordinary function instead of leaving an obvious patch. It requires suitable tools and materials and cannot counterfeit provenance by itself.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Master Artisan 1, Handcrafting 30, Appraisal 30"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Invite the Answer",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Create a controlled opening for a present spirit or spiritual trace to communicate through signs, impressions, or limited exchange. It invites response without compelling truth, obedience, or a spirit that is not there.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Spirit Medium 1, Spirit Arcana 30, Empathy 30"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Inviting Spark",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You create a moment of appealing attention through warmth, confidence, style, or playful timing. Opens a friendly or flirtatious conversation, but never overrides consent or firm hostility.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Courtship 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Iron Cathedral",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You reshape a large mass of available metal into a fortress-like structure, layered defense, bridge, cage, or battlefield geometry. Scale and existing material matter, and enchanted metal can resist control.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "58"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Metal Arcana 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Iron Command",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You command nearby metal in a decisive scene, making blades twist, armor lock, chains move, gates strain, or metal debris become a weapon or shield. Relics, masterwork enchantments, and massive structures resist direct control.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "45"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Metal Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Iron Discipline",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Force frightened soldiers, workers, subordinates, or allies back into formation through command presence, example, threat, or hard-earned authority. Forces a frightened or unstable group back into formation or obedience.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Leadership 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Iron Orbit",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You hold several metal objects in controlled magnetic orbit around yourself or a point. They can form moving cover, tools, or projectile threats, but nonmetal material is unaffected.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "40"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Magnetism Arcana 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Iron Shape",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You bend, reinforce, soften, sharpen, or warp a limited amount of metal through focused resonance. Use this to repair a weapon, weaken a lock, strengthen armor seams, bend bars, reshape a tool, or make metal briefly answer your intent.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Metal Arcana 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Ironbody Resolve",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You endure legendary punishment of poison, exhaustion, exposure, pain, or deprivation with terrifying control. Can remain functional through a crisis that would drop almost anyone else.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "80"
+        },
+        {
+          "label": "Cooldown",
+          "value": "10"
+        },
+        {
+          "label": "Requirements",
+          "value": "Tolerance 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Ironhide Harness",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You reinforce leather gear at its stress points until it can endure harsh travel or combat. Use this to strengthen boots, straps, packs, armor pieces, saddles, harnesses, or protective gear for one major scene.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Handcrafting 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Ivory Colossus",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You assemble fossil material, carved bone, or another prepared skeletal framework into a temporary moving structure, guardian, bridge, or siege shape. Its size and durability depend on the material available. The construction is animated structure rather than a restored creature or captured soul.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "58"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Bone Arcana 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Joint Lock",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Catch wrist, elbow, shoulder, or stance at the wrong angle and turn strength against itself. Can restrain or disarm a humanoid opponent on a successful close contest.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Brawling 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Keep Moving",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You force your body to keep functioning while poisoned, feverish, starving, hungover, or sleep-starved. Lets you complete one necessary scene before the condition fully claims you.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Tolerance 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Key's Turn",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You awaken the Key within the Luporian medallion while touching a mundane lock, latch, fastening, or keyed mechanism. For this action, the medallion reshapes its magic to function as the missing physical key or fitting, allowing you to attempt to open or operate the mechanism without possessing the correct key or tools. It cannot automatically overcome a jammed, trapped, broken, magically sealed, or deliberately keyless mechanism, and success is not guaranteed where the mechanism itself resists operation.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "0"
+        },
+        {
+          "label": "Requirements",
+          "value": "Relic Lore 101"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Killing Flicker",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Hide the true weapon, target, or release point until the last instant. Bypasses ordinary guard with one precise thrown strike.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "65"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Thrown Weapons 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Killing Lane",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You control a lane with pre-aimed bolts, reload rhythm, and threat discipline. Enemies crossing the watched line risk interruption, forced cover, or being pinned before they can complete movement.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Crossbows 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Killing Rhythm",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Read the rhythm of a melee and choose the instant when strength, reach, and footwork align. Greatly improves one decisive weapon exchange.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Heavy Blades 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Kind Face Read",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You catch a small emotional truth beneath someone's words. Use this to sense fear, guilt, grief, hesitation, attraction, hidden kindness, or quiet hostility in a conversation.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "1"
+        },
+        {
+          "label": "Requirements",
+          "value": "Empathy 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Kinetic Flow",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You seize the rhythm of movement across a scene, redirecting momentum through bodies, weapons, debris, and terrain. Use this to turn enemy motion against them, accelerate allies, collapse a charge, or chain movement into a decisive shift.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "45"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Motion Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Kinetic Lance",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You compress raw force into a narrow piercing impact against one target or point. It sacrifices area for exceptional direct pressure and can punch through weak barriers.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Force Arcana 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Kingbane Venom",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You shape an exceptionally potent single-target toxin keyed to a creature type, physiology, or known vulnerability. It remains resistible and dangerous to handle, but can threaten foes ordinary poison cannot affect.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "70"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Poison Arcana 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Kingbreaker Bolt",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You make one prepared bolt decide a battlefield problem: sever a rope, drop a rider, interrupt a ritual hand, break a mechanism, or strike a legendary weak point. The shot creates a decisive tactical consequence beyond damage.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "80"
+        },
+        {
+          "label": "Cooldown",
+          "value": "11"
+        },
+        {
+          "label": "Requirements",
+          "value": "Crossbows 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Kingdom Heartbeat Drive",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You sync courage, mana, and motion into a bright battle rhythm that carries allies forward. Use this to launch a team push, protect someone while attacking, turn defense into offense, or make a heroic action feel larger than one person.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Leadership 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Kitchen Heartbeat",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You keep heat, timing, portions, and morale moving together. Use this to prepare simple food, stretch supplies, prevent waste, or turn a rough meal into comfort.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "1"
+        },
+        {
+          "label": "Requirements",
+          "value": "Brewing 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Knife-Storm Web",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You become a storm of close angles, cutting straps, nerves, weapons, and escape routes before enemies understand the pattern. Can dismantle several nearby defenses without needing to kill every target.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "60"
+        },
+        {
+          "label": "Cooldown",
+          "value": "11"
+        },
+        {
+          "label": "Requirements",
+          "value": "Light Blades 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Knot of Reversal",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Tie one looming consequence to a different plausible condition before it resolves, so the pattern can turn if that condition is fulfilled. The Wyrd must have a real narrative connection between the events; this cannot freely rewrite fate or erase consequences already completed.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "55"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Wyrd Arcana Mastery 1, Wyrd Arcana 60"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Labyrinth Read",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You read a dungeon, ruin, vault, or sealed structure as a designed killing field rather than a series of rooms. Use this to identify the safest route, predict hidden chambers, avoid layered threats, or guide allies through complex interior danger.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Searching 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Lancing Flame",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You compress fire into a narrow sustained line meant to burn through one defended point. It can pierce cover, cut a hot channel, or concentrate on a major target rather than spreading across the scene.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Fire Arcana 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Land's Provision",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You read an entire landscape as a supply system, identifying seasonal water, forage, medicines, fuel, shelter material, and renewable sources well enough to sustain a large traveling group over an extended route. The land must genuinely contain enough resources to support the plan.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "55"
+        },
+        {
+          "label": "Cooldown",
+          "value": "10"
+        },
+        {
+          "label": "Requirements",
+          "value": "Natural Lore 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Lantern's Trace",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You awaken the Lantern within the Luporian medallion while deliberately examining a nearby person, object, or small area. The medallion draws your attention to one relevant physical trace, concealed detail, disturbance, or inconsistency that is genuinely present but could otherwise be overlooked, allowing you to notice it without revealing what caused it or what it means. It cannot create evidence, reveal thoughts or intentions, reconstruct past events, or answer a question when no relevant observable trace exists.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Relic Lore 101"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Last Line",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Hold a threatened line long enough for allies to retreat, recover, or finish a critical action. Prevents ordinary pressure from collapsing the defended position unless the opposition decisively overcomes you.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "65"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Shields 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Last Reserve",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You survive a dose, climate, wound stress, or deprivation that should incapacitate you, buying time for cure, shelter, or escape. Does not remove the harm, but keeps you standing.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "65"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Tolerance 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Last Stand",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You keep functioning when isolation, injury, overwhelming odds, or terrifying presence should make surrender feel inevitable. Use this to hold a critical position or complete one necessary action without becoming fearless or invulnerable.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "65"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Courage 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Last-Breath Intervention",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You enter a legendary healing focus where wounds, poison, shock, pulse, breath, and panic become solvable patterns. Use this to keep someone alive through impossible injury, stabilize multiple victims, or pull a patient back from the edge of death.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "70"
+        },
+        {
+          "label": "Cooldown",
+          "value": "11"
+        },
+        {
+          "label": "Requirements",
+          "value": "Medicine 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Last-Light Miracle",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You ignite a wide heroic force when a group is facing overwhelming danger, allowing allies to keep acting through fear, shock, and exhaustion for a decisive scene. It does not erase wounds or consequences afterward.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "58"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Heroic Arcana 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Law of the Mark",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You establish a powerful long-lived enchantment with explicit conditions, permissions, and failure clauses. It can govern a major object, chamber, threshold, warding system, or other prepared magical structure, but preparation and exact wording determine what the magic actually enforces.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "62"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Enchantment Arcana 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Law of the Room",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Make your command of status, manners, and social consequence feel like law inside a formal gathering. Forces even hostile elites to answer within the frame you set.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "80"
+        },
+        {
+          "label": "Cooldown",
+          "value": "10"
+        },
+        {
+          "label": "Requirements",
+          "value": "Etiquette 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Lawblade Clause",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You use law, custom, contract, or precedent as a weapon sharp enough to change the scene. Use this to halt an abuse of authority, expose a loophole, force negotiation, or protect someone through legal obligation.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Cultural Lore 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Layered Cover Story",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You build a false account from real details, plausible chronology, supporting habits, and prepared answers so it survives sustained questioning. It remains vulnerable to hard contradictory evidence or facts you could not have anticipated.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "42"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Deception 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Layered Ward",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Build a compact ward around one person, object, opening, or working space that is tuned against a specific incoming supernatural pressure. It can blunt or redirect that threat without becoming universal invulnerability.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Arcane Warder 1, Protection Arcana 30, Self-Discipline 30"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Leaping Strike",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You convert a jump into a strike, grab, vault, or escape angle instead of merely crossing distance. Lets vertical movement create an immediate tactical opening.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Jumping 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Legacy Before Pride",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You set aside personal offense long enough to protect the future of a house, bloodline, institution, or long-term plan. Use this to restrain a reckless noble, choose the practical concession, preserve reputation under pressure, or turn humiliation into strategic patience.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "4"
+        },
+        {
+          "label": "Requirements",
+          "value": "Heraldry 35, Self-Discipline 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Legal Argument",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Cite legal precedent, rights, or contractual obligations to gain advantage in a dispute, negotiation, or encounter with authority. Can halt or complicate actions taken against you or an ally.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "16"
+        },
+        {
+          "label": "Cooldown",
+          "value": "1"
+        },
+        {
+          "label": "Requirements",
+          "value": "Cultural Lore 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Legend in the Streets",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Turn repeated appearances, symbols, rumors, and rescues into a living urban legend. Makes the persona influence a whole district scene even before direct action begins.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "80"
+        },
+        {
+          "label": "Cooldown",
+          "value": "10"
+        },
+        {
+          "label": "Requirements",
+          "value": "Disguise 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Legend-Reforging",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You reconstruct a ruined masterwork from warped pieces, broken joins, surviving material, and knowledge of its original design, preserving as much of the maker’s intended function as the remains allow. It cannot recreate missing relic magic or irreplaceable material from nothing.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "70"
+        },
+        {
+          "label": "Cooldown",
+          "value": "11"
+        },
+        {
+          "label": "Requirements",
+          "value": "Smithing 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Leverage Pivot",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You reshape a negotiation around what the other side cannot afford to lose. Use this to win concessions, turn refusal into a counteroffer, split hostile interests, or make your proposal feel inevitable.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "4"
+        },
+        {
+          "label": "Requirements",
+          "value": "Bargaining 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Leverage Trade",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Turn a concession, supply shortage, or rival interest into bargaining pressure without open threat. Forces the other side to answer the practical value of your position.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Bargaining 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Life-Crown Restoration",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You guide healing into the deeper rhythm of life itself. Use this to restore severe wounds, purge a lingering harmful condition, recover lost function, or keep someone alive through an otherwise fatal crisis.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "55"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Healing Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Life-Saving Hands",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You turn panic into triage, choosing the exact action that keeps someone alive. Use this to stabilize severe wounds, manage shock, treat poison symptoms, or keep a dying person from slipping away.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Medicine 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Life-Saving Intervention",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Perform a desperate high-skill intervention at the edge of death using breath, pressure, medicine, or crisis judgment. Can pull a dying person back from immediate death if the injury is not beyond worldly treatment.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "65"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Medicine 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Lift Surge",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You set your feet, lock your breath, and commit your whole body to one heavy effort. Use this to lift, drag, shove, carry, force open, or brace against something physically demanding.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Might 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Lightglow",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You shape light into a controlled glow, glint, color, beam, or flare. Use this to illuminate darkness, mark a target, reveal reflective traces, signal across distance, dazzle briefly, or make hidden details easier to see.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Light Arcana 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Lightning Jolt",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You discharge an electrical pulse through air, metal, water, or touch. Use this to stun briefly, burn nerves, interrupt a fragile action, ignite conductive hazards, or punish lightly armored targets.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Lightning Arcana 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Limb Lock",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You dominate the body line of a dangerous foe through leverage, pain compliance, and brutal timing. Can shut down one limb, weapon arm, or escape route when close contact is established.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "65"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Brawling 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Limitbreak Engine",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You drive one chosen act of strength, movement, defense, or spell impact far beyond normal magical reinforcement. The effect is focused and immense, but backlash, exhaustion, and the original action limits still matter.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "72"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Power Arcana 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Lineage Caution",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Recognize when lineage, inheritance, adoption, legitimacy, or family-record matters are more dangerous than the public record suggests. Reveals when inheritance, adoption, legitimacy, or family records carry hidden danger.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Heraldry 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Linebreaker",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You turn every swing into battlefield demolition, breaking shields, hafts, gates, armor posture, and courage. Can collapse a defended line if you reach the point holding it together.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "60"
+        },
+        {
+          "label": "Cooldown",
+          "value": "11"
+        },
+        {
+          "label": "Requirements",
+          "value": "Axes 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Little Lie Rhythm",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You keep your voice, face, and timing steady through a controlled lie or omission. Use this to redirect a simple question, hide nerves, protect a secret, or maintain a false impression.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Deception 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Live Corridor",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Guide allies through a trapped space by calling steps, pauses, and safe positions. Lets a group cross a known hazard with reduced risk.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Traps 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Living Alias",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You inhabit a false identity so completely that records, witnesses, habits, and etiquette seem to agree. Can survive deep social scrutiny unless hard evidence or magic exposes the truth.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "70"
+        },
+        {
+          "label": "Cooldown",
+          "value": "10"
+        },
+        {
+          "label": "Requirements",
+          "value": "Disguise 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Living Archive",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Recall and organize vast learned material quickly enough to answer a crisis in motion. Produces the most relevant known fact, precedent, or warning when delay would matter.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "80"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Archival Research 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Living Armor",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You make worn metal flex and redistribute itself around impacts, gaps, and movement. It can reinforce several defended angles at once but depends on having suitable metal already present.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "38"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Metal Arcana 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Living Barrier",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You grow or shape plants and living wood into a barrier, bridge, shelter, brace, or shield. Use this to defend, climb, seal a path, reinforce terrain, or protect allies where growth can take root.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "24"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Wood Arcana 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Living Cover Story",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You adapt an established deception while new questions, witnesses, or evidence appear, changing secondary details without breaking the central identity or chronology. Use this to survive an investigation that is actively testing the story rather than merely hearing it.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "55"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Deception 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Living Echoes",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You command the lingering impressions of a place for one major scene, making old voices speak, past violence repeat symbolically, spell residue flare, or emotional memory become visible. Echoes are not perfect history.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "55"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Echo Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Living Layout",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You create a document whose visual order makes complex information immediately usable: maps, witness tables, ritual notes, genealogies, or coded ledgers. Turns confusing records into actionable structure.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "38"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Fine Script 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Living Loom",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You reshape a large quantity of available fiber into complex moving structures such as layered barriers, nets, bridges of cordage, restraints, suspended paths, reinforced sails, or shifting battlefield geometry. You may weave, unravel, tension, and redirect the material rapidly, but cannot create fiber that is not present.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "58"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Fiber Arcana 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Living Mana Core",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Your mana rises into a dominant, stable pressure that shapes the magical exchange around you. Use this to overpower resistance, stabilize impossible casting, resist suppression, or command a major contest of magic.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "70"
+        },
+        {
+          "label": "Cooldown",
+          "value": "11"
+        },
+        {
+          "label": "Requirements",
+          "value": "Self-Discipline 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Living Masquerade",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Maintain an adaptive illusion around one person, creature, or object that adjusts small details of appearance, sound, and movement as the scene changes. It can survive casual interaction better than a static disguise, but touch, contradiction, wards, and close scrutiny can expose it.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "55"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Illusion Arcana Mastery 1, Illusion Arcana 60"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Living Rumor Network",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You model several rumor streams across courts, markets, households, factions, and hidden networks at once, predicting how messages will mutate and where competing stories will collide. Use this to orchestrate a large information campaign whose outcome still depends on credibility and local interests.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "55"
+        },
+        {
+          "label": "Cooldown",
+          "value": "10"
+        },
+        {
+          "label": "Requirements",
+          "value": "Social Inquiry 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Living Scaffold",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Drive nearby wood and viable plant growth into a temporary load-bearing structure such as a bridge, platform, brace, ladder, shelter, or elevated path. The result follows available material and living structure rather than becoming impossible architecture.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Wood Arcana Mastery 1, Wood Arcana 60"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Living Shade",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Make your shadow act as a false tell, lure, or momentary distraction while you move elsewhere. Creates a strong misdirection against ordinary senses.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "65"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Shadow Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Living Temper",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Combine metal shaping magic with forging judgement to bend, reinforce, or correct an existing metal piece in the field without treating raw ore as a finished weapon. The effect remains limited by mass, quality, and access.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Metalwright 1, Metal Arcana 30, Smithing 30"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Living Theorem",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Solve a magical crisis in motion by turning theory into action without waiting for perfect conditions. Enables one extraordinary arcane intervention if the scene gives enough clues and materials.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "80"
+        },
+        {
+          "label": "Cooldown",
+          "value": "10"
+        },
+        {
+          "label": "Requirements",
+          "value": "Arcane Lore 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Living Thread",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You manipulate a small amount of nearby thread, cloth, rope, or similar fiber, making it pull, curl, knot, loosen, stitch, wrap, or move with deliberate precision. The material must already exist and remains limited by its own strength and quantity.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "1"
+        },
+        {
+          "label": "Requirements",
+          "value": "Fiber Arcana 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Living Trail Map",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Read an entire local landscape as a living map of movement, fear, and habit. Determines the most likely route, hiding place, or interception point for a quarry in the region.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "80"
+        },
+        {
+          "label": "Cooldown",
+          "value": "10"
+        },
+        {
+          "label": "Requirements",
+          "value": "Tracking 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Load Logic",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Read stress, leverage, hinges, pulleys, and weak points in a structure or device. Reveals how to brace, break, move, or safely use it.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "25"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Engineering 25"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Lock Whisper",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You feel the first honest answer of a lock: cheap pins, stiff wards, false resistance, or a damaged catch. Reveals whether the lock can be opened quickly, needs tools, or hides danger.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Lock Picking 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Lodestone Field",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You create a localized field of attraction and repulsion around metal objects, armor, weapons, or magnetic terrain. Use this to disarm, pin, redirect projectiles, slow armored foes, pull debris into cover, or make a battlefield dangerous.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "24"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Magnetism Arcana 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Long Chase",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You pace breath, stride, and pain so a chase becomes endurance rather than panic. Lets you keep pursuit or escape going after others would falter.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Running 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Long Pull",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You match current, crew timing, and hull weight to make a hard crossing without exhausting everyone. Improves group movement over water and reduces immediate fatigue.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "16"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Rowing 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Loremaster Synthesis",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Join history, language, ritual, politics, and geography into a single clear answer. Reveals a major context connection that ordinary research would miss.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "65"
+        },
+        {
+          "label": "Cooldown",
+          "value": "4"
+        },
+        {
+          "label": "Requirements",
+          "value": "Archival Research 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Lost Song Reconstruction",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You rebuild an ancient or fragmented musical work from scattered motifs, damaged notation, oral variants, and cultural clues, revealing its likely intended form without inventing missing evidence.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "70"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Musical Lore 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Lunar Change",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You draw on moon-phase magic to alter instinct, body rhythm, tide, dream, or hidden nature for a short scene. Use this to strengthen night movement, awaken beastlike senses, reveal a concealed form, control a small tide, or expose transformation pressure.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Moon Arcana 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Magebreaker Pursuit",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You move through hostile magic as though cutting through a storm, turning each step into pressure against the caster. Use this to close on a powerful mage, slip through spellfire, interrupt casting, or punish magical recovery.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "55"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Acrobatics 65, Arcane Lore 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Magebreaker Waltz",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You move through spell pressure with perfect timing, turning each dodge or step into a threat against the caster. Use this to close on a mage, slip through magical attacks, interrupt casting, or punish spell recovery.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "42"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Acrobatics 50, Arcane Lore 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Magic Shield",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You shape a personal barrier against force, spell impact, hostile weather, or incoming harm. Use this to reduce one attack, block a hazard, or protect someone close enough to cover.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Protection Arcana 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Magnetic Tug",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You create a short pull or push between metal, lodestone, armor, weapons, or magnetic surfaces. Use this to tug a weapon off-line, pull a small metal item into hand, disturb armor balance, find hidden metal, or anchor yourself briefly.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Magnetism Arcana 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Make Them Volunteer",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Steer a target toward supplying assumptions, details, or justifications that strengthen the story you want them to believe, reducing how much you must directly invent. Evidence and suspicion can still unravel the confidence.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Confidence Artist 1, Deception 30, Persuasion 30"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Make the Cost Visible",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Demonstrate one credible consequence of continued resistance in a controlled way, sharpening pressure without immediately escalating to violence. The target may still refuse, flee, call help, or retaliate.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Intimidation Mastery 1, Intimidation 60"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Maker's Answer",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You open a legendary lock as a conversation with its maker, understanding intent, trick, and weakness together. Can bypass an extraordinary mundane lock while leaving no obvious damage or forced-entry sign.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "80"
+        },
+        {
+          "label": "Cooldown",
+          "value": "10"
+        },
+        {
+          "label": "Requirements",
+          "value": "Lock Picking 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Mana Burst Guard",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You release a quick burst of mana through your body or focus to soften incoming force. Use this to resist magical pressure, reduce backlash, reinforce a guard, or survive a sudden spell impact.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "16"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Self-Discipline 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Mana Candle",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You compress your mana into a small, steady inner flame before releasing it. Use this to stabilize a basic spell, prevent minor magical backlash, or carefully control a low-Power magical effect.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Self-Discipline 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Mana Command",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Your mana rises into a controlled aura that stabilizes, empowers, and pressures everything around your next spell. Use this to overpower resistance, hold a difficult spell together, resist suppression, or dominate a magical exchange.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "45"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Self-Discipline 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Mana Pressure",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You raise your mana into a visible crown of pressure that strengthens the next magical action. Use this to empower a spell, resist magical suppression, intimidate magically sensitive foes, or force unstable mana into obedience.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "4"
+        },
+        {
+          "label": "Requirements",
+          "value": "Self-Discipline 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Mana-Edged Wake",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You drag mana behind a weapon or physical strike, leaving a short-lived arc of force. Use this to extend a melee attack's reach, strike a target just beyond normal range, or let a physical move carry magical pressure.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "4"
+        },
+        {
+          "label": "Requirements",
+          "value": "Arcane Lore 35, Self-Discipline 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Map the Real Allegiances",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Separate formal hierarchy from practical loyalty in one faction scene, identifying who is likely to follow whom if pressure rises. It gives a political map, not hidden thoughts or guaranteed betrayal.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Faction Lore Mastery 1, Faction Lore 60"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Map the Unmapped",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Produce a reliable working map from partial sightings, bearings, travel times, landmarks, and terrain logic, including the most likely shape of an unseen connection. Unknown ground remains an inference until explored.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Master Cartographer 1, Cartography 30, Navigation 30"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Maritime Law Recall",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Cite river law, guest-right, harbor custom, salvage precedent, convoy rules, or port obligation to settle disputes or corner liars. Uses port custom, salvage precedent, or river law to settle disputes or corner liars.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "20"
+        },
+        {
+          "label": "Cooldown",
+          "value": "1"
+        },
+        {
+          "label": "Requirements",
+          "value": "Cultural Lore 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Marked Quarry",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Mark one creature, group, or trail through tracks, scent, behavior, or visible signs. Maintains pursuit through ordinary terrain changes.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Tracking 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Market Ear",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You catch useful fragments from prices, complaints, rumors, and casual bargaining. Use this to gather minor information in markets, taverns, shops, docks, inns, or busy streets.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Social Inquiry 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Market Pressure",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Use access to buyers, sellers, introductions, credit, route permission, or local cooperation to apply economic pressure without open confrontation. Applies economic leverage through access, introductions, credit, or route permission.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "4"
+        },
+        {
+          "label": "Requirements",
+          "value": "Bargaining 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Market Pressure Read",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You judge how scarcity, season, transport risk, politics, fashion, and buyer urgency are changing the practical value of a good in the current market.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "42"
+        },
+        {
+          "label": "Cooldown",
+          "value": "4"
+        },
+        {
+          "label": "Requirements",
+          "value": "Appraisal 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Market Web",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Use buyers, sellers, credit, favors, and transport to make one local market shift in your favor. Creates practical access or scarcity where social conditions allow it.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Bargaining 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Marketmaker's Turn",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You combine scarcity, timing, leverage, supply, demand, and the interests of several traders into a deal that changes who controls the exchange. Use this to secure rare goods, expose manipulation, or redirect a major transaction without creating wealth from nothing.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "55"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Appraisal 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Marriage-Table Calculation",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Evaluate alliances, dowries, courtship signals, family risks, inheritance concerns, and long-term consequences in marriage politics. Reveals alliance risks and political leverage in marriage or inheritance negotiations.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Heraldry 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Marrow Ward",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You place a protective structural resonance around yourself or a willing creature, reducing the risk of fractures, crushing injury, and forced deformation. You may also reinforce an existing splint or harden shaped bone into protective material. The ward protects living structure but cannot be used to deform it or control its movement.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "40"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Bone Arcana 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Martyr Shield",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Accept danger onto yourself to keep another person, oath, relic, or sacred duty from being broken. Redirects one severe consequence toward you if the sacrifice is credible.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "65"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Faith 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Mask Set",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You settle into a role through posture, clothing, voice, and expectation. Use this to support a disguise, pass a brief inspection, or make a false identity feel believable.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "1"
+        },
+        {
+          "label": "Requirements",
+          "value": "Disguise 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Maskbreak Insight",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You catch the moment someone's mask slips and use it before they recover. Use this to reveal hidden fear, desire, guilt, divided loyalty, false confidence, or emotional leverage in a social scene.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Empathy 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Masked Entrance",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Arrive in a scene with identity, rumor, and appearance arranged for maximum impact. Shifts attention onto the persona rather than the person beneath it.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Disguise 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Master Key",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You reconstruct the logic of an exceptionally difficult human-made cipher from fragments, repeated traffic, and mistakes, producing a working key if enough evidence actually exists.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "75"
+        },
+        {
+          "label": "Cooldown",
+          "value": "10"
+        },
+        {
+          "label": "Requirements",
+          "value": "Cryptography 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Master Palate",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You reconstruct much of a complex recipe, vintage, preparation method, or contamination history from a tiny safe sample, provided the relevant substances actually leave sensory evidence.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "62"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Tasting 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Measure Feint",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You open with a testing feint that makes the opponent reveal guard, temper, or preferred rhythm. Creates a clear read for the next exchange rather than simply improving an attack.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Dueling 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Measured Endurance",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You pace breath, movement, and intake to endure a harmful environment or substance without collapsing at once. Reduces the first worsening of fatigue, intoxication, or exposure.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "20"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Tolerance 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Measured Intervention",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "De-escalate a tense encounter while keeping tactical advantage through calm commands, positioning, and credible force. Reduces escalation while preserving tactical and social advantage.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "20"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Persuasion 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Mechanism Bypass",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You identify a nonmagical machine critical dependency and create a controlled bypass, shutdown, or temporary substitute without rebuilding the whole system.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "42"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Engineering 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Mechanism Unmade",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Take apart a complex trap under pressure by reading the whole mechanism as one intent. Disarms or neutralizes a major mundane trap if physical access exists.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "65"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Traps 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Melt Away",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Move to a concealed position or reduce your visible presence sharply without drawing attention. Most effective when you already have some cover.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "16"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Stealth 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Memory Palace",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You organize, clarify, and preserve a large body of memories in yourself or a willing target for one major scene, bringing fragmented recollection into usable order, separating damaged or false traces from clearer ones, or protecting an important experience from confusion. It cannot create memories that were never formed or force access against an unwilling person.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "55"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Memory Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Memory Stitch",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You help a damaged, frightened, altered, or fragmented memory in yourself or a willing target reconnect enough to be understood. Use this to restore partial recollection, resist memory manipulation, preserve testimony, or establish a clear reminder without creating memories that were never formed.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Memory Arcana 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Memory Vault",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You seal a coherent set of memories behind a deliberate mnemonic key in yourself or a willing target. The memories remain present but difficult to access without the key.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "42"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Memory Arcana 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Mend Fracture",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You align and accelerate repair of broken bone, torn muscle, deep laceration, or damaged function. It can turn a crippling wound into a survivable injury, but it does not erase blood loss, exhaustion, or missing tissue.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "46"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Healing Arcana 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Mercy With Teeth",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Protect a patient, penitent, dependent, refugee, or vulnerable witness by invoking duty, sanctuary, care, law, or moral authority. Protects a vulnerable person through duty, sanctuary, care, law, or moral authority.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Religious Lore 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Metal Sense",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You feel the weight, shape, stress, purity, temperature, and resonance of nearby metal. Use this to detect hidden metal, judge forged quality, sense weak points in armor or locks, identify alloys, or notice enchanted metalwork before touching it.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Metal Arcana 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Meteor Needle",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You condense cold stellar force into one narrow descending or line-of-sight strike. It is precise enough to target a marked point rather than scattering a whole area.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Star Arcana 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Meteor Volley Line",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You turn ranged pressure into a controlled rain of shots that shapes enemy movement. Use this to pin a group, cover allies, punish a charge, or force enemies out of position.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Bows 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Minor Binding",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You place a simple temporary enchantment on an object, doorway, tool, weapon, or warded spot. Use this to strengthen, lock, resist picking, hold an edge, preserve a function, or make an object answer one clear instruction.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Enchantment Arcana 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Minor Illusion",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You create a simple visual, sound, scent, or brief sensory falsehood at short range. Use this to distract, hide a small action, mislead a casual observer, or create an image that fails under close inspection or touch.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Illusion Arcana 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Minor Summon",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You call a small elemental construct, spirit-servant, familiar echo, or bound force for one brief purpose. Use this to scout, carry, distract, fetch, guard, or perform a simple task.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Conjuration Arcana 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Miracle of Practice",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Bring every lesson, failure, and instinct to bear on a patient everyone else thinks lost. Can preserve life through an extreme mundane medical crisis if any plausible chance remains.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "80"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Medicine 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Mirror Army",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You create many moving false copies of one or several people across a scene. The doubles confuse targeting and formation reads but cannot independently cause real physical effects.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "44"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Illusion Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Mirror Exchange",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You swap the apparent position of yourself and one prepared reflection or mirror-double for a brief moment. It creates a sudden positional deception rather than true long-range teleportation.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "42"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Mirror Arcana 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Mirror Image",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You create a speaking, moving reflection-double through a mirror, water surface, polished metal, or other reflective plane. The image has no true body and breaks under touch, disruption, or careful inspection.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "30"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Mirror Arcana 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Mirror Self",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You step through one prepared or attuned reflective surface and emerge from another. Both surfaces must be known, stable, and large enough to matter, and mirror wards can trap or distort the passage.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "55"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Mirror Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Mirror Window",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You turn a reflective surface into a viewing window connected to another known, seen, or attuned reflection. Wards, darkness, broken surfaces, and unfamiliar mirrors limit the view.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Mirror Arcana 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Mirror-Glass Screen",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You spread glass into angled transparent plates that distort sight and catch attacks from several directions. Strong impacts can shatter the screen into hazardous fragments.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "38"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Glass Arcana 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Misfortune Thread",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You attach a fragile unlucky pattern to one target so small errors, bad footing, mistimed choices, or weak equipment are more likely to matter. Strong preparation and Fate resistance can break the thread.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "40"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Fate Arcana 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Mist Mantle",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You turn nearby water into a moving defensive haze around a group, softening heat, obscuring aim, and feeding controlled currents. It is broad protection rather than a precise attack.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "42"
+        },
+        {
+          "label": "Cooldown",
+          "value": "8"
+        },
+        {
+          "label": "Requirements",
+          "value": "Water Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Mnemonic Archive",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You organize a vast body of memories into an accessible internal archive, allowing rapid cross-reference of experiences, names, places, and details. False or corrupted memories remain false rather than becoming truth.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "58"
+        },
+        {
+          "label": "Cooldown",
+          "value": "11"
+        },
+        {
+          "label": "Requirements",
+          "value": "Memory Arcana 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Mnemonic Glimpse",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You touch a recent memory trace in yourself, a willing target, or an attuned object and bring one blurred detail into sharper focus. It cannot create a memory that was never formed.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "1"
+        },
+        {
+          "label": "Requirements",
+          "value": "Memory Arcana 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Moment of History",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You turn a major public performance, declaration, rite, or appearance into a shared moment that thousands can understand and remember, coordinating message, timing, symbolism, and audience response. It can define how an event is perceived without controlling every witness.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "55"
+        },
+        {
+          "label": "Cooldown",
+          "value": "11"
+        },
+        {
+          "label": "Requirements",
+          "value": "Performance 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Momentum Catch",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You seize a small amount of existing motion and redirect or bleed it away. Use this to soften a fall, spoil a thrown object, steady a stumble, or help a moving object turn.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "20"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Motion Arcana 20"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Momentum Step",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You gather movement into a sudden controlled burst, turning a step, dodge, leap, swing, or fall into sharper motion. Use this to cross distance, evade danger, redirect a charge, add force to a strike, or keep moving through difficult terrain.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "24"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Motion Arcana 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Momentum Turn",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You redirect momentum from a fall, throw, or impact into a landing, swing, or counter-move. Lets you survive dangerous movement and keep acting instead of ending prone.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "50"
+        },
+        {
+          "label": "Cooldown",
+          "value": "6"
+        },
+        {
+          "label": "Requirements",
+          "value": "Acrobatics 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Moonfall Counter",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You wait until the enemy's strongest motion commits, then answer with a crushing reversal. Use this after surviving, dodging, blocking, or reading a major attack to turn the enemy's force against them.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "42"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Dueling 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Moonlit Veil",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You call silver moonlight, night-shadow, tidal instinct, or hidden reflection around a person or place. Use this to reveal concealed emotion, hide movement in darkness, calm beasts, mark a shapeshifter, or sense what changes under night.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Moon Arcana 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Moonstep",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You move through dim moonlit space with uncanny grace, crossing a short visible route while becoming difficult to track or intercept. It is swift movement, not teleportation.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "42"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Moon Arcana 50"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Moonwake",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You fill the scene with mythic moon pressure: silver revelation, transformation, tide-pull, night instinct, and hidden truths rising. The effect is strongest under night, moonlight, dreams, or emotional tides.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "45"
+        },
+        {
+          "label": "Cooldown",
+          "value": "12"
+        },
+        {
+          "label": "Requirements",
+          "value": "Moon Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Motif Recall",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You recognize a melody, rhythm, instrument tradition, or recurring motif and recall where it is commonly used or what social context it belongs to.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "0"
+        },
+        {
+          "label": "Requirements",
+          "value": "Musical Lore 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Motion Catch",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You follow fast movement through clutter and keep track of the true body, hand, projectile, or opening when ordinary observers would lose it.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "32"
+        },
+        {
+          "label": "Cooldown",
+          "value": "3"
+        },
+        {
+          "label": "Requirements",
+          "value": "Seeing 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Motion Nudge",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You alter a small movement already in progress, slightly speeding, slowing, tilting, or redirecting it. Use this to improve balance, make a thrown object drift, spoil an enemy aim, soften a stumble, or add snap to a quick action.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "10"
+        },
+        {
+          "label": "Cooldown",
+          "value": "2"
+        },
+        {
+          "label": "Requirements",
+          "value": "Motion Arcana 10"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Mountain Skin",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You harden body and stance with Titan endurance across a demanding scene, reducing the effect of crushing force, heavy impacts, and impossible weight while still allowing injury.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "48"
+        },
+        {
+          "label": "Cooldown",
+          "value": "9"
+        },
+        {
+          "label": "Requirements",
+          "value": "Titan Arcana 65"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Mountain Stance",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You become almost impossible to move, knock down, frighten, or force aside. Use this to hold a doorway, stop a charge, brace a collapsing structure, shield allies, or endure a blow that should break your footing.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "24"
+        },
+        {
+          "label": "Cooldown",
+          "value": "7"
+        },
+        {
+          "label": "Requirements",
+          "value": "Titan Arcana 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Mountain-Mover",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "You turn strength, leverage, and impossible timing into a force that changes terrain and bodies alike. Use this to hurl massive enemies, break barriers, stop monstrous charges, move impossible weight, or weaponize the environment.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "70"
+        },
+        {
+          "label": "Cooldown",
+          "value": "11"
+        },
+        {
+          "label": "Requirements",
+          "value": "Might 80"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Mounted Guard",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Use mount movement, shield angle, and body position to protect a nearby ally while riding. Redirects pressure away from a vulnerable target during mounted movement.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "35"
+        },
+        {
+          "label": "Cooldown",
+          "value": "5"
+        },
+        {
+          "label": "Requirements",
+          "value": "Riding 35"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Mythic Claim",
+      "group": "I–M",
+      "kind": "Ability",
+      "summary": "Understand the story, authority, and symbolic demand a legendary relic places on its bearer. Allows a worthy interaction with the relic without being immediately overwhelmed by its legacy.",
+      "facts": [
+        {
+          "label": "Bonus",
+          "value": "80"
+        },
+        {
+          "label": "Cooldown",
+          "value": "10"
+        },
+        {
+          "label": "Requirements",
+          "value": "Relic Lore 80"
+        }
+      ],
+      "spoiler": false
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 ---
 id: cloudspire-dominion
 title: The Cloudspire Dominion
-category: Realms
+category: Countries
 knowledge: regional
 status: canon
 ---

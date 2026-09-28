@@ -1,0 +1,1812 @@
+{
+  "realm": "Arkenfell",
+  "entries": [
+    {
+      "name": "Axes",
+      "group": "Combat",
+      "kind": "Fighting skill",
+      "summary": "Attribute: Fighting\nCombat with axe-type weapons: hand axes, battle axes, greataxes, and dual axes. Governs power strikes and cleave technique.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Fighting"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Bludgeons",
+      "group": "Combat",
+      "kind": "Fighting skill",
+      "summary": "Attribute: Fighting\nCombat with blunt weapons: maces, hammers, clubs, flails, and morning stars. Governs crushing force and concussive strikes.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Fighting"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Bows",
+      "group": "Combat",
+      "kind": "Accuracy skill",
+      "summary": "Attribute: Accuracy\nUse of bow weapons: shortbows, hunting bows, recurve bows, composite bows, compound bows, longbows, and war bows. Governs draw, aim, release, range judgement, and rhythm at range.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Accuracy"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Brawling",
+      "group": "Combat",
+      "kind": "Accuracy skill",
+      "summary": "Attribute: Accuracy\nUnarmed combat: punches, kicks, headbutts, and improvised strikes. Includes knuckle weapons and similar.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Accuracy"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Crossbows",
+      "group": "Combat",
+      "kind": "Accuracy skill",
+      "summary": "Attribute: Accuracy\nUse of crossbows: hand crossbow, light crossbow, hunting crossbow, standard crossbow, repeating crossbow, heavy crossbow, and arbalest. Governs aim, timing, bracing, reload discipline, specialized bolts, and prepared shots at range.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Accuracy"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dueling",
+      "group": "Combat",
+      "kind": "Accuracy skill",
+      "summary": "Attribute: Accuracy\nCombat with weapons assigned to the Dueling weapon family, emphasizing precision, measure, point control, feints, parries, and ripostes. It applies whenever a Dueling-family weapon is used in combat, not only in formal or one-on-one duels. Use the weapon's established family rather than treating it as Light Blades simply because it is light or one-handed.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Accuracy"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Heavy Blades",
+      "group": "Combat",
+      "kind": "Fighting skill",
+      "summary": "Attribute: Fighting\nCombat with large cutting blades: longswords, bastard swords, claymores, greatswords, odachi, tachi, sword whips, and similar heavy one- or two-handed blades. Governs reach, leverage, edge alignment, and decisive cuts.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Fighting"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Lances",
+      "group": "Combat",
+      "kind": "Fighting skill",
+      "summary": "Attribute: Fighting\nCombat with lances and lance-style weapons, primarily from horseback. Governs mounted charges and couched lance technique.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Fighting"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Light Blades",
+      "group": "Combat",
+      "kind": "Accuracy skill",
+      "summary": "Attribute: Accuracy\nOne-handed light cutting and thrusting weapons: daggers, dirks, stilettos, hunting knives, short swords, kodachi, and paired daggers. Governs fast close attacks, precision, and off-hand blade work.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Accuracy"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Polearms",
+      "group": "Combat",
+      "kind": "Fighting skill",
+      "summary": "Attribute: Fighting\nCombat with pole-mounted blade weapons: halberds, glaives, fauchards, bardiches, partisans, billhooks, scythes, and similar reach weapons. Governs reach control, hooks, sweeps, and keeping enemies at distance.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Fighting"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Shields",
+      "group": "Combat",
+      "kind": "Fighting skill",
+      "summary": "Attribute: Fighting\nActive shield use in combat: blocking, bashing, positioning, and cover. Distinct from simply carrying a shield.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Fighting"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Slings",
+      "group": "Combat",
+      "kind": "Accuracy skill",
+      "summary": "Attribute: Accuracy\nUse of slings and similar projectile devices for stone or shot. Uncommonly skilled but inexpensive and effective.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Accuracy"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Spears",
+      "group": "Combat",
+      "kind": "Fighting skill",
+      "summary": "Attribute: Fighting\nCombat with thrusting spear weapons: short spears, long spears, boar spears, winged spears, pikes, tridents, and similar point-forward pole weapons. Governs formation reach, bracing, thrusts, and point control.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Fighting"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Staff Fighting",
+      "group": "Combat",
+      "kind": "Accuracy skill",
+      "summary": "Attribute: Accuracy\nCombat use of staff weapons: quarterstaffs, bo staves, battle staves, mage staves used as weapons, and similar two-handed shaft weapons. Governs control, sweeps, blocks, leverage, and striking rhythm. Do not use this skill for casting spells through a staff.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Accuracy"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Thrown Weapons",
+      "group": "Combat",
+      "kind": "Accuracy skill",
+      "summary": "Attribute: Accuracy\nUse of thrown weapons and effect-delivery projectiles: throwing knives, axes, javelins, darts, chakrams, shuriken, kunai, alchemical flasks, and similar ranged hand-thrown weapons. Governs aim, timing, spin, range judgement, quick draw, and target selection.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Accuracy"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Abyss Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nRarity: Legendary\nMagic of bottomless depth, crushing pressure, devouring darkness, deep silence, descent, isolation, and the terror of an immeasurable below. Abyss Arcana manifests those qualities together as abyssal force: dragging, smothering, suppressing, separating, and overwhelming through supernatural depth. It does not grant unrestricted Shadow, Gravity, Air, or other Arcana simply because abyssal manifestations can resemble darkness, pull, pressure, or suffocation.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Acid Arcana",
+      "group": "Magic",
+      "kind": "Constitution skill",
+      "summary": "Attribute: Constitution\nManipulates acid, corrosion, caustic liquid, etching, dissolving reactions, and controlled material breakdown. Governs chemical burns, weakening armor, dissolving locks, damaging organic or mineral matter, and dangerous alchemical reactions. Distinct from Poison Arcana, which works through toxins inside living bodies.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Constitution"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Aegis Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nRarity: Legendary\nMagic of supreme protection, guardian force, interposition, last stands, refusal of catastrophic harm, and the boundary between disaster and survival. Aegis Arcana excels at sheltering, holding, intercepting, anchoring, and preserving under extreme threat. Its protection is legendary but not effortless invulnerability: strength of effect still depends on the action, success, opposition, and circumstances.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Air Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nManipulates air, wind, breath, pressure, and atmospheric movement. Governs windblasts, suffocation risk, air cushioning, flight assistance, redirected projectiles, and pressure shifts.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Beast Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nMagically interacts with animals, beast instincts, animal communication, command, bonding, and partial beast-like transformation. Use Beast Arcana only for magical animal interaction, magical beast speech, supernatural bonding, magical command, or transformation; ordinary animal care and control uses Animal Handling.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Blood Arcana",
+      "group": "Magic",
+      "kind": "Constitution skill",
+      "summary": "Attribute: Constitution\nRarity: Rare\nMagic of blood, vitality, injury, lineage signs, sacrifice, life-force tension, and the dangerous boundary between healing and harm. Blood Arcana is potent, intimate, physically costly, and widely restricted.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Constitution"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Bone Arcana",
+      "group": "Magic",
+      "kind": "Constitution skill",
+      "summary": "Attribute: Constitution\nRarity: Rare\nManipulates bone and fossil material, skeletal constructs, structural alignment, protective reinforcement, and non-invasive recognition of fractures or strain. Distinct from Death Arcana because it works through physical structure and preserved material rather than death-state energy. It does not forcibly reshape or control the skeleton of a living creature.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Constitution"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cold Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nManipulates cold, ice, freezing, temperature reduction, frost formation, slowing effects, preservation, and crystalline barriers. Often called ice magic by commoners, but formally known as Cold Arcana.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Conjuration Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nSummons, calls, binds, or manifests entities, servants, familiars, temporary constructs, and other defined presences through magical conduits. Conjuration governs bringing and maintaining the summoned presence rather than granting unrestricted control over whatever substance or power that presence embodies. A summoned creature or construct may have its own capabilities, but Conjuration Arcana does not by itself reproduce another Arcana's independent domain control.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Crystal Arcana",
+      "group": "Magic",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nRarity: Rare\nManipulates crystal, gems, facets, hard growth, refracted light, resonance, stored energy, and brittle structures that hold force until they fracture. Crystals can serve as lenses, anchors, or magical reservoirs.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Death Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nInteracts with death-state energy, dying thresholds, the recently dead, life-force drain, corpse animation, and the boundary between living and dead. It governs necromantic effects rooted in death itself. Use Soul Arcana for direct manipulation of living essence or identity, Spirit Arcana for independent spirits and hauntings, Healing Arcana for restoring ordinary bodily harm, and Bone Arcana for physical bone shaping.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Divination Arcana",
+      "group": "Magic",
+      "kind": "Perception skill",
+      "summary": "Attribute: Perception\nReads hidden information through magical detection, omen-reading, scrying, trace interpretation, distant perception, and signs beyond normal senses. Use Divination Arcana only when the character actively uses magic to reveal hidden information, detect traces, read omens, scry, or perceive beyond normal senses; mundane room searches use Searching or Seeing.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Perception"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dragon Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nRarity: Legendary\nAncient draconic magic expressed through a stable Draconic Type and Nature. Dragon Arcana governs distinctly draconic manifestations such as breath, scales, claws and fangs, bodily reinforcement, resistance, movement, senses, partial transformation, and draconic presence. Its Nature determines the tangible substance or directly observable natural phenomenon those manifestations express, but does not grant unrestricted control over that substance or phenomenon as an independent magical domain. On lower successes, manifestations are limited, brief, or narrowly effective; stronger successes increase force, scale, endurance, precision, or completeness of the draconic expression while remaining within the established Type and Nature.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dream Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nRarity: Rare\nInteracts with dreams, symbols, sleep-thresholds, omens, shared visions, half-remembered places, and the structure of magical dream-spaces. Its controlled effects are limited to dream-space imagery, communication, protection, and structure.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Earth Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nManipulates earth, stone, soil, ground pressure, barriers, tremors, and underground structure. Governs stone shaping, earthworks, seismic effects, stability, and terrain control. Earth Arcana does not grant general control over worked metal or crystal and gems simply because they originated in the ground; use Metal Arcana or Crystal Arcana for those established domains.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Echo Arcana",
+      "group": "Magic",
+      "kind": "Perception skill",
+      "summary": "Attribute: Perception\nRarity: Rare\nReads and shapes lingering impressions left by events, emotions, voices, spells, wounds, deaths, or powerful presences. Echoes reveal what remains after something happened, but they are partial, symbolic, distorted, or emotionally charged rather than perfect records.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Perception"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Enchantment Arcana",
+      "group": "Magic",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nPlaces persistent magical effects on objects, locations, thresholds, and willing bearers. Governs imbuing enduring magical properties, conditions, permissions, reactive effects, and item enchantments designed to continue after the initial casting. Enchantment Arcana governs persistence and imbuement; Rune Arcana governs magic expressed through physical inscriptions, while Seal Arcana governs containment, suppression, closure, and ward-locking.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fate Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nRarity: Legendary\nMagic of destiny, omen, blessing, curse, fortunate timing, unlucky collapse, and paths that seem ready to happen. Fate Arcana does not guarantee outcomes; it reveals turning points, bends likelihood, and makes choices feel weighted by consequence.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fiber Arcana",
+      "group": "Magic",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nMagically manipulates nonliving fibers, textiles, and cordage such as thread, yarn, cloth, rope, wool, linen, hemp, silk, felt, canvas, and similar materials. Governs sensing, moving, tightening, loosening, knotting, braiding, weaving, unraveling, reinforcing, weakening, and reshaping existing fibers. It does not create material from nothing, control living plants or bodies, or replace Handcrafting and other mundane textile or fabrication work.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fire Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nGenerates and controls fire, heat, combustion, flame shape, burning intensity, and temperature amplification. Governs ignition, sustained burning, battlefield shock, forging heat, and fire hazards.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Force Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nRarity: Rare\nManipulates raw push, impact, pressure, resistance, kinetic release, invisible blows, and the direct transfer of applied force through bodies or objects. Force Arcana creates or directs force itself. Distinct from Power Arcana, which amplifies an action already being performed, and Motion Arcana, which changes the movement, speed, momentum, or trajectory of an existing body or object.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Glass Arcana",
+      "group": "Magic",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nRarity: Rare\nManipulates glass, brittle transparency, cutting edges, lenses, reflection, refraction, fragile barriers, and glass-like magical structures. Distinct from Crystal Arcana because glass is worked, fragile, transparent, and unstable rather than mineral-rooted.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Gravity Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nRarity: Rare\nManipulates weight, falling, pressure, pull, crushing force, balance, and the rule that tells bodies where down should be. Gravity Arcana is conspicuous, disorienting, and difficult to conceal.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Healing Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nRestores physical harm through magical wound closure, illness treatment, toxin removal, stabilization, pain reduction, and accelerated natural recovery. Use Healing Arcana for magical healing; use Medicine for mundane diagnosis, surgery, bandaging, poultices, treatment, and recovery care.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Heroic Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nChannels heroic or sanctified force into courage, battle resolve, resistance, rallying presence, protective blessing, and exceptional effort under pressure. It strengthens the ability to stand, endure, act, and inspire in moments of danger. It does not create general-purpose magical barriers like Protection Arcana or provide unrestricted amplification of any action like Power Arcana.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hunger Arcana",
+      "group": "Magic",
+      "kind": "Constitution skill",
+      "summary": "Attribute: Constitution\nRarity: Rare\nMagic of hunger, craving, consumption, need, depletion, predatory focus, draining pressure, and power created by lack. Distinct from Blood Arcana because it governs appetite, emptiness, and depletion rather than blood, lineage, or injury.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Constitution"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Illusion Arcana",
+      "group": "Magic",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nCreates false sensory impressions: images, phantom sounds, false smells, altered appearances, concealed details, and complete multi-sense fabrications. Strong illusions require consistency and context.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Light Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nManipulates ordinary and magical light, including illumination, glare, color, reflection, refraction, visibility, focused radiance, and the suppression or concentration of light. Its effects work through light itself rather than raw kinetic force. Distinct from Heroic Arcana, which carries courage, sanctity, blessing, and heroic resolve.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Lightning Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nGenerates and directs electrical energy, lightning strikes, charged fields, conductive magic, nerve shock, sudden impact, and volatile speed. It is powerful, bright, loud, and difficult to hide.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Magnetism Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nRarity: Rare\nManipulates magnetic attraction, repulsion, polarity, lodestone behavior, magnetic fields, alignment, and the pull exerted on magnetically responsive material. It can move or influence suitable metal through magnetism, but does not shape, reinforce, weaken, heat, or otherwise control metal as Metal Arcana does, and it does not create arbitrary Force effects against nonmagnetic targets.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Memory Arcana",
+      "group": "Magic",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nRarity: Rare\nReads, preserves, organizes, clarifies, and restores memory traces, recollection, forgotten impressions, mnemonic patterns, and preserved experiences. It works through stored or recalled experience rather than active thought or emotion.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Metal Arcana",
+      "group": "Magic",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nMagically manipulates metal, alloy, ore, forged objects, metal resonance, and worked arms or armor. Governs sensing, shaping, reinforcing, weakening, heating, cooling, and resonating metal. Use Metal Arcana for magical metal manipulation; use Smithing for mundane forging, shaping, repairing, and metalwork.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Mirror Arcana",
+      "group": "Magic",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nRarity: Rare\nWorks through mirrors, reflections, reflective surfaces, reversal, reflected observation, mirror-windows, reflective conduits, and doubled spaces anchored to a mirror or reflection. Its imitation, redirection, and spatial effects must remain meaningfully tied to reflection. Mirror Arcana does not grant unrestricted Illusion Arcana, duplication, or Spatial Arcana simply because an effect resembles one of those domains.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Moon Arcana",
+      "group": "Magic",
+      "kind": "Perception skill",
+      "summary": "Attribute: Perception\nRarity: Legendary\nMagic of the moon and its phases: moonlight, nocturnal revelation, tides, hidden instinct, cyclical transformation, secrecy, dreamlike influence, and beast-nature expressed through lunar change. These effects are lunar manifestations rather than unrestricted mastery of Water, Light, Shadow, Dream, or Beast Arcana. Moon Arcana is strongest where phases, night, instinct, hidden truth, and transformation meaningfully matter.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Perception"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Motion Arcana",
+      "group": "Magic",
+      "kind": "Dexterity skill",
+      "summary": "Attribute: Dexterity\nManipulates movement, momentum, acceleration, deceleration, balance, trajectories, and kinetic flow. Motion Arcana changes how an existing body or object moves and can redirect, hasten, slow, or arrest that movement. Distinct from Force Arcana, which creates or directs push, impact, and pressure, and Gravity Arcana, which governs pull, weight, falling, and the direction of down.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Dexterity"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Oath Arcana",
+      "group": "Magic",
+      "kind": "Communication skill",
+      "summary": "Attribute: Communication\nRarity: Rare\nMagic of sworn words, vows, witnessed promises, binding declarations, broken pledges, sacred contracts, and supernatural obligation. Oath Arcana strengthens, records, enforces, or imposes consequences on commitments that are actually made or formally accepted. It does not create consent, invent an oath where none was sworn, or turn an arbitrary command into a binding promise.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Communication"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Phoenix Arcana",
+      "group": "Magic",
+      "kind": "Constitution skill",
+      "summary": "Attribute: Constitution\nRarity: Legendary\nMagic of phoenix-like destruction and renewal: rebirth, survival after ruin, cleansing flame, restoration through ash, life rekindled after defeat, and the refusal to let an ending remain final. Its fire and restoration serve the cycle of burning, surviving, cleansing, and returning; Phoenix Arcana does not grant unrestricted Fire Arcana, Healing Arcana, or Death Arcana. Even at legendary strength, death and rebirth remain consequential rather than casual.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Constitution"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Plague Arcana",
+      "group": "Magic",
+      "kind": "Constitution skill",
+      "summary": "Attribute: Constitution\nRarity: Rare\nManipulates contagion, decay, fever, rot, spreading weakness, corrupted vitality, and magical blight. Distinct from Poison Arcana because it spreads disease-like corruption rather than isolated toxins.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Constitution"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Poison Arcana",
+      "group": "Magic",
+      "kind": "Constitution skill",
+      "summary": "Attribute: Constitution\nManipulates toxins, venoms, irritants, antidotal reactions, contamination, and bodily resistance to poison. Distinct from Plague Arcana, which spreads disease, decay, corruption, and magical blight.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Constitution"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Power Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nMagically amplifies effort, impact, endurance, and exertion through raw arcane output. Power Arcana strengthens an action already being performed: a strike hits harder, a leap carries farther, a shield holds longer, or a spell lands with greater force. It does not create free-standing pushes, invisible blows, or external force control like Force Arcana, and it does not replace Might, weapon skill, technique, or ordinary physical strength.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Protection Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nCreates magical defenses, personal shields, wards, barriers, damage reduction, protective auras, and resistance against hostile effects. Use Protection Arcana for magical barriers and wards; use Shields for physical shield blocking, bashing, cover, and positioning.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Ruin Arcana",
+      "group": "Magic",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nRarity: Legendary\nMagic of collapse, endings, fracture, failing structures, unraveling spells, doomed patterns, and the point where something can no longer remain whole. Ruin Arcana exposes, accelerates, or completes instability and failure, and is strongest where weakness, strain, damage, contradiction, or an existing ending can be exploited. It does not simply erase intact matter, automatically dispel any magic, or declare an otherwise sound target doomed without a plausible point of failure.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Rune Arcana",
+      "group": "Magic",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nInscribes magic into physical marks, symbols, materials, or prepared surfaces. Runes can hold effects, store energy, react to conditions, stabilize spells, or persist without constant concentration. Rune Arcana is defined by the magical inscription itself; Enchantment Arcana governs broader persistent imbuement, while Seal Arcana governs containment, suppression, and magical closure. Mundane writing uses Writing or Fine Script.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Seal Arcana",
+      "group": "Magic",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nRarity: Rare\nMagic of seals, closures, locks, bindings, containment, suppression, ward marks, held power, and guarded thresholds. Use Seal Arcana for magical containment, suppression, closure, ward-locks, and sealed power. Use Lock Picking for mundane locks, Traps for traps, and Rune Arcana for broader magical inscription.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Shadow Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nMagically manipulates shadow, darkness, light suppression, concealment, oppressive dark, hidden movement, and shadow-shaped force. Use Shadow Arcana when the character magically manipulates darkness or shadow; use Stealth for mundane sneaking, hiding, and quiet movement.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Smoke Arcana",
+      "group": "Magic",
+      "kind": "Perception skill",
+      "summary": "Attribute: Perception\nMagically manipulates smoke, soot, ash-laden haze, suspended particulate clouds, scent carried through smoke, and drifting obscuration. Governs shaping cover, choking or redirecting smoke, masking scent, and reading movement through smoke-filled space. It does not grant general control over clean air and wind, liquid water or steam, or toxins merely because they are airborne.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Perception"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Soul Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nRarity: Rare\nInteracts with the living soul: inner essence, spiritual identity, the bond between self and body, soul injury, soul presence, and threats to personhood beneath the flesh. It can perceive, protect, affect, or stabilize the soul directly. Distinct from Spirit Arcana, which governs independent spirits and hauntings; Death Arcana, which governs death-state energy and the dead; and Healing Arcana, which restores ordinary physical harm.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Sound Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nRarity: Rare\nManipulates vibration, voice, rhythm, resonance, silence, shockwaves, echoes, and sonic pressure. It can communicate, disrupt, reveal, conceal, or break structures that cannot endure the right frequency.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Sovereign Arcana",
+      "group": "Magic",
+      "kind": "Communication skill",
+      "summary": "Attribute: Communication\nRarity: Legendary\nMagic of authority, legitimacy, rulership, command, banners, inheritance, recognition, and the supernatural weight of acknowledged sovereignty. It can reinforce recognized authority, make rightful command carry magical weight, and act through courts, armies, titles, succession, and public witness. Sovereign Arcana does not create legitimacy from nothing, compel arbitrary obedience without a relevant basis of authority, or replace ordinary Persuasion, Leadership, or Oath Arcana when those are the actual means at work.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Communication"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Spatial Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nRarity: Rare\nManipulates distance, thresholds, pockets, crossings, folded rooms, hidden paths, and the rules separating one place from another. It is powerful because it makes walls, borders, and distance negotiable.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Spirit Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nInteracts with spirits, ghosts, animistic presences, hauntings, ancestor echoes, shrine entities, and unseen local powers. Distinct from Soul Arcana, which touches the living essence and identity of a person directly.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Star Arcana",
+      "group": "Magic",
+      "kind": "Perception skill",
+      "summary": "Attribute: Perception\nRarity: Legendary\nMagic of stars and the distant heavens: starlight, constellations, celestial navigation, cosmic omens, immense distance, cold radiance, fallen sky-matter, and patterns traced across the night sky. Star Arcana reads and expresses celestial relationships and distant stellar influence rather than granting unrestricted Light, Spatial, Divination, or Fate Arcana. Its strongest effects remain recognizably tied to stars, constellations, celestial distance, or material fallen from the heavens.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Perception"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Storm Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nRarity: Rare\nManipulates storms as weather-scale convergence: thunderheads, atmospheric pressure, violent wind, rain, thunder, and lightning acting together as a storm system. Storm Arcana is broader and wilder than ordinary Air or Lightning Arcana when those forces are part of storm weather, but it does not grant unrestricted independent mastery of every air, lightning, or water effect outside that storm context.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Sun Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nRarity: Legendary\nMagic of the sun: solar flame, daylight, sacred heat, purification, revelation, radiant judgment, battle resolve, and exposing radiance. Sun Arcana expresses these powers specifically through solar authority and presence. It does not grant unrestricted Fire Arcana, Light Arcana, or Heroic Arcana simply because solar manifestations can burn, illuminate, cleanse, or inspire.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Titan Arcana",
+      "group": "Magic",
+      "kind": "Strength skill",
+      "summary": "Attribute: Strength\nRarity: Legendary\nMagic of titan-like physical scale: colossal strength, mountain endurance, immense bodily weight, giant force, earth-shaking impact, bracing, carrying, resistance, and overwhelming physical presence. Titan Arcana magnifies the user's physical capacity and durability rather than granting independent Gravity Arcana or Earth Arcana, and it does not replace weapon technique or other trained combat skills.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Strength"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Twilight Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nRarity: Legendary\nMagic of dusk and the meeting of radiance and shadow: mingled light and darkness, transition, contrast, thresholds between illumination and obscurity, and power created where those opposites coexist. Twilight Arcana can veil through dimness, reveal through contrast, answer extreme radiance or darkness, and stress boundaries specifically expressed through their meeting point. It does not grant unrestricted Light Arcana, Shadow Arcana, Force Arcana, or generic authority over every kind of boundary.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Water Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nManipulates water, liquid flow, pressure, currents, jets, floods, underwater breathing, cleansing, redirection, and aqueous environments. It is strongest where existing liquid is present.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Wood Arcana",
+      "group": "Magic",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nManipulates living plants, roots, vines, wood, timber, botanical growth, and organic plant shaping. Governs plant direction, living barriers, natural bindings, and shaping wood as a tool, obstacle, or weapon. Nonliving processed fibers, textiles, rope, thread, and cloth belong to Fiber Arcana, while ordinary woodworking and fabrication remain Handcrafting.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Wyrd Arcana",
+      "group": "Magic",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nRarity: Legendary\nMagic of prophecy, fate-knots, curses, inherited doom, story-patterns, strange coincidence, old promises returning, and long-form patterns that bind events together. Wyrd Arcana recognizes, entangles, loosens, or twists those developing patterns rather than simply choosing an outcome. It does not grant unrestricted Divination, immediate probability control like Fate Arcana, or oath enforcement simply because promises and consequences can become part of a wyrd pattern.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Acrobatics",
+      "group": "Utility",
+      "kind": "Dexterity skill",
+      "summary": "Attribute: Dexterity\nBalance, agility, tumbling, and precise body control. Governs complex movement under pressure.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Dexterity"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Animal Handling",
+      "group": "Utility",
+      "kind": "Communication skill",
+      "summary": "Attribute: Communication\nCalming, directing, training, bonding with, or controlling animals socially and behaviorally. Governs mount temperament, creature calming, working animals, and beast companions. Use Riding for mounted control, Natural Lore for animal knowledge, Tracking for physical trails, and Beast Arcana for magical animal interaction.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Communication"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Appraisal",
+      "group": "Utility",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nAppraising the value, quality, authenticity, craftsmanship, and market worth of objects, materials, trade goods, art, gems, equipment, and valuables. Do not use this skill for evaluating tactical situations, people, rooms, danger, magic, or social intent.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Arcane Lore",
+      "group": "Utility",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nTheoretical knowledge of magic: how it works, historical practitioners, identifying effects, and understanding arcane systems.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Archival Research",
+      "group": "Utility",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nSystematic gathering and synthesis of information from archives, libraries, written records, maps, letters, legal documents, journals, registries, and other formal sources. Governs locating relevant material, cross-referencing sources, and drawing supported conclusions from records. Use Social Inquiry for live witnesses, interviews, and rumors, and Searching or Seeing for immediate physical investigation.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Bargaining",
+      "group": "Utility",
+      "kind": "Communication skill",
+      "summary": "Attribute: Communication\nNegotiating prices, terms, and exchanges. Covers buying, selling, brokering, and trade negotiation.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Communication"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Brewing",
+      "group": "Utility",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nCreating potions, alchemical compounds, food and drink, and biological preparations. Governs both recipe and process.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cart Driving",
+      "group": "Utility",
+      "kind": "Strength skill",
+      "summary": "Attribute: Strength\nControlling wheeled vehicles: carts, carriages, wagons, coaches, and heavy road vehicles. Governs reins, direction, speed management, braking, load handling, and keeping control under stress. Do not use this skill for ships, boats, airships, or sail work.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Strength"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cartography",
+      "group": "Utility",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nCreating and reading maps. Governs terrain interpretation, scale estimation, and representing geography accurately.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Climbing",
+      "group": "Utility",
+      "kind": "Strength skill",
+      "summary": "Attribute: Strength\nAscending and descending vertical surfaces. Governs technique, grip endurance, and movement on difficult terrain.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Strength"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Courage",
+      "group": "Utility",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nFacing fear, resisting terror effects, and maintaining action under supernatural, overwhelming, or deadly threat. Use this for personal bravery and refusal to break, not for commanding others.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Courtship",
+      "group": "Utility",
+      "kind": "Communication skill",
+      "summary": "Attribute: Communication\nRomantic social skill: expressing interest, flirting, reading reciprocation, and creating opportunities for willing courtship through warmth, confidence, attention, and personal appeal. Courtship can strengthen a romantic interaction when interest is possible, but it never creates attraction, overrides boundaries, or establishes a relationship by itself.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Communication"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cryptography",
+      "group": "Utility",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nEncoding and decoding ciphers. Governs creating secure messages and breaking unknown encryption.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Cultural Lore",
+      "group": "Utility",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nKnowledge of customs, traditions, political structures, and social norms of specific cultures and factions.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Deception",
+      "group": "Utility",
+      "kind": "Communication skill",
+      "summary": "Attribute: Communication\nTelling convincing lies, misleading people, and maintaining false narratives under pressure.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Communication"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Disguise",
+      "group": "Utility",
+      "kind": "Communication skill",
+      "summary": "Attribute: Communication\nAltering appearance and manner to pass as someone else. Governs construction, maintenance, and social performance of disguise.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Communication"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Dragon Lore",
+      "group": "Utility",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nKnowledge specific to dragons: Draconic Types and Natures, Origins, States, Conditions, known dragons, behavior, territories, signs, traditions, and recorded draconic history. Governs identifying and interpreting established draconic information, but does not grant Dragon Arcana or reveal facts that have not been learned, observed, or preserved in lore. Rare and valuable.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Empathy",
+      "group": "Utility",
+      "kind": "Perception skill",
+      "summary": "Attribute: Perception\nReading emotional states, hidden feelings, discomfort, fear, sincerity, stress, and unspoken intent from behavior, tone, posture, and small reactions. Do not use it to convince, command, deceive, intimidate, seduce, bargain, or perform socially; use the relevant Communication skill instead.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Perception"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Engineering",
+      "group": "Utility",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nUnderstanding of structures, mechanisms, and constructed systems. Governs siege equipment, architecture, and mechanical devices.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Etiquette",
+      "group": "Utility",
+      "kind": "Communication skill",
+      "summary": "Attribute: Communication\nCorrect behavior in formal and social contexts: court protocol, table manners, address forms, and ceremonial movement.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Communication"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Faction Lore",
+      "group": "Utility",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nSpecific knowledge of Eldaven's political factions, their structures, internal tensions, key figures, and ongoing agendas.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Faith",
+      "group": "Utility",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nDrawing on sincere belief, doctrine, and spiritual conviction to resist corruption, maintain resolve under religious or moral pressure, endure challenges to belief, and stand by deeply held principles. Faith can support acts grounded in conviction or recognized religious practice, but does not by itself create supernatural miracles or substitute for Arcana.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Fine Script",
+      "group": "Utility",
+      "kind": "Dexterity skill",
+      "summary": "Attribute: Dexterity\nMundane fine-motor writing, formal scripts, detailed maps, decorative lettering, copied manuscripts, and precise non-magical inscription. Do not use this skill for magical runes, spell marks, wards, seals, or enchanted inscriptions; use Rune Arcana or a rune ability instead.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Dexterity"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Forbidden Lore",
+      "group": "Utility",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nKnowledge of banned, restricted, or dangerous magical and historical subjects. Governs the suppressed history of Eldaven and forbidden arcane theories.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Gambling",
+      "group": "Utility",
+      "kind": "Communication skill",
+      "summary": "Attribute: Communication\nGames of chance and skill: reading opponents, bluffing, calculating odds, and knowing when to fold.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Communication"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Handcrafting",
+      "group": "Utility",
+      "kind": "Dexterity skill",
+      "summary": "Attribute: Dexterity\nMaking, repairing, or modifying physical objects with hands and tools: woodworking, leatherwork, tailoring, jewelry, and general small-scale fabrication. Governs practical workmanship, fit, finish, assembly, and repair. Use Smithing for forging and dedicated metalworking, and Engineering for the design or analysis of complex structures and mechanisms.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Dexterity"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Hearing",
+      "group": "Utility",
+      "kind": "Perception skill",
+      "summary": "Attribute: Perception\nUsing hearing to gather information: detecting sounds, voices, movement, and using audio cues in darkness or at distance.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Perception"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Heraldry",
+      "group": "Utility",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nKnowledge of noble houses, their symbols, lineage, territorial claims, and political standing. Governs identification and protocol.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Historical Lore",
+      "group": "Utility",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nKnowledge of past events, figures, and civilizations. Governs identifying historical significance and applying historical patterns.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Intimidation",
+      "group": "Utility",
+      "kind": "Strength skill",
+      "summary": "Attribute: Strength\nUsing physical presence, implied threat, or demonstrated capability to force compliance or retreat.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Strength"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Jumping",
+      "group": "Utility",
+      "kind": "Strength skill",
+      "summary": "Attribute: Strength\nDistance and height leaps. Governs both running jumps and standing leaps under pressure or with load.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Strength"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Leadership",
+      "group": "Utility",
+      "kind": "Communication skill",
+      "summary": "Attribute: Communication\nDirecting people in organized action: issuing commands, coordinating allies, giving battlefield orders, assigning roles, and asserting command authority. Use this for active leadership and group direction, not for private courage, resisting fear, or personal mental discipline.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Communication"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Legerdemain",
+      "group": "Utility",
+      "kind": "Dexterity skill",
+      "summary": "Attribute: Dexterity\nSleight of hand, pickpocketing, palming objects, and close-range manual deception.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Dexterity"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Lock Picking",
+      "group": "Utility",
+      "kind": "Dexterity skill",
+      "summary": "Attribute: Dexterity\nOpening mechanical locks without the correct key. Governs pick technique and identifying lock types.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Dexterity"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Medicine",
+      "group": "Utility",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nNon-magical treatment of injury and illness through first aid, diagnosis, surgery, and recovery management.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Might",
+      "group": "Utility",
+      "kind": "Strength skill",
+      "summary": "Attribute: Strength\nRaw physical force: lifting, breaking, holding, and applying strength against resistance.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Strength"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Military Lore",
+      "group": "Utility",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nKnowledge of warfare, tactics, unit types, fortifications, supply lines, formations, command structures, military history, and battlefield doctrine. Do not use it for executing attacks, defending in melee, issuing commands, rallying allies, or physically holding a line; use Fighting skills, Shields, Leadership, Courage, or Self-Discipline as appropriate.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Musical Lore",
+      "group": "Utility",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nKnowledge of musical traditions, composition, and performance theory. Governs both creating and analyzing music.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Natural Lore",
+      "group": "Utility",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nKnowledge of animals, plants, fungi, weather, terrain, natural hazards, and ecological systems. Governs identification, behavior prediction, foraging knowledge, and understanding natural survival conditions. Do not use it for physically following tracks, spotting hidden movement, searching an area, or noticing danger in the moment; use Tracking, Seeing, Searching, Hearing, or Smelling instead.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Navigation",
+      "group": "Utility",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nDetermining position and plotting routes by stars, landmarks, and instruments. Governs both land and sea navigation.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Performance",
+      "group": "Utility",
+      "kind": "Communication skill",
+      "summary": "Attribute: Communication\nFormal and informal performance: acting, singing, playing instruments, oratory, and storytelling for an audience.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Communication"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Persuasion",
+      "group": "Utility",
+      "kind": "Communication skill",
+      "summary": "Attribute: Communication\nMaking compelling arguments: appealing to emotion, reason, or self-interest to change what someone does or believes.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Communication"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Planar Lore",
+      "group": "Utility",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nKnowledge of planes, realms, dimensional boundaries, and entities that exist outside the material world.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Relic Lore",
+      "group": "Utility",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nKnowledge of ancient artifacts, magical items of historical significance, and the traditions surrounding their creation and use.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Religious Lore",
+      "group": "Utility",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nKnowledge of faiths, doctrines, rituals, sacred sites, and religious history. Governs theological debate and identifying religious significance.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Riding",
+      "group": "Utility",
+      "kind": "Dexterity skill",
+      "summary": "Attribute: Dexterity\nControlling a mount in ordinary and difficult conditions. Governs staying mounted, directing the animal, and mounted maneuvers.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Dexterity"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Rowing",
+      "group": "Utility",
+      "kind": "Constitution skill",
+      "summary": "Attribute: Constitution\nSustained oar-work in boats and vessels. Governs both technique and endurance over long pulls.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Constitution"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Running",
+      "group": "Utility",
+      "kind": "Constitution skill",
+      "summary": "Attribute: Constitution\nSustained movement at pace: sprinting, long-distance running, and chases. Governs endurance over distance.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Constitution"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Sail Handling",
+      "group": "Utility",
+      "kind": "Dexterity skill",
+      "summary": "Attribute: Dexterity\nManaging sails, rigging, knots, lines, and shipboard crew coordination on sailing vessels. Governs practical sail work, trimming, reefing, and keeping sails functional under weather or combat pressure. Use Vessel Piloting for steering and directing the vessel itself.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Dexterity"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Searching",
+      "group": "Utility",
+      "kind": "Perception skill",
+      "summary": "Attribute: Perception\nSystematic examination of areas, objects, and people for hidden things: concealed items, secret doors, and subtle clues.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Perception"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Seeing",
+      "group": "Utility",
+      "kind": "Perception skill",
+      "summary": "Attribute: Perception\nVisual observation: spotting details at range, reading environments, and noticing things others miss.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Perception"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Self-Discipline",
+      "group": "Utility",
+      "kind": "Willpower skill",
+      "summary": "Attribute: Willpower\nControlling impulse, resisting manipulation, maintaining focus under distraction or temptation, and continuing disciplined action despite pressure. Use this for inner restraint and focus, not for social command.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Smelling",
+      "group": "Utility",
+      "kind": "Perception skill",
+      "summary": "Attribute: Perception\nUsing scent to gather information: detecting people, substances, environmental conditions, and recent events by smell.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Perception"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Smithing",
+      "group": "Utility",
+      "kind": "Strength skill",
+      "summary": "Attribute: Strength\nMetalworking: forging, shaping, and repairing metal objects. Governs both quality and efficiency of metal craft.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Strength"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Social Inquiry",
+      "group": "Utility",
+      "kind": "Communication skill",
+      "summary": "Attribute: Communication\nActive social investigation: asking the right questions, interviewing witnesses, following rumors, testing stories, identifying contradictions in testimony, and tracing social connections. It can infer motives through what people say and how their accounts fit together; use Empathy for directly reading emotions, stress, sincerity, or unspoken intent from behavior. Do not use Social Inquiry for physically searching rooms, objects, bodies, containers, ruins, camps, or hidden items.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Communication"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Stealth",
+      "group": "Utility",
+      "kind": "Dexterity skill",
+      "summary": "Attribute: Dexterity\nMoving without being noticed. Governs silent movement, cover use, and avoiding detection.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Dexterity"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Swimming",
+      "group": "Utility",
+      "kind": "Constitution skill",
+      "summary": "Attribute: Constitution\nMovement through water. Governs distance, rough water, and staying afloat under load.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Constitution"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Tasting",
+      "group": "Utility",
+      "kind": "Perception skill",
+      "summary": "Attribute: Perception\nIdentifying substances by taste: detecting poison, assessing quality, and identifying components in food or drink.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Perception"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Thieves' Lore",
+      "group": "Utility",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nKnowledge of criminal customs, thieves' signs, fences, smugglers, gangs, black markets, informal territories, street codes, protection rackets, and how unlawful networks operate. Use this for understanding criminal systems, not for sneaking, lock picking, stealing by hand, or social persuasion.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Tolerance",
+      "group": "Utility",
+      "kind": "Constitution skill",
+      "summary": "Attribute: Constitution\nResistance to poisons, diseases, extreme temperatures, and other physical intrusions. Governs how long you can endure harm without failing.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Constitution"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Touching",
+      "group": "Utility",
+      "kind": "Perception skill",
+      "summary": "Attribute: Perception\nUsing touch to gather physical information: surface temperature, texture, vibration, density, pressure, seams, irregularities, and hidden mechanical features. Touching can notice physical signs left by an unusual effect, but does not by itself sense or identify invisible magical residue; use magical detection or relevant lore when the information is specifically arcane.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Perception"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Tracking",
+      "group": "Utility",
+      "kind": "Perception skill",
+      "summary": "Attribute: Perception\nFollowing trails of physical evidence left by passage: footprints, broken vegetation, disturbed surfaces, and residual heat.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Perception"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Traps",
+      "group": "Utility",
+      "kind": "Dexterity skill",
+      "summary": "Attribute: Dexterity\nSetting, identifying, and disabling traps. Governs both the construction of effective traps and the safe removal of them.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Dexterity"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Vessel Piloting",
+      "group": "Utility",
+      "kind": "Dexterity skill",
+      "summary": "Attribute: Dexterity\nDirecting watercraft, airships, or other vessels by helm, rudder, controls, trim, or command of heading. Governs navigation control and response to changing conditions. Use Sail Handling for managing sails and rigging.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Dexterity"
+        }
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Writing",
+      "group": "Utility",
+      "kind": "Intelligence skill",
+      "summary": "Attribute: Intelligence\nProducing formal documents, legal records, correspondence, and literature. Governs both composition and the forms required.",
+      "facts": [
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        }
+      ],
+      "spoiler": false
+    }
+  ]
+}

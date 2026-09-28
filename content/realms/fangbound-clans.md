@@ -1,7 +1,7 @@
 ---
 id: fangbound-clans
 title: The Fangbound Clans
-category: Realms
+category: Countries
 knowledge: regional
 status: canon
 ---

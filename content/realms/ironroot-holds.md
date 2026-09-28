@@ -1,7 +1,7 @@
 ---
 id: ironroot-holds
 title: The Ironroot Holds
-category: Realms
+category: Countries
 knowledge: regional
 status: canon
 ---

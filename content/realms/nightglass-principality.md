@@ -1,7 +1,7 @@
 ---
 id: nightglass-principality
 title: The Nightglass Principality
-category: Realms
+category: Countries
 knowledge: regional
 status: canon
 ---

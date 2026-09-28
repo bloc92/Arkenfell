@@ -1,0 +1,213 @@
+{
+  "realm": "Arkenfell",
+  "entries": [
+    {
+      "name": "Malgrath, the Rot Beneath",
+      "group": "Forbidden malignant powers",
+      "kind": "Deity",
+      "summary": "Malgrath is the forbidden god of plague, corruption, famine, poisoned land, spiritual decay, blight, rot-cults, and demon-wound geography. His Moral/Theological Standing is Forbidden Malignant. His symbol is a cracked black root dripping green sickness. Plague cultists, corrupted druids, famine prophets, blight-priests, and wasteland warlocks invoke him where life turns wrong and survival begins to worship decay.",
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Nharvek, the Chain King",
+      "group": "Forbidden malignant powers",
+      "kind": "Deity",
+      "summary": "Nharvek is the forbidden god of tyranny, coercive rule, soul-binding, fear, and stolen freedom. His Moral/Theological Standing is Forbidden Malignant. His symbol is a black iron chain wrapped around a crown. Tyrants, cruel jailers, corrupt officials, domination cults, and soul-binders invoke him in secret. His cults are malignant because they use fear and supernatural pressure to demand submission.",
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Ossyra, the Knife Behind the Smile",
+      "group": "Forbidden malignant powers",
+      "kind": "Deity",
+      "summary": "Ossyra is the forbidden goddess of betrayal, murder, false friendship, assassination, poison, secret cults, and treachery wearing a familiar face. Her Moral/Theological Standing is Forbidden Malignant. Her symbol is a smiling mask pierced from behind by a narrow blade. Assassins, poisoners, false companions, court murderers, and secret murder societies invoke her when trust itself is the weapon.",
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Velkora, the Hollow Queen",
+      "group": "Forbidden malignant powers",
+      "kind": "Deity",
+      "summary": "Velkora is the forbidden goddess of corrupted undeath, lichdom, hollow immortality, blood hunger without restraint, forbidden resurrection, and death refused at the expense of others. Her Moral/Theological Standing is Forbidden Malignant. Her symbol is a pale crown above an open grave. Necromancers, liches, corpse-cults, cruel vampires, grief-broken nobles, and rulers terrified of death may turn to her, but she does not represent all undead or all vampires.",
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Ardoval, the Oath-Crowned",
+      "group": "National and cultural benefactors",
+      "kind": "Deity",
+      "summary": "Ardoval is Valenreach's benefactor god of oaths, crowns, rightful rule, inheritance, courts, sworn duty, guardianship, and noble burden. His Moral/Theological Standing is Revered Benevolent, though critics warn that his temples can protect old privilege when law is treated as holier than mercy. His symbol is a crowned sword laid across an open oath-ring. Kings, judges, knights, nobles, officers, and heirs invoke him before coronations, verdicts, contracts, marriages, and battlefield vows.",
+      "spoiler": false,
+      "articleId": "ardoval"
+    },
+    {
+      "name": "Auraleth, the Sky-Bound Oath",
+      "group": "National and cultural benefactors",
+      "kind": "Deity",
+      "summary": "Auraleth is the Cloudspire Dominion's benefactor god of cliffs, wind bridges, storm beacons, griffin riders, falling risks, lift-rights, sky roads, balance, engineering courage, and promises made where the ground cannot protect you. Auraleth's Moral/Theological Standing is Revered Ambivalent. The symbol is a white knot tied around a feather and iron hook. Cloud monasteries, bridge engineers, griffin riders, cliff cities, sky couriers, and storm-watchers honor Auraleth because one broken rope can become murder.",
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Bravik, the Hammer Saint",
+      "group": "National and cultural benefactors",
+      "kind": "Deity",
+      "summary": "Bravik is the god of forge, craft, stonework, mines, fortresses, honest labor, builders, smiths, endurance, shieldwalls, and properly made things. His Moral/Theological Standing is Revered Benevolent. His symbol is a hammer laid across an anvil-stone. Dwarves, smiths, miners, masons, armorers, soldiers, engineers, and workers honor him when a thing must hold under weight, fire, time, or war.",
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Dravok, the Iron Will",
+      "group": "National and cultural benefactors",
+      "kind": "Deity",
+      "summary": "Dravok is the Dreadmark Dominion's benefactor god of discipline, conquest, punishment, command, pain, obedience, and survival through strength. His Moral/Theological Standing is Controversial Patron: Dreadmark reveres him as the god who makes order possible, while most other nations fear his worship as a path to tyranny. His symbol is a black gauntlet gripping a broken spear. His priests bless legions, punish deserters, and teach that weakness becomes cruelty when it cannot defend what it claims to love.",
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Khorvash, the Thunderhoof",
+      "group": "National and cultural benefactors",
+      "kind": "Deity",
+      "summary": "Khorvash is the Fangbound Clans' benefactor god of mounted clans, herd rights, raids, monster hunts, strength, challenge, migration, kinship, and proof of worth. His Moral/Theological Standing is Accepted Necessary. His symbol is a hoofprint split by lightning. Orcish holds, beastkin families, riders, clan chiefs, hunters, herders, and raiding bands honor him through contests, oaths over herds, challenges, and victories earned in open sight.",
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Lythirien, the Root of Memory",
+      "group": "National and cultural benefactors",
+      "kind": "Deity",
+      "summary": "Lythirien is the Lythael Elven Dominion's benefactor goddess of memory, forests, beauty, ancestral continuity, living history, restraint, and old songs. Her Moral/Theological Standing is Revered Benevolent. Her symbol is a white tree with silver roots. Elves, historians, singers, druids, artists, and ancestral guardians honor her in living groves and root-vaults where memory is sung, not merely recorded.",
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Maelthar, the Storm-Bearer",
+      "group": "National and cultural benefactors",
+      "kind": "Deity",
+      "summary": "Maelthar is the Tide Empire's benefactor god of sea, storms, endurance, voyages, shipwrecks, cold courage, and return from hardship. His Moral/Theological Standing is Revered Ambivalent: he is respected and prayed to, but never treated as gentle. His symbol is a black wave beneath a silver star. Sailors, admirals, fishers, raiders, explorers, shipwrights, and coastal soldiers ask him for strength to endure the storm rather than escape it.",
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Myrathis, the Veiled Flame",
+      "group": "National and cultural benefactors",
+      "kind": "Deity",
+      "summary": "Myrathis is the Arcanum Ascendancy's benefactor goddess of magic, hidden knowledge, controlled study, transformation, arcane law, dangerous discovery, and secrecy with purpose. Her Moral/Theological Standing is Controversial Patron. Her symbol is a violet flame behind a half-mask. Mages, scholars, archivists, alchemists, occultists, and ambitious students honor her in libraries, laboratories, sealed lecture halls, and observatories where knowledge is treated as power with cost.",
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Neryssan, the Coral Crown",
+      "group": "National and cultural benefactors",
+      "kind": "Deity",
+      "summary": "Neryssan is the Coral Throne's benefactor goddess of reef law, sea courts, tide obligations, ocean spirits, submerged sovereignty, pearl tribute, and old marine pacts. Her Moral/Theological Standing is Revered Ambivalent. Her symbol is a coral crown circled by three tide-lines. Sea nobles, reef judges, merfolk envoys, tide-priests, pearl houses, and coastal diplomats honor her when sea-law, alliance, and obligation matter more than dryland custom.",
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Noctheris, the Crimson Guest",
+      "group": "National and cultural benefactors",
+      "kind": "Deity",
+      "summary": "Noctheris is the Nightglass Principality's benefactor god of invitation, blood debt, restrained hunger, vampire etiquette, night courts, immortal memory, predatory courtesy, and hospitality with teeth. His Moral/Theological Standing is Controversial Patron. His symbol is a crimson cup beneath a closed black parasol. Restrained vampires, blood-law judges, night courtiers, mortal treaty families, and conflicted immortals honor him as the power that teaches hunger must answer to law.",
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Sahekir, the Brass Horizon",
+      "group": "National and cultural benefactors",
+      "kind": "Deity",
+      "summary": "Sahekir is the desert benefactor god of sun-waste cultures, glass roads, caravans, mirages, oases, water-rights, heat endurance, brass astronomy, and horizon omens. His Moral/Theological Standing is Revered Ambivalent. His symbol is a brass sun half-buried in a horizon line. Desert rulers, caravan masters, water judges, astronomer-priests, guides, and oasis families honor him because survival, hospitality, and water are sacred law beneath the burning sky.",
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Serrava, the Open Hand",
+      "group": "National and cultural benefactors",
+      "kind": "Deity",
+      "summary": "Serrava is the Solmire Concord's benefactor goddess of trade, roads, diplomacy, contracts, hospitality, neutral ground, river passage, and fair exchange. Her Moral/Theological Standing is Revered Ambivalent: she protects bargains and guest-right, but she is not sentimental. Her symbol is an open hand marked with a coin and road-line. Merchants, diplomats, innkeepers, caravan guards, messengers, negotiators, and river traders invoke her before deals and journeys.",
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Solcaris, the Unblinking Sun",
+      "group": "National and cultural benefactors",
+      "kind": "Deity",
+      "summary": "Solcaris is the Solarian Theocracy's benefactor god of sun, truth, healing, judgment, revelation, purification, public virtue, and righteous fire. His Moral/Theological Standing is Revered Benevolent, Controversial in Practice. His symbol is a golden eye within a sunburst. His worship heals the innocent and exposes corruption, but becomes dangerous when zealots decide that doubt is sin, privacy is corruption, and fire is the only honest cure.",
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Thalyra, the Pearl-Warden",
+      "group": "National and cultural benefactors",
+      "kind": "Deity",
+      "summary": "Thalyra is the Stormpearl Isles' benefactor goddess of island councils, pearl houses, storm signs, lighthouse rites, fishing fleets, boat law, free captains, and weather-wise survival. Her Moral/Theological Standing is Revered Ambivalent. Her symbol is a white pearl held inside a storm-ring. Islanders invoke her before voyages, elections, storm seasons, harbor judgments, and disputes where freedom must still answer to the sea.",
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Veyrasha, the Unbound Flame",
+      "group": "National and cultural benefactors",
+      "kind": "Deity",
+      "summary": "Veyrasha is the Emberhorn Accord's benefactor goddess of pacts, ambition, self-mastery, chosen identity, renaming, emancipation, and freedom from inherited damnation. Her Moral/Theological Standing is Controversial Patron. Her symbol is a red flame breaking a black chain. Civilized demons, pact-makers, exiles, rebels, and oath-breakers seeking rebirth honor her as the power that says birth does not decide destiny, but every choice binds the soul.",
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Caelwyn, the First Song",
+      "group": "Widely honored powers",
+      "kind": "Deity",
+      "summary": "Caelwyn is the deity of art, music, love, inspiration, beauty, performance, festivals, courtly romance, public memory, and stories that outlive witnesses. Caelwyn's Moral/Theological Standing is Revered Benevolent. The symbol is a golden harp-string crossing an open mouth. Bards, lovers, actors, poets, courtiers, festival keepers, mourners, and historians honor Caelwyn when feeling must become song, vow, play, or legend.",
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Elaris, the Silver Veil",
+      "group": "Widely honored powers",
+      "kind": "Deity",
+      "summary": "Elaris is the goddess of moon, dreams, prophecy, omens, hidden roads, fate-glimpses, nightmares, sleepwalking, and warnings no one fully understands. Her Moral/Theological Standing is Accepted Ambivalent. Her symbol is a silver veil drawn across a crescent moon. Seers, midwives, travelers by night, dream-readers, hidden pilgrims, and frightened rulers honor her when signs arrive indirectly and truth refuses to stand in daylight.",
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Hestrelle, the Gentle Hearth",
+      "group": "Widely honored powers",
+      "kind": "Deity",
+      "summary": "Hestrelle is the common goddess of hearth, mercy, healing, childbirth, refuge, food, wells, family, rural prosperity, and ordinary kindness. Her Moral/Theological Standing is Revered Benevolent. Her symbol is a clay lamp cupped between two hands. Families, healers, midwives, cooks, farmers, refugees, village priests, and the poor honor her in kitchens, sickrooms, birthing houses, roadside shelters, and any place where a stranger is given warmth.",
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Morcant, the Last Witness",
+      "group": "Widely honored powers",
+      "kind": "Deity",
+      "summary": "Morcant is the god of death, funerals, ancestors, graves, last rites, ghosts, oathbound dead, buried memory, final testimony, and proper endings. His Moral/Theological Standing is Accepted Necessary. His symbol is a closed eye above a black candle. Gravekeepers, mourners, executioners, ancestor-priests, old soldiers, ghost hunters, Mourning Bell Wardens, and communities living near the Blackbell Deadroads honor him because death must be witnessed, named, and given rest.",
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Nysera, the Turning Coin",
+      "group": "Widely honored powers",
+      "kind": "Deity",
+      "summary": "Nysera is the goddess of luck, chance, thieves, gamblers, sudden reversals, wagers, escapes, lost causes, and survival by wit. Her Moral/Theological Standing is Accepted Ambivalent. Her symbol is a two-faced coin spinning above a dagger point. Rogues, gamblers, smugglers, desperate travelers, rebels, outlaws, and merchants in dangerous markets honor her because fortune is neither fair nor evil, only turning.",
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Tharvane, the Wild Horn",
+      "group": "Widely honored powers",
+      "kind": "Deity",
+      "summary": "Tharvane is the god of beasts, monsters, forests, hunting, livestock, seasons, predator and prey, wild fertility, and territory beyond court law. His Moral/Theological Standing is Accepted Necessary. His symbol is a stag skull crowned with green leaves. Rangers, hunters, druids, beast-tamers, frontier villages, monster clans, and awakened creatures honor him because civilization is never separate from the world it cuts, burns, eats, and fears.",
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Vaunthis, the Nameless Door",
+      "group": "Widely honored powers",
+      "kind": "Deity",
+      "summary": "Vaunthis is the god of exile, forbidden thresholds, lost paths, erased names, vanished cities, dangerous crossings, and doors that should not open. His Moral/Theological Standing is Feared but Recognized. His symbol is a blank door without handle or hinge. Exiles, forbidden pilgrims, vanished cults, boundary-mages, and those who seek hidden places know his signs, though most temples treat his worship with caution rather than open devotion.",
+      "spoiler": false,
+      "articleId": null
+    }
+  ]
+}

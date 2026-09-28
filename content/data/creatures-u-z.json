@@ -1,0 +1,342 @@
+{
+  "realm": "Arkenfell",
+  "entries": [
+    {
+      "name": "Unicorn",
+      "group": "U–Z",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nUnicorns are rare magical beasts associated with purity, old forests, sacred clearings, healing, and moral tests. They should never appear as ordinary horses with horns.\n\nDESCRIPTION\nGraceful horse-like bodies with a single horn, luminous mane, intelligent eyes, and presence that makes violent intent feel exposed.\n\nUSE IN PLAY\nUse Unicorns sparingly for sacred groves, healing legends, lost children, nature pacts, or tests of character. They should not be common mounts.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Vampire",
+      "group": "U–Z",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nVampires are undead or night-blooded beings sustained by blood, old contracts, curse, lineage, or forbidden rites. In places like the Nightglass Principality they may belong to formal houses with law, etiquette, and controlled feeding, while feral vampires outside such order are hunted as predators.\n\nDESCRIPTION\nVampires may appear pale, elegant, corpse-still, unnaturally beautiful, predatory, or aristocratic. Use details like cold skin, red or dark eyes, fangs, old-fashioned clothing, moonlit composure, and movements too smooth for life.\n\nSOCIAL / COMBAT USE\nVampires are dangerous socially before they are dangerous physically. They use invitation, debt, charm, fear, old memory, noble title, and hunger. In combat they rely on speed, strength, Blood Arcana, claws, and patience.\n\nNAMING CONVENTION\nUse old noble names, night-themed titles, archaic surnames, or house names.",
+      "resistances": [
+        "piercing",
+        "slashing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Vampire Spawn",
+      "group": "U–Z",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nVampire Spawn are newly turned or lesser vampires serving stronger vampires through blood ties, debt, or fear. Some are tragic victims; others embrace predation quickly.\n\nDESCRIPTION\nUse pale skin, sharpened teeth, predatory stillness, cold touch, and signs of recent death or unnatural preservation. Clothing often reflects the life they had before turning.\n\nUSE IN PLAY\nUse Vampire Spawn as servants, hunters, unstable fledglings, or evidence that a vampire house has broken restraint. They are good for horror without making every vampire noble openly villainous.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "piercing"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "fire"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Vine Horror",
+      "group": "U–Z",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nVine Horrors are predatory plant masses that mimic shelter, bodies, or harmless growth until prey comes close.\n\nDESCRIPTION\nTangled vines, flower mouths, root tendrils, and humanlike shapes briefly formed from plant matter.\n\nSOCIAL / COMBAT USE\nUse for ruins swallowed by forest, monster groves, and places where nature has become hungry.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "fire"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Void Beast",
+      "group": "U–Z",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nVoid Beasts are animals or monsters warped by nothingness, planar tears, or impossible darkness.\n\nDESCRIPTION\nBestial bodies with missing patches, too many eyes, black edges, and movements that skip visual continuity.\n\nSOCIAL / COMBAT USE\nUse for celestial-anomaly sites, deep rifts, planar anomalies, and encounters that should feel alien but not common.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Voidling",
+      "group": "U–Z",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nVoidlings are small alien entities associated with spatial tears, fallen stars, failed summoning, or impossible darkness. They are curious in ways that feel predatory.\n\nDESCRIPTION\nSmall dark bodies with too many eyes, floating limbs, missing shadows, or outlines that do not fit the room.\n\nUSE IN PLAY\nUse Voidlings for celestial anomalies, rift events, and early signs that something beyond normal planes has noticed the world.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "War Boar",
+      "group": "U–Z",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nWar Boars are massive aggressive boars used by monster clans, wild hunters, or frontier warbands, or encountered as territorial beasts in old forests.\n\nDESCRIPTION\nHuge tusked boars with bristled backs, scarred hides, mud-caked flanks, and enough force to break fences or shields.\n\nUSE IN PLAY\nUse War Boars for forest charges, goblin mounts, ruined farms, noble hunts gone wrong, and monster forest ecology.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "War Mammoth",
+      "group": "U–Z",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nWar Mammoths are enormous trained beasts used by northern clans, giantkin, or old imperial remnants.\n\nDESCRIPTION\nMassive shaggy bodies, curved tusks, battle towers, painted hides, and patient eyes that can become terrifying under command.\n\nSOCIAL / COMBAT USE\nUse for northern war scenes, migration culture, Palegrave expeditions, and battlefield-scale travel. They should feel logistically important.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Ward Sentinel",
+      "group": "U–Z",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nWard Sentinels are constructs or semi-living magical guards created to enforce boundaries and permissions.\n\nDESCRIPTION\nArmored or faceless bodies with glowing ward-lines, locked sigils, sealed joints, and movements triggered by trespass.\n\nSOCIAL / COMBAT USE\nUse for academies, palace vaults, sealed roads, relic sites, and locations where entering without authority matters.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "arcane",
+        "slashing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Warg",
+      "group": "U–Z",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nWargs are large intelligent or semi-intelligent wolves used by goblins, orcs, bandits, and steppe clans as mounts or pack predators.\n\nDESCRIPTION\nOversized wolves with heavy jaws, scarred muzzles, intelligent eyes, and tack or trophies if trained.\n\nSOCIAL / COMBAT USE\nUse for raids, pursuits, monster forests, steppe warfare, and enemies that understand pack tactics better than ordinary beasts.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Waspfolk",
+      "group": "U–Z",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nWaspfolk are insectoid humanoids with wings, chitin, stingers, and strong social or territorial instincts.\n\nDESCRIPTION\nSlender bodies with chitin plates, translucent wings, sharp eyes, antennae, and stinger or wasp-stripe markings.\n\nSOCIAL / COMBAT USE\nUse for hive societies, messengers, territorial guards, alchemists, and dangerous diplomats whose politeness can turn sharp quickly.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "poison"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Water Elemental",
+      "group": "U–Z",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nWater Elementals are living water spirits tied to rivers, oceans, wells, storms, and old pacts.\n\nDESCRIPTION\nBodies of moving water, foam, ice flecks, river stones, or floating debris, changing shape with current and emotion.\n\nUSE IN PLAY\nUse Water Elementals for river crossings, sea shrines, old wells, flood magic, and water-bound guardians.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "slashing",
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Weaselfolk Beastkin",
+      "group": "U–Z",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nWeaselfolk Beastkin are slender, quick beastkin known for slipping through gaps, boldness, and surviving by nerve as much as speed.\n\nDESCRIPTION\nHumanlike base with weasel ears, narrow features, long tail, sharp eyes, and restless motion.\n\nSOCIAL / COMBAT USE\nUse for spies, messengers, smugglers, street duelists, informants, and characters who risk more than their size suggests.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Werewolf Beastkin",
+      "group": "U–Z",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nWerewolf Beastkin are a rarer wolf-lineage people with stronger predatory instincts, sharper senses, and a more feared reputation than common wolfkin. They are not automatically cursed monsters, but many regions treat them with suspicion because their instincts can become dangerous under stress, blood scent, moon rites, or battlefield panic.\n\nDESCRIPTION\nHumanlike base with wolf ears, tail, sharp senses, strong build, and a more feral edge in posture, voice, or movement. They should not transform randomly unless the NPC entry says so.\n\nSOCIAL / COMBAT USE\nWerewolf Beastkin are often used as shock troops, hunters, frontier scouts, arena fighters, or feared guards. Their drama should come from control, prejudice, loyalty, and instinct rather than simple evil.\n\nNAMING CONVENTION\nUse local names shaped by outsider status, military life, frontier clans, or hidden family traditions.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "White Dragon",
+      "group": "U–Z",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nWhite Dragons are air or frost-associated dragons tied to cold peaks, sky routes, glaciers, and ancient high places.\n\nDESCRIPTION\nVast white-scaled dragons with icy breath, sharp horns, pale wings, and a presence that stills wind or snow.\n\nSOCIAL / COMBAT USE\nUse sparingly for northern or Cloudspire dragon arcs. They may be territorial, curious, old, or more approachable than expected but never casual.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "slashing",
+        "piercing",
+        "bludgeoning"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [
+        "fire"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Wight",
+      "group": "U–Z",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nWights are intelligent undead bound by oath, rage, command, noble curse, battlefield failure, or unresolved duty. Unlike zombies or skeletons, wights remember enough to hate, obey, judge, or grieve. They are common threats in the Blackbell Deadroads and ancient military ruins.\n\nDESCRIPTION\nDescribe corpse-pale skin, old armor, cold eyes, blackened weapons, preserved rank markings, and a voice that sounds like it comes from a sealed room.\n\nSOCIAL / COMBAT USE\nWights can command lesser undead, guard old sites, challenge intruders, repeat dead orders, or punish oathbreakers. They should be moral and historical threats, not random monsters.\n\nNAMING CONVENTION\nUse old titles, military ranks, noble names, or oath-based epithets.",
+      "resistances": [
+        "slashing",
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Will-o'-Wisp",
+      "group": "U–Z",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nWill-o'-Wisps are ghostly lights that lure travelers into marshes, graves, ruins, or emotional danger. Some feed on fear; others repeat old death paths.\n\nDESCRIPTION\nFloating lights, lantern-like orbs, flickering blue-white flames, or reflections that appear where no flame exists.\n\nUSE IN PLAY\nUse Will-o'-Wisps as navigational hazards, omens, tricksters, or guides to secrets in dangerous terrain. They should create atmosphere and misdirection.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Willow Hag",
+      "group": "U–Z",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nWillow Hags are tree-and-water hags tied to drowned groves, weeping trees, and bargains made beside black water.\n\nDESCRIPTION\nBent figures with willow hair, bark-like skin, wet hems, long fingers, and voices that sound kind until the price appears.\n\nSOCIAL / COMBAT USE\nUse for swamp bargains, lost children, cures, curses, and old grief that learned to negotiate.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "poison"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "fire"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Wind Drake",
+      "group": "U–Z",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nWind Drakes are fast lesser dragonkin that ride storms, cliffs, and open sky.\n\nDESCRIPTION\nLean drake bodies with narrow wings, pale scales, long tails, and movement too quick for ground fighters.\n\nSOCIAL / COMBAT USE\nUse for aerial skirmishes, mountain roads, Cloudspire scouts, and dangerous mounts.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "piercing"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Wingfolk",
+      "group": "U–Z",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nWingfolk are humanoid people with natural wings, often tied to high cliffs, floating islands, sky monasteries, or storm cultures.\n\nDESCRIPTION\nHumanlike bodies with birdlike, batlike, or feathered wings; light clothing, wind ornaments, and posture adapted to flight.\n\nUSE IN PLAY\nUse Wingfolk for Cloudspire, sky travel, aerial scouts, isolated cultures, and characters whose social instincts include height, wind, and open space.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Winter Wolf",
+      "group": "U–Z",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nWinter Wolves are magical wolves tied to snow, frost, and old northern territory. Some speak; many hunt with uncanny patience.\n\nDESCRIPTION\nLarge pale wolves with icy breath, blue eyes, frost in their fur, and movement that blends with snow.\n\nSOCIAL / COMBAT USE\nUse for Palegrave, Tide Empire wilds, winter roads, and encounters where cold itself fights with the pack.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "piercing"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "fire"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Wolfkin Beastkin",
+      "group": "U–Z",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nWolfkin Beastkin are a canine beastkin lineage with wolf ears, tails, sharp senses, strong pack instincts, and a colder predatory presence than ordinary dogfolk. They are common in frontier regions, military companies, steppe clans, ranger groups, and dangerous borderlands.\n\nDESCRIPTION\nHumanlike base with wolf ears, tail, sharp eyes, possibly slightly sharper human teeth, and controlled but watchful body language. Do not give them wolf heads, muzzles, paw hands, full fur bodies, digitigrade animal legs, or werewolf-monster anatomy. They should feel alert, social, and dangerous when cornered.\n\nSOCIAL / COMBAT USE\nWolfkin value loyalty, group tactics, territory, and trust earned through action. They are excellent trackers, scouts, ambushers, soldiers, hunters, and bodyguards. Do not make every wolfkin savage; many are disciplined and community-minded.\n\nNAMING CONVENTION\nUse regional names or clan-like names shaped by frontier, military, or steppe culture.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Wood Elf",
+      "group": "U–Z",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nWood Elves are elven peoples bound closely to forests, border groves, hunter paths, ranger traditions, and living roads.\n\nDESCRIPTION\nPointed ears, weathered grace, leaf-dyed clothing, soft armor, bow gear, living-wood charms, and movement quiet enough to seem part of the trees.\n\nSOCIAL / COMBAT USE\nUse for Lythael border scouts, Verdant diplomacy, forest wardens, guides, and hidden watchers. They favor ambush, archery, restraint, and territorial custom.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Wraith",
+      "group": "U–Z",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nWraiths are hungry shadow-undead that drain warmth, courage, memory, or life force. They are more dangerous than common ghosts and often gather lesser undead around them.\n\nDESCRIPTION\nTall shadow forms, crown-like darkness, hollow faces, cold mist, and hands that seem longer than their bodies allow.\n\nUSE IN PLAY\nUse Wraiths as serious undead threats in the Blackbell Deadroads, sealed crypts, plague fields, and ancient battle sites. Their presence should make light, memory, or warmth unreliable.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "slashing",
+        "piercing",
+        "bludgeoning"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Wyvern",
+      "group": "U–Z",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nWyverns are large winged draconic predators distinct from true dragons and ordinary drakes. They possess two powerful hind legs, broad wings, predatory jaws, and dangerous tails, often tipped with venomous spines or stingers.\n\nDESCRIPTION\nLarge reptilian bodies, two clawed hind legs, leathery wings, horned heads, long tails, and heavily scaled hides. They should look like aerial predators rather than smaller four-legged dragons.\n\nSOCIAL / COMBAT USE\nUse Wyverns as mountain predators, cliff-nesting monsters, dangerous mounts for exceptional handlers, territorial beasts, and aerial threats. They fight through diving attacks, bites, claws, tail strikes, and altitude.\n\nNAMING CONVENTION\nUsually use descriptive names, handler-given names, or titles based on color, territory, scars, or behavior.",
+      "resistances": [
+        "slashing",
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Zombie",
+      "group": "U–Z",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nZombies are reanimated dead driven by necromancy, plague curse, corpse-light, or deadland contamination. They are slower and less disciplined than skeletons but more unsettling because their clothing and recognizable traces still suggest the lives they lost.\n\nDESCRIPTION\nUse weathered village clothes, military remnants, clouded eyes, stiff movement, grave-soil stains, unnatural pallor, or hands reaching with dull hunger. Avoid making every zombie identical; a fallen farmer and a dead knight should remain visually distinct.\n\nSOCIAL / COMBAT USE\nZombies overwhelm through numbers, persistence, grappling, bites, and fear. They are usually mindless, but special deadland cases may repeat habits from life or gather around emotional places.\n\nNAMING CONVENTION\nUsually unnamed; use descriptive labels tied to origin.",
+      "resistances": [],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [
+        "fire"
+      ],
+      "spoiler": false
+    }
+  ]
+}

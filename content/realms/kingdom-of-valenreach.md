@@ -1,7 +1,7 @@
 ---
 id: kingdom-of-valenreach
 title: Kingdom of Valenreach
-category: Realms
+category: Countries
 knowledge: common
 status: canon
 ---

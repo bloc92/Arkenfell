@@ -1,0 +1,1110 @@
+{
+  "entries": [
+    {
+      "name": "Random",
+      "group": "Story Starts",
+      "summary": "Begin somewhere in Eldaven, with the location chosen freely and the opening shaped around who your character actually is.",
+      "details": "The opening situation is designed to widen naturally through the people you meet and the choices you make. Expect investigation, travel, and relationships that can redirect the story rather than a single fixed path.",
+      "detailsLabel": "What awaits in play",
+      "facts": [],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Lost Heir: Unproven Blood",
+      "group": "Default",
+      "summary": "A royal summons start. An ordinary Greyhaven morning is interrupted by a sealed Crown carriage asking for you by name. The Crown's interest is recent, dangerous, and unproven.",
+      "details": "Expect questions of lineage, duty, and political legitimacy to grow around the opening problem. Your choices can draw you into noble households, old obligations, and rival ideas about who has the right to lead.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Greyhaven"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Central Square"
+          ]
+        },
+        {
+          "label": "Default start",
+          "value": "Yes"
+        }
+      ],
+      "links": [
+        {
+          "label": "Laurent Veymont",
+          "page": "important-npcs",
+          "target": "Laurent Veymont"
+        },
+        {
+          "label": "Seraphine Ardent",
+          "page": "important-npcs",
+          "target": "Seraphine Ardent"
+        },
+        {
+          "label": "Vaelor",
+          "page": "important-npcs",
+          "target": "Vaelor"
+        },
+        {
+          "label": "Adrien Veymont",
+          "page": "important-npcs",
+          "target": "Adrien Veymont"
+        },
+        {
+          "label": "Alise Veymont",
+          "page": "important-npcs",
+          "target": "Alise Veymont"
+        },
+        {
+          "label": "Celeste Veymont",
+          "page": "important-npcs",
+          "target": "Celeste Veymont"
+        },
+        {
+          "label": "Eliane Veymont",
+          "page": "important-npcs",
+          "target": "Eliane Veymont"
+        },
+        {
+          "label": "Julien Veymont",
+          "page": "important-npcs",
+          "target": "Julien Veymont"
+        },
+        {
+          "label": "Lianne Veymont",
+          "page": "important-npcs",
+          "target": "Lianne Veymont"
+        },
+        {
+          "label": "Lucien Veymont",
+          "page": "important-npcs",
+          "target": "Lucien Veymont"
+        },
+        {
+          "label": "Matthieu Veymont",
+          "page": "important-npcs",
+          "target": "Matthieu Veymont"
+        },
+        {
+          "label": "Mirelle Veymont",
+          "page": "important-npcs",
+          "target": "Mirelle Veymont"
+        },
+        {
+          "label": "Sabine Veymont",
+          "page": "important-npcs",
+          "target": "Sabine Veymont"
+        }
+      ],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "The Argent Inheritance",
+      "group": "Story Starts",
+      "summary": "A noble-inheritance start. An ordinary morning in Aldergate is interrupted by a senior Crown herald carrying conclusive proof that you are the lawful heir to a failing border estate, two ancient titles, and an order that no longer agrees who should command it.",
+      "details": "Expect questions of lineage, duty, and political legitimacy to grow around the opening problem. Your choices can draw you into noble households, old obligations, and rival ideas about who has the right to lead.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Aldergate Town"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Crown Exchange"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Marius Halbrecht",
+          "page": "important-npcs",
+          "target": "Marius Halbrecht"
+        },
+        {
+          "label": "Tasmin Edevane",
+          "page": "important-npcs",
+          "target": "Tasmin Edevane"
+        },
+        {
+          "label": "Valeska Fenrisard-Argenwald",
+          "page": "important-npcs",
+          "target": "Valeska Fenrisard-Argenwald"
+        },
+        {
+          "label": "Elsbeth Fenrisard-Argenwald",
+          "page": "important-npcs",
+          "target": "Elsbeth Fenrisard-Argenwald"
+        },
+        {
+          "label": "Garran Fenrisard-Argenwald",
+          "page": "important-npcs",
+          "target": "Garran Fenrisard-Argenwald"
+        },
+        {
+          "label": "Katren Fenrisard-Argenwald",
+          "page": "important-npcs",
+          "target": "Katren Fenrisard-Argenwald"
+        },
+        {
+          "label": "Lucasta Fenrisard-Argenwald",
+          "page": "important-npcs",
+          "target": "Lucasta Fenrisard-Argenwald"
+        },
+        {
+          "label": "Maela Fenrisard-Argenwald",
+          "page": "important-npcs",
+          "target": "Maela Fenrisard-Argenwald"
+        },
+        {
+          "label": "Orsina Fenrisard-Argenwald",
+          "page": "important-npcs",
+          "target": "Orsina Fenrisard-Argenwald"
+        },
+        {
+          "label": "Renwald Fenrisard-Argenwald",
+          "page": "important-npcs",
+          "target": "Renwald Fenrisard-Argenwald"
+        },
+        {
+          "label": "Severin Fenrisard-Argenwald",
+          "page": "important-npcs",
+          "target": "Severin Fenrisard-Argenwald"
+        },
+        {
+          "label": "Tavian Fenrisard-Argenwald",
+          "page": "important-npcs",
+          "target": "Tavian Fenrisard-Argenwald"
+        }
+      ],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Her Ladyship's Choice",
+      "group": "Story Starts",
+      "summary": "You have only recently arrived in Armathen when Celestina Luporian stops her carriage at Mudgate, takes one look at you, and decides she wants you as another personal attendant. Whether you accept, negotiate, ask for time, or refuse remains your decision.",
+      "details": "The opening situation is designed to widen naturally through the people you meet and the choices you make. Expect investigation, travel, and relationships that can redirect the story rather than a single fixed path.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Lower Armathen"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Mudgate"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Ameline Merrow",
+          "page": "important-npcs",
+          "target": "Ameline Merrow"
+        },
+        {
+          "label": "Branik Dask",
+          "page": "important-npcs",
+          "target": "Branik Dask"
+        },
+        {
+          "label": "Celestina Luporian",
+          "page": "important-npcs",
+          "target": "Celestina Luporian"
+        },
+        {
+          "label": "Dagna Veller",
+          "page": "important-npcs",
+          "target": "Dagna Veller"
+        },
+        {
+          "label": "Yselle Davenant",
+          "page": "important-npcs",
+          "target": "Yselle Davenant"
+        }
+      ],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "The Royal Lists",
+      "group": "Story Starts",
+      "summary": "A tournament and martial-court start. You begin at Highcourt Armathen as a royal tournament draws fighters, nobles, officers, gamblers, healers, and ambitious outsiders.",
+      "details": "Expect questions of lineage, duty, and political legitimacy to grow around the opening problem. Your choices can draw you into noble households, old obligations, and rival ideas about who has the right to lead.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Highcourt Armathen"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Royal Lists"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Greyhaven Guild Notice",
+      "group": "Story Starts",
+      "summary": "A grounded village-adventure start. You begin at Greyhaven's modest Adventurers Guild, where a missing wagon and false road tolls make an ordinary job feel less ordinary.",
+      "details": "The initial job is a doorway into local loyalties, professional rivalries, and obligations that may outlast the original contract. Expect room to choose allies, negotiate terms, and decide how much responsibility to take on.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Greyhaven"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Adventurers Guild"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Wrong Papers in Lower Armathen",
+      "group": "Story Starts",
+      "summary": "An urban investigation start. You begin in Lower Armathen, where workers, servants, porters, and poor families are vanishing behind official-looking papers.",
+      "details": "What begins as a practical obligation can uncover competing claims and people with very different ideas about what is owed. Expect investigation, negotiation, and consequences shaped by whom you trust.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Lower Armathen"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Mudgate"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Crownspire Question",
+      "group": "Story Starts",
+      "summary": "An academy and magical-oversight start. You begin at Crownspire Collegium as a seal, screening notice, or magical classification order proves almost authentic enough to be dangerous.",
+      "details": "Expect questions of lineage, duty, and political legitimacy to grow around the opening problem. Your choices can draw you into noble households, old obligations, and rival ideas about who has the right to lead.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Crownspire Collegium"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Collegium Gate"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Royal Army Muster",
+      "group": "Story Starts",
+      "summary": "A soldier and escort-duty start. You begin in Highcourt's Royal Yard as drills, sealed wagons, courier mounts, and sensitive orders turn ordinary muster into Crown business.",
+      "details": "Expect questions of lineage, duty, and political legitimacy to grow around the opening problem. Your choices can draw you into noble households, old obligations, and rival ideas about who has the right to lead.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Highcourt Armathen"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Royal Yard"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Vaelor",
+          "page": "important-npcs",
+          "target": "Vaelor"
+        }
+      ],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Minor Noble Blood",
+      "group": "Story Starts",
+      "summary": "A court-obligation start. You begin as a member, ward, spare heir, envoy, or dependent of a minor Valenreach noble family trying to survive Highcourt's polite dangers.",
+      "details": "Expect questions of lineage, duty, and political legitimacy to grow around the opening problem. Your choices can draw you into noble households, old obligations, and rival ideas about who has the right to lead.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Highcourt Armathen"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "High Noble Court"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Saltglass Passage",
+      "group": "Story Starts",
+      "summary": "A Stormpearl sea-road start in the Galechain High Isles. A hard storm has damaged the harbor, stripped reef markers away, and left the next safe passage uncertain.",
+      "details": "The first danger opens onto maritime travel, contested routes, and communities shaped by the sea. Expect hazards, discoveries, and difficult choices about what should be recovered, protected, or left alone.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Saltglass Port"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Fishmarket"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Hearthsnow Winter Debt",
+      "group": "Story Starts",
+      "summary": "A Palegrave frontier start in the Frostpine Gatewoods. Winter supplies are late, and an old promise is suddenly worth more than coin.",
+      "details": "What begins as a practical obligation can uncover competing claims and people with very different ideas about what is owed. Expect investigation, negotiation, and consequences shaped by whom you trust.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Hearthsnow Town"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Trade Square"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "The Dead King's Cairn",
+      "group": "Story Starts",
+      "summary": "A high-northern ruin start in the Whitecrown Glacier Range. A familiar memorial site has changed after a night of cracking ice.",
+      "details": "Expect questions of lineage, duty, and political legitimacy to grow around the opening problem. Your choices can draw you into noble households, old obligations, and rival ideas about who has the right to lead.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Dead King's Cairn"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Weathered Approach"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Last Candle Bell",
+      "group": "Story Starts",
+      "summary": "A Blackbell Deadroads containment start. A routine bell signal fails, and nobody agrees whether that means danger or only delay.",
+      "details": "The opening carries older customs and spiritual obligations beneath its immediate danger. Further play may test what you believe, what promises you keep, and how you respond when tradition and necessity conflict.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Last Candle Town"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Last Candle Exchange"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Guest Before Curfew",
+      "group": "Story Starts",
+      "summary": "A Nightglass social start in the Shadowglass Headlands. Dusk approaches, and a disputed guest-right leaves someone without the protection they expected.",
+      "details": "The opening situation is designed to widen naturally through the people you meet and the choices you make. Expect investigation, travel, and relationships that can redirect the story rather than a single fixed path.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Morrowveil Quay"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Guest Exchange"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Reefroad Salvage",
+      "group": "Story Starts",
+      "summary": "A Stormpearl salvage start in the Stormbreak Reefroads. A wreck has appeared where yesterday there was only rough water, and several crews want first claim.",
+      "details": "The first danger opens onto maritime travel, contested routes, and communities shaped by the sea. Expect hazards, discoveries, and difficult choices about what should be recovered, protected, or left alone.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Gullspire Harbor"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Exchange"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Thornveil Courtesy",
+      "group": "Story Starts",
+      "summary": "A Lythael border start in the Elderwood Crownwoods. The road is open, but the route you are permitted to take is suddenly not the route you expected.",
+      "details": "Expect questions of lineage, duty, and political legitimacy to grow around the opening problem. Your choices can draw you into noble households, old obligations, and rival ideas about who has the right to lead.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Thornveil Borderwood"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "River Gate"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Papers at Graven Ash",
+      "group": "Story Starts",
+      "summary": "A Dreadmark border start in the Highwind Escarpments. A routine permit check becomes dangerous because two official records disagree.",
+      "details": "What begins as a practical obligation can uncover competing claims and people with very different ideas about what is owed. Expect investigation, negotiation, and consequences shaped by whom you trust.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Graven Ash Borderfort"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Contract Gate"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Rimeholt Winter Oath",
+      "group": "Story Starts",
+      "summary": "A Tide Empire provincial start in the Deepforge Highlands. An old local promise collides with an imperial supply order before winter.",
+      "details": "The opening carries older customs and spiritual obligations beneath its immediate danger. Further play may test what you believe, what promises you keep, and how you respond when tradition and necessity conflict.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Rimeholt Assembly"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Tide Exchange"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Brinehall Beacon Duty",
+      "group": "Story Starts",
+      "summary": "An Eldmark coastal start on the Runehall Pine Coast. Two signal stations report the same incoming ship in incompatible ways.",
+      "details": "The first danger opens onto maritime travel, contested routes, and communities shaped by the sea. Expect hazards, discoveries, and difficult choices about what should be recovered, protected, or left alone.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Brinehall Port"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Market Quay"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Rootbound Trail",
+      "group": "Story Starts",
+      "summary": "A wilderness-community start in the Great Greenwild. A familiar path no longer leads where local guides expect it to.",
+      "details": "The journey soon becomes more than reaching a destination. Expect encounters along the road, shifting companions, local disputes, and choices that may change which routes—and relationships—remain open.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Rootbound Moot"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Barter Hollow"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Quicksilver Notice",
+      "group": "Story Starts",
+      "summary": "A low-status magical start in the Crownlake Heartlands. A cheap work notice carries the wrong hazard classification—and the supposedly dormant job is not as dormant as advertised.",
+      "details": "Expect questions of lineage, duty, and political legitimacy to grow around the opening problem. Your choices can draw you into noble households, old obligations, and rival ideas about who has the right to lead.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Quicksilver Apprentices Quarter"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Prism Arcade"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Khar Voss Work Detail",
+      "group": "Story Starts",
+      "summary": "A Dreadmark labor start in the Blackroad Borderlands. An injured shift has come back early, but the quota order says the next detail goes into the same section anyway.",
+      "details": "The initial job is a doorway into local loyalties, professional rivalries, and obligations that may outlast the original contract. Expect room to choose allies, negotiate terms, and decide how much responsibility to take on.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Khar Voss Labor Citadel"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Outer Courtyard"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Northstar Dispatch",
+      "group": "Story Starts",
+      "summary": "A road-and-weather start in the Dawnwater Shorelands. A Tide Empire relay expects a courier who should already have arrived.",
+      "details": "The first danger opens onto maritime travel, contested routes, and communities shaped by the sea. Expect hazards, discoveries, and difficult choices about what should be recovered, protected, or left alone.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Northstar Courier Road"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Tide Exchange"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Westleaf Storm Signal",
+      "group": "Story Starts",
+      "summary": "A skerry-coast weather start in the Stormcarved Skerries. A veteran warning signal rises under a clear sky while the sea itself begins showing signs the horizon does not.",
+      "details": "Survival pressure and isolation make every alliance matter. Further play can expand into journeys through hostile weather, strained settlements, and decisions about whose needs come first when resources run thin.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Westleaf Harbor"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Fishmarket"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "The Drowned Pylon",
+      "group": "Story Starts",
+      "summary": "A Coral Throne exploration start on the Drowned Green Coast. A low tide exposes more of an old pylon ruin than local charts record.",
+      "details": "The first danger opens onto maritime travel, contested routes, and communities shaped by the sea. Expect hazards, discoveries, and difficult choices about what should be recovered, protected, or left alone.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Drowned Pylon Ruin"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Reedwater Approach"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Copperwake Contract",
+      "group": "Story Starts",
+      "summary": "A Solmire urban start in the Ledgerbay Harbors. A canal work contract is valid on paper and impossible in practice.",
+      "details": "The initial job is a doorway into local loyalties, professional rivalries, and obligations that may outlast the original contract. Expect room to choose allies, negotiate terms, and decide how much responsibility to take on.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Copperwake Canal District"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Copperwake Exchange"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Fang Moot Challenge",
+      "group": "Story Starts",
+      "summary": "A Fangbound start in the Thundergrass Steppe. A dispute over a herd route becomes a public test of reputation without requiring combat.",
+      "details": "The opening conflict can grow into questions of command, loyalty, and reputation. Expect rivals and allies to judge how you handle danger, authority, and the cost of standing by a cause.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Great Fang Moot"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Great Trading Ring"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Ash on the Salt Road",
+      "group": "Story Starts",
+      "summary": "A Sunroad Coast frontier start. A weary convoy arrives carrying ash sickness, conflicting papers, and people whom neighboring powers distrust for different reasons.",
+      "details": "What begins as a practical obligation can uncover competing claims and people with very different ideas about what is owed. Expect investigation, negotiation, and consequences shaped by whom you trust.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Rider's Salt Market"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Well Market"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Outer Pearl Pilot",
+      "group": "Story Starts",
+      "summary": "A far-reef navigation start in the Sapphire Outer Reefs. The pilot is present, the convoy is ready, and the familiar channel is suddenly the one route they refuse to use.",
+      "details": "The first danger opens onto maritime travel, contested routes, and communities shaped by the sea. Expect hazards, discoveries, and difficult choices about what should be recovered, protected, or left alone.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Outer Pearl Harbor"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Lagoon Court"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Tideglass Debt",
+      "group": "Story Starts",
+      "summary": "A lagoon-market start in the Pearlwater Lagoons. A missing diver leaves a pearl debt, a family promise, and a tide-window nobody can extend.",
+      "details": "What begins as a practical obligation can uncover competing claims and people with very different ideas about what is owed. Expect investigation, negotiation, and consequences shaped by whom you trust.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Tideglass Market"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Pearl Exchange"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Southbond Convoy",
+      "group": "Story Starts",
+      "summary": "A frontier-commerce start in the Wolfroad Marches. Customs finds an unlisted sealed package hidden in an otherwise ordinary convoy, and nobody admits loading it.",
+      "details": "The journey soon becomes more than reaching a destination. Expect encounters along the road, shifting companions, local disputes, and choices that may change which routes—and relationships—remain open.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Southbond Customs Post"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Pilgrim Writ",
+      "group": "Story Starts",
+      "summary": "A Solarian pilgrimage start in the Sunspine Pilgrimlands. The morning cleansing basin runs dry just before a procession, and sacred travel procedure suddenly depends on a very practical water problem.",
+      "details": "What begins as a practical obligation can uncover competing claims and people with very different ideas about what is owed. Expect investigation, negotiation, and consequences shaped by whom you trust.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Mirrorgold Pilgrim Baths"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Pilgrim Arcade"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Vowmarket Contract",
+      "group": "Story Starts",
+      "summary": "An Emberhorn civic-and-craft start in the Ashglass Volcanoes. A commissioned public work cracks during its proofing, and the witnessed contract now makes the failure everyone's business.",
+      "details": "The initial job is a doorway into local loyalties, professional rivalries, and obligations that may outlast the original contract. Expect room to choose allies, negotiate terms, and decide how much responsibility to take on.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Vowmarket Town"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Contract Market"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Seven Winds Crossing",
+      "group": "Story Starts",
+      "summary": "A Cloudspire vertical-travel start. A damaged wind bridge turns an ordinary crossing into a problem of engineering, weather, and landing rights.",
+      "details": "The journey soon becomes more than reaching a destination. Expect encounters along the road, shifting companions, local disputes, and choices that may change which routes—and relationships—remain open.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Seven Winds Monastery"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Seven Winds Gate"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Anvilroot Deep-Road Claim",
+      "group": "Story Starts",
+      "summary": "An Ironroot craft-and-expedition start. A deep-road work crew fails to return, and two clans disagree over who has authority to reopen the route.",
+      "details": "The journey soon becomes more than reaching a destination. Expect encounters along the road, shifting companions, local disputes, and choices that may change which routes—and relationships—remain open.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Kar Anvilroot"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Forge Market"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Nineferry Charter",
+      "group": "Story Starts",
+      "summary": "A Hollowmere border-law start. Two local authorities claim the same ferry toll, and both can show paperwork older than the other side wants to admit.",
+      "details": "The initial job is a doorway into local loyalties, professional rivalries, and obligations that may outlast the original contract. Expect room to choose allies, negotiate terms, and decide how much responsibility to take on.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Nineferry Landing"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Sail Market"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Ashford Broken Banner",
+      "group": "Story Starts",
+      "summary": "A Broken Crownlands start. A town uses three old authorities at once because none is strong enough to replace the others.",
+      "details": "Expect questions of lineage, duty, and political legitimacy to grow around the opening problem. Your choices can draw you into noble households, old obligations, and rival ideas about who has the right to lead.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Ashford Claimant Town"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Banner Square"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Freefang Protection Price",
+      "group": "Story Starts",
+      "summary": "A Freefang underworld start in the Wolfroad Marches. The market's protection contract expires at noon, and a rival company chooses the worst possible moment to offer a more expensive replacement.",
+      "details": "The initial job is a doorway into local loyalties, professional rivalries, and obligations that may outlast the original contract. Expect room to choose allies, negotiate terms, and decide how much responsibility to take on.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Freefang Blackmarket"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Free Exchange"
+          ]
+        }
+      ],
+      "links": [],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "The Roads Return",
+      "group": "Story Starts",
+      "summary": "A long-form Broken Crownlands start. You are an ordinary resident of Coinstill, a small crossroads village where old authority has faded into custom, reputation, patrols, forgotten records, and whatever people can actually make work. The roads are becoming safer, trade is returning, and abandoned land is worth settling again. Nothing has been decided about what Coinstill—or you—will become.",
+      "details": "Expect questions of lineage, duty, and political legitimacy to grow around the opening problem. Your choices can draw you into noble households, old obligations, and rival ideas about who has the right to lead.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Coinstill Village"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Crossroads Common"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Bessa Orl",
+          "page": "important-npcs",
+          "target": "Bessa Orl"
+        },
+        {
+          "label": "Bram Toller",
+          "page": "important-npcs",
+          "target": "Bram Toller"
+        },
+        {
+          "label": "Ceryn Moss",
+          "page": "important-npcs",
+          "target": "Ceryn Moss"
+        },
+        {
+          "label": "Hollan Cress",
+          "page": "important-npcs",
+          "target": "Hollan Cress"
+        },
+        {
+          "label": "Keir Mallow",
+          "page": "important-npcs",
+          "target": "Keir Mallow"
+        },
+        {
+          "label": "Maren Halren",
+          "page": "important-npcs",
+          "target": "Maren Halren"
+        },
+        {
+          "label": "Nella Quill",
+          "page": "important-npcs",
+          "target": "Nella Quill"
+        },
+        {
+          "label": "Oswin Dreel",
+          "page": "important-npcs",
+          "target": "Oswin Dreel"
+        }
+      ],
+      "linksLabel": "NPCs you may encounter"
+    }
+  ]
+}
+

@@ -1,0 +1,520 @@
+{
+  "realm": "Arkenfell",
+  "entries": [
+    {
+      "name": "Naga",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nNaga are serpent-bodied intelligent beings associated with old temples, water rites, hidden knowledge, poison, prophecy, or guardian duty.\n\nDESCRIPTION\nHumanoid upper body with serpent lower body, scaled patterns, jeweled or ritual adornment, and eyes that suggest old memory.\n\nUSE IN PLAY\nUse Naga as temple guardians, desert oracle-figures, river spirits, or dangerous scholars. They can be allies, enemies, or tests of respect.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "poison"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Nemesis",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "A named enemy who survived combat with the player and holds a genuine personal grudge. Always calibrated to be a meaningful challenge at the player's current power level. Prioritizes survival above all else — retreats when losing, returns stronger and more specifically prepared. May operate alone or build allies depending on personality. Never harasses the player constantly; acts deliberately and with preparation. Power scales upward each time they return.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Nemesis Agent",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "An operative dispatched by an active nemesis to act against the player. More capable than generic enemies — scaled to give the player a genuine but winnable fight. Their specific capabilities reflect the nemesis's current resources and knowledge of the player's tactics. Failed agents teach the nemesis what doesn't work, making future dispatches more targeted.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Nightmare Chimera",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nNightmare Chimeras are powerful dream-born creatures combining multiple animal, monster, and symbolic forms around a dominant nightmare theme. They are among the strongest naturally occurring Nightmare Beasts and normally appear only in deep, repeated, shared, or magically reinforced nightmares.\n\nDESCRIPTION\nLarge brightly colored bodies mixing incompatible dream anatomy such as lion paws, bird wings, serpent tails, antlers, fins, masks, bells, eyes, clouds, gears, ribbons, floating limbs, or impossible decorative structures. Their forms should look intentionally dreamlike rather than biologically mutated like ordinary Chimeras.\n\nSOCIAL / COMBAT USE\nUse Nightmare Chimeras as major dream encounters. They may shift between movement styles, alter dream terrain, summon lesser Nightmare Beasts, change scale, use several symbolic attacks, or embody multiple related fears at once. Defeating one should meaningfully stabilize the surrounding dream-space without automatically resolving the waking problem, curse, trauma, ritual, or magical breach responsible for the nightmare.\n\nNAMING CONVENTION\nImportant specimens should receive unique symbolic titles based on the dream or fear they embody. Otherwise use Nightmare Chimera.",
+      "resistances": [
+        "psychic",
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "radiant"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Nightmare Flutter",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nNightmare Flutters are small aerial Nightmare Beasts associated with distraction, fragmented attention, restless sleep, and dreams that refuse to remain focused on one place or idea.\n\nDESCRIPTION\nColorful batlike, mothlike, birdlike, or winged hybrid forms with enormous eyes, patterned wings, trailing ribbons, decorative crests, and several overlapping silhouettes during fast movement.\n\nSOCIAL / COMBAT USE\nUse Flutters in groups to disrupt concentration. They obscure important details, steal symbolic objects, lure characters away from stable landmarks, interrupt deliberate actions, and swarm around dreamers trying to understand what is happening. Their dream nature resists Psychic pressure, but strong wind disrupts their aerial control even inside many dream environments.\n\nNAMING CONVENTION\nFlutter, Dreamwing, Nightmare Moth, Sleepbat, and similar local or dream-created names.",
+      "resistances": [
+        "psychic"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "wind"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Nightmare Maw",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nNightmare Maws are large oneiric predators that consume stable dream imagery and deepen ordinary dreams into fragmented nightmares. What they consume is dream structure rather than a literal person's soul or physical memory.\n\nDESCRIPTION\nLarge colorful beastlike bodies dominated by oversized mouths, layered teeth, floating jaws, patterned tongues, decorative markings, and voidlike openings surrounded by otherwise surreal or playful dream anatomy.\n\nSOCIAL / COMBAT USE\nUse Nightmare Maws to progressively destabilize a dream. They consume exits, safe locations, familiar faces, comforting imagery, landmarks, or other stabilizing dream elements. As the dream loses structure, navigation and resistance become harder. Defeating or interrupting a Maw allows consumed dream elements to return gradually rather than instantly revealing objective truth. They resist Psychic pressure and physical impact but are vulnerable to radiant stabilization.\n\nNAMING CONVENTION\nNightmare Maw, Dream Eater, Sleep Devourer, Memory Maw, or a symbolic title based on what it consumes.",
+      "resistances": [
+        "psychic",
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "radiant"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Nightmare Oracle",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nNightmare Oracles are intelligent-seeming Nightmare Beasts that manipulate symbols, expectation, memory fragments, and dream scenery. They may speak or present riddles but do not possess reliable prophecy merely because dreams surround them.\n\nDESCRIPTION\nColorful owl, monkey, amphibian, masked humanoid, or hybrid dream forms surrounded by floating symbols, bells, cards, moons, eyes, doors, keys, clocks, fragments of scenery, or other dream objects.\n\nSOCIAL / COMBAT USE\nUse Oracles as dream manipulators and encounter controllers. They create false doors, duplicate symbolic objects, remove memories from context, move landmarks, change apparent scale, and weaponize what dreamers expect to happen. Their statements should follow dream logic and may be true, misleading, metaphorical, or nonsense. Psychic and Arcane attacks are less effective against their oneiric structure, while radiant effects can expose contradictions and destabilize them.\n\nNAMING CONVENTION\nOracle, Dream Sage, Nightmare Seer, Sleep Prophet, or a unique symbolic name created inside the dream.",
+      "resistances": [
+        "psychic",
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "radiant"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Nightmare Prowler",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nNightmare Prowlers are predatory Nightmare Beasts native to unstable dreams, shared dream-spaces, magical sleep, and other established oneiric environments. They are not ordinary animals, Fey by default, or harmless symbolic hallucinations. They normally require a dream breach, cursed sleeper, failed Dream Arcana working, magical artifact, or similar connection to affect waking reality.\n\nDESCRIPTION\nBrightly patterned feline, foxlike, or other predator-shaped dream bodies with oversized paws, curled horns or ears, luminous eyes, unnatural stripes, decorative markings, and proportions that shift subtly during movement. Their appearance may be colorful or whimsical despite predatory behavior.\n\nSOCIAL / COMBAT USE\nUse Prowlers to hunt dreamers through repeating spaces and symbolic terrain. They stalk, leap between dream landmarks, vanish behind impossible scenery, attack isolated dreamers, and exploit fear-driven decisions. Their movement may ignore ordinary spatial continuity while remaining consistent with the dream's established logic. Psychic attacks are less effective against creatures made from dream cognition, while radiant power can stabilize and expose their forms.\n\nNAMING CONVENTION\nProwler, Dream Cat, Nightmare Hunter, Sleep Stalker, or symbolic names assigned within the dream.",
+      "resistances": [
+        "psychic"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "radiant"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Nightmare Ram",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nNightmare Rams are charging dream-beasts associated with pressure, inevitability, stubborn repetition, approaching impact, and dreams where the same danger returns no matter how often it is avoided.\n\nDESCRIPTION\nColorful ram, bull, goat, or horned beast forms with spiraling markings, enormous horns, luminous hooves, oversized shoulders, and bodies that may enlarge slightly during a charge.\n\nSOCIAL / COMBAT USE\nUse Nightmare Rams to create obvious but dangerous charge lanes. They gather momentum, break dream scenery, knock dreamers through symbolic barriers, and repeat patterns until those patterns are understood or disrupted. Clever characters can redirect them into obstacles, other Nightmares, or unstable dream structures. They resist Psychic pressure and ordinary impact but are vulnerable to radiant stabilization.\n\nNAMING CONVENTION\nNightmare Ram, Dream Charger, Horned Dream, or symbolic names related to whatever pressure the dream represents.",
+      "resistances": [
+        "psychic",
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "radiant"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Nightmare Serpent",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nNightmare Serpents are long oneiric predators associated with pursuit, hidden fear, temptation, entrapment, repetition, and dreams in which paths continually circle back upon themselves.\n\nDESCRIPTION\nBrightly colored serpent or dragonlike dream bodies with impossible loops, patterned scales, floating fins, multiple tails, decorative horns, or sections that disappear into one surface and emerge from another without normal physical continuity.\n\nSOCIAL / COMBAT USE\nUse Nightmare Serpents to manipulate dream geography. They coil around exits, separate dreamers, create repeating paths, constrict symbolic spaces, and strike through locations that should not physically connect. Their advantage weakens when characters recognize the false geometry or deliberately impose more stable dream logic. They resist Psychic and Arcane effects but are vulnerable to radiant stabilization.\n\nNAMING CONVENTION\nNightmare Serpent, Dream Coil, Loop-Wyrm, Sleep Snake, or a symbolic name created by the dream.",
+      "resistances": [
+        "psychic",
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "radiant"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Nightmare Shellback",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nNightmare Shellbacks are heavily protected dream-beasts whose symbolic defenses make direct confrontation deliberately inefficient. They often appear where a dream is resisting change, protecting something, or trapping a dreamer behind repeated defensive patterns.\n\nDESCRIPTION\nColorful turtlelike, beetlelike, armadillolike, or composite bodies with oversized shells, rotating patterns, luminous seams, decorative plates, and small vulnerable features hidden beneath large protective surfaces.\n\nSOCIAL / COMBAT USE\nUse Shellbacks as defensive obstacles rather than simple high-health enemies. They block dream paths, shelter smaller Nightmares, curl into moving barriers, roll through unstable terrain, and resist straightforward physical attacks. Force can disrupt their symbolic defensive cohesion, while environmental manipulation, exposed weak points, or turning their momentum against them should also work.\n\nNAMING CONVENTION\nShellback, Dream Fortress, Nightmare Shell, Sleep Bastion, or similar defensive names.",
+      "resistances": [
+        "psychic",
+        "slashing",
+        "piercing",
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "force"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Noble War Beast",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nNoble War Beasts are trained animals or monsters kept by houses, armies, or elite handlers for battle and display.\n\nDESCRIPTION\nLarge disciplined beasts with house colors, armor plates, handler marks, and behavior shaped by training more than wild instinct.\n\nSOCIAL / COMBAT USE\nUse for Valenreach nobles, Dreadmark officers, Tide Empire riders, and tournament spectacle. The handler often matters as much as the beast.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Nosferatu",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nNosferatu are visibly monstrous vampires or old bloodlines that have abandoned or lost courtly restraint.\n\nDESCRIPTION\nGaunt bodies, long fingers, batlike ears or faces, exposed fangs, old grave smell, and movements too quick for their ruined shape.\n\nSOCIAL / COMBAT USE\nUse for sewer horror, failed vampire houses, feral crypts, and the terrifying opposite of elegant Nightglass law.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [
+        "fire"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Npc Types Descriptions",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "DESCRIPTION RULE\nAlways include defining physical traits. Tieflings have pointy ears, small back-swept horns, and spade-tipped tails. Civilized Demons and True Demons have visible demonic traits such as horns, tails, claws, unusual eyes, ember markings, wings, or infernal presence. Beastkin have fully humanlike faces and bodies with limited animal traits such as ears, tails, horns, feathers, subtle scales, or heightened senses depending on lineage. Dragonfolk are fully draconic humanoids with scales, dragonlike heads, horns, claws, and tails, and are normally wingless. Dragonkin retain fully humanlike faces, skin, hands, feet, and body proportions while displaying draconic horns, a scaled tail, wings, and possible small scale accents. Lizardfolk are fully reptilian humanoids with reptilian heads, scales, tails, and claws but no inherent dragon ancestry. Orcs have tusks, broad faces, greenish skin, and powerful builds. Ogres are much larger and red-skinned. Trolls are blue-skinned with long limbs and regeneration. Elves have pointed ears. Dwarves are short, broad, dense, and sturdy. Undead should visibly show their state through bones, grave marks, unnatural pallor, spectral form, or weathered burial remnants.\n\nCLOTHING RULE\nClothing should reflect role, wealth, culture, and region. Do not dress every nonhuman as tribal or primitive. Adapt clothing and equipment to anatomy where necessary, including horns, tails, wings, shells, unusual size, or additional limbs.\n\nUSE RULE\nNPC Types describe species, lineages, creature templates, and broad supernatural categories. Individual named people belong in NPCs, not here.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Npc Types Naming Convention 1",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "NAMING RULE\nGenerated names should match region, race, rank, and role. Valenreach noble names tend toward elegant courtly fantasy; Greyhaven and rural names are simpler and practical. The Tide Empire uses older imperial, river, coast, and military names. Lythael elves use melodic names tied to nature, stars, seasons, memory, and lineages. Solarian Theocracy names sound temple-scholarly, ceremonial, or devotional. Dreadmark names feel hard, martial, disciplined, and hierarchical. Solmire names may sound mercantile, coastal, cosmopolitan, or family-house based. Arcanum names may sound scholarly, formal, arcane, or academy-shaped. Emberhorn Accord names should sound infernal, formal, legalistic, noble, or fire-forged without making every demon sound evil.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Npc Types Naming Convention 2",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "RACE NAMING\nHumans use regional culture. Elves use flowing names tied to nature, stars, seasons, old lineages, and courts. Dwarves use sturdy names with craft, stone, clan, forge, or mountain associations. Tieflings may use human names, adopted names, or names marked by old infernal heritage. Civilized Demons use formal infernal names, house names, contract titles, or honorifics. Beastkin names follow the culture they live in unless their lineage maintains family traditions. Dragonfolk, Dragonkin, and Lizardfolk normally use names from the culture in which they were raised; isolated or lineage-focused communities may preserve distinct draconic, reptilian, clan, or ancestral naming traditions. Goblins, orcs, ogres, trolls, and kobolds may use harsher, simpler, clan-based, or translated names unless raised inside another settled culture. Dragons use ancient titles, elemental epithets, or names that sound older than kingdoms. Undead may keep old names, titles, or descriptive haunting names.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Nullborn Berserker",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nNullborn Berserkers are heavy combat remnants dominated by the repeated pattern of overwhelming force, destructive momentum, and brutal weapon use. Despite the name, they are not emotionally enraged; their violence is cold repetition without anger.\n\nDESCRIPTION\nLarge pale bodies with black seams, oversized weaponlike structures, heavy shoulders, smooth masks, and violent movements executed with eerie expressionlessness. Their weapons may separate, return, extend, or reform as part of the Nullborn body.\n\nSOCIAL / COMBAT USE\nUse Nullborn Berserkers as heavy melee threats. They make enormous sweeping attacks, throw and recall heavy weapon structures, break formations, destroy cover, and force opponents to respect their attack arcs. Their manifested bodies resist ordinary Soul effects, slashing, and impact, but concentrated force can break the pattern binding their mass together.\n\nNAMING CONVENTION\nBerserker, Pale Breaker, Heavy Null, Silver Brute, or Null Crusher.",
+      "resistances": [
+        "soul",
+        "slashing",
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "force"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Nullborn Creeper",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nNullborn Creepers are the simplest stable Nullborn: supernatural remnants formed when severe magical disruption leaves behind an empty pattern of movement, identity, purpose, or will. They are not ghosts, undead souls, Void creatures, or the surviving consciousness of the person or creature whose disrupted existence contributed to their formation.\n\nDESCRIPTION\nThin pale humanoid forms with smooth featureless heads, black or silver seams, elongated fingers, and bodies capable of bending through angles that living anatomy should not permit. Their movements are fluid, quiet, and unnervingly deliberate.\n\nSOCIAL / COMBAT USE\nUse Nullborn Creepers as basic skirmishers. They sway, fold, stretch, slide beneath attacks, strike from unusual body positions, and coordinate instinctively with other Nullborn. Soul-targeting effects have little ordinary spiritual structure to engage, while concentrated force can disrupt the unnatural pattern holding them together.\n\nNAMING CONVENTION\nCreeper is the standard scholarly classification. Local names may refer to pale bodies, facelessness, folding movement, or unnatural flexibility.",
+      "resistances": [
+        "soul"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "force"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Nullborn Dancer",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nNullborn Dancers are agile manifestations shaped by residual patterns of movement, rhythm, coordination, performance, and physical memory. Their grace is copied structure rather than joy, artistry, or personality.\n\nDESCRIPTION\nSlender silver-white humanoids with ribbonlike limbs, smooth masks, black seams, flowing geometric extensions, and movements resembling elegant dance stripped of emotion. Their bodies may twist and extend beyond ordinary anatomical limits without appearing wounded.\n\nSOCIAL / COMBAT USE\nUse Nullborn Dancers for displacement and battlefield control. They spin between opponents, redirect momentum, seize or pull enemies out of formation, evade direct attacks, and create openings for other Nullborn. They are difficult to destabilize through emotional or soul-targeting attacks but vulnerable when raw magical force interrupts their precise cohesion.\n\nNAMING CONVENTION\nDancer, Ribbon Null, Pale Dancer, and Silver Dancer are common names.",
+      "resistances": [
+        "soul",
+        "psychic"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "force"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Nullborn Duelist",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nNullborn Duelists are sophisticated martial Nullborn carrying residual patterns of swordplay, challenge, stance, timing, counterattack, and individual combat discipline. Their skill may resemble remembered technique without containing the original fighter's personality.\n\nDESCRIPTION\nHumanlike but faceless pale forms with elegant proportions, narrow black markings, smooth armorlike surfaces, and long blade-shaped manifestations drawn directly from their arms or hands.\n\nSOCIAL / COMBAT USE\nUse Nullborn Duelists as elite melee enemies. They parry, counter, wait for commitment, punish repeated tactics, isolate individual opponents, and respond to predictable fighting patterns. Their demeanor is cold and formal rather than angry. Slashing attacks interact poorly with their fluid blade-shaped bodies, while force destabilizes their structural pattern.\n\nNAMING CONVENTION\nDuelist, Pale Blade, Silver Swordsman, or Blade Null.",
+      "resistances": [
+        "soul",
+        "slashing"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "force"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Nullborn Lancer",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nNullborn Lancers are martial manifestations shaped around persistent patterns of reach, charge, guard routines, formation fighting, and weapon memory. They can reproduce disciplined movement without possessing a soldier's actual identity or allegiance.\n\nDESCRIPTION\nTall pale figures with narrow masks, segmented armorlike surfaces, black geometric seams, and elongated spear-shaped limbs or conjured pale lances. Their posture is unnaturally formal and controlled.\n\nSOCIAL / COMBAT USE\nUse Nullborn Lancers to control distance. They punish careless approaches, coordinate charges, leap or descend into thrusts, defend narrow lanes, and support other Nullborn from behind a frontline. Piercing attacks are less effective against their narrow flexible construction, while force can break the magical geometry maintaining their bodies.\n\nNAMING CONVENTION\nLancer, Pale Spear, Long Null, and Silver Lance are common classifications.",
+      "resistances": [
+        "soul",
+        "piercing"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "force"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Nullborn Sniper",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nNullborn Snipers form from persistent patterns of aim, observation, patience, calculation, ranged combat, or repetitive target acquisition. They possess no true hunting instinct and instead behave like living firing solutions.\n\nDESCRIPTION\nLean pale bodies with elongated masks, lenslike markings, narrow limbs, and geometric ranged weapons that unfold from their arms, shoulders, or surrounding space.\n\nSOCIAL / COMBAT USE\nUse Nullborn Snipers for deliberate ranged pressure. They reposition before firing, predict obvious movement lanes, punish stationary targets, exploit open sightlines, and force opponents to use cover. Their empty cognition resists many psychic and soul-directed effects, but concentrated force can disrupt their manifested structure.\n\nNAMING CONVENTION\nSniper, Long-Eye, Pale Archer, Needle Null, and Silver Marksman are common classifications.",
+      "resistances": [
+        "soul",
+        "psychic"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "force"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Nullborn Sorcerer",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nNullborn Sorcerers are spell-pattern manifestations that reproduce abstract magical structure without understanding Arcana as a living mage does. They form most readily around magical severance involving trained casters, ritual machinery, failed transit, or sophisticated magical environments.\n\nDESCRIPTION\nFloating pale forms surrounded by cubes, rings, spheres, glyph fragments, cards, plates, or other precise geometric shapes moving without visible support. Their bodies often appear secondary to the patterns orbiting them.\n\nSOCIAL / COMBAT USE\nUse Nullborn Sorcerers to create barriers, orbiting projectiles, controlled zones, shifting geometric attacks, and repeated magical patterns. Their magic should feel mathematical and impersonal rather than emotional or elemental. They resist ordinary Arcane interference, Psychic pressure, and Soul effects better than most Nullborn, but force can break apart the geometry maintaining them.\n\nNAMING CONVENTION\nSorcerer, Pale Geometer, Null Arcanist, and Silver Caster are common classifications.",
+      "resistances": [
+        "soul",
+        "psychic",
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "force"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Nullborn Trickster",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nNullborn Tricksters carry residual patterns associated with games, wagers, deception, performance, staged uncertainty, contracts, rules, or repeated acts of manipulation. They do not possess humor or ambition in the normal sense but reproduce the structure of contests and tricks.\n\nDESCRIPTION\nPale masked figures with shifting black symbols and floating cards, cubes, rings, tokens, mirrors, dice-like shapes, or other geometric ornaments that move around them according to temporary rules.\n\nSOCIAL / COMBAT USE\nUse Nullborn Tricksters for encounters with learnable changing rules. They create false targets, marked spaces, rotating danger zones, temporary transformations, patterned hazards, or attacks whose conditions can be observed and exploited. Their behaviour should seem unpredictable at first but reveal consistent structure. Psychic and soul-directed attacks have limited purchase, while force disrupts their manifested rules and forms.\n\nNAMING CONVENTION\nTrickster, Pale Gambler, Rulemaker, Game Null, or Silver Dealer.",
+      "resistances": [
+        "soul",
+        "psychic"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "force"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Nymph",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nNymphs are powerful nature spirits tied to springs, groves, mountains, meadows, or sacred places.\n\nDESCRIPTION\nBeautiful or uncanny humanoid forms with features matching the place: flowers, water, stone, sunlight, leaves, or mist.\n\nSOCIAL / COMBAT USE\nUse for sacred locations, tempting bargains, healing, curses, and scenes where beauty has rules and consequences.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Oasis Spirit",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nOasis Spirits are local water and life spirits bound to desert wells, gardens, and hidden springs.\n\nDESCRIPTION\nHumanoid or animal forms of water, date leaves, flowers, cool mist, and voices like shade after heat.\n\nSOCIAL / COMBAT USE\nUse for guide bargains, water law, healing, and desert scenes where survival depends on respect.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Oath Spirit",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nOath Spirits are spiritual entities formed from vows, witness rites, broken promises, and ancient contracts.\n\nDESCRIPTION\nHumanoid or symbolic figures of light, shadow, ink, chain, or breath, often carrying the mark of the oath.\n\nSOCIAL / COMBAT USE\nUse for Valenreach law, Emberhorn contracts, Nightglass blood debt, and places where words still bind after death.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "arcane"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Oathbound Dead",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nOathbound Dead are corpses or spirits animated by vows that outlived the people who swore them. They may guard gates, roads, tombs, records, or commands nobody alive understands.\n\nDESCRIPTION\nDead soldiers, servants, priests, or guards with oath marks, preserved uniforms, ritual cords, or gestures repeated long after meaning has faded.\n\nUSE IN PLAY\nUse Oathbound Dead as tragic guardians, puzzle-like enemies, or witnesses to old political or military history. They may stand down if an oath is properly answered.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "piercing"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Obsidian Golem",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nObsidian Golems are volcanic glass constructs tied to Emberhorn, Ashen Maw, or ancient fire rites.\n\nDESCRIPTION\nBlack glass bodies with jagged edges, red inner cracks, horned masks, and footsteps like stone breaking.\n\nSOCIAL / COMBAT USE\nUse for infernal courts, volcanic temples, forbidden vaults, and guardians that punish careless strikes.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "slashing",
+        "fire"
+      ],
+      "immunities": [
+        "poison"
+      ],
+      "vulnerabilities": [
+        "bludgeoning"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Obsidian Horned Beast",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nObsidian Horned Beasts are volcanic monsters with black glass hide and horned skulls, common near infernal or volcanic regions.\n\nDESCRIPTION\nDark glassy bodies, jagged horns, red cracks, heavy hooves or claws, and a hide that chips like broken blade stone.\n\nSOCIAL / COMBAT USE\nUse for Emberhorn wilds, Ashen Maw borders, lava roads, and dangerous mounts or sacrifices.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "slashing",
+        "fire"
+      ],
+      "immunities": [],
+      "vulnerabilities": [
+        "bludgeoning"
+      ],
+      "spoiler": false
+    },
+    {
+      "name": "Octopusfolk",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nOctopusfolk are flexible aquatic humanoids with tentacle traits, clever hands, camouflage instincts, and deep-water social patterns.\n\nDESCRIPTION\nHumanoid upper shape with tentacle hair, supple limbs, color-shifting skin, large eyes, and gestures that ripple through the body.\n\nSOCIAL / COMBAT USE\nUse for spies, scholars, reef diplomats, undersea artists, salvage crews, and characters whose thinking feels fluid rather than alien evil.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Ogre",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nOgres are massive red-skinned humanoids with tusked mouths, huge hands, thick bones, and immense strength. They are larger than orcs and often feared as living siege weapons. Many are slow-thinking and direct, but not all are identical; rare ogres can become cunning leaders, shamans, bodyguards, mercenaries, or terrifying champions.\n\nDESCRIPTION\nAlways describe an ogre as much larger than a human or orc, with red skin, tusks, heavy limbs, and brutal physical presence. Their gear should look oversized: tree-trunk clubs, stone mauls, iron chains, wagon-shield plates, or armor hammered together from scavenged metal.\n\nSOCIAL / COMBAT USE\nOgres are rare but dangerous. They may dwell in caves, swamps, monster forests, war camps, or ruined forts. In combat they rely on reach, crushing blows, throws, stomps, and raw stamina. A legendary Ogre King or ogre mage should be treated as an exceptional story-level threat, not a common example.\n\nNAMING CONVENTION\nUse blunt, heavy fantasy names unless raised inside a settled culture.",
+      "resistances": [
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Old Road Sentinel",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nOld Road Sentinels are ancient constructs, ghosts, or bound guardians protecting pre-kingdom roads and waystones.\n\nDESCRIPTION\nWeathered humanoid forms of stone, armor, or spirit-light with road signs, toll marks, and old command symbols.\n\nSOCIAL / COMBAT USE\nUse for forgotten highways, Valenreach royal roads, Sunspine glass roads, and travel tests that remember dead laws.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "piercing"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Oni",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nOni are powerful horned humanoids with demonlike features, great strength, strong appetites, and fierce personal pride. Some are brutal raiders; others serve civilized demon houses, mountain clans, mercenary banners, or old warrior traditions.\n\nDESCRIPTION\nLarge, muscular humanoids with one or two horns, heavy jaws, vivid skin tones such as red, blue, ash, or bronze, and a presence that makes ordinary rooms feel smaller.\n\nUSE IN PLAY\nUse Oni as elite warriors, wandering champions, monster-nobles, gate guards, duelists, or dangerous hermits. They work best when they have codes, grudges, boasts, and personal obligations rather than simple random violence.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Oni-Blooded",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nOni-Blooded are mortals with oni ancestry or battle-spirit blood, often larger, louder, and more intense than their neighbors.\n\nDESCRIPTION\nHumanoid bodies with small horns, vivid skin undertones, heavy jaws, strong shoulders, and emotions that fill a room quickly.\n\nSOCIAL / COMBAT USE\nUse for warriors, duelists, mercenaries, demon-border families, and people judged by appetite or temper before they speak.\n\nNAMING CONVENTION\nUse fantasy names shaped by the creature type, region, culture, rank, and social role.",
+      "resistances": [
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Orc",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nOrcs are tall, powerfully built humanoids with tusked mouths, broad faces, greenish skin, heavy muscle, and strong endurance. They are known for ferocity, directness, pride, physical dominance, and unyielding will. They should not be treated as mindless by default; many orc groups have clan law, warrior codes, spiritual traditions, and hard-earned survival customs.\n\nDESCRIPTION\nAlways include tusks, powerful build, broad face, and greenish skin. Orcs should look physically imposing even when peaceful. Clothing varies by culture: steppe clans may wear hides, metal plates, trophies, and clan marks; settled orcs may dress as soldiers, laborers, caravan guards, or household retainers.\n\nSOCIAL / COMBAT USE\nOrcs favor strength, courage, direct challenge, endurance, and visible loyalty. They often fight with axes, spears, heavy blades, shields, wrestling, and intimidation. Large losses or desperate clan pressure can drive rapid mustering, alliance-building, and territorial expansion, making unchecked warbands a long-term regional danger.\n\nNAMING CONVENTION\nUse strong, harsh, or clan-marked names unless the orc was raised in another culture.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Otterfolk Beastkin",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nOtterfolk Beastkin are river and coast-associated beastkin with otter ears, tails, swimming talent, curiosity, and practical social instincts.\n\nDESCRIPTION\nHumanlike bodies with otter traits, expressive faces, water-ready clothing, and quick playful movement.\n\nUSE IN PLAY\nUse Otterfolk for river towns, docks, fishing communities, smugglers, scouts, and friendly but sharp-witted guides.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Owlbear",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nOwlbears are massive forest predators combining bear strength with owl senses, silent movement, and sudden ferocity.\n\nDESCRIPTION\nHuge bear bodies with owl heads, feathered shoulders, heavy claws, and eyes that reflect torchlight with unsettling intelligence.\n\nUSE IN PLAY\nUse Owlbears for deep woods, ruins swallowed by forest, monster preserves, and dangerous night encounters. They should be territorial more than malicious.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [
+        "bludgeoning"
+      ],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    },
+    {
+      "name": "Owlfolk Beastkin",
+      "group": "K–O",
+      "kind": "Creature type",
+      "summary": "GENERAL INFORMATION\nOwlfolk Beastkin are a nocturnal or scholarly beastkin lineage with owl traits, quiet movement, sharp sight, and patient observation.\n\nDESCRIPTION\nHumanlike bodies with owl eyes, featherlike hair or markings, small ear tufts, and unusually still posture.\n\nUSE IN PLAY\nUse Owlfolk for scholars, night watch, forest sentries, observatory aides, and characters who notice what others miss.\n\nNAMING CONVENTION\nUse fantasy names that fit the individual's culture, station, region, and social role.",
+      "resistances": [],
+      "immunities": [],
+      "vulnerabilities": [],
+      "spoiler": false
+    }
+  ]
+}

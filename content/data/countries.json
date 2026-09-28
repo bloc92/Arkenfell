@@ -1,0 +1,150 @@
+{
+  "realm": "Arkenfell",
+  "continent": "Eldaven",
+  "entries": [
+    {
+      "name": "Kingdom of Valenreach",
+      "group": "Countries of Eldaven",
+      "kind": "Country or sovereign power",
+      "summary": "The Kingdom of Valenreach is the central royal power of Eldaven and the primary political frame for many campaigns. Ruled by King Aldric and Queen Ceralie, it presents itself as lawful, wealthy, fortified, and legitimate through Highcourt Armathen, noble estates, mage roads, abbeys, military musters, river trade, and rural villages. Most citizens experience the crown through taxes, patrols, road repairs, local officials, traveling clerks, and rumors from the capital. Valenreach contains loyal soldiers, ambitious nobles, tired scribes, temple witnesses, servants, frightened villagers, and officials who prize stability over candor. Use it for royal authority, court access, military protection, legal recognition, succession pressure, and reputation becoming procedure.",
+      "spoiler": false,
+      "articleId": "kingdom-of-valenreach"
+    },
+    {
+      "name": "The Dreadmark Dominion",
+      "group": "Countries of Eldaven",
+      "kind": "Country or sovereign power",
+      "summary": "The Dreadmark Dominion is an eastern militarized state ruled by the Malrec bloodline from Vhal Kareth. It is built on rigid hierarchy, compulsory service, public punishment, disciplined legions, restricted movement, and the doctrine that obedience is the price of order. Its strength lies in infantry, siege trains, engineers, beast-handlers, registrars, overseers, harsh cavalry, logistics, and an administrative system that assigns people according to rank and state need. Dreadmark cruelty is controlled rather than chaotic: papers, permits, rank, quotas, inspections, and punishments are part of governance. Use it for oppressive cities, border inspections, prison arcs, resistance cells, war-beasts, escape attempts, and enemies who are organized rather than reckless.",
+      "spoiler": false,
+      "articleId": "dreadmark-dominion"
+    },
+    {
+      "name": "The Tide Empire",
+      "group": "Countries of Eldaven",
+      "kind": "Country or sovereign power",
+      "summary": "The Tide Empire is one of Eldaven's oldest surviving powers and a long-standing ally of Valenreach. It controls fortified river cities, cold coastal strongholds, mountain passes, naval bastions, winter roads, governorates, fishing towns, dragonrider aeries, and treaty ports. Its public strength is continuity: fleets patrol in winter, governors administer river law, magistrates preserve treaties, and rider orders guard the skies. Imperial culture values endurance, public duty, restraint, oaths, river memory, and naval discipline. Use it for allied diplomacy, river politics, naval travel, dragonrider arcs, imperial ceremonies, old treaties, winter survival, and a friendly power that may still disagree with Valenreach.",
+      "spoiler": false,
+      "articleId": "tide-empire"
+    },
+    {
+      "name": "The Lythael Elven Dominion",
+      "group": "Countries of Eldaven",
+      "kind": "Country or sovereign power",
+      "summary": "The Lythael Elven Dominion is an ancient southern power of living roads, guarded borderwoods, hidden cities, moonwell sanctuaries, noble matriarchs, memory archives, root bridges, and patient magic. It has been ruled for more than a thousand years by the Lythael royal line and old houses with long political memory. The Dominion is beautiful but not gentle, preferring patience over display and control over noise. Its envoys speak softly because time is one of their weapons, and its forests redirect unwanted visitors before debate begins. Use Lythael for ancient forest diplomacy, matriarchal intrigue, rare Arcana observation, hidden roads, elegant danger, and long-lived grudges.",
+      "spoiler": false,
+      "articleId": "lythael-elven-dominion"
+    },
+    {
+      "name": "The Solmire Concord",
+      "group": "Countries of Eldaven",
+      "kind": "Country or sovereign power",
+      "summary": "The Solmire Concord is a western merchant republic of harbor cities, convoy hubs, contract courts, grain exchanges, bonded warehouses, senate blocs, trade houses, insurers, and private security companies. It has no king; authority belongs to those who control credit, shipping, food, arbitration, and risk. The Concord exports grain, salt, cloth, ship timber, convoy protection, insurance, banking, legal arbitration, and profitable neutrality. Foreign nobles underestimate it because its leaders wear merchant colors instead of crowns. Use it for contract intrigue, debt leverage, maritime protection, neutral diplomacy, merchant heirs, trade wars, shipping intelligence, and political crises first visible through prices.",
+      "spoiler": false,
+      "articleId": "solmire-concord"
+    },
+    {
+      "name": "The Solarian Theocracy",
+      "group": "Countries of Eldaven",
+      "kind": "Country or sovereign power",
+      "summary": "The Solarian Theocracy is a southeastern religious state of sanctuaries, pilgrimage roads, healing houses, confession gates, temple courts, doctrinal schools, white-gold basilicas, rural shrines, and fortified holy sites. It is ruled by a High Synod of temple-lords rather than a royal dynasty. Its influence crosses borders through priests, healers, confessors, scribes, relic keepers, doctrinal examiners, and temple guards who bless, judge, record, and comfort. The Theocracy should feel compassionate and controlling at the same time: it feeds pilgrims and treats the sick, but also classifies unusual power and turns mercy into obligation. Use it for pilgrimage arcs, Healing Arcana, holy trials, disputed miracles, legitimacy petitions, and kindness bound to authority.",
+      "spoiler": false,
+      "articleId": "solarian-theocracy"
+    },
+    {
+      "name": "The Arcanum Ascendancy",
+      "group": "Countries of Eldaven",
+      "kind": "Country or sovereign power",
+      "summary": "The Arcanum Ascendancy is an independent mage-ruled state of spire cities, research enclaves, academies, relic courts, transit circles, resonance maps, and archives where access can matter more than coin. Archmages and senior magical authorities govern through recognized achievement, laboratory control, patronage, and classification rights rather than noble blood. The Ascendancy seldom fights conventional wars, preferring arbitration, recruitment, ward networks, controlled transit, research funding, and early detection of unusual magic. Outsiders value its expertise while fearing its habit of treating people as cases. Use it for rare Arcana attention, relic disputes, research ethics, magical bureaucracy, and helpful institutions with possessive curiosity.",
+      "spoiler": false,
+      "articleId": "arcanum-ascendancy"
+    },
+    {
+      "name": "The Emberhorn Accord",
+      "group": "Countries of Eldaven",
+      "kind": "Country or sovereign power",
+      "summary": "The Emberhorn Accord is the organized demon-blooded nation of southeastern Eldaven, ruled through contract courts, noble houses, citizen militias, infernal academies, volcanic councils, and legal traditions older than many human kingdoms. Outsiders often call its people demons, but the Accord distinguishes carefully between lawful demon-blooded citizens, tiefling families, infernal spirits, abyssal corruption, and predatory demons. It values binding word, personal strength, house honor, hospitality, controlled passion, public debt, and formal consequence. Its magistrates can be fair, severe, or terrifyingly precise. Use it for demon diplomacy, contract trials, volcanic cities, honorable rivals, tiefling ancestry, and alliances against worse abyssal threats.",
+      "spoiler": false,
+      "articleId": "emberhorn-accord"
+    },
+    {
+      "name": "The Ashen Maw",
+      "group": "Countries of Eldaven",
+      "kind": "Country or sovereign power",
+      "summary": "The Ashen Maw is an independent demon nation bordering the Emberhorn Accord. Its people are organized through clans, strongholds, warbands, blood ties, oath circles, local rulers, and temporary coalitions rather than a single heavily bureaucratic state. Maw authority rests on kin loyalty, strength, courage, reputation, guest law, blood obligation, martial achievement, and the ability of leaders to protect those who follow them. Outsiders often call the Maw barbaric, but it is not lawless. Use it for demon clan politics, feuds, warbands, challenge customs, harsh hospitality, raiding conflicts, border diplomacy, martial rivalries, and alliances built through personal obligation rather than written institutions.",
+      "spoiler": false,
+      "articleId": "ashen-maw"
+    },
+    {
+      "name": "The Coral Throne",
+      "group": "Countries of Eldaven",
+      "kind": "Country or sovereign power",
+      "summary": "The Coral Throne is the coastal and undersea-adjacent power of reef courts, sea elf houses, merfolk envoys, tide priests, pearl judges, leviathan pact-keepers, shipwreck archivists, and harbor families sworn to the deep law. Its authority is strongest where land politics meet water no crown can fully patrol.\n\nThe Throne does not rule all seas, but it commands respect across reefs, tide gates, sacred wrecks, and routes where sailors know to lower their voices. It values tide debt, witness shells, storm mercy, safe return, and the right of the deep to keep secrets from land.\n\nUse it for ocean diplomacy, sea peoples, reef mysteries, pearl courts, leviathan omens, shipwreck law, and conflicts between mainland trade and coastal sovereignty.",
+      "spoiler": false,
+      "articleId": "coral-throne"
+    },
+    {
+      "name": "The Stormpearl Free Captains",
+      "group": "Countries of Eldaven",
+      "kind": "Country or sovereign power",
+      "summary": "The Stormpearl Free Captains are the ship-lords, privateers, smugglers, lighthouse families, pearl fleet commanders, island council envoys, and storm-route navigators of the western island chain. They are not pirates by default, though many mainland officials use the word whenever island law refuses to obey mainland profit.\n\nTheir power moves by ship, weather, fresh water, reef knowledge, sworn crew, and which harbor will shelter a vessel when flags become inconvenient. Some captains sell escort. Some raid. Some serve island councils. Some carry diplomats under false manifests.\n\nUse them for sea travel, piracy, privateering, shipwreck salvage, island politics, forbidden cargo, storm monsters, and morally flexible allies.",
+      "spoiler": false,
+      "articleId": "stormpearl-isles"
+    },
+    {
+      "name": "The Fangbound Clans",
+      "group": "Countries of Eldaven",
+      "kind": "Country or sovereign power",
+      "summary": "The Fangbound Clans are the roaming and semi-settled peoples of the eastern steppe: orc holds, beastkin riders, wolf-banner families, storm shamans, ogre pact-bands, fortified well-keepers, monster herders, and champion-led war camps. Courts call them barbaric because they do not build power around palaces. The clans judge power by survival, guest law, herd rights, battle reputation, and whether a leader remains worthy.\n\nSome clans raid. Some trade. Some protect caravans more faithfully than royal guards. Some follow chieftains, shamans, beastlords, or champions whose authority lasts only while courage and food endure.\n\nUse them for warrior companions, steppe tournaments, clan diplomacy, mounted raids, monster hunts, honor conflicts, and outsiders learning which insult actually matters.",
+      "spoiler": false,
+      "articleId": "fangbound-clans"
+    },
+    {
+      "name": "The Nightglass Principality",
+      "group": "Countries of Eldaven",
+      "kind": "Country or sovereign power",
+      "summary": "The Nightglass Principality is a vampire-ruled gothic state of immortal houses, blood courts, mortal village charters, night chapels, oath-bound estates, and ancient hospitality law. It is small in land but deep in memory, wealth, influence, and leverage. Publicly it presents itself as lawful, elegant, and restrained: hunger is not denied, but regulated through guest-right, blood contracts, feeding law, and punishment for uncontrolled predation. Outsiders fear its nobles for good reason, yet some border villages prefer Nightglass law to bandits, famine, or wandering undead. Use it for vampire diplomacy, blood debts, old treaties, protected guests, and social danger where wording matters.",
+      "spoiler": false,
+      "articleId": "nightglass-principality"
+    },
+    {
+      "name": "The Cloudspire Dominion",
+      "group": "Countries of Eldaven",
+      "kind": "Country or sovereign power",
+      "summary": "The Cloudspire Dominion is the highland and sky-island power of floating keeps, wind bridges, cliff cities, storm temples, winged couriers, airship docks, sky knights, weather mages, and families who treat altitude as inheritance. Its people are used to looking down on the politics of low roads, sometimes literally and sometimes with dangerous arrogance.\n\nThe Dominion controls air routes, storm passes, high observatories, rare sky minerals, and messenger paths that can bypass borders below. It values poise, daring, clean lineage, weather discipline, and the ability to act before earthbound rivals realize movement has begun.\n\nUse it for sky travel, airship politics, floating ruins, storm monsters, aerial duels, weather rites, and nobles whose grace hides ruthless practicality.",
+      "spoiler": false,
+      "articleId": "cloudspire-dominion"
+    },
+    {
+      "name": "The Ironroot Holds",
+      "group": "Countries of Eldaven",
+      "kind": "Country or sovereign power",
+      "summary": "The Ironroot Holds are the dwarven mountain federation of northwestern Eldaven, bound by clan law, forge oaths, deep-road charters, ancestral halls, mining rights, siegecraft contracts, and mutual defense compacts. They are not a single human-style kingdom; each holdfast has its own clan elders, craft masters, shield companies, and grudges, but all understand that the mountain survives through shared stone.\n\nIronroot smiths, engineers, runesmiths, tunnel wardens, gem cutters, and siege architects are respected across the continent. Their goods are expensive because they are built for the grandchildren of the buyer.\n\nUse the Holds for craft politics, underground expeditions, clan debts, forge secrets, sealed lower roads, monster breaches, and stubborn allies who demand proof before trust.",
+      "spoiler": false,
+      "articleId": "ironroot-holds"
+    },
+    {
+      "name": "Eldmark Kingdom",
+      "group": "Countries of Eldaven",
+      "kind": "Country or sovereign power",
+      "summary": "Eldmark Kingdom is a unified crown realm of timber-and-stone halls, shield-wall musters, rune stones, beacon towers, ancestral barrows, iron law-courts, fortified river towns, hill forts, raider keeps, and oathbound warrior households. Its power is central enough to draw clear royal borders, but local nobles, old families, and law-speakers still matter because inheritance and feud shape daily authority. Outsiders see Eldmark as ancient, proud, martial, tradition-bound, and difficult to sway with soft diplomacy. Its public virtue is honor under old law, while its contradiction is that oaths can preserve justice or trap entire families in inherited conflict. Use it for warrior courts, raids, feuds, ancestral claims, storm shrines, royal musters, and hard-won provincial loyalty.",
+      "spoiler": false,
+      "articleId": "eldmark-kingdom"
+    },
+    {
+      "name": "The Hollowmere Confederacy",
+      "group": "Countries of Eldaven",
+      "kind": "Country or sovereign power",
+      "summary": "The Hollowmere Confederacy is a fragile league of small human border states, old town charters, marshland baronies, toll republics, oath villages, and minor lordships caught between larger powers. Its people are fiercely practical because independence survives through negotiation, terrain, stubborn law, and making conquest too expensive.\n\nNo single ruler speaks for all Hollowmere. Councils, barons, reeves, militia captains, ferrymen, clergy, and charter families bargain constantly over roads, bridges, tax rights, refugee movement, and which outside power is currently least dangerous.\n\nUse the Confederacy for border politics, small-state diplomacy, hostage exchanges, disputed roads, local militias, refugees, and stories where minor powers are not helpless just because they are small.",
+      "spoiler": false,
+      "articleId": "hollowmere-confederacy"
+    },
+    {
+      "name": "The Palegrave Crown",
+      "group": "Countries of Eldaven",
+      "kind": "Country or sovereign power",
+      "summary": "The Palegrave Crown is the remnant authority of the far northern frost ruins: giant-blooded thanes, icebound oath-keepers, winter spirits, buried hall stewards, frost priests, and old banners that still command loyalty in places where modern kings rarely travel. Some outsiders call it a dead kingdom. Its own people call it a crown in winter sleep.\n\nThe Palegrave Crown values endurance, ancestry, oath-stone, memory, and the difference between retreat and patience. Its settlements are sparse, severe, and built around surviving seasons that would kill softer courts before politics began.\n\nUse it for frost ruins, giant legacies, ancient oaths, northern expeditions, lost halls, winter diplomacy, and powers that may wake slowly but move with enormous weight when roused.",
+      "spoiler": false,
+      "articleId": "palegrave-crown"
+    }
+  ]
+}

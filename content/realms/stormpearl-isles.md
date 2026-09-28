@@ -1,7 +1,7 @@
 ---
 id: stormpearl-isles
 title: The Stormpearl Isles
-category: Realms
+category: Countries
 knowledge: regional
 status: canon
 ---

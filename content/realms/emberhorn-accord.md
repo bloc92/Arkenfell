@@ -1,7 +1,7 @@
 ---
 id: emberhorn-accord
 title: The Emberhorn Accord
-category: Realms
+category: Countries
 knowledge: regional
 status: canon
 ---

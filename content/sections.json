@@ -1,0 +1,128 @@
+{
+  "sections": [
+    {
+      "id": "home",
+      "title": "Home",
+      "landing": "arkenfell",
+      "articles": []
+    },
+    {
+      "id": "world",
+      "title": "Arkenfell",
+      "landing": "world-overview",
+      "articles": [
+        "eldaven"
+      ]
+    },
+    {
+      "id": "countries",
+      "title": "Countries",
+      "landing": "country-directory",
+      "articles": [
+        "kingdom-of-valenreach",
+        "dreadmark-dominion",
+        "tide-empire",
+        "lythael-elven-dominion",
+        "solmire-concord",
+        "solarian-theocracy",
+        "arcanum-ascendancy",
+        "emberhorn-accord",
+        "ashen-maw",
+        "coral-throne",
+        "stormpearl-isles",
+        "fangbound-clans",
+        "nightglass-principality",
+        "cloudspire-dominion",
+        "ironroot-holds",
+        "eldmark-kingdom",
+        "hollowmere-confederacy",
+        "palegrave-crown"
+      ]
+    },
+    {
+      "id": "places",
+      "title": "Places",
+      "landing": "place-directory",
+      "articles": [
+        "highcourt-armathen"
+      ]
+    },
+    {
+      "id": "people",
+      "title": "People",
+      "landing": "important-npcs",
+      "articles": [
+        "edgar-vaust"
+      ]
+    },
+    {
+      "id": "factions",
+      "title": "Factions",
+      "landing": "faction-directory",
+      "articles": []
+    },
+    {
+      "id": "magic",
+      "title": "Magic",
+      "landing": "magic-overview",
+      "articles": [
+        "arcana",
+        "arcana-tiers",
+        "arcana-catalog",
+        "magical-practice",
+        "power-arcana"
+      ]
+    },
+    {
+      "id": "faith",
+      "title": "Faith",
+      "landing": "pantheon-directory",
+      "articles": [
+        "divine-powers-of-eldaven",
+        "ardoval"
+      ]
+    },
+    {
+      "id": "creatures",
+      "title": "Creatures",
+      "landing": "creature-directory",
+      "articles": []
+    },
+    {
+      "id": "items",
+      "title": "Items",
+      "landing": "item-directory",
+      "articles": []
+    },
+    {
+      "id": "character-options",
+      "title": "Character Options",
+      "landing": "skill-directory",
+      "articles": [
+        "ability-directory",
+        "trait-catalog"
+      ]
+    },
+    {
+      "id": "play-options",
+      "title": "Play Options",
+      "landing": "story-start-directory",
+      "articles": [
+        "game-mode-directory"
+      ]
+    },
+    {
+      "id": "rules-and-play",
+      "title": "Rules & Play",
+      "landing": "rules-and-play",
+      "articles": [
+        "attributes",
+        "resources",
+        "skills",
+        "learning-new-skills",
+        "milestone-titles",
+        "game-modes"
+      ]
+    }
+  ]
+}

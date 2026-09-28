@@ -1,7 +1,7 @@
 ---
 id: arcanum-ascendancy
 title: The Arcanum Ascendancy
-category: Realms
+category: Countries
 knowledge: common
 status: canon
 ---

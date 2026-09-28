@@ -1,7 +1,7 @@
 ---
 id: lythael-elven-dominion
 title: The Lythael Elven Dominion
-category: Realms
+category: Countries
 knowledge: common
 status: canon
 ---

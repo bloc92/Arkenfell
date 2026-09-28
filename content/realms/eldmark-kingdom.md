@@ -1,7 +1,7 @@
 ---
 id: eldmark-kingdom
 title: Eldmark Kingdom
-category: Realms
+category: Countries
 knowledge: regional
 status: canon
 ---
