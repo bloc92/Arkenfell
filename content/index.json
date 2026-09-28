@@ -305,6 +305,22 @@
       "tags": ["Creatures","NPC Types","Bestiary","Reference"]
     },
     {
+      "id": "skill-directory",
+      "title": "Skill Directory",
+      "category": "Character Options",
+      "summary": "A searchable directory of all 139 configured skills in Arkenfell.",
+      "path": "content/mechanics/skill-directory.md",
+      "tags": ["Skills","Attributes","Character Options","Reference"]
+    },
+    {
+      "id": "ability-directory",
+      "title": "Ability Directory",
+      "category": "Character Options",
+      "summary": "A searchable directory of all 1,350 configured abilities in Arkenfell.",
+      "path": "content/mechanics/ability-directory.md",
+      "tags": ["Abilities","Requirements","Character Options","Reference"]
+    },
+    {
       "id": "rules-and-play",
       "title": "Rules and Play",
       "category": "Character Reference",
@@ -346,11 +362,11 @@
     },
     {
       "id": "trait-catalog",
-      "title": "Trait Catalog",
-      "category": "Character Reference",
-      "summary": "Reference catalog for imported public traits, including Arcana, attribute, martial, resource, exploration, life-path, and equipment traits.",
+      "title": "Trait Directory",
+      "category": "Character Options",
+      "summary": "A searchable directory of all 1,798 configured traits in Arkenfell.",
       "path": "content/traits/trait-catalog.md",
-      "tags": ["Traits","Character Reference","Progression","Reference"]
+      "tags": ["Traits","Character Options","Progression","Reference"]
     },
     {
       "id": "milestone-titles",
