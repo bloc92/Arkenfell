@@ -457,6 +457,43 @@ html[data-access="gm"] .sidebar-note strong { color: var(--gm-strong); }
   white-space: pre-wrap;
 }
 
+.directory-entry-links {
+  margin-top: 13px;
+  padding-top: 11px;
+  border-top: 1px solid var(--line);
+}
+.directory-entry-links-label {
+  margin: 0 0 7px;
+  color: var(--body-text);
+  font-size: .8rem;
+  font-weight: 800;
+}
+.directory-entry-links ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.directory-entry-links a {
+  display: inline-block;
+  padding: 3px 8px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--panel-2);
+  font-size: .78rem;
+  text-decoration: none;
+}
+.directory-entry-links a:hover {
+  border-color: var(--accent);
+  background: var(--panel);
+}
+.directory-entry--target {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 22%, transparent);
+}
+
 .directory-entry--spoiler { border-color: var(--gm-line); }
 .directory-load-error {
   margin: 24px 0;
