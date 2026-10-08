@@ -393,5 +393,6 @@
       "summary": "Unaffiliated represents people who are not meaningfully attached to a faction, kingdom, noble house, order, guild, cult, state, or organized power bloc. This can include wanderers, common villagers, independent artisans, lone adventurers, hermits, unaffiliated travelers, temporary hirelings, and characters whose personal loyalties matter more than institutional allegiance.\n\nUse this entry sparingly and intentionally. It is useful for NPCs whose neutrality, isolation, personal mystery, or outsider status should remain clear. It should not be used when a more specific faction applies.",
       "spoiler": false
     }
-  ]
+  ],
+  "sourceWorld": "Arkenfell"
 }

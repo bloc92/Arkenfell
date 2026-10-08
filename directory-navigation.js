@@ -1,7 +1,8 @@
 const directoryPages = {
   'country-directory': {
     source: 'content/data/countries.json',
-    searchPlaceholder: 'Search countries, governments, cultures, or themes…'
+    searchPlaceholder: 'Search countries, governments, cultures, or themes…',
+    requiredSourceWorld: 'Arkenfell'
   },
   'place-directory': {
     source: 'content/data/places.json',
@@ -19,11 +20,13 @@ const directoryPages = {
   },
   'faction-directory': {
     source: 'content/data/factions.json',
-    searchPlaceholder: 'Search factions, houses, orders, or political powers…'
+    searchPlaceholder: 'Search factions, houses, orders, or political powers…',
+    requiredSourceWorld: 'Arkenfell'
   },
   'pantheon-directory': {
     source: 'content/data/faith.json',
-    searchPlaceholder: 'Search deities, domains, cultures, symbols, or standings…'
+    searchPlaceholder: 'Search deities, domains, cultures, symbols, or standings…',
+    requiredSourceWorld: 'Arkenfell'
   },
   'arcana-catalog': {
     source: 'content/data/arcana.json',
@@ -41,15 +44,18 @@ const directoryPages = {
       'content/data/creatures-p-t.json',
       'content/data/creatures-u-z.json'
     ],
-    searchPlaceholder: 'Search creatures, traits, roles, resistances, or vulnerabilities…'
+    searchPlaceholder: 'Search creatures, traits, roles, resistances, or vulnerabilities…',
+    requiredSourceWorld: 'Arkenfell'
   },
   'item-directory': {
     source: 'content/data/items.json',
-    searchPlaceholder: 'Search items, categories, slots, descriptions, or bonuses…'
+    searchPlaceholder: 'Search items, categories, slots, descriptions, or bonuses…',
+    requiredSourceWorld: 'Arkenfell'
   },
   'skill-directory': {
     source: 'content/data/skills.json',
-    searchPlaceholder: 'Search skills, attributes, types, equipment, or descriptions…'
+    searchPlaceholder: 'Search skills, attributes, types, equipment, or descriptions…',
+    requiredSourceWorld: 'Arkenfell'
   },
   'ability-directory': {
     source: [
@@ -60,7 +66,8 @@ const directoryPages = {
       'content/data/abilities-s-t.json',
       'content/data/abilities-u-z.json'
     ],
-    searchPlaceholder: 'Search abilities, requirements, bonuses, cooldowns, or descriptions…'
+    searchPlaceholder: 'Search abilities, requirements, bonuses, cooldowns, or descriptions…',
+    requiredSourceWorld: 'Arkenfell'
   },
   'trait-catalog': {
     source: [
@@ -73,16 +80,19 @@ const directoryPages = {
       'content/data/traits-s.json',
       'content/data/traits-t-z.json'
     ],
-    searchPlaceholder: 'Search traits, categories, modifiers, abilities, items, or story effects…'
+    searchPlaceholder: 'Search traits, categories, modifiers, abilities, items, or story effects…',
+    requiredSourceWorld: 'Arkenfell'
   },
   'story-start-directory': {
     source: 'content/data/story-starts.json',
     searchPlaceholder: 'Search Story Starts, premises, locations, characters, or quests…',
-    accordion: true
+    accordion: true,
+    requiredSourceWorld: 'Arkenfell'
   },
   'game-mode-directory': {
     source: 'content/data/game-modes.json',
-    searchPlaceholder: 'Search Game Modes, difficulty, tone, pacing, or instructions…'
+    searchPlaceholder: 'Search Game Modes, difficulty, tone, pacing, or instructions…',
+    requiredSourceWorld: 'Arkenfell'
   }
 };
 
@@ -497,7 +507,12 @@ async function loadDirectoryData(source) {
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     return response.json();
   }));
-  const entries = datasets.flatMap(data => Array.isArray(data.entries) ? data.entries : []);
+  const entries = datasets.flatMap(data => {
+    if (!Array.isArray(data.entries)) return [];
+    return data.entries.map(entry => entry.sourceWorld
+      ? entry
+      : { ...entry, sourceWorld: data.sourceWorld });
+  });
   directoryDataCache.set(cacheKey, entries);
   return entries;
 }
