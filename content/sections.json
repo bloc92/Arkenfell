@@ -56,6 +56,12 @@
       ]
     },
     {
+      "id": "races",
+      "title": "Races",
+      "landing": "race-directory",
+      "articles": []
+    },
+    {
       "id": "factions",
       "title": "Factions",
       "landing": "faction-directory",

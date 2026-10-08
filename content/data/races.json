@@ -1,0 +1,1041 @@
+{
+  "realm": "Arkenfell",
+  "sourceWorld": "Arkenfell",
+  "entries": [
+    {
+      "name": "Human — Arcane-Receptive",
+      "sourceWorld": "Arkenfell",
+      "group": "Humans",
+      "kind": "Playable race",
+      "summary": "Humans possess unusually plastic physical, mental, social, and magical development, a quality often called Adaptable Potential. Rather than expressing one strongly specialized inherited form, human potential responds exceptionally well to environment, experience, training, hardship, and opportunity. This selection describes how that potential developed before play; it is not a human subspecies, ethnicity, culture, profession, or personality type. Your mind and body proved unusually receptive to magical development, allowing magical concepts, control exercises, and mana conditioning to take hold readily without determining which Arcana you possess.\n\nNarrative effects: You are Human. Your Adaptable Potential expressed as heightened magical receptivity. This does not grant an Arcana, spell, or ability; actual Arcana choices determine what magic you can use.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Arcane Lore +8, Self-Discipline +8, Mana +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-human-arcane-receptive"
+    },
+    {
+      "name": "Human — Fleet",
+      "sourceWorld": "Arkenfell",
+      "group": "Humans",
+      "kind": "Playable race",
+      "summary": "Humans possess unusually plastic physical, mental, social, and magical development, a quality often called Adaptable Potential. Rather than expressing one strongly specialized inherited form, human potential responds exceptionally well to environment, experience, training, hardship, and opportunity. This selection describes how that potential developed before play; it is not a human subspecies, ethnicity, culture, profession, or personality type. Your development favored speed, balance, acceleration, and rapid adjustment to movement.\n\nNarrative effects: You are Human. Your Adaptable Potential expressed through quick movement, balance, and visual reaction rather than a separate bloodline or culture.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Acrobatics +8, Running +8, Seeing +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-human-fleet"
+    },
+    {
+      "name": "Human — Keen-Sensed",
+      "sourceWorld": "Arkenfell",
+      "group": "Humans",
+      "kind": "Playable race",
+      "summary": "Humans possess unusually plastic physical, mental, social, and magical development, a quality often called Adaptable Potential. Rather than expressing one strongly specialized inherited form, human potential responds exceptionally well to environment, experience, training, hardship, and opportunity. This selection describes how that potential developed before play; it is not a human subspecies, ethnicity, culture, profession, or personality type. Repeated use and environmental pressure sharpened your ordinary human senses into unusually dependable awareness.\n\nNarrative effects: You are Human. Your Adaptable Potential expressed through trained sensory awareness; this is heightened development, not supernatural perception.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Seeing +8, Hearing +8, Searching +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-human-keen-sensed"
+    },
+    {
+      "name": "Human — Resourceful",
+      "sourceWorld": "Arkenfell",
+      "group": "Humans",
+      "kind": "Playable race",
+      "summary": "Humans possess unusually plastic physical, mental, social, and magical development, a quality often called Adaptable Potential. Rather than expressing one strongly specialized inherited form, human potential responds exceptionally well to environment, experience, training, hardship, and opportunity. This selection describes how that potential developed before play; it is not a human subspecies, ethnicity, culture, profession, or personality type. Your development favored practical problem solving, noticing useful details, judging materials, and finding workable solutions with what was available.\n\nNarrative effects: You are Human. Your Adaptable Potential expressed through practical ingenuity rather than a specific trade; this does not grant professional mastery you never learned.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Searching +8, Handcrafting +8, Appraisal +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-human-resourceful"
+    },
+    {
+      "name": "Human — Steadfast",
+      "sourceWorld": "Arkenfell",
+      "group": "Humans",
+      "kind": "Playable race",
+      "summary": "Humans possess unusually plastic physical, mental, social, and magical development, a quality often called Adaptable Potential. Rather than expressing one strongly specialized inherited form, human potential responds exceptionally well to environment, experience, training, hardship, and opportunity. This selection describes how that potential developed before play; it is not a human subspecies, ethnicity, culture, profession, or personality type. Your development favored composure, persistence, and the ability to keep acting when fear, hardship, pain, or pressure would make others falter.\n\nNarrative effects: You are Human. Your Adaptable Potential expressed through unusually strong resolve and conditioned endurance without dictating your beliefs or temperament.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Courage +8, Self-Discipline +8, Tolerance +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-human-steadfast"
+    },
+    {
+      "name": "Human — Sure-Handed",
+      "sourceWorld": "Arkenfell",
+      "group": "Humans",
+      "kind": "Playable race",
+      "summary": "Humans possess unusually plastic physical, mental, social, and magical development, a quality often called Adaptable Potential. Rather than expressing one strongly specialized inherited form, human potential responds exceptionally well to environment, experience, training, hardship, and opportunity. This selection describes how that potential developed before play; it is not a human subspecies, ethnicity, culture, profession, or personality type. Your development favored unusually precise touch, fine hand control, delicate manipulation, and quick coordination.\n\nNarrative effects: You are Human. Your Adaptable Potential expressed through fine coordination and tactile control; it does not imply criminality, stage training, or any particular profession.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Touching +8, Legerdemain +8, Acrobatics +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-human-sure-handed"
+    },
+    {
+      "name": "Human — Tempered",
+      "sourceWorld": "Arkenfell",
+      "group": "Humans",
+      "kind": "Playable race",
+      "summary": "Humans possess unusually plastic physical, mental, social, and magical development, a quality often called Adaptable Potential. Rather than expressing one strongly specialized inherited form, human potential responds exceptionally well to environment, experience, training, hardship, and opportunity. This selection describes how that potential developed before play; it is not a human subspecies, ethnicity, culture, profession, or personality type. Your development settled most strongly into a durable, conditioned body able to apply force and keep functioning under physical strain.\n\nNarrative effects: You are Human. Your Adaptable Potential expressed through physical conditioning, resilience, and controlled exertion; other humans may develop very differently.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Tolerance +8, Might +8, Self-Discipline +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-human-tempered"
+    },
+    {
+      "name": "Human — Worldwise",
+      "sourceWorld": "Arkenfell",
+      "group": "Humans",
+      "kind": "Playable race",
+      "summary": "Humans possess unusually plastic physical, mental, social, and magical development, a quality often called Adaptable Potential. Rather than expressing one strongly specialized inherited form, human potential responds exceptionally well to environment, experience, training, hardship, and opportunity. This selection describes how that potential developed before play; it is not a human subspecies, ethnicity, culture, profession, or personality type. Your development responded most strongly to living among people, changing expectations, and social environments, making you unusually good at reading and adapting to others.\n\nNarrative effects: You are Human. Your Adaptable Potential expressed socially: you read people and unfamiliar social situations well, without this trait granting culture, rank, authority, or automatic charm.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Empathy +8, Social Inquiry +8, Persuasion +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-human-worldwise"
+    },
+    {
+      "name": "Dhampir",
+      "sourceWorld": "Arkenfell",
+      "group": "Other peoples",
+      "kind": "Playable race",
+      "summary": "Dhampirs are living mortals with partial vampiric ancestry or a stable vampire-touched bloodline. They may have cool skin, subtle fangs, unusual eyes, muted pulse, and pronounced nocturnal senses, but they are not Vampires and do not automatically possess the Beast, blood dependence, immortality, sunlight burning, invitation restrictions, missing reflections, or the Vampire subsystem.\n\nNarrative effects: You possess restrained vampiric sensory inheritance while remaining a living mortal. Becoming an actual Vampire is a separate supernatural transformation and subsystem that this trait neither activates nor requires.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Seeing +11, Hearing +5, Smelling +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-dhampir"
+    },
+    {
+      "name": "Dragonfolk",
+      "sourceWorld": "Arkenfell",
+      "group": "Other peoples",
+      "kind": "Playable race",
+      "summary": "Dragonfolk are full-sized draconic humanoids with scaled bodies, distinctly draconic faces, horns, claws, tails, and powerful humanoid builds. They are mortal people rather than lesser dragons and can use ordinary humanoid clothing, armor, weapons, and equipment with practical adjustments for their horns and tails. Wings, breath weapons, and supernatural elemental powers are not universal Dragonfolk traits.\n\nNarrative effects: Your scales, horns, tail, and powerful draconic frame are always physically present; you naturally account for horn clearance, tail balance, scale coverage, and the space your body occupies without gaining automatic breath weapons, wings, or elemental powers.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Tolerance +8, Might +8, Intimidation +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-dragonfolk"
+    },
+    {
+      "name": "Dragonkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Other peoples",
+      "kind": "Playable race",
+      "summary": "Dragonkin look fundamentally human but carry prominent draconic traits. They retain a fully humanlike face, skin, hands, feet, legs, and body plan while normally possessing horns, a scaled tail, and draconic wings, sometimes accompanied by slit pupils or small scale patches. They are not full humanoid dragons and should never be given reptilian heads, muzzles, full-body scales, digitigrade monster legs, or Dragonfolk anatomy.\n\nNarrative effects: Your horns, scaled tail, and wings are obvious draconic features on an otherwise human body; the wings aid balance, gliding, controlled descent, and plausible aerial movement, but unrestricted sustained flight requires an explicitly established ability or capability.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Acrobatics +8, Seeing +8, Intimidation +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-dragonkin"
+    },
+    {
+      "name": "Dwarf",
+      "sourceWorld": "Arkenfell",
+      "group": "Other peoples",
+      "kind": "Playable race",
+      "summary": "Dwarves are shorter and broader than humans, with dense builds, strong bones, powerful musculature, and long-lived mortal physiology. Dwarf ancestry does not automatically grant smithing, engineering, mining, weapon training, clan culture, or a mountain upbringing.\n\nNarrative effects: Your dense frame and strong bones favor raw effort, physical endurance, and close bodily leverage. Craft, military, and hold traditions must come from culture and lived experience rather than Race alone.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Tolerance +8, Might +8, Brawling +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-dwarf"
+    },
+    {
+      "name": "Elf",
+      "sourceWorld": "Arkenfell",
+      "group": "Other peoples",
+      "kind": "Playable race",
+      "summary": "Elves are long-lived mortal humanoids with pointed ears, graceful proportions, and naturally keen senses. Their ancestry does not determine culture, profession, morality, magical tradition, or preference for nature; those come from Origin Culture, Upbringing, and lived experience.\n\nNarrative effects: Your long-lived elven body carries sharp sight and hearing with naturally controlled movement. Do not infer archery training, animal affinity, Heroic Arcana, courtly behavior, or Lythael culture from Race alone.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Seeing +8, Hearing +8, Acrobatics +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-elf"
+    },
+    {
+      "name": "Gnome",
+      "sourceWorld": "Arkenfell",
+      "group": "Other peoples",
+      "kind": "Playable race",
+      "summary": "Gnomes are small mortal humanoids with fine hand control, sensitive touch, sharp close attention, and compact bodies suited to precise manipulation. Gnome ancestry does not automatically make someone an engineer, alchemist, scholar, inventor, or mage.\n\nNarrative effects: Your hands and tactile perception are naturally precise, making small details and delicate manipulation easier to manage. Technical knowledge still comes from actual training.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Searching +8, Touching +8, Legerdemain +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-gnome"
+    },
+    {
+      "name": "Halfling",
+      "sourceWorld": "Arkenfell",
+      "group": "Other peoples",
+      "kind": "Playable race",
+      "summary": "Halflings are small, resilient mortal humanoids with compact builds, light movement, and proportions that let them pass through crowded or larger-built environments easily. Halfling ancestry does not determine hospitality, cooking, farming, trade, criminality, or any particular culture.\n\nNarrative effects: Your compact size, balance, and resilient body favor unobtrusive movement and agility. Treat household customs, food traditions, professions, and social behavior as cultural or personal rather than racial.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Stealth +8, Acrobatics +8, Tolerance +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-halfling"
+    },
+    {
+      "name": "Lizardfolk",
+      "sourceWorld": "Arkenfell",
+      "group": "Other peoples",
+      "kind": "Playable race",
+      "summary": "Lizardfolk are fully reptilian humanoids with scales, reptilian heads and eyes, tails, claws, and strong jaws. Different lineages may resemble monitors, iguanas, crocodilians, geckos, desert lizards, or other reptiles while retaining an upright humanoid body plan compatible with ordinary equipment. Lizardfolk are natural mortal people and have no inherent connection to dragons.\n\nNarrative effects: Scales, reptilian sensory biology, and a durable mortal body support environmental tolerance, scent-based awareness, and sharp observation. Lizardfolk are not inherently primitive, emotionless, draconic, or tied to wetlands.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Tolerance +8, Smelling +8, Seeing +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-lizardfolk"
+    },
+    {
+      "name": "Orc",
+      "sourceWorld": "Arkenfell",
+      "group": "Other peoples",
+      "kind": "Playable race",
+      "summary": "Orcs are large, robust mortal humanoids typically marked by powerful builds, broad features, pronounced tusks or tusk-like teeth, and a physiology capable of sustained physical exertion. Skin tones vary widely by lineage and region. Orcs are a people rather than a warrior profession: culture, upbringing, status, work, faith, and temperament come from their actual lives.\n\nNarrative effects: Your size, tusks, and powerful frame can create an imposing first impression and support raw physical effort. Orc ancestry does not make you violent, militaristic, primitive, or culturally uniform.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Might +8, Tolerance +8, Intimidation +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-orc"
+    },
+    {
+      "name": "Spiritfolk",
+      "sourceWorld": "Arkenfell",
+      "group": "Other peoples",
+      "kind": "Playable race",
+      "summary": "Spiritfolk are living mortal people whose lineage has been shaped by spirits, old shrines, ancestor pacts, nature forces, local gods, or other persistent contact with the unseen world. Their exact manifestation is intentionally broad and may include luminous eyes, unusual markings, strange hair, omen-like sensations, or a subtle spiritual presence. They are not ghosts, undead, or automatically religious.\n\nNarrative effects: Your lineage carries a real Spirit affinity, but the source and meaning of that inheritance remain open to the character concept unless established elsewhere. This trait does not grant prophecy, a spirit companion, priestly authority, or a mandatory pact.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Seeing +8, Empathy +8, Spirit Arcana +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-spiritfolk"
+    },
+    {
+      "name": "Badgerfolk Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Badgerfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus badger ears, striped markings, strong hands, heavy shoulders, and a grounded stance. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Dense shoulders, strong hands, scent awareness, and a low center of gravity favor bracing, lifting, grappling, digging, and sustained exertion. Treat these as physical aptitudes, not a requirement that the character be stubborn or aggressive.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Tolerance +8, Might +8, Smelling +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-badgerfolk-beastkin"
+    },
+    {
+      "name": "Batfolk Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Batfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus bat ears, dark eyes, sharp hearing, and night-adapted posture. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Exceptional hearing and comfort in darkness make faint movement, echoes, and nearby activity easier to notice and follow. Bright, exposed places may be less comfortable, but do not force fearfulness, nocturnal habits, or a particular personality.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Hearing +11, Navigation +5, Stealth +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-batfolk-beastkin"
+    },
+    {
+      "name": "Bearfolk Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Bearfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus rounded bear ears, a dense build, broad shoulders, thick hair, and heavy movement. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: A dense build, heavy strength, durable frame, and strong scent sense favor lifting, carrying, resisting physical strain, and noticing nearby traces. Size may affect first impressions but does not dictate temperament.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Might +8, Tolerance +8, Smelling +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-bearfolk-beastkin"
+    },
+    {
+      "name": "Boarkin Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Boarkin Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus boar ears, small tusks or tusk-like teeth, coarse hair, powerful shoulders, and a grounded stance. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Powerful shoulders, strong endurance, grounded posture, and keen scent favor hard physical effort and bodily leverage. Do not treat boarkin ancestry as automatic aggression, recklessness, or combat training.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Tolerance +8, Might +8, Smelling +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-boarkin-beastkin"
+    },
+    {
+      "name": "Bullfolk Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Bullfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus bull horns, bovine ears, a tail, broad build, thick neck, and heavy presence. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: A broad frame, thick neck, horns, and heavy presence make raw force and physical pressure especially convincing. Their imposing appearance can affect first impressions without forcing a domineering personality.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Might +8, Tolerance +8, Intimidation +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-bullfolk-beastkin"
+    },
+    {
+      "name": "Catfolk Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Catfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus cat ears, a cat tail, expressive pupils, quiet steps, and light balanced movement. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Fine balance, quiet footwork, mobile ears, and a tail that assists body control favor stealth, agile movement, and hearing. Curiosity, aloofness, affection, and other personality traits remain entirely personal.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Acrobatics +8, Stealth +8, Hearing +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-catfolk-beastkin"
+    },
+    {
+      "name": "Deerfolk Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Deerfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus deer ears, soft eyes, possible antlers, light steps, and woodland poise. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Long-range hearing, wide visual awareness, light movement, and strong running ability favor early detection and rapid movement. Do not impose timidity, gentleness, woodland culture, or tracking training as racial behavior.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Running +8, Hearing +8, Seeing +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-deerfolk-beastkin"
+    },
+    {
+      "name": "Demon-Touched Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Demon-Touched Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus visible beastkin traits overlaid by horns, ember eyes, spade tails, heated clawlike nails, ash markings, or sharper instincts. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Infernal alterations such as horns, ember eyes, heated nails, ash markings, or a spade tail make demonic influence visibly present and support strong Fire affinity. This does not make the character evil, cruel, aggressive, or loyal to demons.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Fire Arcana +8, Intimidation +8, Tolerance +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-demon-touched-beastkin"
+    },
+    {
+      "name": "Dogfolk Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Dogfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus dog ears, a dog tail, keen hearing, scent awareness, and alert posture. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Keen scent and hearing make dogfolk especially good at noticing traces, changes, and nearby activity. Loyalty, obedience, friendliness, and emotional insight are personal traits rather than racial requirements.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Smelling +11, Hearing +5, Searching +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-dogfolk-beastkin"
+    },
+    {
+      "name": "Foxfolk Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Foxfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus fox ears, one or more foxlike tails, keen hearing, sharp eyes, and agile movement. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Sharp hearing, strong visual awareness, agile movement, and quiet footwork favor noticing danger and moving unobtrusively. Foxfolk ancestry does not imply deception, trickery, playfulness, or dishonesty.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Hearing +8, Seeing +8, Stealth +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-foxfolk-beastkin"
+    },
+    {
+      "name": "Goatfolk Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Goatfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus goat horns, goat ears, sturdy human feet or practical mountain footwear, and sure-footed movement. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Sure-footed balance and strong climbing instincts make steep slopes, broken ground, narrow ledges, and vertical movement unusually natural. Stubbornness is not an enforced personality trait.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Climbing +8, Acrobatics +8, Jumping +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-goatfolk-beastkin"
+    },
+    {
+      "name": "Hawkfolk Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Hawkfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus sharp eyes, featherlike hair or markings, small feather accents, light posture, and talonlike nails. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Exceptional distance vision and rapid visual tracking make hawkfolk especially good at spotting movement, reading terrain from high ground, and maintaining direction across open country. Do not imply flight unless another trait or ability grants it.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Seeing +11, Tracking +5, Navigation +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-hawkfolk-beastkin"
+    },
+    {
+      "name": "Hedgehogfolk Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Hedgehogfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus hedgehog ears, short spines through hair or shoulders, quick dark eyes, and compact resilience. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: A compact resilient build and short defensive spines make close handling awkward and favor bodily bracing and close leverage. The spines are physical features, not automatic armor or a damaging attack unless another mechanic says so.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Tolerance +8, Brawling +8, Might +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-hedgehogfolk-beastkin"
+    },
+    {
+      "name": "Horsefolk Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Horsefolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus horse ears, a horse tail, strong legs, alert posture, and road-hardened endurance. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Strong legs, road-hardened endurance, and a powerful humanlike frame favor sustained running and physical exertion. Horsefolk are human-bodied beastkin; do not treat them as mounts or assume riding or navigation skill from ancestry.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Running +8, Tolerance +8, Might +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-horsefolk-beastkin"
+    },
+    {
+      "name": "Lionfolk Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Lionfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus lion ears, a tail, mane-like hair, golden eyes, strong build, and confident posture. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: A strong build, mane-like hair, predatory eyes, and visibly powerful features can create formidable physical presence. Leadership, pride, courage, aggression, and social authority remain personal or cultural rather than racial.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Might +8, Intimidation +8, Seeing +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-lionfolk-beastkin"
+    },
+    {
+      "name": "Lynxfolk Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Lynxfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus tufted lynx ears, short tail, pale or spotted markings, silent steps, and watchful eyes. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Tufted ears, sharp low-light sight, and quiet movement favor stealth and sensory awareness. Do not force solitary, aloof, predatory, or hunter behavior.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Stealth +8, Seeing +8, Hearing +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-lynxfolk-beastkin"
+    },
+    {
+      "name": "Mousefolk Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Mousefolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus mouse ears, a thin tail, bright eyes, quick hands, and a small or slight humanlike build. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Sharp hearing, quick hands, and a slight humanlike build favor quiet movement and delicate manipulation. Nervousness, submissiveness, searching habits, or criminality are not inherent.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Stealth +8, Hearing +8, Legerdemain +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-mousefolk-beastkin"
+    },
+    {
+      "name": "Otterfolk Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Otterfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus otter ears, an otter tail, expressive face, water-ready posture, and quick playful movement. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: A water-ready body, strong swimming instincts, and agile movement make currents and aquatic movement unusually natural. Playfulness and sociability are not required personality traits.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Swimming +11, Acrobatics +5, Tolerance +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-otterfolk-beastkin"
+    },
+    {
+      "name": "Owlfolk Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Owlfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus owl-like eyes, featherlike hair or markings, small ear tufts, and unusually still posture. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Night-adapted eyes, unusually still posture, and quiet movement favor observation and tracking in dim conditions. Scholarly interests are cultural or personal, not biologically required.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Hearing +11, Seeing +5, Stealth +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-owlfolk-beastkin"
+    },
+    {
+      "name": "Pantherfolk Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Pantherfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus panther ears, a tail, dark hair or markings, low smooth movement, and eyes that catch dim light. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Low, smooth movement, strong balance, and eyes adapted to dim light make pantherfolk exceptionally suited to moving quietly and following prey or threats. Do not impose a violent or solitary temperament.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Stealth +11, Acrobatics +5, Seeing +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-pantherfolk-beastkin"
+    },
+    {
+      "name": "Rabbitfolk Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Rabbitfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus long rabbit ears, expressive posture, quick movement, and compact athletic build. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Long ears, quick acceleration, responsive balance, and alert hearing favor rapid movement and reactions. Nervousness and timidity are not mandatory personality traits.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Running +8, Hearing +8, Acrobatics +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-rabbitfolk-beastkin"
+    },
+    {
+      "name": "Raccoonfolk Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Raccoonfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus raccoon ears, a ringed tail, mask-like markings, quick fingers, and alert posture. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Sensitive hands, quick fingers, sharp close attention, and strong tactile awareness favor searching and delicate manipulation. Theft, scavenging, and criminality are not inherent racial behaviors.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Searching +8, Touching +8, Legerdemain +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-raccoonfolk-beastkin"
+    },
+    {
+      "name": "Ratfolk Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Ratfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus rat ears or tail, quick hands, alert posture, and sharp senses. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Strong tolerance, scent awareness, and quiet movement help ratfolk function in difficult or crowded environments. Ratfolk ancestry does not make the character cowardly, criminal, unclean, or disease-ridden.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Tolerance +8, Smelling +8, Stealth +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-ratfolk-beastkin"
+    },
+    {
+      "name": "Ravenfolk Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Ravenfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus dark featherlike hair or markings, raven-dark eyes, possible winglike clothing patterns, and quick expressive movement. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Sharp sight and hearing support close observation and noticing changed details. Omens, cleverness, empathy, and mystical interpretation may exist in culture or personality but are not imposed by ancestry.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Seeing +8, Hearing +8, Searching +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-ravenfolk-beastkin"
+    },
+    {
+      "name": "Serpentfolk Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Serpentfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus slit pupils, subtle scale-pattern markings, smooth movement, cool skin tone, and snake-like eyes. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Scent-sensitive perception, still posture, smooth movement, and tactile awareness favor quiet observation and unobtrusive movement. Serpentfolk are not inherently deceitful, cold, manipulative, or malicious.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Smelling +8, Stealth +8, Touching +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-serpentfolk-beastkin"
+    },
+    {
+      "name": "Sharkfolk Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Sharkfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus shark-like eyes, sharp human teeth, finlike markings, subtle rough skin texture, and water-ready posture. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: A water-ready build, rougher skin texture, strong scent sensitivity, and aquatic instincts favor powerful swimming and endurance in water. Do not grant underwater breathing or predatory aggression unless another mechanic establishes it.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Swimming +11, Smelling +5, Tolerance +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-sharkfolk-beastkin"
+    },
+    {
+      "name": "Sheepfolk Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Sheepfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus sheep ears, woolly hair, soft features, possible small horns, and a body naturally insulated by dense hair. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Dense woolly hair, sensitive hearing, scent awareness, and steady physical endurance help with exposure and environmental awareness. Gentleness, passivity, pastoral work, handcrafting, and obedience are not racial requirements.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Tolerance +8, Hearing +8, Smelling +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-sheepfolk-beastkin"
+    },
+    {
+      "name": "Squirrelfolk Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Squirrelfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus squirrel ears, a large fluffy tail, quick feet, bright eyes, and agile hands. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Strong climbing instincts, fast balance corrections, quick hands, and a large expressive tail favor vertical movement and delicate manipulation. Hoarding or nervousness may be habits, never mandatory racial behavior.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Climbing +8, Acrobatics +8, Legerdemain +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-squirrelfolk-beastkin"
+    },
+    {
+      "name": "Tigerfolk Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Tigerfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus tiger ears, a tail, striped skin or hair markings, bright eyes, strong build, and fluid heavy movement. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: A strong build, fluid heavy movement, striped markings, sharp sight, and quiet footwork favor strength and stealth. Courage, aggression, dominance, and hunting behavior remain personal or learned rather than racial.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Might +8, Stealth +8, Seeing +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-tigerfolk-beastkin"
+    },
+    {
+      "name": "Weaselfolk Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Weaselfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus weasel ears, narrow features, a long tail, sharp eyes, and restless motion. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: A narrow build, rapid movement, flexible balance, and quick hands favor slipping through tight spaces and acting with speed and precision. Boldness or mischief is not biologically required.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Stealth +8, Acrobatics +8, Legerdemain +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-weaselfolk-beastkin"
+    },
+    {
+      "name": "Werewolf Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Werewolf Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus wolf ears, tail, sharp senses, strong build, and a more feral edge in posture, voice, or movement. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Sharpened wolf-like senses, strong build, and a visibly feral edge make trails, nearby movement, and physical pressure easier to read. This trait does not by itself grant shapeshifting, uncontrollable rage, lunar transformation, or lycanthropic powers.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Tracking +11, Tolerance +5, Intimidation +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-werewolf-beastkin"
+    },
+    {
+      "name": "Wolfkin Beastkin",
+      "sourceWorld": "Arkenfell",
+      "group": "Beastkin",
+      "kind": "Playable race",
+      "summary": "Wolfkin Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus wolf ears, a wolf tail, sharp eyes or slightly sharper human teeth, and controlled watchful body language. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.\n\nNarrative effects: Keen scent and hearing make trails, nearby movement, and recent passage unusually noticeable. Pack loyalty, empathy, aggression, hierarchy, and wilderness culture are not biologically mandatory.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Smelling +8, Hearing +8, Tracking +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-wolfkin-beastkin"
+    },
+    {
+      "name": "Caelari — Dawnmarked",
+      "sourceWorld": "Arkenfell",
+      "group": "Caelari",
+      "kind": "Playable race",
+      "summary": "Caelari (pronounced kay-LAR-ee) are mortal people whose ancestry carries an old celestial influence. They are not angels, chosen servants of a deity, automatically virtuous, or proof of divine favor. Dawnmarked Caelari express that inheritance through radiance, luminous or reflective eyes, bright markings, and an instinctive affinity for light.\n\nNarrative effects: Your celestial ancestry expresses through radiance and Light affinity. It can affect appearance and magical potential without determining faith, morality, destiny, or allegiance.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Seeing +8, Courage +8, Light Arcana +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-caelari-dawnmarked"
+    },
+    {
+      "name": "Caelari — Gloryborn",
+      "sourceWorld": "Arkenfell",
+      "group": "Caelari",
+      "kind": "Playable race",
+      "summary": "Caelari (pronounced kay-LAR-ee) are mortal people whose ancestry carries an old celestial influence. They are not angels, chosen servants of a deity, automatically virtuous, or proof of divine favor. Gloryborn Caelari express a celestial inheritance associated with awe, presence, courage, and heroic magical resonance. They may appear unusually vivid or commanding even when dressed plainly.\n\nNarrative effects: Your celestial ancestry can lend supernatural weight to presence and Heroic affinity without making you noble, famous, righteous, charismatic in every situation, or destined for greatness.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Courage +8, Persuasion +8, Heroic Arcana +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-caelari-gloryborn"
+    },
+    {
+      "name": "Caelari — Mercyborn",
+      "sourceWorld": "Arkenfell",
+      "group": "Caelari",
+      "kind": "Playable race",
+      "summary": "Caelari (pronounced kay-LAR-ee) are mortal people whose ancestry carries an old celestial influence. They are not angels, chosen servants of a deity, automatically virtuous, or proof of divine favor. Mercyborn Caelari express a restorative celestial inheritance often visible as warm skin, gentle luminescence, unusually steady vital signs, or markings associated with renewal.\n\nNarrative effects: Your celestial inheritance is associated with restoration and Healing affinity. It does not make you compassionate, holy, medically trained, or able to heal beyond your actual Arcana skill and abilities.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Empathy +8, Tolerance +8, Healing Arcana +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-caelari-mercyborn"
+    },
+    {
+      "name": "Caelari — Star-Eyed",
+      "sourceWorld": "Arkenfell",
+      "group": "Caelari",
+      "kind": "Playable race",
+      "summary": "Caelari (pronounced kay-LAR-ee) are mortal people whose ancestry carries an old celestial influence. They are not angels, chosen servants of a deity, automatically virtuous, or proof of divine favor. Star-Eyed Caelari express an inheritance associated with distant light, signs, patterns, celestial observation, and unusual perception. Their eyes may resemble stars, pale fire, deep night, or shifting points of light.\n\nNarrative effects: Your celestial inheritance carries Divination affinity and unusually focused perception. It does not grant prophecy, secret knowledge, destiny, or access to information your actual abilities cannot reveal.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Seeing +8, Self-Discipline +8, Divination Arcana +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-caelari-star-eyed"
+    },
+    {
+      "name": "Caelari — Wardmarked",
+      "sourceWorld": "Arkenfell",
+      "group": "Caelari",
+      "kind": "Playable race",
+      "summary": "Caelari (pronounced kay-LAR-ee) are mortal people whose ancestry carries an old celestial influence. They are not angels, chosen servants of a deity, automatically virtuous, or proof of divine favor. Wardmarked Caelari express celestial ancestry associated with boundaries, guardianship, resistance, and protective force, sometimes visible through geometric birthmarks, pale-gold lines, or a calm pressure around active magic.\n\nNarrative effects: Your celestial inheritance carries a Protection affinity and a strong tendency toward controlled resistance. It does not impose an oath, duty, guardian role, or heroic personality.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Courage +8, Self-Discipline +8, Protection Arcana +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-caelari-wardmarked"
+    },
+    {
+      "name": "Elementborn — Ashborn",
+      "sourceWorld": "Arkenfell",
+      "group": "Elementborn",
+      "kind": "Playable race",
+      "summary": "Elementborn are mortal people whose ancestry carries a persistent elemental expression strong enough to shape physiology and magical affinity. Elementborn are not elementals, and their element does not determine culture, morality, profession, or personality. Ashborn carry smoke, ash, soot, haze, and volcanic-air traits such as charcoal undertones, smoke-like markings, darkened sclera, muted scent, or fine ash appearing around them under magical stress.\n\nNarrative effects: Your body is unusually comfortable around smoke and airborne particulates and carries Smoke affinity. This does not grant immunity to suffocation, invisibility, or the ability to become smoke without explicit magic.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Stealth +8, Tolerance +8, Smoke Arcana +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-elementborn-ashborn"
+    },
+    {
+      "name": "Elementborn — Emberborn",
+      "sourceWorld": "Arkenfell",
+      "group": "Elementborn",
+      "kind": "Playable race",
+      "summary": "Elementborn are mortal people whose ancestry carries a persistent elemental expression strong enough to shape physiology and magical affinity. Elementborn are not elementals, and their element does not determine culture, morality, profession, or personality. Emberborn carry fire-linked traits such as unusual body heat, emberlike eyes, warm markings, soot-dark hair tones, or skin that handles heat unusually well.\n\nNarrative effects: Your body and magic carry a stable Fire affinity. Heat-linked traits are inherited, but you do not automatically ignite objects, resist all fire, or possess fire abilities you have not learned.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Tolerance +8, Courage +8, Fire Arcana +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-elementborn-emberborn"
+    },
+    {
+      "name": "Elementborn — Frostborn",
+      "sourceWorld": "Arkenfell",
+      "group": "Elementborn",
+      "kind": "Playable race",
+      "summary": "Elementborn are mortal people whose ancestry carries a persistent elemental expression strong enough to shape physiology and magical affinity. Elementborn are not elementals, and their element does not determine culture, morality, profession, or personality. Frostborn carry cold-linked traits such as low body temperature, frostlike markings, pale or crystalline coloration, and exceptional comfort in severe cold.\n\nNarrative effects: Your physiology is exceptionally adapted to temperature stress and carries Cold affinity. Cold skin and temperature sensitivity do not make you immune to freezing or harmful heat.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Tolerance +11, Touching +5, Cold Arcana +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-elementborn-frostborn"
+    },
+    {
+      "name": "Elementborn — Galeborn",
+      "sourceWorld": "Arkenfell",
+      "group": "Elementborn",
+      "kind": "Playable race",
+      "summary": "Elementborn are mortal people whose ancestry carries a persistent elemental expression strong enough to shape physiology and magical affinity. Elementborn are not elementals, and their element does not determine culture, morality, profession, or personality. Galeborn carry air-linked traits such as unusually light movement, hair or clothing that reacts readily to small currents, pale cloudlike markings, or an instinctive sense for changes in airflow.\n\nNarrative effects: Your body favors light, controlled movement and carries Air affinity. This does not grant flight or immunity to falling without another established capability.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Acrobatics +8, Seeing +8, Air Arcana +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-elementborn-galeborn"
+    },
+    {
+      "name": "Elementborn — Ironveined",
+      "sourceWorld": "Arkenfell",
+      "group": "Elementborn",
+      "kind": "Playable race",
+      "summary": "Elementborn are mortal people whose ancestry carries a persistent elemental expression strong enough to shape physiology and magical affinity. Elementborn are not elementals, and their element does not determine culture, morality, profession, or personality. Ironveined carry metal-linked traits such as metallic flecks in skin or eyes, unusual bodily density, mineral-colored nails, or heightened tactile awareness of worked metal and rigid materials.\n\nNarrative effects: Your body carries a stable Metal affinity and unusually strong tactile response to dense materials. You are not literally made of metal and gain no automatic armor.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Touching +8, Tolerance +8, Metal Arcana +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-elementborn-ironveined"
+    },
+    {
+      "name": "Elementborn — Rootborn",
+      "sourceWorld": "Arkenfell",
+      "group": "Elementborn",
+      "kind": "Playable race",
+      "summary": "Elementborn are mortal people whose ancestry carries a persistent elemental expression strong enough to shape physiology and magical affinity. Elementborn are not elementals, and their element does not determine culture, morality, profession, or personality. Rootborn carry wood- and living-growth traits such as barklike patches, leaf or vine markings, earthy scents, unusual hair textures, or subtle seasonal changes in coloration.\n\nNarrative effects: Your physiology carries Wood affinity and heightened organic scent awareness. You remain a mortal person rather than a plant creature and do not automatically photosynthesize, root, or regenerate.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Smelling +8, Tolerance +8, Wood Arcana +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-elementborn-rootborn"
+    },
+    {
+      "name": "Elementborn — Stoneborn",
+      "sourceWorld": "Arkenfell",
+      "group": "Elementborn",
+      "kind": "Playable race",
+      "summary": "Elementborn are mortal people whose ancestry carries a persistent elemental expression strong enough to shape physiology and magical affinity. Elementborn are not elementals, and their element does not determine culture, morality, profession, or personality. Stoneborn carry earth-linked traits such as dense musculature, mineral flecks, stone-toned patches, heavy bones, or a grounded physical presence.\n\nNarrative effects: Your body is unusually dense and carries an Earth affinity. This does not make you literally stone, immovable, or immune to ordinary injury.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Might +8, Tolerance +8, Earth Arcana +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-elementborn-stoneborn"
+    },
+    {
+      "name": "Elementborn — Stormborn",
+      "sourceWorld": "Arkenfell",
+      "group": "Elementborn",
+      "kind": "Playable race",
+      "summary": "Elementborn are mortal people whose ancestry carries a persistent elemental expression strong enough to shape physiology and magical affinity. Elementborn are not elementals, and their element does not determine culture, morality, profession, or personality. Stormborn carry lightning-linked traits such as static in the hair, bright irises, branching markings, tingling skin, or visible electrical reactions under stress.\n\nNarrative effects: Your body and magic carry Lightning affinity and respond strongly to sudden exertion. You do not automatically discharge electricity or resist lightning without an explicit mechanic.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Running +8, Courage +8, Lightning Arcana +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-elementborn-stormborn"
+    },
+    {
+      "name": "Elementborn — Tideborn",
+      "sourceWorld": "Arkenfell",
+      "group": "Elementborn",
+      "kind": "Playable race",
+      "summary": "Elementborn are mortal people whose ancestry carries a persistent elemental expression strong enough to shape physiology and magical affinity. Elementborn are not elementals, and their element does not determine culture, morality, profession, or personality. Tideborn carry water-linked traits such as cool skin, subtle webbing, aquatic coloration, unusual comfort in water, or eyes resembling deep water.\n\nNarrative effects: Your physiology is unusually comfortable in water and carries Water affinity. This does not grant underwater breathing unless another mechanic explicitly does so.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Swimming +8, Tolerance +8, Water Arcana +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-elementborn-tideborn"
+    },
+    {
+      "name": "Tiefling — Blightblood",
+      "sourceWorld": "Arkenfell",
+      "group": "Tieflings",
+      "kind": "Playable race",
+      "summary": "Blightblood tieflings carry demonic ancestry associated with venom, corruption, caustic environments, diseased places, and toxic creatures. They may show unusual skin tones, dark veins, sharp teeth, strange scents, or warning-like markings. They are not inherently diseased, poisonous to touch, unclean, or malicious.\n\nNarrative effects: Your ancestry gives strong tolerance for bodily intrusion, keen chemical scent awareness, and Poison affinity. It does not make your body automatically venomous or grant poison attacks without another mechanic.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Tolerance +8, Smelling +8, Poison Arcana +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-tiefling-blightblood"
+    },
+    {
+      "name": "Tiefling — Cinderblood",
+      "sourceWorld": "Arkenfell",
+      "group": "Tieflings",
+      "kind": "Playable race",
+      "summary": "Cinderblood tieflings express demonic ancestry associated with heat, embers, furnaces, and flame. They remain fundamentally mortal people and may show swept horns, ember-bright eyes, unusually warm skin, soot-dark markings, or faint heat around the hands under stress. Their ancestry does not determine culture, morality, profession, or allegiance.\n\nNarrative effects: Your infernal ancestry is visibly and magically heat-linked. Fire affinity and an imposing infernal presence are inherited traits, not proof of cruelty, aggression, or loyalty to demons.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Tolerance +8, Intimidation +8, Fire Arcana +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-tiefling-cinderblood"
+    },
+    {
+      "name": "Tiefling — Gloamblood",
+      "sourceWorld": "Arkenfell",
+      "group": "Tieflings",
+      "kind": "Playable race",
+      "summary": "Gloamblood tieflings express demonic ancestry tied to darkness, concealment, muted presence, and places where light fails. They may have very dark horns, low-light adapted eyes, subdued coloration, or shadows that seem deeper around their silhouette without becoming supernatural by default.\n\nNarrative effects: Your infernal ancestry favors dim-light perception, unobtrusive movement, and Shadow affinity. It does not make you secretive, criminal, sinister, or automatically capable of forbidden Shadow feats.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Stealth +8, Seeing +8, Shadow Arcana +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-tiefling-gloamblood"
+    },
+    {
+      "name": "Tiefling — Veilblood",
+      "sourceWorld": "Arkenfell",
+      "group": "Tieflings",
+      "kind": "Playable race",
+      "summary": "Veilblood tieflings descend from demonic lineages associated with desire, attention, temptation, dreams of possibility, and the pressures people reveal without meaning to. Their features may be graceful, uncanny, striking, or difficult to ignore, with unusual eyes and subtle infernal tells. This does not make them seductive, deceptive, immoral, or socially dominant by nature.\n\nNarrative effects: Your ancestry gives unusual sensitivity to attention, emotion, temptation, and social pressure. Enchantment Arcana appears as an inherited affinity for marks, bindings, wards, and persistent magical effects.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Empathy +8, Seeing +8, Enchantment Arcana +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-tiefling-veilblood"
+    },
+    {
+      "name": "Tiefling — Wrathblood",
+      "sourceWorld": "Arkenfell",
+      "group": "Tieflings",
+      "kind": "Playable race",
+      "summary": "Wrathblood tieflings express a heavier, forceful demonic lineage associated with pressure, violent impact, endurance, and raw magical output. They may have thicker horns, denser musculature, powerful posture, or eyes that intensify when exerting themselves. Their ancestry does not force anger, violence, or a warrior life.\n\nNarrative effects: Your demonic ancestry favors forceful physical and magical expression. Power Arcana is an inherited affinity, while your choices determine whether that potential is ever used violently.",
+      "facts": [
+        {
+          "label": "Modifiers",
+          "value": "Might +8, Courage +8, Power Arcana +5"
+        }
+      ],
+      "spoiler": false,
+      "articleId": "race-tiefling-wrathblood"
+    }
+  ]
+}

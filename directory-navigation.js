@@ -35,6 +35,13 @@ const directoryPages = {
     allGroupsLabel: 'All Arcana tiers',
     requiredSourceWorld: 'Arkenfell'
   },
+  'race-directory': {
+    source: 'content/data/races.json',
+    searchPlaceholder: 'Search races, lineages, physical traits, Arcana affinities, or mechanical benefits…',
+    groupFilterLabel: 'Browse by lineage family',
+    allGroupsLabel: 'All races and lineages',
+    requiredSourceWorld: 'Arkenfell'
+  },
   'creature-directory': {
     source: [
       'content/data/creatures-a-e.json',

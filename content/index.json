@@ -6,7 +6,11 @@
       "category": "World",
       "summary": "Player-facing introduction to the setting and the purpose of this wiki.",
       "path": "content/world/arkenfell.md",
-      "tags": ["World","Overview","Canon"]
+      "tags": [
+        "World",
+        "Overview",
+        "Canon"
+      ]
     },
     {
       "id": "world-overview",
@@ -14,7 +18,12 @@
       "category": "World",
       "summary": "A broad introduction to Arkenfell, Eldaven, the setting's major themes, and how the wiki is organized.",
       "path": "content/world/world-overview.md",
-      "tags": ["World","Overview","Eldaven","Canon"]
+      "tags": [
+        "World",
+        "Overview",
+        "Eldaven",
+        "Canon"
+      ]
     },
     {
       "id": "eldaven",
@@ -22,7 +31,12 @@
       "category": "World",
       "summary": "The mapped continent currently at the center of Arkenfell's known political world.",
       "path": "content/world/eldaven.md",
-      "tags": ["World","Eldaven","Geography","Politics"]
+      "tags": [
+        "World",
+        "Eldaven",
+        "Geography",
+        "Politics"
+      ]
     },
     {
       "id": "country-directory",
@@ -30,7 +44,12 @@
       "category": "Countries",
       "summary": "A searchable guide to Eldaven's countries and sovereign political powers within the realm of Arkenfell.",
       "path": "content/countries/country-directory.md",
-      "tags": ["Countries","Eldaven","Politics","Reference"]
+      "tags": [
+        "Countries",
+        "Eldaven",
+        "Politics",
+        "Reference"
+      ]
     },
     {
       "id": "kingdom-of-valenreach",
@@ -38,7 +57,12 @@
       "category": "Countries",
       "summary": "A wealthy royal power ruled by King Aldric and Queen Ceralie from Highcourt Armathen.",
       "path": "content/realms/kingdom-of-valenreach.md",
-      "tags": ["Eldaven","Valenreach","Realm","Politics"]
+      "tags": [
+        "Eldaven",
+        "Valenreach",
+        "Realm",
+        "Politics"
+      ]
     },
     {
       "id": "dreadmark-dominion",
@@ -46,7 +70,12 @@
       "category": "Countries",
       "summary": "An eastern military dominion built on hierarchy, forced labor, slavery, and vast legions.",
       "path": "content/realms/dreadmark-dominion.md",
-      "tags": ["Eldaven","Dreadmark","Realm","Politics"]
+      "tags": [
+        "Eldaven",
+        "Dreadmark",
+        "Realm",
+        "Politics"
+      ]
     },
     {
       "id": "tide-empire",
@@ -54,7 +83,12 @@
       "category": "Countries",
       "summary": "An ancient northern empire of fleets, river cities, dragonriders, and long imperial continuity.",
       "path": "content/realms/tide-empire.md",
-      "tags": ["Eldaven","Tide Empire","Realm","Politics"]
+      "tags": [
+        "Eldaven",
+        "Tide Empire",
+        "Realm",
+        "Politics"
+      ]
     },
     {
       "id": "lythael-elven-dominion",
@@ -62,7 +96,12 @@
       "category": "Countries",
       "summary": "An ancient southern elven realm shaped by old forests, noble matriarchs, and long political memory.",
       "path": "content/realms/lythael-elven-dominion.md",
-      "tags": ["Eldaven","Lythael","Realm","Elves"]
+      "tags": [
+        "Eldaven",
+        "Lythael",
+        "Realm",
+        "Elves"
+      ]
     },
     {
       "id": "solmire-concord",
@@ -70,7 +109,12 @@
       "category": "Countries",
       "summary": "A western merchant republic whose power flows through trade, contracts, convoys, and credit.",
       "path": "content/realms/solmire-concord.md",
-      "tags": ["Eldaven","Solmire","Realm","Trade"]
+      "tags": [
+        "Eldaven",
+        "Solmire",
+        "Realm",
+        "Trade"
+      ]
     },
     {
       "id": "solarian-theocracy",
@@ -78,7 +122,12 @@
       "category": "Countries",
       "summary": "A southeastern religious state ruled by a High Synod and influential through temples, healing, and doctrine.",
       "path": "content/realms/solarian-theocracy.md",
-      "tags": ["Eldaven","Solarian","Realm","Religion"]
+      "tags": [
+        "Eldaven",
+        "Solarian",
+        "Realm",
+        "Religion"
+      ]
     },
     {
       "id": "arcanum-ascendancy",
@@ -86,7 +135,12 @@
       "category": "Countries",
       "summary": "An independent mage-ruled state centered on academies, classification, research, and magical arbitration.",
       "path": "content/realms/arcanum-ascendancy.md",
-      "tags": ["Eldaven","Arcanum","Realm","Magic"]
+      "tags": [
+        "Eldaven",
+        "Arcanum",
+        "Realm",
+        "Magic"
+      ]
     },
     {
       "id": "emberhorn-accord",
@@ -94,7 +148,11 @@
       "category": "Countries",
       "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
       "path": "content/realms/emberhorn-accord.md",
-      "tags": ["Eldaven","Emberhorn Accord","Realm"]
+      "tags": [
+        "Eldaven",
+        "Emberhorn Accord",
+        "Realm"
+      ]
     },
     {
       "id": "ashen-maw",
@@ -102,7 +160,11 @@
       "category": "Countries",
       "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
       "path": "content/realms/ashen-maw.md",
-      "tags": ["Eldaven","Ashen Maw","Realm"]
+      "tags": [
+        "Eldaven",
+        "Ashen Maw",
+        "Realm"
+      ]
     },
     {
       "id": "coral-throne",
@@ -110,7 +172,11 @@
       "category": "Countries",
       "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
       "path": "content/realms/coral-throne.md",
-      "tags": ["Eldaven","Coral Throne","Realm"]
+      "tags": [
+        "Eldaven",
+        "Coral Throne",
+        "Realm"
+      ]
     },
     {
       "id": "stormpearl-isles",
@@ -118,7 +184,11 @@
       "category": "Countries",
       "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
       "path": "content/realms/stormpearl-isles.md",
-      "tags": ["Eldaven","Stormpearl Isles","Realm"]
+      "tags": [
+        "Eldaven",
+        "Stormpearl Isles",
+        "Realm"
+      ]
     },
     {
       "id": "fangbound-clans",
@@ -126,7 +196,11 @@
       "category": "Countries",
       "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
       "path": "content/realms/fangbound-clans.md",
-      "tags": ["Eldaven","Fangbound Clans","Realm"]
+      "tags": [
+        "Eldaven",
+        "Fangbound Clans",
+        "Realm"
+      ]
     },
     {
       "id": "nightglass-principality",
@@ -134,7 +208,11 @@
       "category": "Countries",
       "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
       "path": "content/realms/nightglass-principality.md",
-      "tags": ["Eldaven","Nightglass Principality","Realm"]
+      "tags": [
+        "Eldaven",
+        "Nightglass Principality",
+        "Realm"
+      ]
     },
     {
       "id": "cloudspire-dominion",
@@ -142,7 +220,11 @@
       "category": "Countries",
       "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
       "path": "content/realms/cloudspire-dominion.md",
-      "tags": ["Eldaven","Cloudspire Dominion","Realm"]
+      "tags": [
+        "Eldaven",
+        "Cloudspire Dominion",
+        "Realm"
+      ]
     },
     {
       "id": "ironroot-holds",
@@ -150,7 +232,11 @@
       "category": "Countries",
       "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
       "path": "content/realms/ironroot-holds.md",
-      "tags": ["Eldaven","Ironroot Holds","Realm"]
+      "tags": [
+        "Eldaven",
+        "Ironroot Holds",
+        "Realm"
+      ]
     },
     {
       "id": "eldmark-kingdom",
@@ -158,7 +244,11 @@
       "category": "Countries",
       "summary": "An established Eldaven kingdom represented in the current Arkenfell world canon.",
       "path": "content/realms/eldmark-kingdom.md",
-      "tags": ["Eldaven","Eldmark","Realm"]
+      "tags": [
+        "Eldaven",
+        "Eldmark",
+        "Realm"
+      ]
     },
     {
       "id": "hollowmere-confederacy",
@@ -166,7 +256,11 @@
       "category": "Countries",
       "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
       "path": "content/realms/hollowmere-confederacy.md",
-      "tags": ["Eldaven","Hollowmere","Realm"]
+      "tags": [
+        "Eldaven",
+        "Hollowmere",
+        "Realm"
+      ]
     },
     {
       "id": "palegrave-crown",
@@ -174,7 +268,11 @@
       "category": "Countries",
       "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
       "path": "content/realms/palegrave-crown.md",
-      "tags": ["Eldaven","Palegrave","Realm"]
+      "tags": [
+        "Eldaven",
+        "Palegrave",
+        "Realm"
+      ]
     },
     {
       "id": "place-directory",
@@ -182,7 +280,12 @@
       "category": "Geography",
       "summary": "A searchable directory of all 25 regions and 353 configured locations in Arkenfell.",
       "path": "content/geography/place-directory.md",
-      "tags": ["Places","Geography","Locations","Reference"]
+      "tags": [
+        "Places",
+        "Geography",
+        "Locations",
+        "Reference"
+      ]
     },
     {
       "id": "highcourt-armathen",
@@ -190,7 +293,12 @@
       "category": "Geography",
       "summary": "The royal palace of Valenreach and seat of its royal household.",
       "path": "content/geography/highcourt-armathen.md",
-      "tags": ["Valenreach","Palace","Royal Household","Location"]
+      "tags": [
+        "Valenreach",
+        "Palace",
+        "Royal Household",
+        "Location"
+      ]
     },
     {
       "id": "faction-directory",
@@ -198,7 +306,12 @@
       "category": "Factions",
       "summary": "A searchable directory of all 56 factions configured in Arkenfell.",
       "path": "content/factions/faction-directory.md",
-      "tags": ["Factions","Organizations","Politics","Reference"]
+      "tags": [
+        "Factions",
+        "Organizations",
+        "Politics",
+        "Reference"
+      ]
     },
     {
       "id": "edgar-vaust",
@@ -206,7 +319,12 @@
       "category": "People",
       "summary": "Lord Steward of Highcourt Armathen and senior figure of the Valenreach royal household.",
       "path": "content/people/edgar-vaust.md",
-      "tags": ["Valenreach","Highcourt Armathen","Royal Household","NPC"]
+      "tags": [
+        "Valenreach",
+        "Highcourt Armathen",
+        "Royal Household",
+        "NPC"
+      ]
     },
     {
       "id": "important-npcs",
@@ -214,7 +332,12 @@
       "category": "People",
       "summary": "A searchable directory of all 294 authored people configured in Arkenfell.",
       "path": "content/people/important-npcs.md",
-      "tags": ["People","NPCs","Reference","Canon"]
+      "tags": [
+        "People",
+        "NPCs",
+        "Reference",
+        "Canon"
+      ]
     },
     {
       "id": "divine-powers-of-eldaven",
@@ -222,7 +345,12 @@
       "category": "Religion",
       "summary": "Eldaven's plural pantheon, Moral/Theological Standing, and the major national benefactor gods.",
       "path": "content/religion/divine-powers-of-eldaven.md",
-      "tags": ["Religion","Pantheon","Eldaven","Theology"]
+      "tags": [
+        "Religion",
+        "Pantheon",
+        "Eldaven",
+        "Theology"
+      ]
     },
     {
       "id": "ardoval",
@@ -230,7 +358,12 @@
       "category": "Religion",
       "summary": "Valenreach's benefactor god of oaths, crowns, rightful rule, inheritance, and sworn duty.",
       "path": "content/religion/ardoval.md",
-      "tags": ["Religion","Valenreach","Ardoval","Deity"]
+      "tags": [
+        "Religion",
+        "Valenreach",
+        "Ardoval",
+        "Deity"
+      ]
     },
     {
       "id": "pantheon-directory",
@@ -238,7 +371,12 @@
       "category": "Religion",
       "summary": "A searchable directory of all 26 dedicated deity records in Arkenfell.",
       "path": "content/religion/pantheon-directory.md",
-      "tags": ["Religion","Pantheon","Deities","Reference"]
+      "tags": [
+        "Religion",
+        "Pantheon",
+        "Deities",
+        "Reference"
+      ]
     },
     {
       "id": "magic-overview",
@@ -246,7 +384,12 @@
       "category": "Magic",
       "summary": "An introduction to Arcana access, magical skill, abilities, training, institutions, and magic's place in society.",
       "path": "content/magic/magic-overview.md",
-      "tags": ["Magic","Arcana","Abilities","Education"]
+      "tags": [
+        "Magic",
+        "Arcana",
+        "Abilities",
+        "Education"
+      ]
     },
     {
       "id": "arcana",
@@ -254,7 +397,12 @@
       "category": "Magic",
       "summary": "The setting's magical affinities, including the distinction between breadth, skill, and rarity.",
       "path": "content/magic/arcana.md",
-      "tags": ["Magic","Arcana","Rarity","Training"]
+      "tags": [
+        "Magic",
+        "Arcana",
+        "Rarity",
+        "Training"
+      ]
     },
     {
       "id": "arcana-tiers",
@@ -262,7 +410,13 @@
       "category": "Magic",
       "summary": "How Standard, Rare, and Legendary Arcana differ, and how story-unlocked or forbidden magic fits into those tiers.",
       "path": "content/magic/arcana-tiers.md",
-      "tags": ["Magic","Arcana","Rarity","Character Creation","Progression"]
+      "tags": [
+        "Magic",
+        "Arcana",
+        "Rarity",
+        "Character Creation",
+        "Progression"
+      ]
     },
     {
       "id": "arcana-catalog",
@@ -270,7 +424,12 @@
       "category": "Magic",
       "summary": "Reference catalog of standard, rare, and legendary Arcana currently represented in Arkenfell.",
       "path": "content/magic/arcana-catalog.md",
-      "tags": ["Magic","Arcana","Reference","Character Reference"]
+      "tags": [
+        "Magic",
+        "Arcana",
+        "Reference",
+        "Character Reference"
+      ]
     },
     {
       "id": "magical-practice",
@@ -278,7 +437,12 @@
       "category": "Magic",
       "summary": "How magical training, fatigue, overchanneling, institutions, and practical magical education function in Arkenfell.",
       "path": "content/magic/magical-practice.md",
-      "tags": ["Magic","Education","Practice","Institutions"]
+      "tags": [
+        "Magic",
+        "Education",
+        "Practice",
+        "Institutions"
+      ]
     },
     {
       "id": "power-arcana",
@@ -286,7 +450,12 @@
       "category": "Magic",
       "summary": "Willpower-based magical amplification of force, output, reinforcement, and impact.",
       "path": "content/magic/power-arcana.md",
-      "tags": ["Magic","Arcana","Willpower","Power"]
+      "tags": [
+        "Magic",
+        "Arcana",
+        "Willpower",
+        "Power"
+      ]
     },
     {
       "id": "item-directory",
@@ -294,7 +463,12 @@
       "category": "Items",
       "summary": "A searchable directory of all 191 configured item types in Arkenfell.",
       "path": "content/items/item-directory.md",
-      "tags": ["Items","Equipment","Weapons","Reference"]
+      "tags": [
+        "Items",
+        "Equipment",
+        "Weapons",
+        "Reference"
+      ]
     },
     {
       "id": "creature-directory",
@@ -302,7 +476,12 @@
       "category": "Creatures",
       "summary": "A searchable directory of all 427 configured creature and NPC types in Arkenfell.",
       "path": "content/creatures/creature-directory.md",
-      "tags": ["Creatures","NPC Types","Bestiary","Reference"]
+      "tags": [
+        "Creatures",
+        "NPC Types",
+        "Bestiary",
+        "Reference"
+      ]
     },
     {
       "id": "skill-directory",
@@ -310,7 +489,12 @@
       "category": "Character Options",
       "summary": "A searchable directory of all 139 configured skills in Arkenfell.",
       "path": "content/mechanics/skill-directory.md",
-      "tags": ["Skills","Attributes","Character Options","Reference"]
+      "tags": [
+        "Skills",
+        "Attributes",
+        "Character Options",
+        "Reference"
+      ]
     },
     {
       "id": "ability-directory",
@@ -318,7 +502,12 @@
       "category": "Character Options",
       "summary": "A searchable directory of all 1,350 configured abilities in Arkenfell.",
       "path": "content/mechanics/ability-directory.md",
-      "tags": ["Abilities","Requirements","Character Options","Reference"]
+      "tags": [
+        "Abilities",
+        "Requirements",
+        "Character Options",
+        "Reference"
+      ]
     },
     {
       "id": "story-start-directory",
@@ -326,7 +515,12 @@
       "category": "Play Options",
       "summary": "A searchable directory of all 40 configured Story Starts, with full setups behind spoiler warnings.",
       "path": "content/play/story-start-directory.md",
-      "tags": ["Story Starts","Campaigns","Play Options","Reference"]
+      "tags": [
+        "Story Starts",
+        "Campaigns",
+        "Play Options",
+        "Reference"
+      ]
     },
     {
       "id": "game-mode-directory",
@@ -334,7 +528,12 @@
       "category": "Play Options",
       "summary": "A searchable directory of all 25 configured Game Modes and their complete narrator instructions.",
       "path": "content/play/game-mode-directory.md",
-      "tags": ["Game Modes","Difficulty","Pacing","Reference"]
+      "tags": [
+        "Game Modes",
+        "Difficulty",
+        "Pacing",
+        "Reference"
+      ]
     },
     {
       "id": "rules-and-play",
@@ -342,7 +541,12 @@
       "category": "Character Reference",
       "summary": "A player-facing guide to attributes, resources, skills, traits, abilities, progression, and game modes.",
       "path": "content/mechanics/rules-and-play.md",
-      "tags": ["Rules","Character Reference","Progression","Game Modes"]
+      "tags": [
+        "Rules",
+        "Character Reference",
+        "Progression",
+        "Game Modes"
+      ]
     },
     {
       "id": "attributes",
@@ -350,7 +554,11 @@
       "category": "Character Reference",
       "summary": "The nine configured core attributes and their role in character capability and resources.",
       "path": "content/mechanics/attributes.md",
-      "tags": ["Attributes","Character Reference","Mechanics"]
+      "tags": [
+        "Attributes",
+        "Character Reference",
+        "Mechanics"
+      ]
     },
     {
       "id": "resources",
@@ -358,7 +566,13 @@
       "category": "Character Reference",
       "summary": "Configured character resources including Health, Mana, Stamina, Blood, and their recovery or contribution rules.",
       "path": "content/mechanics/resources.md",
-      "tags": ["Resources","Health","Mana","Stamina","Character Reference"]
+      "tags": [
+        "Resources",
+        "Health",
+        "Mana",
+        "Stamina",
+        "Character Reference"
+      ]
     },
     {
       "id": "skills",
@@ -366,7 +580,11 @@
       "category": "Character Reference",
       "summary": "Skill progression, competence benchmarks, and the configured skill-to-attribute domains.",
       "path": "content/mechanics/skills.md",
-      "tags": ["Skills","Character Reference","Progression"]
+      "tags": [
+        "Skills",
+        "Character Reference",
+        "Progression"
+      ]
     },
     {
       "id": "learning-new-skills",
@@ -374,7 +592,12 @@
       "category": "Character Reference",
       "summary": "How characters can unlock configured skills through teachers, practice, story rewards, and meaningful use.",
       "path": "content/mechanics/learning-new-skills.md",
-      "tags": ["Skills","Training","Progression","Character Reference"]
+      "tags": [
+        "Skills",
+        "Training",
+        "Progression",
+        "Character Reference"
+      ]
     },
     {
       "id": "trait-catalog",
@@ -382,7 +605,12 @@
       "category": "Character Options",
       "summary": "A searchable directory of all 1,798 configured traits in Arkenfell.",
       "path": "content/traits/trait-catalog.md",
-      "tags": ["Traits","Character Options","Progression","Reference"]
+      "tags": [
+        "Traits",
+        "Character Options",
+        "Progression",
+        "Reference"
+      ]
     },
     {
       "id": "milestone-titles",
@@ -390,7 +618,12 @@
       "category": "Progression",
       "summary": "Canonical character milestone titles from Firstmark at level 5 to Apotheon at level 100.",
       "path": "content/progression/milestone-titles.md",
-      "tags": ["Progression","Levels","Titles","Character Reference"]
+      "tags": [
+        "Progression",
+        "Levels",
+        "Titles",
+        "Character Reference"
+      ]
     },
     {
       "id": "game-modes",
@@ -398,7 +631,1061 @@
       "category": "Game Modes",
       "summary": "Public reference for Arkenfell campaign, structure, pace, and narration modes.",
       "path": "content/mechanics/game-modes.md",
-      "tags": ["Game Modes","Campaign","Structure","Pace","Narration"]
+      "tags": [
+        "Game Modes",
+        "Campaign",
+        "Structure",
+        "Pace",
+        "Narration"
+      ]
+    },
+    {
+      "id": "race-directory",
+      "title": "Races of Arkenfell",
+      "category": "Races",
+      "summary": "A searchable guide to all 69 playable Race traits currently configured in public Arkenfell.",
+      "path": "content/races/race-directory.md",
+      "tags": [
+        "races",
+        "peoples",
+        "ancestry",
+        "character options"
+      ]
+    },
+    {
+      "id": "race-human-arcane-receptive",
+      "title": "Human — Arcane-Receptive",
+      "category": "Races",
+      "summary": "Humans possess unusually plastic physical, mental, social, and magical development, a quality often called Adaptable Potential. Rather than expressing one strongly specialized inherited form, human potential responds exceptionally well to environment, experience, training, hardship, and opportunity. This selection describes how that potential developed before play; it is not a human subspecies, ethnicity, culture, profession, or personality type. Your mind and body proved unusually receptive to magical development, allowing magical concepts, control exercises, and mana conditioning to take hold readily without determining which Arcana you possess.",
+      "path": "content/races/human-arcane-receptive.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "humans",
+        "human — arcane-receptive"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-human-fleet",
+      "title": "Human — Fleet",
+      "category": "Races",
+      "summary": "Humans possess unusually plastic physical, mental, social, and magical development, a quality often called Adaptable Potential. Rather than expressing one strongly specialized inherited form, human potential responds exceptionally well to environment, experience, training, hardship, and opportunity. This selection describes how that potential developed before play; it is not a human subspecies, ethnicity, culture, profession, or personality type. Your development favored speed, balance, acceleration, and rapid adjustment to movement.",
+      "path": "content/races/human-fleet.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "humans",
+        "human — fleet"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-human-keen-sensed",
+      "title": "Human — Keen-Sensed",
+      "category": "Races",
+      "summary": "Humans possess unusually plastic physical, mental, social, and magical development, a quality often called Adaptable Potential. Rather than expressing one strongly specialized inherited form, human potential responds exceptionally well to environment, experience, training, hardship, and opportunity. This selection describes how that potential developed before play; it is not a human subspecies, ethnicity, culture, profession, or personality type. Repeated use and environmental pressure sharpened your ordinary human senses into unusually dependable awareness.",
+      "path": "content/races/human-keen-sensed.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "humans",
+        "human — keen-sensed"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-human-resourceful",
+      "title": "Human — Resourceful",
+      "category": "Races",
+      "summary": "Humans possess unusually plastic physical, mental, social, and magical development, a quality often called Adaptable Potential. Rather than expressing one strongly specialized inherited form, human potential responds exceptionally well to environment, experience, training, hardship, and opportunity. This selection describes how that potential developed before play; it is not a human subspecies, ethnicity, culture, profession, or personality type. Your development favored practical problem solving, noticing useful details, judging materials, and finding workable solutions with what was available.",
+      "path": "content/races/human-resourceful.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "humans",
+        "human — resourceful"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-human-steadfast",
+      "title": "Human — Steadfast",
+      "category": "Races",
+      "summary": "Humans possess unusually plastic physical, mental, social, and magical development, a quality often called Adaptable Potential. Rather than expressing one strongly specialized inherited form, human potential responds exceptionally well to environment, experience, training, hardship, and opportunity. This selection describes how that potential developed before play; it is not a human subspecies, ethnicity, culture, profession, or personality type. Your development favored composure, persistence, and the ability to keep acting when fear, hardship, pain, or pressure would make others falter.",
+      "path": "content/races/human-steadfast.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "humans",
+        "human — steadfast"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-human-sure-handed",
+      "title": "Human — Sure-Handed",
+      "category": "Races",
+      "summary": "Humans possess unusually plastic physical, mental, social, and magical development, a quality often called Adaptable Potential. Rather than expressing one strongly specialized inherited form, human potential responds exceptionally well to environment, experience, training, hardship, and opportunity. This selection describes how that potential developed before play; it is not a human subspecies, ethnicity, culture, profession, or personality type. Your development favored unusually precise touch, fine hand control, delicate manipulation, and quick coordination.",
+      "path": "content/races/human-sure-handed.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "humans",
+        "human — sure-handed"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-human-tempered",
+      "title": "Human — Tempered",
+      "category": "Races",
+      "summary": "Humans possess unusually plastic physical, mental, social, and magical development, a quality often called Adaptable Potential. Rather than expressing one strongly specialized inherited form, human potential responds exceptionally well to environment, experience, training, hardship, and opportunity. This selection describes how that potential developed before play; it is not a human subspecies, ethnicity, culture, profession, or personality type. Your development settled most strongly into a durable, conditioned body able to apply force and keep functioning under physical strain.",
+      "path": "content/races/human-tempered.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "humans",
+        "human — tempered"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-human-worldwise",
+      "title": "Human — Worldwise",
+      "category": "Races",
+      "summary": "Humans possess unusually plastic physical, mental, social, and magical development, a quality often called Adaptable Potential. Rather than expressing one strongly specialized inherited form, human potential responds exceptionally well to environment, experience, training, hardship, and opportunity. This selection describes how that potential developed before play; it is not a human subspecies, ethnicity, culture, profession, or personality type. Your development responded most strongly to living among people, changing expectations, and social environments, making you unusually good at reading and adapting to others.",
+      "path": "content/races/human-worldwise.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "humans",
+        "human — worldwise"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-dhampir",
+      "title": "Dhampir",
+      "category": "Races",
+      "summary": "Dhampirs are living mortals with partial vampiric ancestry or a stable vampire-touched bloodline. They may have cool skin, subtle fangs, unusual eyes, muted pulse, and pronounced nocturnal senses, but they are not Vampires and do not automatically possess the Beast, blood dependence, immortality, sunlight burning, invitation restrictions, missing reflections, or the Vampire subsystem.",
+      "path": "content/races/dhampir.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "other peoples",
+        "dhampir"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-dragonfolk",
+      "title": "Dragonfolk",
+      "category": "Races",
+      "summary": "Dragonfolk are full-sized draconic humanoids with scaled bodies, distinctly draconic faces, horns, claws, tails, and powerful humanoid builds. They are mortal people rather than lesser dragons and can use ordinary humanoid clothing, armor, weapons, and equipment with practical adjustments for their horns and tails. Wings, breath weapons, and supernatural elemental powers are not universal Dragonfolk traits.",
+      "path": "content/races/dragonfolk.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "other peoples",
+        "dragonfolk"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-dragonkin",
+      "title": "Dragonkin",
+      "category": "Races",
+      "summary": "Dragonkin look fundamentally human but carry prominent draconic traits. They retain a fully humanlike face, skin, hands, feet, legs, and body plan while normally possessing horns, a scaled tail, and draconic wings, sometimes accompanied by slit pupils or small scale patches. They are not full humanoid dragons and should never be given reptilian heads, muzzles, full-body scales, digitigrade monster legs, or Dragonfolk anatomy.",
+      "path": "content/races/dragonkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "other peoples",
+        "dragonkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-dwarf",
+      "title": "Dwarf",
+      "category": "Races",
+      "summary": "Dwarves are shorter and broader than humans, with dense builds, strong bones, powerful musculature, and long-lived mortal physiology. Dwarf ancestry does not automatically grant smithing, engineering, mining, weapon training, clan culture, or a mountain upbringing.",
+      "path": "content/races/dwarf.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "other peoples",
+        "dwarf"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-elf",
+      "title": "Elf",
+      "category": "Races",
+      "summary": "Elves are long-lived mortal humanoids with pointed ears, graceful proportions, and naturally keen senses. Their ancestry does not determine culture, profession, morality, magical tradition, or preference for nature; those come from Origin Culture, Upbringing, and lived experience.",
+      "path": "content/races/elf.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "other peoples",
+        "elf"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-gnome",
+      "title": "Gnome",
+      "category": "Races",
+      "summary": "Gnomes are small mortal humanoids with fine hand control, sensitive touch, sharp close attention, and compact bodies suited to precise manipulation. Gnome ancestry does not automatically make someone an engineer, alchemist, scholar, inventor, or mage.",
+      "path": "content/races/gnome.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "other peoples",
+        "gnome"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-halfling",
+      "title": "Halfling",
+      "category": "Races",
+      "summary": "Halflings are small, resilient mortal humanoids with compact builds, light movement, and proportions that let them pass through crowded or larger-built environments easily. Halfling ancestry does not determine hospitality, cooking, farming, trade, criminality, or any particular culture.",
+      "path": "content/races/halfling.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "other peoples",
+        "halfling"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-lizardfolk",
+      "title": "Lizardfolk",
+      "category": "Races",
+      "summary": "Lizardfolk are fully reptilian humanoids with scales, reptilian heads and eyes, tails, claws, and strong jaws. Different lineages may resemble monitors, iguanas, crocodilians, geckos, desert lizards, or other reptiles while retaining an upright humanoid body plan compatible with ordinary equipment. Lizardfolk are natural mortal people and have no inherent connection to dragons.",
+      "path": "content/races/lizardfolk.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "other peoples",
+        "lizardfolk"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-orc",
+      "title": "Orc",
+      "category": "Races",
+      "summary": "Orcs are large, robust mortal humanoids typically marked by powerful builds, broad features, pronounced tusks or tusk-like teeth, and a physiology capable of sustained physical exertion. Skin tones vary widely by lineage and region. Orcs are a people rather than a warrior profession: culture, upbringing, status, work, faith, and temperament come from their actual lives.",
+      "path": "content/races/orc.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "other peoples",
+        "orc"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-spiritfolk",
+      "title": "Spiritfolk",
+      "category": "Races",
+      "summary": "Spiritfolk are living mortal people whose lineage has been shaped by spirits, old shrines, ancestor pacts, nature forces, local gods, or other persistent contact with the unseen world. Their exact manifestation is intentionally broad and may include luminous eyes, unusual markings, strange hair, omen-like sensations, or a subtle spiritual presence. They are not ghosts, undead, or automatically religious.",
+      "path": "content/races/spiritfolk.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "other peoples",
+        "spiritfolk"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-badgerfolk-beastkin",
+      "title": "Badgerfolk Beastkin",
+      "category": "Races",
+      "summary": "Badgerfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus badger ears, striped markings, strong hands, heavy shoulders, and a grounded stance. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/badgerfolk-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "badgerfolk beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-batfolk-beastkin",
+      "title": "Batfolk Beastkin",
+      "category": "Races",
+      "summary": "Batfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus bat ears, dark eyes, sharp hearing, and night-adapted posture. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/batfolk-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "batfolk beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-bearfolk-beastkin",
+      "title": "Bearfolk Beastkin",
+      "category": "Races",
+      "summary": "Bearfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus rounded bear ears, a dense build, broad shoulders, thick hair, and heavy movement. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/bearfolk-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "bearfolk beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-boarkin-beastkin",
+      "title": "Boarkin Beastkin",
+      "category": "Races",
+      "summary": "Boarkin Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus boar ears, small tusks or tusk-like teeth, coarse hair, powerful shoulders, and a grounded stance. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/boarkin-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "boarkin beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-bullfolk-beastkin",
+      "title": "Bullfolk Beastkin",
+      "category": "Races",
+      "summary": "Bullfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus bull horns, bovine ears, a tail, broad build, thick neck, and heavy presence. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/bullfolk-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "bullfolk beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-catfolk-beastkin",
+      "title": "Catfolk Beastkin",
+      "category": "Races",
+      "summary": "Catfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus cat ears, a cat tail, expressive pupils, quiet steps, and light balanced movement. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/catfolk-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "catfolk beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-deerfolk-beastkin",
+      "title": "Deerfolk Beastkin",
+      "category": "Races",
+      "summary": "Deerfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus deer ears, soft eyes, possible antlers, light steps, and woodland poise. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/deerfolk-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "deerfolk beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-demon-touched-beastkin",
+      "title": "Demon-Touched Beastkin",
+      "category": "Races",
+      "summary": "Demon-Touched Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus visible beastkin traits overlaid by horns, ember eyes, spade tails, heated clawlike nails, ash markings, or sharper instincts. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/demon-touched-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "demon-touched beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-dogfolk-beastkin",
+      "title": "Dogfolk Beastkin",
+      "category": "Races",
+      "summary": "Dogfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus dog ears, a dog tail, keen hearing, scent awareness, and alert posture. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/dogfolk-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "dogfolk beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-foxfolk-beastkin",
+      "title": "Foxfolk Beastkin",
+      "category": "Races",
+      "summary": "Foxfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus fox ears, one or more foxlike tails, keen hearing, sharp eyes, and agile movement. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/foxfolk-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "foxfolk beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-goatfolk-beastkin",
+      "title": "Goatfolk Beastkin",
+      "category": "Races",
+      "summary": "Goatfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus goat horns, goat ears, sturdy human feet or practical mountain footwear, and sure-footed movement. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/goatfolk-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "goatfolk beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-hawkfolk-beastkin",
+      "title": "Hawkfolk Beastkin",
+      "category": "Races",
+      "summary": "Hawkfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus sharp eyes, featherlike hair or markings, small feather accents, light posture, and talonlike nails. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/hawkfolk-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "hawkfolk beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-hedgehogfolk-beastkin",
+      "title": "Hedgehogfolk Beastkin",
+      "category": "Races",
+      "summary": "Hedgehogfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus hedgehog ears, short spines through hair or shoulders, quick dark eyes, and compact resilience. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/hedgehogfolk-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "hedgehogfolk beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-horsefolk-beastkin",
+      "title": "Horsefolk Beastkin",
+      "category": "Races",
+      "summary": "Horsefolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus horse ears, a horse tail, strong legs, alert posture, and road-hardened endurance. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/horsefolk-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "horsefolk beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-lionfolk-beastkin",
+      "title": "Lionfolk Beastkin",
+      "category": "Races",
+      "summary": "Lionfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus lion ears, a tail, mane-like hair, golden eyes, strong build, and confident posture. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/lionfolk-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "lionfolk beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-lynxfolk-beastkin",
+      "title": "Lynxfolk Beastkin",
+      "category": "Races",
+      "summary": "Lynxfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus tufted lynx ears, short tail, pale or spotted markings, silent steps, and watchful eyes. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/lynxfolk-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "lynxfolk beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-mousefolk-beastkin",
+      "title": "Mousefolk Beastkin",
+      "category": "Races",
+      "summary": "Mousefolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus mouse ears, a thin tail, bright eyes, quick hands, and a small or slight humanlike build. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/mousefolk-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "mousefolk beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-otterfolk-beastkin",
+      "title": "Otterfolk Beastkin",
+      "category": "Races",
+      "summary": "Otterfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus otter ears, an otter tail, expressive face, water-ready posture, and quick playful movement. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/otterfolk-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "otterfolk beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-owlfolk-beastkin",
+      "title": "Owlfolk Beastkin",
+      "category": "Races",
+      "summary": "Owlfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus owl-like eyes, featherlike hair or markings, small ear tufts, and unusually still posture. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/owlfolk-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "owlfolk beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-pantherfolk-beastkin",
+      "title": "Pantherfolk Beastkin",
+      "category": "Races",
+      "summary": "Pantherfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus panther ears, a tail, dark hair or markings, low smooth movement, and eyes that catch dim light. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/pantherfolk-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "pantherfolk beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-rabbitfolk-beastkin",
+      "title": "Rabbitfolk Beastkin",
+      "category": "Races",
+      "summary": "Rabbitfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus long rabbit ears, expressive posture, quick movement, and compact athletic build. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/rabbitfolk-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "rabbitfolk beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-raccoonfolk-beastkin",
+      "title": "Raccoonfolk Beastkin",
+      "category": "Races",
+      "summary": "Raccoonfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus raccoon ears, a ringed tail, mask-like markings, quick fingers, and alert posture. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/raccoonfolk-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "raccoonfolk beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-ratfolk-beastkin",
+      "title": "Ratfolk Beastkin",
+      "category": "Races",
+      "summary": "Ratfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus rat ears or tail, quick hands, alert posture, and sharp senses. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/ratfolk-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "ratfolk beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-ravenfolk-beastkin",
+      "title": "Ravenfolk Beastkin",
+      "category": "Races",
+      "summary": "Ravenfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus dark featherlike hair or markings, raven-dark eyes, possible winglike clothing patterns, and quick expressive movement. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/ravenfolk-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "ravenfolk beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-serpentfolk-beastkin",
+      "title": "Serpentfolk Beastkin",
+      "category": "Races",
+      "summary": "Serpentfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus slit pupils, subtle scale-pattern markings, smooth movement, cool skin tone, and snake-like eyes. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/serpentfolk-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "serpentfolk beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-sharkfolk-beastkin",
+      "title": "Sharkfolk Beastkin",
+      "category": "Races",
+      "summary": "Sharkfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus shark-like eyes, sharp human teeth, finlike markings, subtle rough skin texture, and water-ready posture. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/sharkfolk-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "sharkfolk beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-sheepfolk-beastkin",
+      "title": "Sheepfolk Beastkin",
+      "category": "Races",
+      "summary": "Sheepfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus sheep ears, woolly hair, soft features, possible small horns, and a body naturally insulated by dense hair. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/sheepfolk-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "sheepfolk beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-squirrelfolk-beastkin",
+      "title": "Squirrelfolk Beastkin",
+      "category": "Races",
+      "summary": "Squirrelfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus squirrel ears, a large fluffy tail, quick feet, bright eyes, and agile hands. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/squirrelfolk-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "squirrelfolk beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-tigerfolk-beastkin",
+      "title": "Tigerfolk Beastkin",
+      "category": "Races",
+      "summary": "Tigerfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus tiger ears, a tail, striped skin or hair markings, bright eyes, strong build, and fluid heavy movement. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/tigerfolk-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "tigerfolk beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-weaselfolk-beastkin",
+      "title": "Weaselfolk Beastkin",
+      "category": "Races",
+      "summary": "Weaselfolk Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus weasel ears, narrow features, a long tail, sharp eyes, and restless motion. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/weaselfolk-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "weaselfolk beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-werewolf-beastkin",
+      "title": "Werewolf Beastkin",
+      "category": "Races",
+      "summary": "Werewolf Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus wolf ears, tail, sharp senses, strong build, and a more feral edge in posture, voice, or movement. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/werewolf-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "werewolf beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-wolfkin-beastkin",
+      "title": "Wolfkin Beastkin",
+      "category": "Races",
+      "summary": "Wolfkin Beastkin are kemonomimi-style beastkin with fully humanlike faces and bodies plus wolf ears, a wolf tail, sharp eyes or slightly sharper human teeth, and controlled watchful body language. They are not animal-headed, muzzled, furry-bodied, paw-handed, digitigrade animal-bodied, or full anthropomorphic animals.",
+      "path": "content/races/wolfkin-beastkin.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "beastkin",
+        "wolfkin beastkin"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-caelari-dawnmarked",
+      "title": "Caelari — Dawnmarked",
+      "category": "Races",
+      "summary": "Caelari (pronounced kay-LAR-ee) are mortal people whose ancestry carries an old celestial influence. They are not angels, chosen servants of a deity, automatically virtuous, or proof of divine favor. Dawnmarked Caelari express that inheritance through radiance, luminous or reflective eyes, bright markings, and an instinctive affinity for light.",
+      "path": "content/races/caelari-dawnmarked.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "caelari",
+        "caelari — dawnmarked"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-caelari-gloryborn",
+      "title": "Caelari — Gloryborn",
+      "category": "Races",
+      "summary": "Caelari (pronounced kay-LAR-ee) are mortal people whose ancestry carries an old celestial influence. They are not angels, chosen servants of a deity, automatically virtuous, or proof of divine favor. Gloryborn Caelari express a celestial inheritance associated with awe, presence, courage, and heroic magical resonance. They may appear unusually vivid or commanding even when dressed plainly.",
+      "path": "content/races/caelari-gloryborn.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "caelari",
+        "caelari — gloryborn"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-caelari-mercyborn",
+      "title": "Caelari — Mercyborn",
+      "category": "Races",
+      "summary": "Caelari (pronounced kay-LAR-ee) are mortal people whose ancestry carries an old celestial influence. They are not angels, chosen servants of a deity, automatically virtuous, or proof of divine favor. Mercyborn Caelari express a restorative celestial inheritance often visible as warm skin, gentle luminescence, unusually steady vital signs, or markings associated with renewal.",
+      "path": "content/races/caelari-mercyborn.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "caelari",
+        "caelari — mercyborn"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-caelari-star-eyed",
+      "title": "Caelari — Star-Eyed",
+      "category": "Races",
+      "summary": "Caelari (pronounced kay-LAR-ee) are mortal people whose ancestry carries an old celestial influence. They are not angels, chosen servants of a deity, automatically virtuous, or proof of divine favor. Star-Eyed Caelari express an inheritance associated with distant light, signs, patterns, celestial observation, and unusual perception. Their eyes may resemble stars, pale fire, deep night, or shifting points of light.",
+      "path": "content/races/caelari-star-eyed.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "caelari",
+        "caelari — star-eyed"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-caelari-wardmarked",
+      "title": "Caelari — Wardmarked",
+      "category": "Races",
+      "summary": "Caelari (pronounced kay-LAR-ee) are mortal people whose ancestry carries an old celestial influence. They are not angels, chosen servants of a deity, automatically virtuous, or proof of divine favor. Wardmarked Caelari express celestial ancestry associated with boundaries, guardianship, resistance, and protective force, sometimes visible through geometric birthmarks, pale-gold lines, or a calm pressure around active magic.",
+      "path": "content/races/caelari-wardmarked.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "caelari",
+        "caelari — wardmarked"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-elementborn-ashborn",
+      "title": "Elementborn — Ashborn",
+      "category": "Races",
+      "summary": "Elementborn are mortal people whose ancestry carries a persistent elemental expression strong enough to shape physiology and magical affinity. Elementborn are not elementals, and their element does not determine culture, morality, profession, or personality. Ashborn carry smoke, ash, soot, haze, and volcanic-air traits such as charcoal undertones, smoke-like markings, darkened sclera, muted scent, or fine ash appearing around them under magical stress.",
+      "path": "content/races/elementborn-ashborn.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "elementborn",
+        "elementborn — ashborn"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-elementborn-emberborn",
+      "title": "Elementborn — Emberborn",
+      "category": "Races",
+      "summary": "Elementborn are mortal people whose ancestry carries a persistent elemental expression strong enough to shape physiology and magical affinity. Elementborn are not elementals, and their element does not determine culture, morality, profession, or personality. Emberborn carry fire-linked traits such as unusual body heat, emberlike eyes, warm markings, soot-dark hair tones, or skin that handles heat unusually well.",
+      "path": "content/races/elementborn-emberborn.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "elementborn",
+        "elementborn — emberborn"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-elementborn-frostborn",
+      "title": "Elementborn — Frostborn",
+      "category": "Races",
+      "summary": "Elementborn are mortal people whose ancestry carries a persistent elemental expression strong enough to shape physiology and magical affinity. Elementborn are not elementals, and their element does not determine culture, morality, profession, or personality. Frostborn carry cold-linked traits such as low body temperature, frostlike markings, pale or crystalline coloration, and exceptional comfort in severe cold.",
+      "path": "content/races/elementborn-frostborn.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "elementborn",
+        "elementborn — frostborn"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-elementborn-galeborn",
+      "title": "Elementborn — Galeborn",
+      "category": "Races",
+      "summary": "Elementborn are mortal people whose ancestry carries a persistent elemental expression strong enough to shape physiology and magical affinity. Elementborn are not elementals, and their element does not determine culture, morality, profession, or personality. Galeborn carry air-linked traits such as unusually light movement, hair or clothing that reacts readily to small currents, pale cloudlike markings, or an instinctive sense for changes in airflow.",
+      "path": "content/races/elementborn-galeborn.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "elementborn",
+        "elementborn — galeborn"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-elementborn-ironveined",
+      "title": "Elementborn — Ironveined",
+      "category": "Races",
+      "summary": "Elementborn are mortal people whose ancestry carries a persistent elemental expression strong enough to shape physiology and magical affinity. Elementborn are not elementals, and their element does not determine culture, morality, profession, or personality. Ironveined carry metal-linked traits such as metallic flecks in skin or eyes, unusual bodily density, mineral-colored nails, or heightened tactile awareness of worked metal and rigid materials.",
+      "path": "content/races/elementborn-ironveined.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "elementborn",
+        "elementborn — ironveined"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-elementborn-rootborn",
+      "title": "Elementborn — Rootborn",
+      "category": "Races",
+      "summary": "Elementborn are mortal people whose ancestry carries a persistent elemental expression strong enough to shape physiology and magical affinity. Elementborn are not elementals, and their element does not determine culture, morality, profession, or personality. Rootborn carry wood- and living-growth traits such as barklike patches, leaf or vine markings, earthy scents, unusual hair textures, or subtle seasonal changes in coloration.",
+      "path": "content/races/elementborn-rootborn.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "elementborn",
+        "elementborn — rootborn"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-elementborn-stoneborn",
+      "title": "Elementborn — Stoneborn",
+      "category": "Races",
+      "summary": "Elementborn are mortal people whose ancestry carries a persistent elemental expression strong enough to shape physiology and magical affinity. Elementborn are not elementals, and their element does not determine culture, morality, profession, or personality. Stoneborn carry earth-linked traits such as dense musculature, mineral flecks, stone-toned patches, heavy bones, or a grounded physical presence.",
+      "path": "content/races/elementborn-stoneborn.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "elementborn",
+        "elementborn — stoneborn"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-elementborn-stormborn",
+      "title": "Elementborn — Stormborn",
+      "category": "Races",
+      "summary": "Elementborn are mortal people whose ancestry carries a persistent elemental expression strong enough to shape physiology and magical affinity. Elementborn are not elementals, and their element does not determine culture, morality, profession, or personality. Stormborn carry lightning-linked traits such as static in the hair, bright irises, branching markings, tingling skin, or visible electrical reactions under stress.",
+      "path": "content/races/elementborn-stormborn.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "elementborn",
+        "elementborn — stormborn"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-elementborn-tideborn",
+      "title": "Elementborn — Tideborn",
+      "category": "Races",
+      "summary": "Elementborn are mortal people whose ancestry carries a persistent elemental expression strong enough to shape physiology and magical affinity. Elementborn are not elementals, and their element does not determine culture, morality, profession, or personality. Tideborn carry water-linked traits such as cool skin, subtle webbing, aquatic coloration, unusual comfort in water, or eyes resembling deep water.",
+      "path": "content/races/elementborn-tideborn.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "elementborn",
+        "elementborn — tideborn"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-tiefling-blightblood",
+      "title": "Tiefling — Blightblood",
+      "category": "Races",
+      "summary": "Blightblood tieflings carry demonic ancestry associated with venom, corruption, caustic environments, diseased places, and toxic creatures. They may show unusual skin tones, dark veins, sharp teeth, strange scents, or warning-like markings. They are not inherently diseased, poisonous to touch, unclean, or malicious.",
+      "path": "content/races/tiefling-blightblood.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "tieflings",
+        "tiefling — blightblood"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-tiefling-cinderblood",
+      "title": "Tiefling — Cinderblood",
+      "category": "Races",
+      "summary": "Cinderblood tieflings express demonic ancestry associated with heat, embers, furnaces, and flame. They remain fundamentally mortal people and may show swept horns, ember-bright eyes, unusually warm skin, soot-dark markings, or faint heat around the hands under stress. Their ancestry does not determine culture, morality, profession, or allegiance.",
+      "path": "content/races/tiefling-cinderblood.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "tieflings",
+        "tiefling — cinderblood"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-tiefling-gloamblood",
+      "title": "Tiefling — Gloamblood",
+      "category": "Races",
+      "summary": "Gloamblood tieflings express demonic ancestry tied to darkness, concealment, muted presence, and places where light fails. They may have very dark horns, low-light adapted eyes, subdued coloration, or shadows that seem deeper around their silhouette without becoming supernatural by default.",
+      "path": "content/races/tiefling-gloamblood.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "tieflings",
+        "tiefling — gloamblood"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-tiefling-veilblood",
+      "title": "Tiefling — Veilblood",
+      "category": "Races",
+      "summary": "Veilblood tieflings descend from demonic lineages associated with desire, attention, temptation, dreams of possibility, and the pressures people reveal without meaning to. Their features may be graceful, uncanny, striking, or difficult to ignore, with unusual eyes and subtle infernal tells. This does not make them seductive, deceptive, immoral, or socially dominant by nature.",
+      "path": "content/races/tiefling-veilblood.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "tieflings",
+        "tiefling — veilblood"
+      ],
+      "navigation": false
+    },
+    {
+      "id": "race-tiefling-wrathblood",
+      "title": "Tiefling — Wrathblood",
+      "category": "Races",
+      "summary": "Wrathblood tieflings express a heavier, forceful demonic lineage associated with pressure, violent impact, endurance, and raw magical output. They may have thicker horns, denser musculature, powerful posture, or eyes that intensify when exerting themselves. Their ancestry does not force anger, violence, or a warrior life.",
+      "path": "content/races/tiefling-wrathblood.md",
+      "tags": [
+        "race",
+        "ancestry",
+        "playable",
+        "tieflings",
+        "tiefling — wrathblood"
+      ],
+      "navigation": false
     }
   ]
 }

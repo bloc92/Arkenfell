@@ -56,7 +56,9 @@ function getNavigationGroups(articles, searchActive) {
     });
   });
 
-  const unassigned = articles.filter(article => !assignedIds.has(article.id));
+  const unassigned = articles.filter(article =>
+    !assignedIds.has(article.id) && (article.navigation !== false || searchActive)
+  );
   Object.entries(groupByCategory(unassigned)).forEach(([title, items]) => {
     groups.push({
       id: `other-${title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}`,
