@@ -25,6 +25,13 @@ const directoryPages = {
     source: 'content/data/faith.json',
     searchPlaceholder: 'Search deities, domains, cultures, symbols, or standings…'
   },
+  'arcana-catalog': {
+    source: 'content/data/arcana.json',
+    searchPlaceholder: 'Search Arcana, magical domains, attributes, tiers, or effects…',
+    groupFilterLabel: 'Filter by tier',
+    allGroupsLabel: 'All Arcana tiers',
+    requiredSourceWorld: 'Arkenfell'
+  },
   'creature-directory': {
     source: [
       'content/data/creatures-a-e.json',
