@@ -330,7 +330,7 @@
       "id": "important-npcs",
       "title": "People Directory",
       "category": "People",
-      "summary": "A searchable directory of all 294 authored people configured in Arkenfell.",
+      "summary": "A searchable directory of 294 public-world people, with four Private Arkenfell NPCs available only in GM Mode.",
       "path": "content/people/important-npcs.md",
       "tags": [
         "People",
