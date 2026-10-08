@@ -771,3 +771,48 @@ html[data-access="gm"] .sidebar-note strong { color: var(--gm-strong); }
   }
 }
 
+/* Region and location hierarchy */
+.directory-group--overview {
+  padding: 20px;
+  border: 1px solid var(--line);
+  border-radius: 13px;
+  background: var(--panel-2);
+}
+
+.directory-group--overview > h2 {
+  margin-bottom: 16px;
+}
+
+.directory-group--overview .directory-grid {
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 320px), 1fr));
+}
+
+.directory-group--overview .directory-entry {
+  border-top: 3px solid var(--accent);
+}
+
+.directory-region-browse {
+  align-self: flex-start;
+  margin-top: auto;
+  padding: 7px 10px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel-2);
+  color: var(--accent);
+  cursor: pointer;
+  font: inherit;
+  font-size: .78rem;
+  font-weight: 800;
+}
+
+.directory-region-browse:hover,
+.directory-region-browse:focus-visible {
+  border-color: var(--accent);
+  background: var(--panel);
+}
+
+.directory-region-browse:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 2px;
+}
+
