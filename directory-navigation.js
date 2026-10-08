@@ -13,10 +13,14 @@ const directoryPages = {
     requiredSourceWorld: 'Arkenfell'
   },
   'important-npcs': {
-    source: 'content/data/people.json',
+    source: [
+      'content/data/people.json',
+      'content/data/private-people.json'
+    ],
     searchPlaceholder: 'Search people, factions, locations, species, or roles…',
     roster: true,
-    requiredSourceWorld: 'Arkenfell'
+    requiredSourceWorld: 'Arkenfell',
+    gmSourceWorlds: ['Private Arkenfell']
   },
   'faction-directory': {
     source: 'content/data/factions.json',
@@ -166,7 +170,7 @@ function createDirectoryToolbar(groups, placeholder, options = {}) {
 
 function appendDirectoryMetadata(container, entry) {
   const metadata = [entry.kind, entry.location || entry.region || entry.realm].filter(Boolean);
-  if (!metadata.length && !entry.spoiler && !entry.spoilerDetails) return;
+  if (!metadata.length && !entry.spoiler && !entry.spoilerDetails && entry.visibility !== 'gm') return;
 
   const row = document.createElement('div');
   row.className = 'directory-entry-meta';
@@ -180,6 +184,12 @@ function appendDirectoryMetadata(container, entry) {
     spoiler.className = 'directory-spoiler-badge';
     spoiler.textContent = 'Spoiler';
     row.appendChild(spoiler);
+  }
+  if (entry.visibility === 'gm') {
+    const gmOnly = document.createElement('span');
+    gmOnly.className = 'directory-spoiler-badge';
+    gmOnly.textContent = 'GM only';
+    row.appendChild(gmOnly);
   }
   container.appendChild(row);
 }
@@ -354,6 +364,7 @@ function createDirectoryEntry(entry, options = {}) {
   card.id = `directory-entry-${directorySlug(entry.name)}`;
   card.dataset.entryName = entry.name || '';
   if (entry.spoiler) card.classList.add('directory-entry--spoiler');
+  if (entry.visibility === 'gm') card.classList.add('directory-entry--gm');
 
   const summary = String(entry.summary || '').trim();
   const cleanSummary = summary.replace(/\s+/g, ' ').trim();
@@ -541,9 +552,14 @@ async function enhanceDirectoryPage() {
 
   try {
     const loadedEntries = await loadDirectoryData(config.source);
-    const entries = config.requiredSourceWorld
-      ? loadedEntries.filter(entry => entry.sourceWorld === config.requiredSourceWorld)
-      : loadedEntries;
+    const gmSourceWorlds = Array.isArray(config.gmSourceWorlds) ? config.gmSourceWorlds : [];
+    const entries = loadedEntries.filter(entry => {
+      if (entry.visibility === 'gm' && !state.gmMode) return false;
+      if (!config.requiredSourceWorld || entry.sourceWorld === config.requiredSourceWorld) return true;
+      return state.gmMode &&
+        entry.visibility === 'gm' &&
+        gmSourceWorlds.includes(entry.sourceWorld);
+    });
     if (state.activeId !== pageId || content.hidden) return;
 
     const groups = [...new Set(entries.map(entry => entry.group || 'Other'))];
