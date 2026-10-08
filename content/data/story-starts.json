@@ -1,16 +1,6 @@
 {
   "entries": [
     {
-      "name": "Random",
-      "group": "World Exploration Story Starts",
-      "summary": "Begin somewhere in Eldaven, with the location chosen freely and the opening shaped around who your character actually is.",
-      "details": "The opening situation is designed to widen naturally through the people you meet and the choices you make. Expect investigation, travel, and relationships that can redirect the story rather than a single fixed path.",
-      "detailsLabel": "What awaits in play",
-      "facts": [],
-      "links": [],
-      "linksLabel": "NPCs you may encounter"
-    },
-    {
       "name": "Lost Heir: Unproven Blood",
       "group": "Fully Authored Story Starts",
       "summary": "A royal summons start. An ordinary Greyhaven morning is interrupted by a sealed Crown carriage asking for you by name. The Crown's interest is recent, dangerous, and unproven.",
@@ -234,6 +224,80 @@
           "target": "Yselle Davenant"
         }
       ],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "The Roads Return",
+      "group": "Fully Authored Story Starts",
+      "summary": "A long-form Broken Crownlands start. You are an ordinary resident of Coinstill, a small crossroads village where old authority has faded into custom, reputation, patrols, forgotten records, and whatever people can actually make work. The roads are becoming safer, trade is returning, and abandoned land is worth settling again. Nothing has been decided about what Coinstill—or you—will become.",
+      "details": "Expect questions of lineage, duty, and political legitimacy to grow around the opening problem. Your choices can draw you into noble households, old obligations, and rival ideas about who has the right to lead.",
+      "detailsLabel": "What awaits in play",
+      "facts": [
+        {
+          "label": "Starting locations",
+          "value": [
+            "Coinstill Village"
+          ]
+        },
+        {
+          "label": "Starting areas",
+          "value": [
+            "Crossroads Common"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Bessa Orl",
+          "page": "important-npcs",
+          "target": "Bessa Orl"
+        },
+        {
+          "label": "Bram Toller",
+          "page": "important-npcs",
+          "target": "Bram Toller"
+        },
+        {
+          "label": "Ceryn Moss",
+          "page": "important-npcs",
+          "target": "Ceryn Moss"
+        },
+        {
+          "label": "Hollan Cress",
+          "page": "important-npcs",
+          "target": "Hollan Cress"
+        },
+        {
+          "label": "Keir Mallow",
+          "page": "important-npcs",
+          "target": "Keir Mallow"
+        },
+        {
+          "label": "Maren Halren",
+          "page": "important-npcs",
+          "target": "Maren Halren"
+        },
+        {
+          "label": "Nella Quill",
+          "page": "important-npcs",
+          "target": "Nella Quill"
+        },
+        {
+          "label": "Oswin Dreel",
+          "page": "important-npcs",
+          "target": "Oswin Dreel"
+        }
+      ],
+      "linksLabel": "NPCs you may encounter"
+    },
+    {
+      "name": "Random",
+      "group": "World Exploration Story Starts",
+      "summary": "Begin somewhere in Eldaven, with the location chosen freely and the opening shaped around who your character actually is.",
+      "details": "The opening situation is designed to widen naturally through the people you meet and the choices you make. Expect investigation, travel, and relationships that can redirect the story rather than a single fixed path.",
+      "detailsLabel": "What awaits in play",
+      "facts": [],
+      "links": [],
       "linksLabel": "NPCs you may encounter"
     },
     {
@@ -1039,70 +1103,6 @@
         }
       ],
       "links": [],
-      "linksLabel": "NPCs you may encounter"
-    },
-    {
-      "name": "The Roads Return",
-      "group": "Fully Authored Story Starts",
-      "summary": "A long-form Broken Crownlands start. You are an ordinary resident of Coinstill, a small crossroads village where old authority has faded into custom, reputation, patrols, forgotten records, and whatever people can actually make work. The roads are becoming safer, trade is returning, and abandoned land is worth settling again. Nothing has been decided about what Coinstill—or you—will become.",
-      "details": "Expect questions of lineage, duty, and political legitimacy to grow around the opening problem. Your choices can draw you into noble households, old obligations, and rival ideas about who has the right to lead.",
-      "detailsLabel": "What awaits in play",
-      "facts": [
-        {
-          "label": "Starting locations",
-          "value": [
-            "Coinstill Village"
-          ]
-        },
-        {
-          "label": "Starting areas",
-          "value": [
-            "Crossroads Common"
-          ]
-        }
-      ],
-      "links": [
-        {
-          "label": "Bessa Orl",
-          "page": "important-npcs",
-          "target": "Bessa Orl"
-        },
-        {
-          "label": "Bram Toller",
-          "page": "important-npcs",
-          "target": "Bram Toller"
-        },
-        {
-          "label": "Ceryn Moss",
-          "page": "important-npcs",
-          "target": "Ceryn Moss"
-        },
-        {
-          "label": "Hollan Cress",
-          "page": "important-npcs",
-          "target": "Hollan Cress"
-        },
-        {
-          "label": "Keir Mallow",
-          "page": "important-npcs",
-          "target": "Keir Mallow"
-        },
-        {
-          "label": "Maren Halren",
-          "page": "important-npcs",
-          "target": "Maren Halren"
-        },
-        {
-          "label": "Nella Quill",
-          "page": "important-npcs",
-          "target": "Nella Quill"
-        },
-        {
-          "label": "Oswin Dreel",
-          "page": "important-npcs",
-          "target": "Oswin Dreel"
-        }
-      ],
       "linksLabel": "NPCs you may encounter"
     }
   ]
