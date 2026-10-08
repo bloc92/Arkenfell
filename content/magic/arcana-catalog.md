@@ -8,82 +8,20 @@ status: canon
 
 # Arcana Catalog
 
-Arcana are magical affinities. Knowing more Arcana represents breadth of access or potential, not automatic mastery. Actual training, control, reliability, and depth are represented by the relevant skills and experience.
+Browse the **59 Arcana currently present in the public Arkenfell world**: **27 Standard**, **19 Rare**, and **13 Legendary** affinities. Search by name, magical domain, governing attribute, tier, or the kinds of effects an Arcana can produce.
+
+Every entry below is explicitly sourced from **Arkenfell**. Arcana found only in **Arkenfell Private** are excluded.
+
+Arcana are magical affinities. Possessing several represents breadth of access or potential, not automatic mastery. Training, control, reliability, and practical depth are represented by the corresponding Arcana skill and its developed level.
 
 **Arcane Lore is magical knowledge and is not itself an Arcana.**
 
-## Standard Arcana
+## Choosing and Unlocking Arcana
 
-- Acid Arcana
-- Air Arcana
-- Beast Arcana
-- Cold Arcana
-- Conjuration Arcana
-- Death Arcana
-- Divination Arcana
-- Earth Arcana
-- Enchantment Arcana
-- Fire Arcana
-- Healing Arcana
-- Heroic Arcana
-- Illusion Arcana
-- Light Arcana
-- Lightning Arcana
-- Metal Arcana
-- Mind Arcana
-- Motion Arcana
-- Poison Arcana
-- Power Arcana — [full article](#power-arcana)
-- Protection Arcana
-- Rune Arcana
-- Shadow Arcana
-- Smoke Arcana
-- Spirit Arcana
-- Water Arcana
-- Wood Arcana
+- A new character may optionally begin with up to four **Standard Arcana**.
+- **Rare** and **Legendary Arcana** are not normal character-creation choices.
+- Rare or Legendary access must be established through play: a discovery, teacher, awakening, relic, ritual, transformation, quest reward, or another credible event.
+- Unlocking access does not grant instant mastery or every ability associated with that Arcana.
+- An Arcana's tier measures rarity and accessibility, not its user's current competence or guaranteed power.
 
-## Rare Arcana
-
-Rare Arcana are socially and magically significant and should not be treated as proof of destiny, prophecy, royal blood, or automatic mastery.
-
-- Blood Arcana
-- Bone Arcana
-- Crystal Arcana
-- Dream Arcana
-- Echo Arcana
-- Force Arcana
-- Glass Arcana
-- Gravity Arcana
-- Hunger Arcana
-- Magnetism Arcana
-- Memory Arcana
-- Mirror Arcana
-- Oath Arcana
-- Plague Arcana
-- Seal Arcana
-- Soul Arcana
-- Sound Arcana
-- Spatial Arcana
-- Storm Arcana
-
-## Legendary Arcana
-
-Legendary Arcana are exceptional, heavily consequential forms of magic. Their presence does not make their use casual or consequence-free.
-
-- Aegis Arcana
-- Abyss Arcana
-- Dragon Arcana
-- Fate Arcana
-- Moon Arcana
-- Phoenix Arcana
-- Ruin Arcana
-- Sovereign Arcana
-- Star Arcana
-- Sun Arcana
-- Titan Arcana
-- Twilight Arcana
-- Wyrd Arcana
-
-## Arcana and Skill
-
-A trained mage may know many ordinary Arcana without being equally skilled in all of them. The relevant Arcana skill measures practical control and competence. Rare and Legendary access is a separate question from skill level: access does not itself confer mastery.
+The catalog is generated from the public world's current magical skill records. This corrects the older hand-maintained list: **Fiber Arcana** is present, while **Mind Arcana** is not currently configured in public Arkenfell.
