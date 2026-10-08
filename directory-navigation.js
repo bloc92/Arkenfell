@@ -64,7 +64,8 @@ const directoryPages = {
   },
   'story-start-directory': {
     source: 'content/data/story-starts.json',
-    searchPlaceholder: 'Search Story Starts, premises, locations, characters, or quests…'
+    searchPlaceholder: 'Search Story Starts, premises, locations, characters, or quests…',
+    accordion: true
   },
   'game-mode-directory': {
     source: 'content/data/game-modes.json',
@@ -218,17 +219,24 @@ function appendDirectoryDetails(container, entry) {
 function appendDirectoryLinks(container, entry) {
   if (!Array.isArray(entry.links) || !entry.links.length) return;
 
+  const validLinks = entry.links.filter(item =>
+    item && item.label && item.page && item.target
+  );
+  if (!validLinks.length) return;
+
   const block = document.createElement('nav');
   block.className = 'directory-entry-links';
   block.setAttribute('aria-label', entry.linksLabel || 'Related entries');
+  if (validLinks.some(item => String(item.description || '').trim())) {
+    block.classList.add('directory-entry-links--described');
+  }
 
   const heading = document.createElement('p');
   heading.className = 'directory-entry-links-label';
   heading.textContent = entry.linksLabel || 'Related entries';
 
   const list = document.createElement('ul');
-  entry.links.forEach(item => {
-    if (!item || !item.label || !item.page || !item.target) return;
+  validLinks.forEach(item => {
     const listItem = document.createElement('li');
     const link = document.createElement('a');
     link.href = `#${item.page}`;
@@ -237,22 +245,22 @@ function appendDirectoryLinks(container, entry) {
       pendingDirectoryTarget = { page: item.page, target: item.target };
     });
     listItem.appendChild(link);
+
+    const description = String(item.description || '').trim();
+    if (description) {
+      const introduction = document.createElement('span');
+      introduction.className = 'directory-entry-link-description';
+      introduction.textContent = description;
+      listItem.appendChild(introduction);
+    }
     list.appendChild(listItem);
   });
 
-  if (list.childElementCount) {
-    block.append(heading, list);
-    container.appendChild(block);
-  }
+  block.append(heading, list);
+  container.appendChild(block);
 }
 
-function createDirectoryEntry(entry) {
-  const card = document.createElement('article');
-  card.className = 'directory-entry';
-  card.id = `directory-entry-${directorySlug(entry.name)}`;
-  card.dataset.entryName = entry.name || '';
-  if (entry.spoiler) card.classList.add('directory-entry--spoiler');
-
+function createDirectoryTitle(entry) {
   const title = document.createElement('h3');
   if (entry.articleId) {
     const link = document.createElement('a');
@@ -262,41 +270,125 @@ function createDirectoryEntry(entry) {
   } else {
     title.textContent = entry.name;
   }
-  card.appendChild(title);
-  appendDirectoryMetadata(card, entry);
-  appendDirectoryFacts(card, entry);
+  return title;
+}
+
+function createDirectoryEntry(entry, options = {}) {
+  const useAccordion = Boolean(options.accordion);
+  const card = document.createElement(useAccordion ? 'details' : 'article');
+  card.className = 'directory-entry';
+  card.id = `directory-entry-${directorySlug(entry.name)}`;
+  card.dataset.entryName = entry.name || '';
+  if (entry.spoiler) card.classList.add('directory-entry--spoiler');
 
   const summary = String(entry.summary || '').trim();
-  if (entry.spoiler) {
-    const disclosure = document.createElement('details');
-    disclosure.className = 'directory-spoiler-disclosure';
-    const warning = document.createElement('summary');
-    warning.textContent = 'Spoiler warning — reveal description';
-    const text = document.createElement('p');
-    text.textContent = summary || 'No additional description is available.';
-    disclosure.append(warning, text);
-    card.appendChild(disclosure);
-  } else if (summary) {
-    const cleanSummary = summary.replace(/\s+/g, ' ').trim();
-    const preview = document.createElement('p');
-    preview.className = 'directory-entry-preview';
-    preview.textContent = directoryExcerpt(cleanSummary);
-    card.appendChild(preview);
+  const cleanSummary = summary.replace(/\s+/g, ' ').trim();
 
-    if (preview.textContent !== cleanSummary) {
-      const details = document.createElement('details');
-      details.className = 'directory-entry-details';
-      const label = document.createElement('summary');
-      label.textContent = 'Read full description';
-      const full = document.createElement('p');
-      full.textContent = summary;
-      details.append(label, full);
-      card.appendChild(details);
+  if (useAccordion) {
+    card.classList.add('directory-entry--accordion');
+
+    const toggle = document.createElement('summary');
+    toggle.className = 'directory-entry-toggle';
+
+    const icon = document.createElement('span');
+    icon.className = 'directory-entry-menu-icon';
+    icon.setAttribute('aria-hidden', 'true');
+    icon.textContent = '☰';
+
+    const toggleCopy = document.createElement('span');
+    toggleCopy.className = 'directory-entry-toggle-copy';
+    toggleCopy.appendChild(createDirectoryTitle(entry));
+
+    if (cleanSummary) {
+      const teaser = document.createElement('span');
+      teaser.className = 'directory-entry-toggle-preview';
+      teaser.textContent = directoryExcerpt(cleanSummary, 170);
+      toggleCopy.appendChild(teaser);
     }
-  }
 
-  appendDirectoryLinks(card, entry);
-  appendDirectoryDetails(card, entry);
+    const action = document.createElement('span');
+    action.className = 'directory-entry-toggle-action';
+    action.textContent = 'Open';
+
+    toggle.append(icon, toggleCopy, action);
+
+    const body = document.createElement('div');
+    body.className = 'directory-entry-body';
+    appendDirectoryMetadata(body, entry);
+
+    if (entry.spoiler) {
+      const disclosure = document.createElement('details');
+      disclosure.className = 'directory-spoiler-disclosure';
+      const warning = document.createElement('summary');
+      warning.textContent = 'Spoiler warning — reveal description';
+      const text = document.createElement('p');
+      text.textContent = summary || 'No additional description is available.';
+      disclosure.append(warning, text);
+      body.appendChild(disclosure);
+    } else if (summary) {
+      const introduction = document.createElement('p');
+      introduction.className = 'directory-entry-introduction';
+      introduction.textContent = summary;
+      body.appendChild(introduction);
+    }
+
+    appendDirectoryFacts(body, entry);
+
+    const detailsText = String(entry.details || '').trim();
+    if (detailsText) {
+      const section = document.createElement('section');
+      section.className = 'directory-entry-section';
+      const heading = document.createElement('h4');
+      heading.textContent = entry.detailsLabel || 'What awaits in play';
+      const text = document.createElement('p');
+      text.className = 'directory-long-details';
+      text.textContent = detailsText;
+      section.append(heading, text);
+      body.appendChild(section);
+    }
+
+    appendDirectoryLinks(body, entry);
+
+    if (entry.spoilerDetails) {
+      appendDirectoryDetails(body, { ...entry, details: '' });
+    }
+
+    card.append(toggle, body);
+  } else {
+    card.appendChild(createDirectoryTitle(entry));
+    appendDirectoryMetadata(card, entry);
+    appendDirectoryFacts(card, entry);
+
+    if (entry.spoiler) {
+      const disclosure = document.createElement('details');
+      disclosure.className = 'directory-spoiler-disclosure';
+      const warning = document.createElement('summary');
+      warning.textContent = 'Spoiler warning — reveal description';
+      const text = document.createElement('p');
+      text.textContent = summary || 'No additional description is available.';
+      disclosure.append(warning, text);
+      card.appendChild(disclosure);
+    } else if (summary) {
+      const preview = document.createElement('p');
+      preview.className = 'directory-entry-preview';
+      preview.textContent = directoryExcerpt(cleanSummary);
+      card.appendChild(preview);
+
+      if (preview.textContent !== cleanSummary) {
+        const details = document.createElement('details');
+        details.className = 'directory-entry-details';
+        const label = document.createElement('summary');
+        label.textContent = 'Read full description';
+        const full = document.createElement('p');
+        full.textContent = summary;
+        details.append(label, full);
+        card.appendChild(details);
+      }
+    }
+
+    appendDirectoryLinks(card, entry);
+    appendDirectoryDetails(card, entry);
+  }
 
   card.dataset.group = entry.group || 'Other';
   card.dataset.searchText = JSON.stringify(entry).toLowerCase();
@@ -349,6 +441,7 @@ async function enhanceDirectoryPage() {
     groups.forEach(groupName => {
       const section = document.createElement('section');
       section.className = 'directory-group';
+      if (config.accordion) section.classList.add('directory-group--accordion');
       section.dataset.group = groupName;
 
       const heading = document.createElement('h2');
@@ -357,7 +450,7 @@ async function enhanceDirectoryPage() {
       grid.className = 'directory-grid';
 
       entries.filter(entry => (entry.group || 'Other') === groupName).forEach(entry => {
-        const card = createDirectoryEntry(entry);
+        const card = createDirectoryEntry(entry, config);
         cards.push(card);
         grid.appendChild(card);
       });
@@ -411,6 +504,7 @@ async function enhanceDirectoryPage() {
 
       const targetCard = cards.find(card => card.dataset.entryName === target);
       if (targetCard) {
+        if (targetCard.tagName === 'DETAILS') targetCard.open = true;
         targetCard.classList.add('directory-entry--target');
         requestAnimationFrame(() => targetCard.scrollIntoView({ block: 'center', behavior: 'smooth' }));
         window.setTimeout(() => targetCard.classList.remove('directory-entry--target'), 2600);
