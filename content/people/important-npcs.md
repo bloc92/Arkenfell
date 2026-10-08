@@ -10,4 +10,6 @@ status: canon
 
 Browse all **294 authored people** currently configured in Arkenfell. Search by name, faction, current location, ancestry, or information from the character's record.
 
-Characters that Voyage currently marks as unknown remain available with a spoiler badge and a collapsed description.
+The roster currently includes **193 character portraits** from the Arkenfell repository. Entries without finished artwork use an initials placeholder so they remain just as searchable and readable.
+
+Characters that Voyage currently marks as unknown remain available with a spoiler badge. Their portrait and description stay concealed until you choose to reveal them.
