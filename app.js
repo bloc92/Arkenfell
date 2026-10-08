@@ -459,7 +459,15 @@ const generatedArticleDataCache = new Map();
 
     if (entry.image) {
       const imagePath = encodeURI(entry.image).replaceAll('(', '%28').replaceAll(')', '%29');
-      lines.push(`![Portrait of ${markdownInline(entry.name)}](${imagePath})`, '');
+      const safeImagePath = escapeHtml(imagePath);
+      const safeName = escapeHtml(entry.name);
+      lines.push(
+        '<figure class="npc-article-portrait">',
+        `<a href="${safeImagePath}" target="_blank" rel="noopener"><img src="${safeImagePath}" alt="Portrait of ${safeName}" loading="lazy" decoding="async"></a>`,
+        `<figcaption>Portrait of ${safeName}. Select to open the full image.</figcaption>`,
+        '</figure>',
+        ''
+      );
     }
 
     lines.push(

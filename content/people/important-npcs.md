@@ -16,4 +16,4 @@ When GM Mode is active, the roster also includes the **four NPCs found only in P
 
 The roster includes the available character portraits from the Arkenfell repository. Entries without finished artwork use an initials placeholder so they remain just as searchable and readable.
 
-Characters that Voyage currently marks as unknown remain available with a spoiler badge. Their portrait and description stay concealed until you choose to reveal them.
+Every public NPC remains visible with their portrait and description whether or not Voyage has introduced them during a particular playthrough. Spoiler warnings are reserved for deliberately designated story-critical material, not ordinary unknown characters.

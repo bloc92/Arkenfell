@@ -8,6 +8,11 @@ status: canon
 
 # Edgar Vaust
 
+<figure class="npc-article-portrait">
+<a href="Images/Characters/Edgar_Vaust.png" target="_blank" rel="noopener"><img src="Images/Characters/Edgar_Vaust.png" alt="Portrait of Edgar Vaust" loading="lazy" decoding="async"></a>
+<figcaption>Portrait of Edgar Vaust. Select to open the full image.</figcaption>
+</figure>
+
 Lord Steward Edgar Vaust is the royal household steward of Highcourt Armathen in Valenreach. He is a senior figure within the royal household and is closely associated with the orderly running of the palace and the stability of the Crown's household.
 
 ## Role

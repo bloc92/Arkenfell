@@ -53,7 +53,7 @@
       "kind": "High Elf",
       "location": "Highcourt Armathen",
       "summary": "Lord among the High Elven Noble Houses; high-line elven noble seeking influence within Highcourt Armathen. Tall with platinum hair, emerald eyes, and immaculate formal attire marked by lineage sigils. Caelion Ilsem is currently posted at High Noble Court in Highcourt Armathen, where his work makes him a visible part of local life. Age: 63 | Race: High Elf.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-caelion-ilsem"
     },
     {
@@ -64,7 +64,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Lady of House Aurenth and social strategist. Honey-gold curls, hazel eyes, and impeccably tailored noble attire accented by jeweled spell-focus ornaments. Laurielle is the person you want at a table when the social dynamics of a room need to be managed. She reads group behavior with effortless accuracy and positions herself and her interests accordingly. She is genuinely charming rather than merely performing charm, which makes her harder to distrust even when distrust is warranted. She is ambitious in a long-game way and very good at not letting this show. Age: 21 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-laurielle-aurenth"
     },
     {
@@ -75,7 +75,7 @@
       "kind": "Human",
       "location": "Varglund",
       "summary": "Former steward of Varglund and senior inventory clerk under the occupying relatives. Baldric Vannor is a lean sixty-six-year-old man with carefully combed silver hair, a close gray beard, and alert deep-set brown eyes beneath a tired face. His well-maintained but outdated household coat still bears the marks where a steward's chain was removed. He now works among the estate ledgers, inventories, repair petitions, and supply tallies in the Estate Offices, outwardly performing the lesser role assigned to him while quietly watching what is removed, neglected, or concealed. Age: 66 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-baldric-vannor"
     },
     {
@@ -86,7 +86,7 @@
       "kind": "Human",
       "location": "Varglund",
       "summary": "Elsbeth Fenrisard-Argenwald is a forty-nine-year-old physician and Healing Arcana practitioner who remained at Varglund after Othmar's funeral to care for elderly retainers, exhausted servants, and anyone injured by the household's mounting tension. Her dark hair is heavily threaded with gray and usually tied beneath a practical linen wrap, while her plain traveling dress and medicine case contrast with the expensive clothes favored by much of her family. She speaks gently but carries herself with the settled confidence of someone accustomed to being obeyed during emergencies. Age: 49 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-elsbeth-fenrisard-argenwald"
     },
     {
@@ -97,7 +97,7 @@
       "kind": "Human",
       "location": "Varglund",
       "summary": "Garran Fenrisard-Argenwald is a forty-one-year-old distant cousin who serves as Valeska's principal household enforcer and unofficial provisioning officer. Thickset and clean-shaven, with receding dark hair and a scar crossing one eyebrow, he dresses in practical riding armor beneath an unnecessarily rich cloak. He spends most of his time in Varglund's Lower Courtyard directing guards, inspecting deliveries, and behaving as though temporary control of the gates has already settled the succession. Age: 41 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-garran-fenrisard-argenwald"
     },
     {
@@ -108,7 +108,7 @@
       "kind": "Human",
       "location": "Varglund",
       "summary": "Katren Fenrisard-Argenwald is a twenty-seven-year-old estate outrider and distant cousin whose work has kept her closer to disputed roads and tenant villages than to the family's formal halls. She is lean and sun-browned, with ash-blonde hair braided tightly against wind and a pale scar beneath her chin. In Varglund's Training Court she maintains riding gear and practices with a short spear while watching Valeska's followers with the guarded attention of someone no longer certain where loyalty ends and occupation begins. Age: 27 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-katren-fenrisard-argenwald"
     },
     {
@@ -119,7 +119,7 @@
       "kind": "Human",
       "location": "Varglund",
       "summary": "Lucasta Fenrisard-Argenwald is a thirty-eight-year-old commercial broker and Orsina's younger sister. She is elegantly dressed despite the subdued household, with black curls arranged around a narrow face, clever green eyes, and jewelry selected to look expensive without actually being so. She occupies a modest room in Varglund's Guest Wing and moves through the family gathering with practiced ease, exchanging pleasantries while carefully avoiding any statement that could be mistaken for a revived claim. Age: 38 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-lucasta-fenrisard-argenwald"
     },
     {
@@ -130,7 +130,7 @@
       "kind": "Human",
       "location": "Varglund",
       "summary": "Maela Fenrisard-Argenwald is a twenty-three-year-old family genealogist and junior rune copyist who has spent the succession crisis moving between chapel registers and the surviving estate archives. She is short and slightly built, with thick brown hair gathered in an untidy knot, amber eyes behind round lenses, and ink stains across fingers that repeatedly smooth nervous creases from her sleeves. In the Estate Offices she assists Baldric with ordinary records while pretending not to notice which documents he keeps separate from the official shelves. Age: 23 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-maela-fenrisard-argenwald"
     },
     {
@@ -141,7 +141,7 @@
       "kind": "Human",
       "location": "Varglund",
       "summary": "Orsina Fenrisard-Argenwald is a forty-six-year-old Crown-licensed road and bridge surveyor who has temporarily returned to Varglund for Othmar's funeral and the resulting succession dispute. She has wind-browned skin, dark hair cut short around the jaw, and square spectacles usually pushed above her forehead while she studies plans. Her travel coat bears chalk, wax, and old rain stains rather than noble decoration. In the Estate Offices she is examining neglected structural reports while refusing requests to describe either claimant as the estate's settled ruler. Age: 46 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-orsina-fenrisard-argenwald"
     },
     {
@@ -152,7 +152,7 @@
       "kind": "Human",
       "location": "Varglund",
       "summary": "Renwald Fenrisard-Argenwald is a thirty-five-year-old distant cousin with the polished manners of a court guest and the restless attention of a man tracking every exit from a conversation. His sandy hair is carefully styled, his narrow mustache impeccably trimmed, and his dark velvet coat subtly repaired at cuffs that once carried richer embroidery. He spends long periods in Varglund's West Gallery speaking privately with relatives, creditors, and messengers while insisting he has no claim and seeks only a peaceful settlement. Age: 35 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-renwald-fenrisard-argenwald"
     },
     {
@@ -163,7 +163,7 @@
       "kind": "Human",
       "location": "Varglund",
       "summary": "Severin Fenrisard-Argenwald is a fifty-seven-year-old former quartermaster-captain of the Runed Argent Fang and the elder brother of Elsbeth. A broad, weathered man with cropped gray hair, a flattened nose, and an old stiffness in his sword shoulder, he wears a plain veteran's coat rather than family finery. He remains near Varglund's Family Chapel after Othmar's funeral, quietly receiving old soldiers and refusing every attempt to make his presence look like an endorsement of Valeska's occupation. Age: 57 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-severin-fenrisard-argenwald"
     },
     {
@@ -174,7 +174,7 @@
       "kind": "Human",
       "location": "Varglund",
       "summary": "Tavian Fenrisard-Argenwald is Valeska's twenty-three-year-old younger brother and the most visible supporter standing beside her in Varglund's Great Hall. He is a tall, powerfully built young man with wavy dark-auburn hair, gray-blue eyes, and a neatly maintained breastplate bearing the Argent Fang. Unlike Valeska's effortless command, Tavian's formal posture looks deliberately practiced. He watches every challenge to his sister closely, yet often hesitates a fraction before repeating the certainty expected of him. Age: 23 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-tavian-fenrisard-argenwald"
     },
     {
@@ -185,7 +185,7 @@
       "kind": "Human",
       "location": "Varglund",
       "summary": "Valeska Fenrisard-Argenwald is the twenty-eight-year-old leader of the relatives occupying Varglund and an accomplished spellsword with Power, Rune, and Lightning Arcana. Tall and athletic, she has dark auburn hair in a long martial braid, sharp gray-blue eyes, and easy aristocratic confidence that hardens when challenged. Her fitted noble coat is reinforced for combat and expensively maintained despite the estate's failing finances. She holds court in Varglund's Great Hall as acting mistress, supported by family followers and order veterans who accept her leadership without universally recognizing her command. Age: 28 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-valeska-fenrisard-argenwald"
     },
     {
@@ -196,7 +196,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Lady of House Frostmere and heiress. Tall and elegant with flowing platinum-blonde hair and piercing ice-blue eyes. Wears pale silver court silks marked with frost-thread enchantments and a jeweled lineage choker. Seralyne is the heir of a northern house that has maintained its position through discipline and self-sufficiency, and she carries both of those qualities personally. She is measured, direct when it matters, and has the patience of someone who grew up in a cold place where careless decisions have real consequences. She finds the capital's performative court culture tedious and makes no secret of this to people she trusts. She has strong opinions about duty and does not have much patience for people who treat it as optional. Age: 21 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-seralyne-frostmere"
     },
     {
@@ -207,7 +207,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Lord Caedran Sablethorn is Maerwynn's fifty-six-year-old husband, a former military engineer who now oversees the house's logistics, fortifications, and major works. He is broad-shouldered and slightly stooped from years spent over plans and damaged masonry, with close gray hair, a trimmed beard, and scarred hands that remain more expressive than his restrained face. In Highcourt Armathen's Royal Yard he reviews wagons, bridge timbers, field tools, and supply manifests prepared for the Argent mission, correcting measurements himself rather than leaving practical details to ceremony. Age: 56 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-caedran-sablethorn"
     },
     {
@@ -218,7 +218,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Cassian Rooke is the forty-four-year-old legal and administrative adviser responsible for constructing House Sablethorn's custodianship petition. He is a narrow-faced man with black hair receding at the temples, pale gray eyes, and ink permanently darkening the side of his right middle finger. His charcoal court clothes are deliberately plainer than the nobles around him, while his document case is protected by several precise seals. In Highcourt Armathen's Petition Hall he assembles debt notices, defensive reports, staffing records, order testimony, and draft emergency instruments into a case whose danger lies in how little of it requires exaggeration. Age: 44 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-cassian-rooke"
     },
     {
@@ -229,7 +229,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Dain Halvern is the forty-eight-year-old professional officer appointed as military second-in-command of Rosamund Sablethorn's delegation. He is a lean, dark-skinned man with close-cropped black hair, a graying beard, and a long scar across the back of one hand. His green Sablethorn brigandine is immaculate without being decorative, and every buckle, strap, and weapon sits where function demands. In Highcourt Armathen's Royal Yard he inspects escorts, wagon spacing, emergency signals, and rules of engagement, showing greater interest in avoiding a preventable confrontation than in the inheritance arguments that might cause one. Age: 48 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-dain-halvern"
     },
     {
@@ -240,7 +240,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Ilyra Sablethorn is the nineteen-year-old daughter of Maerwynn and Caedran and Lucan's twin sister, currently assisting the Argent mission from Highcourt Armathen's Envoy Houses. She has long dark curls worn partly pinned back by a slim silver thorn clasp and otherwise falling to her waist, thoughtful hazel eyes, fine features, and a graceful bearing. She wears a fitted forest-green survey coat tailored for movement over practical trousers and field boots, with chalk, measuring cord, wax tablets, and folded maps kept neatly at her belt and in a plain map case. She speaks softly while working and rarely repeats a question, but the speed with which she converts damaged roads, unpaid wages, and empty stores into ordered columns makes her seem older than her years. She is already preparing comparison plans for what Sablethorn could repair in the first thirty, ninety, and three hundred days of custodianship. Age: 19 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-ilyra-sablethorn"
     },
     {
@@ -251,7 +251,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Lucan Sablethorn is the nineteen-year-old son of Maerwynn and Caedran and the twin brother of Ilyra. He is a tall, broad-shouldered young soldier with dark curls, open hazel eyes, and a green training coat worn over polished but frequently used armor. In Highcourt Armathen's Royal Yard he drills with the guards assigned to Rosamund's mission, approaching every exercise with earnest concentration and correcting his own mistakes before an instructor can name them. His enthusiasm makes him easy to like, though the way he studies old Argent forms reveals how deeply he admires the order his family intends to place under custodianship. Age: 19 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-lucan-sablethorn"
     },
     {
@@ -262,7 +262,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Lady Maerwynn Sablethorn is the fifty-three-year-old head of House Sablethorn, presently maintaining the family's succession interests from Highcourt Armathen's High Noble Court. She is a tall, composed woman with warm brown eyes, dark hair silvering at the temples, and a calm smile that makes formal attention feel almost maternal. Her deep green court coat is richly made but practical, with reinforced shoulders and a narrow protective blade worn openly at her side. She receives petitioners, engineers, creditors, and soldiers with the same attentive courtesy, leaving each person with the unsettling impression that she had prepared for their problem before they entered the room. Age: 53 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-maerwynn-sablethorn"
     },
     {
@@ -273,7 +273,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Odelia Sablethorn is Maerwynn and Caedran's twenty-eight-year-old eldest child and acknowledged heir to House Sablethorn. She is a poised, athletic woman with straight black hair cut to the collar, cool hazel eyes, and a severe green-and-silver coat whose clean lines make every other petitioner appear less prepared. In Highcourt Armathen's Petition Hall she reviews claims, repair schedules, and draft appointments connected to the Argent custodianship, speaking with clerks and military officers as though the question is no longer whether Sablethorn will be needed, but how quickly responsibility should be transferred. Age: 28 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-odelia-sablethorn"
     },
     {
@@ -284,7 +284,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Rosamund Sablethorn is Maerwynn's forty-seven-year-old younger sister and the appointed leader of the delegation preparing to travel to Varglund. She is a graceful woman with copper-brown hair threaded with silver, expressive green eyes, and an elegant travel coat designed to survive rain, dust, and formal negotiation without appearing diminished by any of them. In Highcourt Armathen's Envoy Houses she coordinates engineers, surveyors, quartermasters, healers, clerks, veterinary staff, and a restrained guard contingent with warm efficiency, ensuring that every member can explain both what help they offer and what authority they require to provide it. Age: 47 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-rosamund-sablethorn"
     },
     {
@@ -295,7 +295,7 @@
       "kind": "High Elf",
       "location": "Highcourt Armathen",
       "summary": "Lady of House Silverveil and merchant heiress. Petite with long silver-blonde hair and bright teal eyes. Wears refined trade-house attire reinforced with subtle enchantments signaling wealth. Tiffara carries the confidence of someone who has grown up understanding that her family's wealth is a tool and that she is very good at using tools. She is charming in a way that involves genuine interest in people — she finds humans especially fascinating, which they tend to find flattering until they realize she is also studying them. She is not cold, but she is strategic, and the two things are close enough together that it matters which one it is. Age: 20 | Race: High Elf.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-tiffara-silverveil"
     },
     {
@@ -306,7 +306,7 @@
       "kind": "High Elf",
       "location": "Highcourt Armathen",
       "summary": "Lady of House Silverveil, route auditor, and contract assessor. Tiffara Silverveil's younger twin, Vaelira closely resembles her sister, sharing her petite height, long silver-blonde hair, bright teal eyes, and fine high-elven features. She wears her hair mostly loose with small, restrained braids, but favors a fitted wine-violet riding coat over high-collared ivory tailoring, charcoal trousers, black gloves, an asymmetric silver-trimmed route mantle, and practical aristocratic boots instead of Tiffara's teal trade-house finery. Warm, exacting, and dryly funny, Vaelira carries herself with relaxed self-possession, meeting people directly with an easy smile while listening for the question everyone else hoped would remain unasked. She values agreements that remain fair and workable after the charm has faded, and takes quiet satisfaction in preventing expensive mistakes before anyone notices them. Age: 20 | Race: High Elf.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-vaelira-silverveil"
     },
     {
@@ -317,7 +317,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Lord of House Vale and high noble of Valenreach controlling three prosperous western provinces. Maethros is a broad-shouldered human man built for endurance rather than display, with neatly kept dark hair beginning to gray early, sharp features, and a commanding presence. He wears House Vale colors with practical ceremonial armor, preferring restrained versions of formal court dress whenever protocol allows. Maethros Vale is currently posted at the High Noble Court in Highcourt Armathen, where his provincial authority and influence over succession politics make him a significant figure in court affairs. Age: 34 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-maethros-vale"
     },
     {
@@ -328,7 +328,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Lady of House Veyrath and arcane scholar. Long raven-black hair, emerald eyes, and dark formal robes threaded with crimson sigil-stitching denoting lineage training privileges. Lexira is one of those people who is better at analysis than at deciding what to do with what she has analyzed. She is perceptive, intellectually restless, and has a tendency to treat interpersonal dynamics like systems that can be understood and therefore optimized. She is aware this is a flaw in her thinking and has not yet found a satisfying correction. She is more emotionally affected by things than she appears and manages this by being extremely organized. Age: 22 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-lexira-veyrath"
     },
     {
@@ -338,7 +338,7 @@
       "kind": "Human",
       "location": "Wolfpine Hall",
       "summary": "Marchioness Adelise Luporian, wife of Marquess Marcen Luporian and mother of Celestina. A forty-seven-year-old human woman about 165 cm tall with a slender, elegant build, fair skin, long strawberry-blonde hair beginning to show a little silver, and composed gray-blue eyes. She carries herself with the effortless precision of someone raised in a ducal household and accustomed to managing a great noble house. Adelise favors immaculate high-quality gowns, riding dress when necessary, understated jewelry, and clothing chosen more for authority and refinement than display. Unlike her husband and daughter, nothing about her presentation suggests she expects to solve problems with a sword. Age: 47 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-adelise-luporian"
     },
     {
@@ -349,7 +349,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Assistant Registrar of Seals and Royal Instruments. Broad-shouldered human man with short dark hair, controlled features resembling Laurent Veymont, and reserved gray eyes. Wears formal palace attire suited to senior record officials, with understated seal-keeper details and no obvious ornament beyond his office. Adrien Veymont is a male royal household official responsible for decrees, confirmations, seals, ceremonial validations, and formal instruments of authority. He serves as part of the Veymont family’s long tradition of service to the Crown and is being prepared for future responsibilities as a lineage-keeper. Age: 28 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-adrien-veymont"
     },
     {
@@ -371,7 +371,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Apprentice Heraldic Registrar. Identical to her sister Sabine with dark-brown hair in matching court braids, gray eyes, and formal posture. Wears heraldic registrar apprentice attire. Alise Veymont is currently posted at the Heralds' Office in Highcourt Armathen, where she studies noble arms, succession markings, banner authority traditions, and dynastic identification. Age: 20 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-alise-veymont"
     },
     {
@@ -381,7 +381,7 @@
       "kind": "Human",
       "location": "Lower Armathen",
       "summary": "Personal attendant and household healer to Celestina Luporian. Ameline Merrow is a twenty-three-year-old common-born human woman about 164 cm tall with a slender, healthy build, warm brown hair usually tied back for work, hazel-green eyes, and an open, friendly face. She wears well-made attendant clothing suitable for noble travel and court service, kept professional without Yselle Davenant's immaculate precision; by the end of a difficult day she usually looks like someone who has actually been working. She carries a practical dagger for emergencies but is far more valuable for her Healing Arcana than for fighting. Age: 23 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-ameline-merrow"
     },
     {
@@ -391,7 +391,7 @@
       "kind": "Human",
       "location": "Aurelmont",
       "summary": "Aveline Morcant is a nineteen-year-old human Aldercrest student in Term Ten and heir to a Valenreach border barony whose lands depend on roads, fortified storehouses, patrol stations, and difficult seasonal supply. About 173 cm tall with a sturdy athletic build, fair skin freckled across the nose, dark chestnut hair usually braided tightly behind her head, and gray-green eyes, she wears her Academy uniform neatly but without fashionable alteration. Aveline has Earth Arcana and approaches almost every lesson as if someone will eventually have to make the plan work in rain, mud, and winter. Age: 19 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-aveline-morcant"
     },
     {
@@ -401,7 +401,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Junior royal household secretary specializing in personal correspondence, schedules, reminders, and private administrative organization. Avenne Sorel is a young human woman with warm brown skin, dark auburn hair usually pinned securely for work, clear hazel eyes, and an alert expression that suggests she is already remembering something everyone else forgot. She wears neat professional court clothing with practical writing pockets and usually carries a compact appointment book or correspondence folio. Age: 20 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-avenne-sorel"
     },
     {
@@ -411,7 +411,7 @@
       "kind": "Human",
       "location": "Aurelmont",
       "summary": "Bastian Rell is a forty-nine-year-old human Master of Governance at Aldercrest, teaching estate administration, taxation, petitions, infrastructure, budgets, delegated authority, and the less glamorous machinery that keeps noble rule functioning. About 176 cm tall with a solid build, deep brown skin, close-cut graying hair, brown eyes, and a broad face usually carrying an expression of skeptical patience, he favors well-made but unadorned academic coats with chalk, folded reports, and loose calculation sheets in the pockets. His lessons have a reputation for beginning with simple decisions and ending with half the room angry because every available answer costs somebody something. Age: 49 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-bastian-rell"
     },
     {
@@ -421,7 +421,7 @@
       "kind": "Human",
       "location": "Lower Armathen",
       "summary": "Regular household guard assigned to Celestina Luporian. Branik Dask is a thirty-five-year-old common-born human man who rose through Luporian military service before being trusted with the Marquessate heir's personal security. About 185 cm tall, he is broad and solidly built with short dark-brown hair beginning to gray at the temples, brown eyes, weathered features, a very short beard, and an old scar across one side of his face. He usually wears practical medium armor for travel and household security, carrying a spear or similar polearm, a side sword, and a shield when circumstances warrant heavier protection. His stern appearance contrasts with an exceptionally calm and patient manner. Age: 35 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-branik-dask"
     },
     {
@@ -431,7 +431,7 @@
       "kind": "Human",
       "location": "Aurelmont",
       "summary": "Cedrik Parren is a thirty-one-year-old human tailor in Aurelmont Market specializing in Aldercrest uniforms, attendant clothing, household livery, alterations, and formal garments needed on short notice. About 175 cm tall with a narrow build, sandy-brown hair cut neatly above the ears, blue-gray eyes, and a carefully trimmed mustache, he dresses better than most of his customers expect a working tailor to dress. A measuring cord is usually looped around one shoulder, and Cedrik has an unnerving ability to notice a crooked hem from across a room. Age: 31 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-cedrik-parren"
     },
     {
@@ -442,7 +442,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Student of Court Protocol and Ceremonial Language. Slender with long dark-brown hair and gray eyes. Wears formal student attire suited to palace instruction households. Celeste Veymont is currently posted at Heralds' Office in Highcourt Armathen, where her studies make her a visible part of local court life. Age: 18 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-celeste-veymont"
     },
     {
@@ -463,7 +463,7 @@
       "kind": "Elf",
       "location": "Aurelmont",
       "summary": "Corren Cestrel is the twenty-one-year-old lesser-noble personal attendant of Lady Melisande Avenmere. Born to a minor noble House with a long association with House Avenmere, he was educated for responsible household service rather than an independent great-house career. About 178 cm tall, Corren has a lean build, refined elven features, short dark-brown hair, gray-green eyes, and a neat, understated appearance. He dresses in well-made but deliberately restrained attendant clothing appropriate to accompanying a Marquessate heir at Aldercrest and noble functions. Corren possesses no Arcana. He has basic martial training with a light sword and wears light protection when circumstances require it, but administration and personal service are his real strengths. Age: 21 | Race: Elf.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-corren-cestrel"
     },
     {
@@ -473,7 +473,7 @@
       "kind": "Human",
       "location": "Aurelmont",
       "summary": "Cressida Valcourt is a twenty-one-year-old human Aldercrest student in Term Twelve and heir to a wealthy Valenreach viscounty with substantial court, agricultural, and commercial interests. About 176 cm tall with a poised slender build, dark brown skin, straight black hair worn to mid-back or pinned formally for lessons, and cool gray eyes, she carries herself with polished confidence that never quite becomes laziness. Cressida has Protection Arcana and is one of Aldercrest's strongest senior students in law, governance, procedural debate, and coalition organization. Age: 21 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-cressida-valcourt"
     },
     {
@@ -483,7 +483,7 @@
       "kind": "Human",
       "location": "Lower Armathen",
       "summary": "Regular carriage driver for Celestina Luporian. Dagna Veller is a forty-eight-year-old common-born human woman from a family long associated with Luporian stables and transport. She has a sturdy build, weathered fair skin, graying brown hair usually tied back beneath a driving hat or scarf, practical brown eyes, and hands marked by reins, tack, and years of outdoor work. She dresses for roads rather than court display, favoring durable layered clothing, gloves, boots, and a weatherproof coat. A practical knife and short cudgel are kept within reach for emergencies, but her real tools are reins, harness, road sense, and an intimate understanding of horses. Age: 48 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-dagna-veller"
     },
     {
@@ -493,7 +493,7 @@
       "kind": "Human",
       "location": "Aurelmont",
       "summary": "Damaris Holtane is an eighteen-year-old human Aldercrest student in Term Nine and the younger daughter of a Valenreach count, known around the Lists for enthusiasm, physical confidence, and a tendency to volunteer before checking how much paperwork an activity requires. About 169 cm tall with a muscular compact build, fair skin, bright red-brown hair cut to her shoulders, blue eyes, and a scattering of small training scars across her hands, she wears her Academy uniform correctly but looks happiest in practice gear. Damaris has no trained Arcana and is a skilled young martial student rather than a mage. Age: 18 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-damaris-holtane"
     },
     {
@@ -503,7 +503,7 @@
       "kind": "Human",
       "location": "Aurelmont",
       "summary": "Delphine Rosset is a forty-eight-year-old human Mistress of Court Practice at Aldercrest, teaching audiences, petitions, councils, household offices, patronage, formal correspondence, ceremonial responsibility, guest management, public appearances, and the practical conduct expected of someone surrounded by servants, retainers, petitioners, rivals, and witnesses. About 168 cm tall with a compact graceful build, medium olive skin, dark auburn hair cut to her jaw and usually pinned back during instruction, hazel eyes, and a round expressive face, she wears polished but restrained court dress adapted for teaching. She looks considerably less severe than many Aldercrest masters until someone mistakes good manners for inattention. Age: 48 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-delphine-rosset"
     },
     {
@@ -513,7 +513,7 @@
       "kind": "Human",
       "location": "Aurelmont",
       "summary": "Dorian Serevin is a twenty-year-old human Aldercrest student in Term Eleven and the younger son of a powerful Valenreach noble family. About 180 cm tall with a lean build, warm brown skin, loosely curled dark hair kept just within Academy standards, hazel eyes, and an easy expressive smile, he wears his uniform with small fashionable adjustments that stop just short of violating regulation. Dorian has no trained Arcana and is known instead for rhetoric, negotiation, languages, and the unsettling ease with which he can enjoy an argument without taking it personally. Age: 20 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-dorian-serevin"
     },
     {
@@ -524,7 +524,7 @@
       "kind": "Dwarf",
       "location": "Highcourt Armathen",
       "summary": "Member, Royal Duel Corps of Armathen. Broad-shouldered and powerfully built with dark braided hair and a short battle-kept beard marked by iron rings of rank. Carries visible training scars. Dravros takes his position in the Duel Corps seriously enough to be very good at it and lightly enough to be pleasant company. He is precise about weapons and technique, has strong opinions about craft quality, and is unusually patient for a fighter — he does not rush decisions in or out of combat. He is also, quietly, better read than his profession would suggest and has opinions about court politics that he keeps mostly to himself. Age: 26 | Race: Dwarf.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-dravros"
     },
     {
@@ -534,7 +534,7 @@
       "kind": "Human",
       "location": "Aurelmont",
       "summary": "Eamon Serrick is a sixty-one-year-old human Master of Histories at Aldercrest, teaching political history, heraldry, dynasties, wars, treaties, religious change, disputed genealogies, and the dangerous habit of reducing complicated events to whatever story the victor preferred. About 169 cm tall with a lean slightly stooped build, fair skin, thick white hair receding at the temples, gray-brown eyes, and a short untidy beard, he habitually wears layered academic robes with spectacles perched low on his nose. Eamon looks perpetually as if he has just found a footnote proving somebody confidently wrong. Age: 61 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-eamon-serrick"
     },
     {
@@ -555,7 +555,7 @@
       "kind": "Human",
       "location": "Aurelmont",
       "summary": "Edric Cauvain is a fifty-three-year-old human Master of Law at the Royal Academy of Aldercrest, teaching Crown law, noble obligations, inheritance, property, legal argument, jurisdiction, contracts, testimony, and the limits of lawful authority. About 179 cm tall with a lean build, warm brown skin, short iron-gray hair, dark brown eyes, and a long clean-shaven face, he favors dark academic coats cut with almost judicial simplicity and usually carries only a slim case of teaching papers. His manner is formal without being theatrical, and he has a reputation for answering confident legal claims by asking which authority actually grants the claimed right. Age: 53 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-edric-cauvain"
     },
     {
@@ -566,7 +566,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Keeper of the Veymont Household Records. Tall and composed with dark-silver hair pinned in a practical court style. Calm gray eyes and a reserved expression. Wears understated formal attire suited to senior palace households. Eliane Veymont is currently posted at Lineage Archives in Highcourt Armathen, where her work makes her a visible part of local life. Age: 55 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-eliane-veymont"
     },
     {
@@ -587,7 +587,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Lord Evander Harcourt, younger son of a powerful Valenreach duke. Evander is a twenty-six-year-old human man about 180 cm tall with a lean athletic build, light-brown hair kept neatly styled, gray eyes, clean-shaven features, and a conventionally handsome appearance made more striking by his controlled bearing than flamboyance. He favors elegant but understated noble clothing and wears practical light armor when danger is expected. He carries a finely made rapier and presents himself with the polished confidence of someone equally comfortable at court, in negotiations, or inspecting the business behind a noble fortune. Age: 26 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-evander-harcourt"
     },
     {
@@ -597,7 +597,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Royal household secretary specializing in court correspondence, petitions, appointments, and formal preparation. Evren Caldus is a well-presented human man with dark chestnut hair, gray-green eyes, and refined clerk's attire without noble insignia. He is articulate, socially observant, dryly humorous, and skilled at explaining court language without making an inexperienced listener feel foolish. Age: 25 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-evren-caldus"
     },
     {
@@ -607,7 +607,7 @@
       "kind": "Human",
       "location": "Wolfpine Hall",
       "summary": "Gervan Mornet is a thirty-nine-year-old human quartermaster responsible for Wolfpine Hall's household stores, reserve supplies, travel provisioning, replacement equipment, fodder, fuel, preserved food, and coordination where civilian stock overlaps with temporary military needs. About 179 cm tall with a thickset build, weathered tan skin, short black hair, brown eyes, and a trimmed beard already showing gray at the chin, he wears durable work clothes under a heavy sleeveless coat and keeps chalk, tally cord, and inventory slips close at hand. Gervan habitually describes supplies in terms of how long they will last rather than how impressive the current total looks. Age: 39 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-gervan-mornet"
     },
     {
@@ -617,7 +617,7 @@
       "kind": "Human",
       "location": "Aurelmont",
       "summary": "Gisela Renn is a twenty-nine-year-old human harbor interpreter who works between Crown customs officers, ship crews, foreign households, merchants, and arriving Aldercrest parties. About 172 cm tall with an athletic build from years spent moving across quays and gangways, she has olive-toned skin, dark brown hair cut to her shoulders, green-brown eyes, and an expressive face that shifts quickly between welcoming and professionally neutral. She wears practical harbor clothing beneath a clean Valenreach-cut coat with document pockets and carries a waterproof folio rather than a weapon. Age: 29 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-gisela-renn"
     },
     {
@@ -627,7 +627,7 @@
       "kind": "Human",
       "location": "Aurelmont",
       "summary": "Gregor Tannic is a twenty-year-old human Aldercrest student in Term Eleven and heir to a wealthy inland Valenreach county built around grain, market towns, toll roads, quarry rights, and several heavily traveled commercial routes. About 182 cm tall with a broad build, pale skin, thick dark-blond hair brushed back from his forehead, light brown eyes, and a square clean-shaven face, he dresses conservatively for a noble student and rarely wears anything likely to become memorable gossip. Gregor has Earth Arcana but is better known for finance, bargaining, infrastructure, and an almost reflexive reluctance to promise House resources before reading the terms. Age: 20 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-gregor-tannic"
     },
     {
@@ -637,7 +637,7 @@
       "kind": "Human",
       "location": "Aurelmont",
       "summary": "Hadrien Bellac is a forty-six-year-old human Master of Statecraft at Aldercrest, teaching political legitimacy, sovereignty, councils, succession crises, competing centers of authority, reform, rebellion, political obligation, coalition government, and the difference between possessing power and successfully ruling with it. About 181 cm tall with a slender build, light brown skin, wavy dark-blond hair beginning to gray at the sides, blue-gray eyes, and a narrow thoughtful face, he dresses in muted academic clothing with no visible noble heraldry. Hadrien tends to teach while moving among the students rather than from behind a lectern and rarely allows a political principle to survive long without giving it an inconvenient counterexample. Age: 46 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-hadrien-bellac"
     },
     {
@@ -647,7 +647,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Senior royal household cook and domestic housekeeper trusted to establish kitchens for smaller Crown residences and guest households. Hedda Morren is a broad, sturdy human woman with graying dark hair, strong features, brown eyes, and the unhurried confidence of someone who has fed frightened children, exhausted guards, offended ambassadors, and demanding nobles without being impressed by any of them. She dresses for kitchen work rather than ceremony and usually has her sleeves firmly rolled. Age: 52 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-hedda-morren"
     },
     {
@@ -657,7 +657,7 @@
       "kind": "Human",
       "location": "Aurelmont",
       "summary": "Helena Ormont is a fifty-seven-year-old human and Provost of the Royal Academy of Aldercrest, responsible for the Academy's day-to-day institutional leadership, faculty coordination, discipline, examinations, visiting appointments, and enforcement of its Crown charter. About 170 cm tall with a straight-backed build, silver-streaked dark hair worn in a severe twist, gray eyes, and a composed angular face, she dresses in dark formal academic clothing relieved by a narrow Aldercrest sash rather than noble display. Helena carries herself like someone accustomed to rulers' children discovering that their parents' titles do not automatically settle arguments inside her institution. Age: 57 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-helena-ormont"
     },
     {
@@ -667,7 +667,7 @@
       "kind": "Human",
       "location": "Wolfpine Hall",
       "summary": "Heloise Brant is a forty-six-year-old human housekeeper of Wolfpine Hall, supervising domestic servants, cleaning, linen, guest-room readiness, household keys, fires, bathing rooms, laundry, and the physical condition of the Hall's occupied interiors. About 163 cm tall with a broad sturdy build, fair skin, dark blond hair streaked with gray and usually pinned beneath a practical head covering, blue eyes, and a round face that shifts easily between warmth and unmistakable disapproval, she wears senior servant clothing kept immaculate even on busy days. Heloise moves through Wolfpine Hall with the confidence of someone who knows exactly which door should be locked and which fireplace should already have been lit. Age: 46 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-heloise-brant"
     },
     {
@@ -677,7 +677,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Royal household personal attendant experienced with guest chambers, clothing, packing, formal preparation, and private rooms. Ilyse Verran is a human woman with soft brown hair worn in a practical braid, pale green eyes, and a calm expression that rarely turns another person's embarrassment into her entertainment. She wears a well-kept palace attendant's uniform designed for quiet movement and practical work. Age: 24 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-ilyse-verran"
     },
     {
@@ -687,7 +687,7 @@
       "kind": "Human",
       "location": "Wolfpine Hall",
       "summary": "Iona Kell is a fifty-two-year-old human household physician at Wolfpine Hall, responsible for ordinary medicine, diagnosis, injury treatment, recovery supervision, preventive care, and deciding when a patient requires a specialist beyond the Hall. About 170 cm tall with a lean build, deep brown skin, tightly curled dark hair threaded heavily with silver, amber-brown eyes, and fine lines around an otherwise composed face, she dresses in clean practical clothing beneath a physician's coat with rolled sleeves. Iona has Healing Arcana, but uses it as one part of medical treatment rather than as a substitute for diagnosis, surgery, rest, or recovery. Age: 52 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-iona-kell"
     },
     {
@@ -697,7 +697,7 @@
       "kind": "Human",
       "location": "Aurelmont",
       "summary": "Lady Ismera Calderyn is a twenty-three-year-old daughter of a powerful Valenreach duke and a former student of the Royal Academy of Aldercrest. House Calderyn has a longstanding tradition of producing Crown mages and other magically trained royal servants. About 170 cm tall, Ismera is slender and graceful, with long black hair, pale violet-gray eyes, elegant features, and the controlled posture of a trained mage-duelist. She dresses in exceptionally polished noble fashion, often incorporating reflective jewelry and decorative surfaces useful to her magical practice. For genuine danger she wears elegant light mage armor and carries a slender dueling rapier, though her primary strength is magic. Her command of Mirror, Lightning, Air, and Illusion Arcana makes her a formidable and unusually versatile young mage. Age: 23 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-ismera-calderyn"
     },
     {
@@ -707,7 +707,7 @@
       "kind": "Human",
       "location": "Aurelmont",
       "summary": "Jannik Forde is a twenty-year-old human Aldercrest Crown Scholar in Term Ten, a common-born Valenreach student admitted for exceptional demonstrated ability in logistics, accounting, and applied economics rather than noble blood or magical talent. About 177 cm tall with a wiry build, light brown skin, short dark hair that never stays completely neat, brown eyes, and a serious face softened by a quick crooked smile, he wears the standard Academy uniform supplied through his scholarship without personal heraldry. Jannik has no trained Arcana, no secret noble ancestry, and no household entourage. Age: 20 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-jannik-forde"
     },
     {
@@ -718,7 +718,7 @@
       "kind": "Dogfolk Beastkin",
       "location": "Greyhaven",
       "summary": "House Servant at Greyhaven. A dogfolk beastkin house servant with practical clothing suited to Greyhaven, attentive eyes, and the small tools or tokens of his station. Joric Greystone is currently posted at Guild Yard in Greyhaven, where his work makes him a visible part of local life. Age: 46 | Race: Dogfolk Beastkin.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-joric-greystone"
     },
     {
@@ -728,7 +728,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Royal Guard assigned to household protection and city escort work. Jorren Hale is a human man with wavy brown hair, blue-gray eyes, a lean athletic build, and an easy expression that becomes much sharper the moment his attention shifts to security. His armor is properly maintained but rarely immaculate for long because he prefers active posts to ceremonial ones. Age: 28 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-jorren-hale"
     },
     {
@@ -739,7 +739,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Page in Training within the Royal Household. Slender with dark brown hair worn slightly longer than his older siblings and clear grey eyes. Wears simple palace page training attire marked with a small household crest. Julien Veymont is currently posted at the Steward's Office in Highcourt Armathen, where his training makes him a familiar junior presence. Age: 13 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-julien-veymont"
     },
     {
@@ -749,7 +749,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Veteran Royal Guard officer specializing in household protection and close-security command. Kaelric Dorn is a solidly built human man with short black hair touched by gray, dark eyes, a weathered face, and the controlled posture of an officer who dislikes unnecessary spectacle. He wears practical royal guard armor and carries a longsword with a compact shield suited to streets, corridors, and escort work. Age: 43 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-kaelric-dorn"
     },
     {
@@ -759,7 +759,7 @@
       "kind": "Human",
       "location": "Aurelmont",
       "summary": "Kellan Dravett is a forty-five-year-old human Master of Command at Aldercrest and a retired Valenreach field officer who teaches strategy, logistics, crisis leadership, formation control, riding, fortification awareness, and the limitations of commanding people who actually become tired, frightened, hungry, or confused. About 184 cm tall with a broad athletic build beginning to thicken with age, dark skin, shaved black hair graying at the temples, brown eyes, and a narrow scar crossing his left cheek, he dresses in practical Academy drill clothing rather than parade uniform. Kellan gives instructions quietly and expects students to hear them the first time. Age: 45 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-kellan-dravett"
     },
     {
@@ -770,7 +770,7 @@
       "kind": "Foxfolk Beastkin",
       "location": "Greyhaven",
       "summary": "Field Widow at Greyhaven. A beastkin field widow with practical clothing suited to Greyhaven, attentive eyes, and the small tools or tokens of her station. Kess Bracken is currently posted at Guild Yard in Greyhaven, where her work makes her a visible part of local life. Age: 57 | Race: Foxfolk Beastkin.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-kess-bracken"
     },
     {
@@ -791,7 +791,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Lord Leovar Calderyn is the 31-year-old heir to House Calderyn's powerful Valenreach Duchy and a Crown servant in magical security and emergency response. About 185 cm tall, he has a solid athletic build, refined features resembling his younger sister Ismera, swept-back black hair, cool gray eyes, and a clean-shaven face. He favors excellent dark noble clothing, carries a longsword where appropriate, and wears tailored medium armor for serious Crown work. Age: 31 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-leovar-calderyn"
     },
     {
@@ -802,7 +802,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Student of Court Etiquette and Household Service Traditions. Identical in height to her twin brother with long dark brown hair and grey eyes. Wears structured household training attire suited to palace instruction. Lianne Veymont is currently posted at the Steward's Office in Highcourt Armathen, where she receives practical instruction in court etiquette, household service, and palace routines. Age: 13 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-lianne-veymont"
     },
     {
@@ -813,7 +813,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Junior royal household attendant and protocol aide. Lean and neatly dressed with dark brown hair tied at the collar and observant grey eyes. Wears formal junior court attire bearing the royal crest. Lucien Veymont is trained to assist royals, visiting nobles, and other persons placed under formal household guidance with protocol, documentation, schedules, and court obligations. He is currently posted at Retainers' Hall in Highcourt Armathen. Age: 25 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-lucien-veymont"
     },
     {
@@ -823,7 +823,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Senior royal household steward trusted with independent guest and family households. Maelin Dorr is a composed human woman with iron-brown hair beginning to gray at the temples, steady dark eyes, and the practical posture of someone accustomed to solving domestic problems before they become public ones. She wears restrained formal household attire with keys, account tokens, and a small steward's badge rather than noble ornament. Maelin is experienced in staff management, household accounts, guest arrangements, provisions, servants, schedules, and the practical boundaries between palace authority and a private household. Age: 49 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-maelin-dorr"
     },
     {
@@ -834,7 +834,7 @@
       "kind": "Dogfolk Beastkin",
       "location": "Highcourt Armathen",
       "summary": "Royal household retainer-guard. Sandy-gold ears and tail, sturdy posture, and a practical guard uniform suited for movement rather than display. Mara serves the Valenreach royal household as a guard and escort, handling routine protection in Highcourt as well as travel duty when members of the royal household move between Crown residences or official destinations. She is reliable in the way that becomes easy to take for granted: always where she is supposed to be, prepared for the unexpected, and rarely drawing attention to herself when something goes wrong. She has the instincts of a guard and prefers solving problems quietly to making a performance of them. She is warm with people she trusts and professionally unobtrusive with everyone else. Age: 22 | Race: Dogfolk Beastkin.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-mara"
     },
     {
@@ -855,7 +855,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Senior Crown Herald of Succession and Investiture within the Royal Chancery. Marius Halbrecht is a composed human man of fifty-two with neatly kept iron-brown hair, a close-trimmed beard, and steady gray eyes that linger on documents before faces. He wears a dark traveling coat over formal chancery attire, marked by a silver herald's chain and a sealed leather case carried close at hand. At the Heralds' Office, he prepares noble succession notices, title confirmations, witnessed instruments, and the formal introductions required when inherited authority passes to a new holder. Age: 52 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-marius-halbrecht"
     },
     {
@@ -866,7 +866,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Junior Archive Attendant of the Records Hall. Slightly taller than his sisters with dark hair and gray eyes. Wears archive attendant robes marked with record-hall insignia. Matthieu Veymont is currently posted at Lineage Archives in Highcourt Armathen, where his work makes him a visible part of local life. Age: 20 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-matthieu-veymont"
     },
     {
@@ -876,7 +876,7 @@
       "kind": "Dwarf",
       "location": "Aurelmont",
       "summary": "Maudra Kest is a forty-four-year-old dwarf stationer in Aurelmont Market. About 139 cm tall and broad through the shoulders, she has warm brown skin, thick black hair braided tightly behind her head, dark hazel eyes, and square spectacles she routinely pushes up with an ink-marked knuckle. Her shop carries paper, ink, pens, seals, ledgers, drafting tools, document cases, and the endless small supplies consumed by Aldercrest and its surrounding households. Maudra speaks with deliberate precision and treats uneven ruling as a personal affront. Age: 44 | Race: Dwarf.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-maudra-kest"
     },
     {
@@ -886,7 +886,7 @@
       "kind": "Elf",
       "location": "Aurelmont",
       "summary": "Lady Melisande Avenmere is the eighteen-year-old sole heir to the wealthy Valenreach Marquessate of House Avenmere and a Term 12 student at the Royal Academy of Aldercrest. About 172 cm tall, she has a graceful build, refined elven features, long dark auburn hair, green eyes, and an elegant, composed appearance. She favors understated but exceptionally high-quality noble clothing rather than conspicuous display. When danger or martial exercises require it she wears light armor, using a bow as her primary weapon and carrying a light side sword. Her Wood and Earth Arcana suit both her practical education and the great agricultural estates she will eventually govern. Age: 18 | Race: Elf.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-melisande-avenmere"
     },
     {
@@ -897,7 +897,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Lady-Attendant to the Queen. Graceful with dark-brown hair worn long in court style and steady gray eyes. Dresses in refined but modest royal household attire. Mirelle Veymont is currently posted at the Royal Apartments in Highcourt Armathen, where her duties place her close to the Queen's household and the inner routines of royal residence life. Age: 23 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-mirelle-veymont"
     },
     {
@@ -908,7 +908,7 @@
       "kind": "Dogfolk Beastkin",
       "location": "Highcourt Armathen",
       "summary": "Nellara Pikeford is a 21-year-old Dogfolk Beastkin Protocol Advocate working from the Heralds' Office in Highcourt Armathen. She comes from a respectable professional family without noble rank and has built her own position through competence rather than patronage. Human-faced with short tan dog ears, dark eyes, pinned-back dark hair, and a composed posture, she favors well-fitted conservative court dress. Nellara is fluent in court protocol, formal procedure, precedence, petitions, introductions, and the practical routes through Highcourt administration. She is helpful without being obsequious, quietly ambitious, and increasingly well connected through favors and professional relationships. Age: 21 | Race: Dogfolk Beastkin.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-nellara-pikeford"
     },
     {
@@ -919,7 +919,7 @@
       "kind": "Catfolk Beastkin",
       "location": "Highcourt Armathen",
       "summary": "Neria Vellwyn is an 18-year-old cat-eared Beastkin personal maid in the Valenreach royal household, assigned through her family's long palace service. Petite and fully human-faced, with black cat ears, a neatly kept black tail, shoulder-length black hair, soft amber eyes, and a gentle smile. She wears a black-and-white medieval palace maid uniform with subtle Valenreach household insignia and remains proper, calm, and attentive in public. Age: 18 | Race: Catfolk Beastkin.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-neria-vellwyn"
     },
     {
@@ -929,7 +929,7 @@
       "kind": "Human",
       "location": "Aurelmont",
       "summary": "Nolen Hart is a thirty-four-year-old human apothecary in Aurelmont Market supplying households, travelers, attendants, and students with ordinary medicines, salves, bandages, tonics, hygiene preparations, and practical medical supplies. About 173 cm tall with a lean build, light-brown skin, wavy dark-blond hair worn a little too long, gray-blue eyes, and a tired but gentle face, he dresses in clean work clothes beneath a dark apron lined with small labeled pockets. Nolen has no Healing Arcana and is careful never to imply that bottles can replace a physician when someone is genuinely ill or badly injured. Age: 34 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-nolen-hart"
     },
     {
@@ -940,7 +940,7 @@
       "kind": "Werewolf Beastkin",
       "location": "Highcourt Armathen",
       "summary": "Transformation-capable scout, frontier security forces. Tall with ash-gray hair and steady amber eyes. Moves with controlled stillness. Nyra is direct in a way that most people find either refreshing or unsettling, depending on their relationship with honesty. She navigates court assignments with visible effort — the politics make no sense to her and she does not pretend otherwise — but in the field she is immediately someone different: focused, quiet, and certain. She has more loyalty to specific people than to institutions and is transparent about this in a way that creates occasional friction with her chain of command. Age: 23 | Race: Werewolf Beastkin.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-nyra"
     },
     {
@@ -951,7 +951,7 @@
       "kind": "Gnome",
       "location": "Saltmere Watchtower",
       "summary": "Gate Sergeant at Saltmere Watchtower. A gnomish gate sergeant with practical clothing suited to Saltmere Watchtower, attentive eyes, and the small tools or tokens of her station. Odria Saltmere is currently posted at the Tower Base of Saltmere Watchtower, where her work makes her a visible part of local life. Age: 75 | Race: Gnome.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-odria-saltmere"
     },
     {
@@ -961,7 +961,7 @@
       "kind": "Human",
       "location": "Aurelmont",
       "summary": "Ophelia Serrane is an eighteen-year-old human Aldercrest student in Term Eight and the younger daughter of a Valenreach marquis, already noticeable for polished rhetoric, formal presentation, public debate, and a confidence that sometimes exceeds her practical experience. About 171 cm tall with a slender build, warm fair skin, long honey-brown hair usually arranged carefully for public lessons, bright green eyes, and an expressive face, she wears her Academy uniform with impeccable attention to presentation. Ophelia has Light Arcana, used with competent student control for illumination, signaling, visual clarity, and limited controlled combat applications. Age: 18 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-ophelia-serrane"
     },
     {
@@ -971,7 +971,7 @@
       "kind": "Human",
       "location": "Wolfpine Hall",
       "summary": "Orla Denner is a forty-eight-year-old human senior cook responsible for Wolfpine Hall's main kitchens, bakery coordination, pantry use, servant meals, formal dining preparation, preservation work, and feeding the unpredictable number of people attached to a major northern household. About 165 cm tall with a heavy strong build, warm brown skin, thick dark hair streaked with gray and tied beneath a kitchen scarf, dark eyes, and an expressive round face, she dresses in practical kitchen clothing with rolled sleeves and a flour-dusted apron. Orla is sociable, energetic, and capable of continuing three conversations while checking four separate dishes without appearing confused. Age: 48 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-orla-denner"
     },
     {
@@ -981,7 +981,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Royal household groom and coachman used for sensitive family and guest transport. Orven Pike is a weathered human man with sandy-brown hair, a short beard, gray eyes, broad shoulders, and the permanent practical neatness of someone who expects mud five minutes after getting clean. He dresses in Crown stable clothing without unnecessary ornament and is more comfortable discussing a horse's temperament than a courtier's reputation. Age: 38 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-orven-pike"
     },
     {
@@ -991,7 +991,7 @@
       "kind": "Human",
       "location": "Wolfpine Hall",
       "summary": "Osric Marden is a forty-one-year-old human estate secretary at Wolfpine Hall, responsible for correspondence, inspection papers, petitions, copied orders, schedules, lease records, delegated work, and turning noble decisions into documents other people can actually follow. About 174 cm tall with a narrow build, pale skin, straight dark-brown hair receding slightly at the temples, gray eyes, and a long expressive face, he normally wears tidy clerk's clothing beneath a dark wool coat and carries several sharpened pens in a rigid case. Osric has the distracted appearance of a man remembering three unfinished letters while listening carefully to a fourth problem. Age: 41 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-osric-marden"
     },
     {
@@ -1001,7 +1001,7 @@
       "kind": "Human",
       "location": "Aurelmont",
       "summary": "Osvin Deller is a forty-six-year-old human coach-yard dispatcher who coordinates hired carriages, baggage wagons, courier departures, available teams, and the steady flow of household traffic through Aurelmont. About 178 cm tall with a heavyset build, ruddy complexion, thinning dark-brown hair, gray eyes, and a permanent crease between his brows, he wears durable layered work clothes under a weatherproof coat and usually carries a slate or folded departure board. Osvin sounds irritated even when everything is proceeding exactly as planned. Age: 46 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-osvin-deller"
     },
     {
@@ -1011,7 +1011,7 @@
       "kind": "Human",
       "location": "Aurelmont",
       "summary": "Perren Vosca is a thirty-six-year-old human armorer and repairer in Aurelmont Market whose work is built around training armor, household weapons, buckles, straps, fittings, and the steady damage produced by Aldercrest practice. About 181 cm tall with a powerful workman's build, medium-brown skin, close-cropped black hair, dark eyes, and forearms marked by old burns and metalwork scratches, he usually wears a heavy leather apron over rolled sleeves. Perren looks more intimidating than he acts and spends far more time explaining maintenance than discussing fighting. Age: 36 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-perren-vosca"
     },
     {
@@ -1021,7 +1021,7 @@
       "kind": "Human",
       "location": "Wolfpine Hall",
       "summary": "Petra Solven is a thirty-five-year-old human stablemistress at Wolfpine Hall, overseeing riding horses, carriage teams, remounts, tack, grooms, feed, breeding stock, and the constant preparation required by a household that travels frequently between estates, Highcourt, garrisons, and northern roads. About 169 cm tall with a compact muscular build, sun-browned skin, dark auburn hair cut just below her ears, green eyes, and a small scar along her chin, she wears riding trousers, heavy boots, layered stable clothing, and gloves tucked through her belt when not in use. Petra is blunt with humans and noticeably more patient with horses. Age: 35 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-petra-solven"
     },
     {
@@ -1032,7 +1032,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Sir and tournament circuit champion candidate. Broad-shouldered with sandy-blond hair, steady hazel eyes, and a confident grin. Carries his dueling focus-blade openly as a mark of reputation. Roderic is currently posted at the Royal Lists in Highcourt Armathen, representing Highcourt in tournament contests and ceremonial demonstrations of skill. Age: 24 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-roderic"
     },
     {
@@ -1042,7 +1042,7 @@
       "kind": "Human",
       "location": "Aurelmont",
       "summary": "Lord Roland Welleran, eighteen-year-old heir to a prosperous Valenreach County and student at the Royal Academy of Aldercrest. About 176 cm tall, he has an athletic but not heavily built frame, dark hair, blue-gray eyes, and an approachable handsome face that still looks younger than most of Celestina's serious marriage prospects. He favors well-made but relatively unpretentious noble clothing and wears practical medium armor for martial exercises, fighting with sword and shield. His Air and Motion Arcana give his movements an unusual speed and fluidity without replacing his actual martial training. Age: 18 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-roland-welleran"
     },
     {
@@ -1063,7 +1063,7 @@
       "kind": "Human",
       "location": "Wolfpine Hall",
       "summary": "Rudek Varne is a forty-three-year-old human captain of the household guard at Wolfpine Hall, responsible for the guards protecting the Luporian family, household, estate offices, immediate grounds, stores, and principal approaches to the seat. About 186 cm tall with a broad powerful build, dark brown skin, close-cropped black hair graying at the sides, brown eyes, and an old broken nose set slightly crooked, he usually wears practical chain or breastplate depending on duty with a Luporian guard cloak rather than Northern Host insignia. Rudek is deliberate, observant, and noticeably less theatrical than guards who enjoy being seen guarding important people. Age: 43 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-rudek-varne"
     },
     {
@@ -1074,7 +1074,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Assistant within the Royal Correspondence Office. Identical to her sister Alise with dark-brown hair in matching court braids, gray eyes, and formal posture. Wears correspondence office apprentice attire. Sabine Veymont is currently posted at the Royal Chancery in Highcourt Armathen, where she assists with sealed correspondence, ceremonial notices, invitation registers, and court communications. Age: 20 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-sabine-veymont"
     },
     {
@@ -1095,7 +1095,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Veteran Royal Guard and residence-security specialist. Stenric Morn is a broad human man with cropped dark-blond hair, a short beard, pale gray eyes, and the heavy, economical movement of someone who has spent years wearing armor without needing to advertise it. He speaks little while on post and keeps his equipment meticulously maintained. Off duty, his intimidating appearance is undermined by an unexpected patience with animals, children, damaged furniture, and anything that can be repaired with enough time. Age: 37 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-stenric-morn"
     },
     {
@@ -1105,7 +1105,7 @@
       "kind": "Human",
       "location": "Aurelmont",
       "summary": "Tilda Arven is a fifty-two-year-old human secondhand dealer in Aurelmont Market who buys and sells clothing, furniture, books, travel goods, household objects, and serviceable equipment discarded by departing students and changing noble households. About 160 cm tall with a compact build, weathered fair skin, iron-gray hair cut to her jaw, sharp blue eyes, and deep smile lines, she favors layered merchant clothes with a dozen practical pockets. Tilda can estimate whether an object will sell before most people have finished explaining why they no longer want it. Age: 52 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-tilda-arven"
     },
     {
@@ -1115,7 +1115,7 @@
       "kind": "Human",
       "location": "Wolfpine Hall",
       "summary": "Tressa Vannier is a fifty-eight-year-old human and senior household steward of Wolfpine Hall, responsible for coordinating the civilian machinery of House Luporian's principal seat. About 166 cm tall with a lean upright build, medium-brown skin, iron-gray hair worn in a compact bun, dark eyes, and a narrow composed face, she dresses in excellent but restrained household clothing with a ring of office keys kept at her belt. Tressa rarely hurries visibly, even when several departments are waiting for decisions, and is usually encountered carrying a folder of reports rather than issuing orders for effect. Age: 58 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-tressa-vannier"
     },
     {
@@ -1136,7 +1136,7 @@
       "kind": "Human",
       "location": "Aurelmont",
       "summary": "Verena Quillan is a thirty-eight-year-old human bookseller in Aurelmont Market whose shop serves Aldercrest students, faculty, retainers, and private households. About 168 cm tall with a slender build, dark auburn hair usually twisted into a loose working knot, brown eyes, and ink-stained fingertips, she dresses in tidy merchant clothes with reading lenses often hanging from a cord at her neck. Verena is approachable without being deferential and has the habit of asking what someone actually needs before showing them the expensive shelf. Age: 38 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-verena-quillan"
     },
     {
@@ -1146,7 +1146,7 @@
       "kind": "Dogfolk Beastkin",
       "location": "Highcourt Armathen",
       "summary": "Young Royal Guard close-protection specialist. Vessa Rill is a 21-year-old Dogfolk Beastkin woman with a fully humanlike face and body, long dark auburn hair worn in a high ponytail with loose face-framing strands, soft floppy tawny-russet dog ears with pale cream inner fur, bright amber-gold eyes, and an athletic human build. Her long canine tail is visibly furred and moderately full, sweeping naturally behind her in a loose curve and tapering gradually toward the tip; warm tawny-russet coloring is strongest near the base while pale cream covers most of its length. She wears fitted dark charcoal-blue Royal Guard field armor with bronze-gold edging, layered pauldrons, gauntlets, and greaves. She carries a long spear, side sword, and dark elongated heater shield with gold Valenreach heraldry. Energetic and confident, she is more at home in streets, yards, stables, gardens, and training grounds than standing silently through ceremony. Age: 21 | Race: Dogfolk Beastkin.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-vessa-rill"
     },
     {
@@ -1156,7 +1156,7 @@
       "kind": "Human",
       "location": "Aurelmont",
       "summary": "Violette Cernay is a forty-two-year-old human Master of Diplomacy at Aldercrest and a former Valenreach diplomatic secretary who teaches negotiation, treaty practice, rhetoric, precedence, foreign custom, and the difference between courtesy and agreement. About 174 cm tall with a graceful build, pale olive skin, long black hair usually pinned low at the nape, dark green eyes, and an elegant composed face, she dresses in restrained court-quality clothing that can pass comfortably at either a lecture table or formal reception. Violette is unfailingly courteous and has a disconcerting habit of asking the question everyone else was hoping protocol would allow them to avoid. Age: 42 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-violette-cernay"
     },
     {
@@ -1166,7 +1166,7 @@
       "kind": "Human",
       "location": "Lower Armathen",
       "summary": "Senior personal attendant to Celestina Luporian. Yselle Davenant is a twenty-six-year-old human woman from a minor noble family with generations of service to House Luporian. About 170 cm tall, she has a lean, fit build, dark chestnut hair usually pinned or braided neatly for work, gray-green eyes, and an attractive but deliberately understated appearance. She dresses in immaculate high-quality attendant clothing suited to travel, court, and noble household service, favoring practicality and precision over ornament. A short sword at her side reflects competent self-defense training rather than a bodyguard's profession. Age: 26 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-yselle-davenant"
     },
     {
@@ -1177,7 +1177,7 @@
       "kind": "Tiefling — Veilblood",
       "location": "Solmire Argentport",
       "summary": "Envoy and diplomatic representative to western courts. Elegant posture, wearing a dark cloak stitched with restrained silver academy sigils. Archelion Voss is currently posted at Bond Archive in Solmire Argentport, where his work makes him a visible part of local life. Age: 52 | Race: Tiefling — Veilblood.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-archelion-voss"
     },
     {
@@ -1198,7 +1198,7 @@
       "kind": "Human",
       "location": "Aurelmont",
       "summary": "Calienne Veyss is a forty-three-year-old human visiting Arcanum scholar holding an Aldercrest chair in magical governance, teaching rulers how magical institutions, dangerous research, Arcana expertise, wards, specialist authority, public risk, and political power interact without turning noble students into professional mages. About 173 cm tall with a narrow athletic build, copper-brown skin, thick dark hair worn in a loose braid over one shoulder, violet-brown eyes, and a sharp expressive face, she dresses in layered charcoal and muted blue scholar's clothing of Arcanum cut rather than Aldercrest robes. Calienne has Rune Arcana and Protection Arcana and usually carries several ordinary writing tablets and ward-marking tools rather than conspicuous magical equipment. Age: 43 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-calienne-veyss"
     },
     {
@@ -1209,7 +1209,7 @@
       "kind": "Tiefling — Cinderblood",
       "location": "Starfall Lyceum",
       "summary": "Master and combat-magic trial supervisor at Starfall Lyceum. Tall tiefling woman with ember-red skin, black horns, bluefire burn scars on one hand, and a robe reinforced like armor. Delyra Cindervane is currently posted at Lens Yard in Starfall Lyceum, where her work makes her a visible part of local life. Age: 42 | Race: Tiefling — Cinderblood.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-delyra-cindervane"
     },
     {
@@ -1220,7 +1220,7 @@
       "kind": "Elf",
       "location": "Ebon Thread Divination House",
       "summary": "Seer and senior diviner at Ebon Thread Divination House. Pale elven man in layered black robes, with silver-threaded sleeves, tired violet eyes, and fingertips stained by candle soot. Ilyon Threadwise is currently posted at Ebon Thread Divination House, where his work makes him a visible part of local life. Age: 263 | Race: Elf.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-ilyon-threadwise"
     },
     {
@@ -1231,7 +1231,7 @@
       "kind": "Elf",
       "location": "Highcourt Armathen",
       "summary": "Keeper and relic vault overseer. Tall with pale-blonde hair, wearing layered archive robes marked with restricted-access sigils. Ithrenn Vale is currently posted at the Royal Vaults in Highcourt Armathen, where he oversees restricted relic access and containment. Age: 159 | Race: Elf.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-ithrenn-vale"
     },
     {
@@ -1242,7 +1242,7 @@
       "kind": "Elf",
       "location": "Vaelthryn Spire-City",
       "summary": "Magister and arcana resonance researcher of the Arcanum Ascendancy. Pale silver-blond hair worn at the shoulders, observant green eyes, and layered academy robes marked with subtle arcane geometry. Lyren Vaelis is currently posted at Founders' Contemplation Court in Vaelthryn Spire-City, where his work makes him a visible part of local academic life. Age: 46 | Race: Elf.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-lyren-vaelis"
     },
     {
@@ -1275,7 +1275,7 @@
       "kind": "Dwarf",
       "location": "Highcourt Armathen",
       "summary": "Magister and military applications arcanist. Dark-skinned with a shaved head, wearing rune-lined gauntlets used for controlled spell shaping. Rhavel Dorn is currently posted at the War Room in Highcourt Armathen, where he advises on battlefield spell formations, defensive warding, and counter-siege planning. Age: 96 | Race: Dwarf.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-rhavel-dorn"
     },
     {
@@ -1286,7 +1286,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Mistress and director of arcana classification. Short silver hair and violet research robes marked with layered academy sigils. Selvaris Quen is currently posted at Diplomatic Hall in Highcourt Armathen, where her work makes her a visible part of local life. Age: 41 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-selvaris-quen"
     },
     {
@@ -1297,7 +1297,7 @@
       "kind": "Tiefling — Cinderblood",
       "location": "Starfall Lyceum",
       "summary": "Field Spellwright, Arcanum Ascendancy. Short dark horns swept back along her hairline, crimson eyes, and reinforced travel robes adapted for field casting. Seris tests new spellforms in the field — a role that requires being comfortable with the possibility that things go wrong. She is empirical and unsentimental about failure: it is information, not a verdict. She is warmer than her analytical manner suggests, and genuinely collegial with people she respects. She has been quietly uncomfortable with some of the Ascendancy's less-published research programs for two years and has not yet decided what to do about that. Age: 22 | Race: Tiefling — Cinderblood.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-seris-halven"
     },
     {
@@ -1318,7 +1318,7 @@
       "kind": "Human",
       "location": "Aurelmont",
       "summary": "Viora Tessarin is a twenty-year-old human Aldercrest student in Term Eleven from the Arcanum Ascendancy, daughter of a respected magical administrative family whose standing comes from institutional achievement rather than hereditary Valenreach-style nobility. About 167 cm tall with a slim build, pale brown skin, short black hair cut sharply at the jaw, violet-gray eyes, and several small silver ear studs, she dresses in Aldercrest uniform modified only enough to accommodate Ascendancy insignia permitted to foreign students. Viora has Lightning Arcana and Protection Arcana and is more interested in magical policy, regulation, and institutional responsibility than spectacular spellcraft. Age: 20 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-viora-tessarin"
     },
     {
@@ -1328,7 +1328,7 @@
       "kind": "Human",
       "location": "Stoneford Crossing",
       "summary": "Retired western road carrier and former Ashen Veil route quartermaster. Maraic Renn is a weathered sixty-four-year-old human man with iron-gray hair cut short, a heavy traveling coat, scarred hands, and the habit of checking doors, windows, wagon space, and sightlines before he sits down. He now passes as an ordinary old carrier who knows roads better than people, but he once moved messages, supplies, forged papers, and fugitives through the Veil's older courier network. Age: 64 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-maraic-renn"
     },
     {
@@ -1338,7 +1338,7 @@
       "kind": "Human",
       "location": "Stoneford Crossing",
       "summary": "Caravan guard, message runner, and younger-generation Ashen Veil field operative. Neris Dalen is a twenty-three-year-old human woman with sun-browned skin, dark hair cut to her jaw, alert brown eyes, and practical road leathers under a patched caravan cloak. She looks like someone hired to keep wagons moving rather than someone trying to look dangerous, and she prefers it that way. Age: 23 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-neris-dalen"
     },
     {
@@ -1348,7 +1348,7 @@
       "kind": "Human",
       "location": "King's Road Waystation",
       "summary": "Hardline Ashen Veil cell commander. Riven Karr is a thirty-one-year-old human man with black hair cut short at the sides, a lean fighter's build, pale gray eyes, and road armor assembled from practical pieces without a uniform. He carries himself like someone who expects every negotiation to become a test of whether the other side has enough force to ignore him. Age: 31 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-riven-karr"
     },
     {
@@ -1358,7 +1358,7 @@
       "kind": "Human",
       "location": "King's Road Waystation",
       "summary": "Senior route keeper and logistics broker for the modern Ashen Veil. Teren Vask is a thirty-seven-year-old human man with close-cropped brown hair, narrow gray eyes, a travel-stained merchant coat, and an unremarkable satchel designed to look less important than it is. He can discuss road tolls, fodder prices, courier delays, and wagon repairs for hours without once sounding like a rebel, which is one reason he remains useful. Age: 37 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-teren-vask"
     },
     {
@@ -1368,7 +1368,7 @@
       "kind": "Human",
       "location": "Stoneford Crossing",
       "summary": "Retired western negotiator and former senior Ashen Veil figure. Thessara Rell is a seventy-one-year-old human woman with long white hair usually bound at the nape, dark green eyes, a narrow weathered face, and restrained travel clothes that reveal nothing of old rank. She has the stillness of someone who spent a lifetime listening for what people would agree to before deciding what they deserved to hear. Age: 71 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-thessara-rell"
     },
     {
@@ -1379,7 +1379,7 @@
       "kind": "Human",
       "location": "Greyhaven",
       "summary": "Leader of the Ashen Veil. Undercut dark red hair, sharp gray-blue eyes, confident posture, and a constant knowing smirk. Wears practical travel leathers marked with hidden faction symbols. Valra is the kind of person who walks into a room and immediately understands where the power is and whether she can use it. She runs the Ashen Veil through a combination of genuine competence and carefully maintained mystique — those beneath her are never entirely sure what she knows about them. She is not cruel without purpose and does not make enemies she does not intend to make. She is also one of the better judges of character in Eldaven, which she uses as both a tool and a filter. Age: 24 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-valra"
     },
     {
@@ -1400,7 +1400,7 @@
       "kind": "Human",
       "location": "Ashen Crown Castle",
       "summary": "A road and patrol captain serving Ashen Crown Castle. Alwen views the district's recovery positively and sees fragmented protection as a practical weakness: several competent groups can still leave gaps when nobody knows who is responsible for the space between them. Age: Adult | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-alwen-carrow"
     },
     {
@@ -1421,7 +1421,7 @@
       "kind": "Human",
       "location": "Ashford Claimant Town",
       "summary": "A claims envoy operating through Ashford Claimant Town on behalf of one interest within The Broken Crown Claimants. Ilyne is not the voice of a unified Crownlands government; her work is to turn aid, recognition, written acknowledgements, and reciprocal protection into durable political leverage for the claimant she serves. Age: Adult | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-ilyne-sare"
     },
     {
@@ -1431,7 +1431,7 @@
       "kind": "Human",
       "location": "Ashen Crown Castle",
       "summary": "Lethra Corven is a thirty-four-year-old human political household representative of Ashen Crown Castle who prefers recognition, negotiated obligations, reciprocal agreements, and useful precedent to blunt commands. She is attentive to the fact that people may accept several individually reasonable arrangements without noticing how much political structure those arrangements create together. Age: 34 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-lethra-corven"
     },
     {
@@ -1474,7 +1474,7 @@
       "kind": "Human",
       "location": "Ashen Crown Castle",
       "summary": "A charter and claims administrator serving Ashen Crown Castle. Sivren studies deeds, grants, old Crown records, claimant confirmations, boundaries, and surviving legal forms. He is neither a forger nor a paper fanatic; he sincerely believes law can survive a period when nobody had the force to enforce it. Age: Adult | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-sivren-cade"
     },
     {
@@ -1584,7 +1584,7 @@
       "kind": "Elf",
       "location": "Crownspire Experimental Annex",
       "summary": "Research scholar in the restricted wing of the Crownspire Collegium archives. Slender with loosely tied chestnut hair and ink-stained fingers from constant document work. Elowen is currently posted at Charter Archive in Crownspire Experimental Annex, where her work makes her a visible part of local life. Age: 112 | Race: Elf.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-elowen"
     },
     {
@@ -1595,7 +1595,7 @@
       "kind": "Dogfolk Beastkin",
       "location": "Crownspire Experimental Annex",
       "summary": "Assistant researcher, Crownspire Collegium archives. Lean dogfolk scholar with dark ears, hazel eyes, and an overloaded satchel of reference texts. Gral is enthusiastic in the precise way of someone who has found the thing they are actually good at and is still slightly surprised by this. He is working through Crownspire's archive catalog with an energy that mystifies some of his colleagues and has already found three significant misfiled documents that were lost for forty years. He is open and direct in social situations, forgets to be strategic in a way he doesn't notice, and is probably the most genuinely friendly person in the Collegium. Age: 20 | Race: Dogfolk Beastkin.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-gral"
     },
     {
@@ -1606,7 +1606,7 @@
       "kind": "Human",
       "location": "Crownspire Experimental Annex",
       "summary": "Master and senior instructor of advanced magical theory at the Crownspire Collegium. Dark robes lined in deep violet, striking gray eyes, and a composed but intense posture. Jacerin is currently posted at Charter Archive in Crownspire Experimental Annex, where his work makes him a visible part of local life. Age: 38 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-jacerin"
     },
     {
@@ -1616,7 +1616,7 @@
       "kind": "Human",
       "location": "Aurelmont",
       "summary": "Octavia Merel is a thirty-nine-year-old human Crownspire lecturer assigned to Aldercrest for specialist Arcana assessment, responsible-use instruction, controlled magical bouts, and liaison with Crownspire standards. About 171 cm tall with a lean athletic build, medium-brown skin, tightly curled black hair cut just below the ears, amber-brown eyes, and faint old burn marks across two fingers of her left hand, she wears practical dark teaching clothes beneath a blue-gray Crownspire mantle during formal work. Octavia has Fire Arcana and Protection Arcana and treats both as disciplines requiring control rather than proof that a caster deserves attention. Age: 39 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-octavia-merel"
     },
     {
@@ -1660,7 +1660,7 @@
       "kind": "Tiefling — Blightblood",
       "location": "Ravenmark Noble Quarter",
       "summary": "Lady Varkul; high-ranking non-royal noble and family power-broker in Ravenmark Noble Quarter. Tall tiefling noblewoman with swept ivory horns, dark red formal silks, a jeweled throat clasp, and eyes that measure before greeting. Thessa Varkul is currently posted at Drill Ground in Ravenmark Noble Quarter, where her work makes her a visible part of local political life. Age: 39 | Race: Tiefling — Blightblood.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-thessa-varkul"
     },
     {
@@ -1682,7 +1682,7 @@
       "kind": "Human",
       "location": "Khar Voss Labor Citadel",
       "summary": "Clerk-Major and senior census official in the Khar Voss Labor Citadel. Thin older man with iron-gray hair, narrow spectacles, ink-stained fingers, and a spotless black registry uniform. Vessik Norn is currently posted at Quota Hall in Khar Voss Labor Citadel, where his work makes him a visible part of local life. Age: 52 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-vessik-norn"
     },
     {
@@ -1835,7 +1835,7 @@
       "kind": "Human",
       "location": "Freefang Mootroad",
       "summary": "A road captain and contract negotiator serving The Freefang Captains. Sereya operates below Nara Freefang's senior leadership and handles the practical question of whether a road, caravan group, or cluster of merchants can pay enough to justify regular protection. Age: Adult | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-sereya-harrow"
     },
     {
@@ -1945,7 +1945,7 @@
       "kind": "Elf",
       "location": "Evershade Courtgrove",
       "summary": "Senior non-royal matriarch and lineage power-broker in Evershade Courtgrove. Ancient elven matriarch in moon-silver robes, with white-gold hair, dark eyes, and a ceremonial spear used more for judgment than battle. Calithra Moonspear is currently posted at Council Grove in Evershade Courtgrove, where her work makes her a visible part of local life. Age: 431 | Race: Elf.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-calithra-moonspear"
     },
     {
@@ -1967,7 +1967,7 @@
       "kind": "Elf",
       "location": "Thornveil Borderwood",
       "summary": "Border captain and senior sentinel at Thornveil Borderwood. Lean elven woman in layered green-gray armor, carrying a long pale bow and a cloak that blends into mist. Liora Thornveil is currently posted at River Gate in Thornveil Borderwood, where her work makes her a visible part of local life. Age: 187 | Race: Elf.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-liora-thornveil"
     },
     {
@@ -1988,7 +1988,7 @@
       "kind": "Elf",
       "location": "Aurelmont",
       "summary": "Nethril Saereth is a twenty-two-year-old elven Aldercrest student in Term Ten from a minor but respected Lythael noble lineage, studying treaty law, estate stewardship, diplomacy, and the management of territories where forests, communities, roads, and old obligations overlap. About 179 cm tall with a slender athletic build, bronze skin, long dark-brown hair usually tied low, pale green eyes, and sharply tapered ears, he wears Aldercrest uniform with a simple Lythael clasp rather than elaborate foreign dress. Nethril has Wood Arcana and Water Arcana and is known for listening much longer than most students expect before finally committing to a position. Age: 22 | Race: Elf.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-nethril-saereth"
     },
     {
@@ -1998,7 +1998,7 @@
       "kind": "Elf",
       "location": "Aurelmont",
       "summary": "Nymara Ithenel is a seventy-three-year-old elven visiting scholar from the Lythael Elven Dominion teaching treaty custom, long-term governance, land stewardship, diplomatic memory, and the political consequences of agreements whose original signatories are long dead. About 177 cm tall with a slim graceful build, light bronze skin, dark green-black hair worn in a long single braid, pale gray-green eyes, and sharply tapered ears, she dresses in layered Lythael scholar's clothing worked with restrained leaf and root patterns rather than Valenreach academic robes. Nymara appears roughly comparable to a human woman in mature early adulthood and carries herself with patient attention rather than distant elven mystique. Age: 73 | Race: Elf.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-nymara-ithenel"
     },
     {
@@ -2009,7 +2009,7 @@
       "kind": "Elf",
       "location": "Old Stag Wildwood",
       "summary": "Exile warden and boundary keeper at Old Stag Wildwood. Tall elf with silver-brown skin, dark green traveling robes, a thornwood staff, and hair bound with old judgment cords. Saelis Vaer is currently posted at Overgrown Edge in Old Stag Wildwood, where her work makes her a visible part of local life. Age: 214 | Race: Elf.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-saelis-vaer"
     },
     {
@@ -2119,7 +2119,7 @@
       "kind": "Human",
       "location": "Wolfsward",
       "summary": "Edras Varnholt is the sixty-three-year-old senior voice of the Blood Loyalists within the Runed Argent Fang. A tall, weathered veteran with close-cut silver hair, a scar dividing his left eyebrow, and a dark red order cloak faded almost brown, he carries an old longsword marked with restrained protective runes. He keeps watch in Wolfsward's Oath Hall, maintaining the ancestral rolls and preventing his followers from proclaiming a commander before the lawful heir has personally accepted the inheritance. Age: 63 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-edras-varnholt"
     },
     {
@@ -2130,7 +2130,7 @@
       "kind": "Human",
       "location": "Varglund",
       "summary": "Hester Brannoch is the sixty-two-year-old captain responsible for the order veterans assigned to Varglund's household, tenants, records, and immediate security. She is compact and broad-shouldered, with short white hair, a weathered brown face, and a missing tip from her right ear. Her plain scale coat bears no claimant's colors beyond the Argent Fang. She patrols the Lower Courtyard with an elderly brindled hound, keeping Valeska's followers, frightened servants, and visiting guards from turning the estate into an open battlefield. Age: 62 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-hester-brannoch"
     },
     {
@@ -2141,7 +2141,7 @@
       "kind": "Human",
       "location": "Wolfsward",
       "summary": "Ilvara Sorn is the seventy-one-year-old warden of Wolfsward's reliquary and senior representative of the Regalia Keepers. She is a narrow, upright woman with long white hair braided through silver rune rings, pale blue eyes, and hands marked by decades of ward-work. Her dark ceremonial armor is worn only in fragments over layered scholar's robes. She remains in the Reliquary among empty mounts, sealed cabinets, and ritual spaces built for regalia the order no longer possesses. Age: 71 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-ilvara-sorn"
     },
     {
@@ -2152,7 +2152,7 @@
       "kind": "Human",
       "location": "Wolfsward",
       "summary": "Marcella Vorrick is the fifty-nine-year-old keeper of Wolfsward's stores and the leading voice of the Survivalists. A heavyset woman with iron-gray braids, dark circles beneath watchful eyes, and two missing fingers on her left hand, she wears an old officer's coat over a practical leather apron. She works in the Quartermaster Hall among nearly empty racks, repaired equipment, and crates whose foreign marks reveal how far the order has fallen from self-sufficiency. Age: 59 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-marcella-vorrick"
     },
     {
@@ -2163,7 +2163,7 @@
       "kind": "Human",
       "location": "Wolfsward",
       "summary": "Odran Keld is the sixty-eight-year-old master of the Old-Trial Traditionalists and the last surviving officer authorized to supervise every stage of the order's command trials. He is thick through the chest despite age, with a shaved head, a white beard bound close to his jaw, and a left knee reinforced by an engraved metal brace. He spends his days in Wolfsward's Trial Court maintaining weapons, obstacles, and oath stations that have not been used in full for decades. Age: 68 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-odran-keld"
     },
     {
@@ -2174,7 +2174,7 @@
       "kind": "Human",
       "location": "Wolfsward",
       "summary": "Ruvan Kest is the forty-four-year-old training master and senior voice of the Reformers, making him one of the youngest officers still considered a veteran of the Runed Argent Fang. He has close-cropped black hair beginning to gray, a lean runner's build, and bright hazel eyes that rarely remain still. His armor is assembled from repaired order pieces altered for movement rather than ceremony. In Wolfsward's Training Yard he drills aging soldiers alongside a handful of supposedly temporary assistants who are suspiciously young and increasingly competent. Age: 44 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-ruvan-kest"
     },
     {
@@ -2185,7 +2185,7 @@
       "kind": "Human",
       "location": "Wolfsward",
       "summary": "Sabriel Quillan is the fifty-six-year-old senior representative of the Crown Charterists and keeper of Wolfsward's modern legal instruments. She has iron-gray hair cut to her shoulders, composed dark eyes, and a narrow scar across one palm from a broken ward seal. Her immaculate order coat carries both the Argent Fang and the smaller Crown charter mark. In the Charter Chamber she compares old oaths with modern confirmations while refusing to recognize any claimant whose authority has not been formally presented through lawful Crown procedure. Age: 56 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-sabriel-quillan"
     },
     {
@@ -2196,7 +2196,7 @@
       "kind": "Human",
       "location": "Wolfsward",
       "summary": "Tormund Grell is the sixty-five-year-old former standard sergeant and unwilling spokesman of the Disillusioned Veterans. He is a broad, stooped man with a shaved gray scalp, a heavy white mustache, and burn scars running from his neck beneath the collar of his patched order coat. One leg ends below the knee in a rune-braced prosthetic. He spends most evenings in Wolfsward's Veterans' Barracks repairing the old banner while arguing that an honorable ending may be better than another decade of pretending the order still lives. Age: 65 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-tormund-grell"
     },
     {
@@ -2284,7 +2284,7 @@
       "kind": "Dryad",
       "location": "Rootbound Moot",
       "summary": "Root Speaker of the Verdant Expanse. A dryad-like forest sovereign with bark-dark skin, moss-green hair, antlerlike branch growths, and eyes reflecting moonlit leaves instead of pupils. Thorn-Beneath-Moon is currently posted at Hearth Moot in Rootbound Moot, where her authority gives the nation a visible face for diplomacy, succession, and internal pressure. Age: Unknown | Race: Dryad.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-thorn-beneath-moon"
     },
     {
@@ -2295,7 +2295,7 @@
       "kind": "Human",
       "location": "Dawnmere Pilgrim Road",
       "summary": "Justicar-Captain and pilgrimage route protection officer, Solarian Theocracy. Dark hair tied short for travel duty, steady amber eyes, and white-and-gold field armor beneath a pilgrim’s cloak. Bolon is a Theocracy officer who is good at his job and takes it seriously without having become the job. He distinguishes between institutional religious authority and personal faith with more clarity than most people in his position and is careful about which one he enforces. He is straightforward with people he works with and reserved with those he does not know. He has a restrained sense of humor that comes out when he has decided to stop performing professionalism. Age: 25 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-bolon-veyron"
     },
     {
@@ -2306,7 +2306,7 @@
       "kind": "Human",
       "location": "Solarion Sanctum",
       "summary": "Sister and junior scripture interpreter, Solarian Theocracy. Light brown hair in temple braids, calm gray eyes, and modest white scholar’s robes marked with solar thread. Caelira entered the Theocracy's service young and is still working out which parts of its doctrine she holds with conviction and which parts she holds by rote. She is sincere in her faith, modest in her manner, and occasionally troubled by a gap she notices between the Theocracy's stated values and its actual operations. She has not yet found the courage to articulate this to anyone, which means it comes out in careful, precise scriptural questions that her superiors are starting to notice. Age: 18 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-caelira-dawnmere"
     },
     {
@@ -2317,7 +2317,7 @@
       "kind": "Human",
       "location": "Sunspire Monastery",
       "summary": "Temple guard instructor at Sunspire Monastery. Broad older man with a sun-faded guard cloak, scarred forearms, cropped gray hair, and a shield always kept within reach. Daven Oras is currently posted at Supply Cloister in Sunspire Monastery, where his work makes him a visible part of local life. Age: 51 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-daven-oras"
     },
     {
@@ -2339,7 +2339,7 @@
       "kind": "Elf",
       "location": "Highcourt Armathen",
       "summary": "Matriarch and keeper of Pilgrimage Roads. Dark-blonde braided hair and layered travel robes marked with discreet sanctuary sigils. Elyra Sunveil is currently posted at the Chapel of Oaths in Highcourt Armathen, where her work makes her a visible intermediary between travelers, sanctuaries, and temple authorities. Age: 148 | Race: Elf.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-elyra-sunveil"
     },
     {
@@ -2361,7 +2361,7 @@
       "kind": "Human",
       "location": "Solarion Sanctum",
       "summary": "Tribunal advocate and doctrine lawyer at the Solarion Sanctum. Elegant man in cream tribunal robes, with a trimmed beard, gold-edged folio, and a voice trained for crowded halls. Jorah Venn is currently posted at Golden Archive in Solarion Sanctum, where his work makes him a visible part of local life. Age: 46 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-jorah-venn"
     },
     {
@@ -2372,7 +2372,7 @@
       "kind": "Elf",
       "location": "Highcourt Armathen",
       "summary": "Archivist and Keeper of Sacred Records. Pale with long white-gold hair and silver spectacles, wearing layered archive robes marked with lineage seals. Lumene Carthis is currently posted at Lantern Witness Rooms in Highcourt Armathen, where her work makes her a visible part of local religious and archival life. Age: 172 | Race: Elf.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-lumene-carthis"
     },
     {
@@ -2383,7 +2383,7 @@
       "kind": "Human",
       "location": "Oathsun Orphan House",
       "summary": "Senior caretaker at Oathsun Orphan House. Middle-aged woman in plain sun-yellow robes, with tired eyes, flour on her sleeves, and hands rough from work. Merian Sol is currently posted at Oathsun Orphan House, where her work makes her a visible part of local life. Age: 43 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-merian-sol"
     },
     {
@@ -2405,7 +2405,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Envoy-Prelate and Synod representative to the Court of Valenreach. Dark-haired and composed, wearing formal traveling priest robes marked with restrained solar insignia. Sarion Pell is currently posted at the Diplomatic Hall in Highcourt Armathen, where he serves as one of the High Synod's principal representatives to the royal court. Age: 38 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-sarion-pell"
     },
     {
@@ -2427,7 +2427,7 @@
       "kind": "Human",
       "location": "Solarion Sanctum",
       "summary": "Inquisitor and investigator at the Solarion Sanctum. Composed woman in white-gray inquisitory robes, with ash-dark gloves, tightly bound hair, and eyes that rarely blink during testimony. Sera Vell is currently posted at Reliquary Court in Solarion Sanctum, where her work makes her a visible part of local life. Age: 34 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-sera-vell"
     },
     {
@@ -2438,7 +2438,7 @@
       "kind": "Human",
       "location": "Solarion Sanctum",
       "summary": "High Hierarch and voice of the High Synod of the Solarian Theocracy. Tall and silver-haired with calm golden eyes, wearing layered white vestments embroidered with restrained solar thread. Solvarion Hale is currently posted at Synod Basilica in Solarion Sanctum, where his work makes him a visible part of religious and political life. Age: 62 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-solvarion-hale"
     },
     {
@@ -2460,7 +2460,7 @@
       "kind": "Human",
       "location": "Seabreak Treaty Port",
       "summary": "Ser and commander of the Concord Escort Fleets. Weathered face, short black hair, and a disciplined naval officer’s coat marked with convoy command sigils. Caldrin Ross is currently posted at Treaty Quay in Seabreak Treaty Port, where his work makes him a visible part of local life. Age: 44 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-caldrin-ross"
     },
     {
@@ -2471,7 +2471,7 @@
       "kind": "Human",
       "location": "Solmire Argentport",
       "summary": "Lady and First Trade Speaker of the Solmire Concord. Auburn merchant braids, sharp gray eyes, and restrained coastal silks marked with subtle trade-family insignia. Coriel Veylan is currently posted at Concord Council Hall in Solmire Argentport, where her work makes her a visible part of local life. Age: 47 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-coriel-veylan"
     },
     {
@@ -2482,7 +2482,7 @@
       "kind": "Tiefling — Gloamblood",
       "location": "Solmire Argentport",
       "summary": "Maritime Escort Coordinator of the Solmire Concord. Dark swept hair between small horns, calm copper eyes, and practical naval route charts carried in a travel satchel. Corvin Rethis is currently posted at Trade House Ring in Solmire Argentport, where his work makes him a visible part of local life. Age: 25 | Race: Tiefling — Gloamblood.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-corvin-rethis"
     },
     {
@@ -2493,7 +2493,7 @@
       "kind": "Human",
       "location": "Solmire Argentport",
       "summary": "Factor-Prince and rising trade-house heir of the Eastern Convoy Consortium. Young and confident with a jeweled merchant sash marking family authority rather than inherited nobility. Dareth Veym is currently posted at Trade House Ring in Solmire Argentport, where his work makes him a visible part of local life. Age: 27 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-dareth-veym"
     },
     {
@@ -2504,7 +2504,7 @@
       "kind": "Dwarf",
       "location": "Ambergrain Road Post",
       "summary": "Master and grain fleet magnate of the Western Convoys. Broad-shouldered with a salt-streaked beard and a heavy travel cloak suited for long seasons at sea ports. Halvek Ruun is currently posted at Ambergrain Road Post, where his work makes him a visible part of local life. Age: 121 | Race: Dwarf.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-halvek-ruun"
     },
     {
@@ -2515,7 +2515,7 @@
       "kind": "Human",
       "location": "Solmire Argentport",
       "summary": "Caravan Envoy, Solmire Concord. Auburn hair tied in merchant braids, alert gray eyes, and layered travel silks marked with subtle trade-family insignia. Lyessa travels well — she is adaptable, quick to read rooms, and comfortable with uncertainty in a way that makes her good at her work and easy company on the road. She represents the Concord's interests with the kind of friendly pragmatism that gets more done than formal diplomacy and is harder to refuse. She is not naive about the Concord's interests but maintains a genuine warmth in her dealings that is real rather than performed. Age: 20 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-lyessa-valenne"
     },
     {
@@ -2548,7 +2548,7 @@
       "kind": "Human",
       "location": "Copperwake Canal District",
       "summary": "Debt adjudicator and contract official at Copperwake Canal District. Neat man in gray legal robes, with smooth hands, gold-rimmed spectacles, and a smile trained to never reach his eyes. Pell Veyne is currently posted at Ledger Chamber in Copperwake Canal District, where his work makes him a visible part of local life. Age: 48 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-pell-veyne"
     },
     {
@@ -2570,7 +2570,7 @@
       "kind": "Tiefling — Veilblood",
       "location": "Silklock District",
       "summary": "Mistress and intelligence broker between trade houses. Dark curls, narrow observant eyes, and understated noble-style attire designed to blend into foreign courts. Teyra Solenne is currently posted at Quay Market in Silklock District, where her work makes her a visible part of local life. Age: 36 | Race: Tiefling — Veilblood.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-teyra-solenne"
     },
     {
@@ -2581,7 +2581,7 @@
       "kind": "Human",
       "location": "Copperwake Canal District",
       "summary": "Senior trade-house factor and family agent at the Copperwake Canal District. Sharp-dressed woman with dark braided hair, a black contract folio, polished boots, and a stare that makes numbers feel personal. Ysabet Corvo is currently posted at Copperwake Exchange in Copperwake Canal District, where her work makes her a visible part of local life. Age: 37 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-ysabet-corvo"
     },
     {
@@ -2636,7 +2636,7 @@
       "kind": "Human",
       "location": "Marovyn Tidemark",
       "summary": "Imperial Consort of the Tide Empire. Tall and broad-shouldered with dark brown hair streaked with silver, calm gray eyes, and formal attire reflecting naval and river-court traditions. Aldrien Valmyr is currently posted at Clan and Harbor Archives in Marovyn Tidemark, where his work makes him a visible part of local life. Age: 46 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-aldrien-valmyr"
     },
     {
@@ -2647,7 +2647,7 @@
       "kind": "Human",
       "location": "Frostharbor Naval Bastion",
       "summary": "Veteran boatswain overseeing dock crews at Frostharbor Naval Bastion. Weathered man with salt-gray beard, broad hands, a patched naval coat, and eyes permanently narrowed against wind. Eirik Thane is currently posted at Chain Gatehouse in Frostharbor Naval Bastion, where his work makes him a visible part of local life. Age: 46 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-eirik-thane"
     },
     {
@@ -2658,7 +2658,7 @@
       "kind": "Dwarf",
       "location": "Highriver Governorate",
       "summary": "Senior provincial secretary in the Highriver Governorate. Compact dwarf with an iron-gray beard, square spectacles, a heavy blue clerk's coat, and a ledger chain worn smooth from use. Halven Rusk is currently posted at Captains' Hall in Highriver Governorate, where his work makes him a visible part of local life. Age: 67 | Race: Dwarf.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-halven-rusk"
     },
     {
@@ -2668,7 +2668,7 @@
       "kind": "Human",
       "location": "Aurelmont",
       "summary": "Karessa Dymar is a nineteen-year-old human Aldercrest student in Term Nine from a Tide Empire noble family with long naval and harbor-administrative service. About 175 cm tall with a compact athletic build, dark copper skin, thick black hair worn in several close braids gathered behind her head, dark blue eyes, and a strong straight nose, she keeps her Academy uniform immaculate but favors Tide-style practical boots and a permitted sea-blue sash. Karessa has Water Arcana and Air Arcana and excels at command exercises involving movement, transport, ships, weather, and logistics. Age: 19 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-karessa-dymar"
     },
     {
@@ -2690,7 +2690,7 @@
       "kind": "Human",
       "location": "Skyreach Aerie",
       "summary": "Rider-Captain and training captain at Skyreach Aerie. Lean woman with wind-braided black hair, a pale scar across one cheek, and a rider's coat buckled tight against the cold. Maera Stormhall is currently posted at Smokehouse Row in Skyreach Aerie, where her work makes her a visible part of local life. Age: 33 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-maera-stormhall"
     },
     {
@@ -2711,7 +2711,7 @@
       "kind": "Human",
       "location": "Highriver Governorate",
       "summary": "River monk and song-keeper based in Highriver Governorate. Older monk with silver hair tied low, river-blue prayer cords, ink-stained sleeves, and kind eyes that miss little. Oryn Blueharp is currently posted at Long Refectory in Highriver Governorate, where his work makes him a visible part of local life. Age: 58 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-oryn-blueharp"
     },
     {
@@ -2721,7 +2721,7 @@
       "kind": "Human",
       "location": "Aurelmont",
       "summary": "Lord Rhaeven Varemyr is the twenty-one-year-old heir to an established County of the Tide Empire and an exceptionally talented student at the Royal Academy of Aldercrest. About 184 cm tall, he has a lean, strongly athletic build suited to spear fighting, lightly sun-tanned skin, dark blue-black hair, bright sea-green eyes, and a strikingly attractive, expressive face. Rhaeven dresses with deliberate elegance and clearly enjoys being noticed. For martial competition and genuine danger he wears light armor and fights primarily with a spear. His unusually broad command of Lightning, Light, Power, and Water Arcana contributes to his reputation as one of Aldercrest's most formidable young competitors. Age: 21 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-rhaeven-varemyr"
     },
     {
@@ -2754,7 +2754,7 @@
       "kind": "Human",
       "location": "Valehold Manor",
       "summary": "Lord of House Valmere and heir to the Duchy of Valmere. Tall and composed with dark, styled hair and striking golden eyes, known for a confident presence in noble courts. Luceran Valmere is currently posted at Command Hall in Valehold Manor, where his position makes him a visible part of local political life. Age: 24 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-luceran-valmere"
     },
     {
@@ -2765,7 +2765,7 @@
       "kind": "Human",
       "location": "Valehold Manor",
       "summary": "Duchess of House Valmere. Elegant and composed with ash-gold hair and calm observant eyes, known for her controlled presence in noble courts. Mereth Valmere is currently posted at Command Hall in Valehold Manor, where her role makes her a visible part of local political life. Age: 48 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-mereth-valmere"
     },
     {
@@ -2776,7 +2776,7 @@
       "kind": "Human",
       "location": "Valehold Manor",
       "summary": "Lady of House Valmere and formally betrothed to Crown Prince Rowan. Golden-blonde hair in refined court styles, poised posture, and elegant presentation shaped for royal audiences. Wealthy, privileged, charming, confident, flirtatious, and socially perceptive, Selira is accustomed to attention and understands what her house expects of her. The engagement is public, valid, and delayed; they are not married. Age: 19 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-selira-valmere"
     },
     {
@@ -2787,7 +2787,7 @@
       "kind": "Human",
       "location": "Highcourt Armathen",
       "summary": "Lady and overseer of the Whisper Network. Tall and elegant with long midnight-black hair, pale skin, and sharp gray eyes. Wears refined attire designed to avoid attention. Cyrienne Duskryn is currently posted at Mirror Gallery in Highcourt Armathen, where her work makes her a visible part of local life. Age: 41 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-cyrienne-duskryn"
     },
     {
@@ -2797,7 +2797,7 @@
       "kind": "Human",
       "location": "Knightless Keep",
       "summary": "A younger member of the Hallow household who believes Knightless's old ambiguity is becoming dangerous. Anwen respects the keep's service tradition but thinks unclear rights leave it vulnerable to being used, bypassed, or absorbed by stronger authorities as the district becomes valuable. Age: Young adult | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-anwen-hallow"
     },
     {
@@ -2807,7 +2807,7 @@
       "kind": "Human",
       "location": "Knightless Keep",
       "summary": "Head of the old castellan household at Knightless Keep, descended from officers who remained when central authority collapsed. Beren does not style himself a lord. His household is the keep's public face, but Knightless survives because generations of service families, patrols, stable hands, stores, and retainers actually keep it working. Age: 47 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-beren-hallow"
     },
     {
@@ -2837,7 +2837,7 @@
       "kind": "Human",
       "location": "Coinstill Village",
       "summary": "A comparatively well-resourced prospective settler in his forties with draft animals, good tools, enough labor, and enough reserves to think several years ahead. Brenn honestly intends to build a substantial household holding, but his first large prospective claim includes far more ground than he can work immediately and catches shared grazing and access he mistakes for unused land. Age: 44 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-brenn-orward"
     },
     {
@@ -2848,7 +2848,7 @@
       "kind": "Elf",
       "location": "Highcourt Armathen",
       "summary": "Wandering Storyteller of the Turning Roads. A slender elf with silver-dark hair and calm knowing eyes. Wears layered traveler’s clothing decorated with charms and tokens from distant lands. Caelis is currently posted at Crown Plaza in Highcourt Armathen, where his work makes him a visible part of local life. Age: Ageless | Race: Elf.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-caelis"
     },
     {
@@ -2858,7 +2858,7 @@
       "kind": "Human",
       "location": "Coinstill Village",
       "summary": "A thirty-four-year-old newcomer arriving with a modest household, ordinary tools, and a serious intention to settle. Caldra marks only ground her household can begin clearing and working soon, making her an early example of a settler who fits Coinstill custom without needing anyone to grant her special status. Age: 34 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-caldra-fen"
     },
     {
@@ -2868,7 +2868,7 @@
       "kind": "Tiefling — Cinderblood",
       "location": "Lower Armathen",
       "summary": "Celestina Luporian is the only child and heir of a powerful northern Valenreach marquessate, familiar with Highcourt and completing later terms at the Royal Academy of Aldercrest. She stands about 167 cm tall with a fit, feminine build, fair skin, long rose-gold hair, blue eyes, pointed ears, small swept-back ivory horns, and a long spade-tipped tail. Her poised bearing often makes her seem a few years older. She favors fashionable noble dress, tailored riding clothes while traveling, and fitted medium armor when expecting danger, carrying a fine hand-and-a-half sword suited to two-handed fighting or one-handed spellcasting. Age: 19 | Race: Tiefling — Cinderblood.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-celestina-luporian"
     },
     {
@@ -2888,7 +2888,7 @@
       "kind": "Human",
       "location": "Knightless Keep",
       "summary": "Knightless Keep's quartermaster and stablemaster, responsible for the unromantic costs behind patrols: fodder, shoes, tack, repairs, stores, replacement gear, exhausted animals, and the difference between a promised patrol and one that can actually ride. He is not naturally political, which makes his numbers politically dangerous. Age: Adult | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-colm-bale"
     },
     {
@@ -2898,7 +2898,7 @@
       "kind": "Human",
       "location": "Oldlaw Hamlet",
       "summary": "Oldlaw's meticulous thirty-seven-year-old witness and record keeper, responsible for copying statements, identifying who actually saw what, and preserving distinctions between testimony, rumor, memory, and documentary evidence. Edrin is useful precisely because he dislikes being pressured into certifying an interpretation he did not witness. Age: 37 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-edrin-cale"
     },
     {
@@ -2909,7 +2909,7 @@
       "kind": "Dragon",
       "location": "Glacier Road Remnant",
       "summary": "Ancient Northern Red Dragon. A massive crimson-scaled dragon with scarred wings, burning golden eyes, and smoke drifting between his fangs. Emberwyrm the Ashfather is currently found near the Ruined Roadhouse in the Glacier Road Remnant, watching the northern approaches without any ordinary civic role. Age: Unknown | Race: Dragon.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-emberwyrm-the-ashfather"
     },
     {
@@ -2919,7 +2919,7 @@
       "kind": "Human",
       "location": "Oldlaw Hamlet",
       "summary": "A prosperous Oldlaw farmer in his late forties who supports documenting boundaries and transfers because productive households need to know what they can plant, improve, inherit, and sell without reviving the same quarrel every generation. He is not an absolutist about ancient deeds and respects long working possession. Age: Late-40s | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-hoban-fenlow"
     },
     {
@@ -2939,7 +2939,7 @@
       "kind": "Human",
       "location": "Old Banner Checkpoint",
       "summary": "The practical roadkeeper who organizes much of Old Banner Checkpoint's current work. Iva coordinates with Knightless patrols, local rotations, messages, and rough traffic notes because increased movement makes purely informal memory unreliable. Age: Adult | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-iva-den"
     },
     {
@@ -2959,7 +2959,7 @@
       "kind": "Human",
       "location": "Old Banner Checkpoint",
       "summary": "A young Coinstill resident who rotates through road work at Old Banner Checkpoint and is Nella Quill's younger brother. Jory accepts useful checks, warnings, and records but becomes uneasy when cooperation is described afterward as obedience or permanent authority. Age: Young adult | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-jory-quill"
     },
     {
@@ -2979,7 +2979,7 @@
       "kind": "Human",
       "location": "Ashford Claimant Town",
       "summary": "A returning descendant in his early fifties who possesses credible records connecting his family to land near Coinstill that was abandoned during the Crownlands' worst years. Malric expects the records to matter but does not initially arrive with soldiers or an eviction order. Age: Early-50s | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-malric-dornell"
     },
     {
@@ -3009,7 +3009,7 @@
       "kind": "Human",
       "location": "Ashford Claimant Town",
       "summary": "A regional merchant and reconstruction creditor with enough capital and contacts to organize timber, tools, storage materials, wagons, and short-term credit after a serious disruption. Nerra wants routes and markets functioning because functioning trade repays her. Age: 44 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-nerra-kelle"
     },
     {
@@ -3029,7 +3029,7 @@
       "kind": "Human",
       "location": "Oldlaw Hamlet",
       "summary": "A young Oldlaw carpenter and extended kin of Maren Halren. Perrin earns more work as settlement and repair increase and likes writing agreements down because building materials, labor, payment, and future ownership become expensive misunderstandings when people rely only on memory. Age: 26 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-perrin-halren"
     },
     {
@@ -3039,7 +3039,7 @@
       "kind": "Human",
       "location": "Knightless Keep",
       "summary": "Knightless Keep's senior patrol officer, responsible for the practical work of keeping roads watched, responding to danger, coordinating riders, and deciding what a patrol can realistically protect. Ressa's legitimacy comes from service and competence more than old household history. Age: 38 | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-ressa-dorne"
     },
     {
@@ -3049,7 +3049,7 @@
       "kind": "Human",
       "location": "Oldlaw Hamlet",
       "summary": "An Oldlaw grazier and fieldholder whose household works ground with historically unclear boundaries. Sella respects the reeve and uses records when they help, but she is the clearest local reminder that paper can preserve an old injustice or an abandoned claim just as easily as it preserves a fair bargain. Age: Adult | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-sella-vard"
     },
     {
@@ -3059,7 +3059,7 @@
       "kind": "Human",
       "location": "Oldlaw Hamlet",
       "summary": "The locally recognized reeve of Oldlaw Hamlet, chosen and accepted through local custom rather than appointed as a sovereign official. Tamsin records decisions, witnesses, boundaries, and obligations because Oldlaw expects important matters to survive beyond whoever remembers them. Her office has real local duties but no automatic jurisdiction over Coinstill or the wider Crownlands. Age: Adult | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-tamsin-ward"
     },
     {
@@ -3069,7 +3069,7 @@
       "kind": "Human",
       "location": "Old Banner Checkpoint",
       "summary": "An elderly veteran of Old Banner Checkpoint whose service reaches back to the old military remnant that never entirely vanished. Tarn treats the post as a place for watching roads, relaying warnings, sheltering patrols, and noticing unusual movement, not as a border crossing with automatic toll rights. Age: Elderly | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-tarn-orro"
     },
     {
@@ -3090,7 +3090,7 @@
       "kind": "Human",
       "location": "War-Orphan Cross",
       "summary": "A regional grain buyer and general trader who begins testing whether Coinstill can support repeat commerce. Tavren is interested in grain, livestock, preserved food, fodder, transport, and advance purchases rather than grand politics, though his contracts can create political consequences when they depend on communal capacity. Age: Adult | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-tavren-noll"
     },
     {
@@ -3101,7 +3101,7 @@
       "kind": "Dragon",
       "location": "Highcourt Armathen",
       "summary": "Ancient Dragon Spirit. Its physical form exists as a massive ancient skeleton hidden beneath the land. Its spirit manifests as burning eyes within drifting ash-like mist or as a towering shadow shaped like a dragon. The Cinder Sovereign's dormant influence is associated with the Royal Vaults in Highcourt Armathen, though its true reach and physical remains are not publicly understood. Age: Over 1,000 years | Race: Dragon.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-the-cinder-sovereign"
     },
     {
@@ -3111,7 +3111,7 @@
       "kind": "Human",
       "location": "War-Orphan Cross",
       "summary": "A professional caravan guard in his early thirties who is competent, generally dependable, and trusted enough to keep getting hired. Torren is also proud, physically assertive, and too accustomed to using presence and force to make tense situations end quickly. His early appearances should not frame him as a future murderer or obvious menace. Age: Early-30s | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-torren-reln"
     },
     {
@@ -3121,7 +3121,7 @@
       "kind": "Human",
       "location": "Crownfall Hold",
       "summary": "A lake trader and transport organizer in her forties who knows cargo transfer, shallow approaches, small landings, wagon connections, and the difference between a usable quay and romantic talk about restoring a dead port. Veyla becomes interested in Veyrholm only when the recovering network makes one surviving approach commercially plausible. Age: 40s | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-veyla-morn"
     },
     {
@@ -3131,7 +3131,7 @@
       "kind": "Human",
       "location": "War-Orphan Cross",
       "summary": "An independent caravan organizer who coordinates mixed wagons, hired guards, departure order, shared watches, and practical disputes because travelers moving together for safety need someone to keep the arrangement coherent. Ysolde represents no great merchant house and does not treat ordinary commerce as a political mission. Age: Adult | Race: Human.",
-      "spoiler": true,
+      "spoiler": false,
       "articleId": "person-ysolde-marr"
     }
   ],
