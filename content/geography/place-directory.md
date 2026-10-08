@@ -8,6 +8,14 @@ status: canon
 
 # Places of Arkenfell
 
-Browse every configured region and location in the Arkenfell world: **25 regions and 353 locations**. Search by name, region, location type, or descriptive keyword.
+Browse the public Arkenfell world's **25 regions and 353 locations**. Search by name, region, location type, or descriptive keyword, or begin with a regional overview and open its location roster directly.
 
-Entries that Voyage currently marks as unknown are still included. Their descriptions are placed behind a spoiler warning so the wiki remains complete without forcing discoveries on readers.
+![Map of Eldaven](Images/Arkenfell_map/Eldaven.png)
+
+Every displayed record is explicitly sourced from **Arkenfell**. Regions, locations, or areas found only in **Arkenfell Private** are deliberately excluded.
+
+Entries that Voyage currently marks as unknown remain available behind a spoiler warning. This keeps established places findable without forcing their descriptions on readers.
+
+## Areas
+
+Areas belong beneath their parent location rather than beside regions and locations. The existing wiki import contains no structured area records, so none are displayed yet; they must be imported from the public Arkenfell world before this level can be added accurately.
