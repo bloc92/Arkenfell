@@ -1,0 +1,1363 @@
+{
+  "realm": "Arkenfell",
+  "sourceWorld": "Arkenfell",
+  "entries": [
+    {
+      "name": "Acid Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Standard Arcana",
+      "kind": "Magical affinity",
+      "summary": "Manipulates acid, corrosion, caustic liquid, etching, dissolving reactions, and controlled material breakdown. Governs chemical burns, weakening armor, dissolving locks, damaging organic or mineral matter, and dangerous alchemical reactions. Distinct from Poison Arcana, which works through toxins inside living bodies.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Standard"
+        },
+        {
+          "label": "Attribute",
+          "value": "Constitution"
+        },
+        {
+          "label": "Starting access",
+          "value": "Available during character creation; choosing access does not grant mastery."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Air Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Standard Arcana",
+      "kind": "Magical affinity",
+      "summary": "Manipulates air, wind, breath, pressure, and atmospheric movement. Governs windblasts, suffocation risk, air cushioning, flight assistance, redirected projectiles, and pressure shifts.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Standard"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Available during character creation; choosing access does not grant mastery."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Beast Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Standard Arcana",
+      "kind": "Magical affinity",
+      "summary": "Magically interacts with animals, beast instincts, animal communication, command, bonding, and partial beast-like transformation. Use Beast Arcana only for magical animal interaction, magical beast speech, supernatural bonding, magical command, or transformation; ordinary animal care and control uses Animal Handling.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Standard"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Available during character creation; choosing access does not grant mastery."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Cold Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Standard Arcana",
+      "kind": "Magical affinity",
+      "summary": "Manipulates cold, ice, freezing, temperature reduction, frost formation, slowing effects, preservation, and crystalline barriers. Often called ice magic by commoners, but formally known as Cold Arcana.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Standard"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Available during character creation; choosing access does not grant mastery."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Conjuration Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Standard Arcana",
+      "kind": "Magical affinity",
+      "summary": "Summons, calls, binds, or manifests entities, servants, familiars, temporary constructs, and other defined presences through magical conduits. Conjuration governs bringing and maintaining the summoned presence rather than granting unrestricted control over whatever substance or power that presence embodies. A summoned creature or construct may have its own capabilities, but Conjuration Arcana does not by itself reproduce another Arcana's independent domain control.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Standard"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Available during character creation; choosing access does not grant mastery."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Death Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Standard Arcana",
+      "kind": "Magical affinity",
+      "summary": "Interacts with death-state energy, dying thresholds, the recently dead, life-force drain, corpse animation, and the boundary between living and dead. It governs necromantic effects rooted in death itself. Use Soul Arcana for direct manipulation of living essence or identity, Spirit Arcana for independent spirits and hauntings, Healing Arcana for restoring ordinary bodily harm, and Bone Arcana for physical bone shaping.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Standard"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Available during character creation; choosing access does not grant mastery."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Divination Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Standard Arcana",
+      "kind": "Magical affinity",
+      "summary": "Reads hidden information through magical detection, omen-reading, scrying, trace interpretation, distant perception, and signs beyond normal senses. Use Divination Arcana only when the character actively uses magic to reveal hidden information, detect traces, read omens, scry, or perceive beyond normal senses; mundane room searches use Searching or Seeing.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Standard"
+        },
+        {
+          "label": "Attribute",
+          "value": "Perception"
+        },
+        {
+          "label": "Starting access",
+          "value": "Available during character creation; choosing access does not grant mastery."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Earth Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Standard Arcana",
+      "kind": "Magical affinity",
+      "summary": "Manipulates earth, stone, soil, ground pressure, barriers, tremors, and underground structure. Governs stone shaping, earthworks, seismic effects, stability, and terrain control. Earth Arcana does not grant general control over worked metal or crystal and gems simply because they originated in the ground; use Metal Arcana or Crystal Arcana for those established domains.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Standard"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Available during character creation; choosing access does not grant mastery."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Enchantment Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Standard Arcana",
+      "kind": "Magical affinity",
+      "summary": "Places persistent magical effects on objects, locations, thresholds, and willing bearers. Governs imbuing enduring magical properties, conditions, permissions, reactive effects, and item enchantments designed to continue after the initial casting. Enchantment Arcana governs persistence and imbuement; Rune Arcana governs magic expressed through physical inscriptions, while Seal Arcana governs containment, suppression, closure, and ward-locking.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Standard"
+        },
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        },
+        {
+          "label": "Starting access",
+          "value": "Available during character creation; choosing access does not grant mastery."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Fiber Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Standard Arcana",
+      "kind": "Magical affinity",
+      "summary": "Magically manipulates nonliving fibers, textiles, and cordage such as thread, yarn, cloth, rope, wool, linen, hemp, silk, felt, canvas, and similar materials. Governs sensing, moving, tightening, loosening, knotting, braiding, weaving, unraveling, reinforcing, weakening, and reshaping existing fibers. It does not create material from nothing, control living plants or bodies, or replace Handcrafting and other mundane textile or fabrication work.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Standard"
+        },
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        },
+        {
+          "label": "Starting access",
+          "value": "Available during character creation; choosing access does not grant mastery."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Fire Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Standard Arcana",
+      "kind": "Magical affinity",
+      "summary": "Generates and controls fire, heat, combustion, flame shape, burning intensity, and temperature amplification. Governs ignition, sustained burning, battlefield shock, forging heat, and fire hazards.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Standard"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Available during character creation; choosing access does not grant mastery."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Healing Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Standard Arcana",
+      "kind": "Magical affinity",
+      "summary": "Restores physical harm through magical wound closure, illness treatment, toxin removal, stabilization, pain reduction, and accelerated natural recovery. Use Healing Arcana for magical healing; use Medicine for mundane diagnosis, surgery, bandaging, poultices, treatment, and recovery care.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Standard"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Available during character creation; choosing access does not grant mastery."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Heroic Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Standard Arcana",
+      "kind": "Magical affinity",
+      "summary": "Channels heroic or sanctified force into courage, battle resolve, resistance, rallying presence, protective blessing, and exceptional effort under pressure. It strengthens the ability to stand, endure, act, and inspire in moments of danger. It does not create general-purpose magical barriers like Protection Arcana or provide unrestricted amplification of any action like Power Arcana.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Standard"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Available during character creation; choosing access does not grant mastery."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Illusion Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Standard Arcana",
+      "kind": "Magical affinity",
+      "summary": "Creates false sensory impressions: images, phantom sounds, false smells, altered appearances, concealed details, and complete multi-sense fabrications. Strong illusions require consistency and context.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Standard"
+        },
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        },
+        {
+          "label": "Starting access",
+          "value": "Available during character creation; choosing access does not grant mastery."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Light Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Standard Arcana",
+      "kind": "Magical affinity",
+      "summary": "Manipulates ordinary and magical light, including illumination, glare, color, reflection, refraction, visibility, focused radiance, and the suppression or concentration of light. Its effects work through light itself rather than raw kinetic force. Distinct from Heroic Arcana, which carries courage, sanctity, blessing, and heroic resolve.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Standard"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Available during character creation; choosing access does not grant mastery."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Lightning Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Standard Arcana",
+      "kind": "Magical affinity",
+      "summary": "Generates and directs electrical energy, lightning strikes, charged fields, conductive magic, nerve shock, sudden impact, and volatile speed. It is powerful, bright, loud, and difficult to hide.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Standard"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Available during character creation; choosing access does not grant mastery."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Metal Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Standard Arcana",
+      "kind": "Magical affinity",
+      "summary": "Magically manipulates metal, alloy, ore, forged objects, metal resonance, and worked arms or armor. Governs sensing, shaping, reinforcing, weakening, heating, cooling, and resonating metal. Use Metal Arcana for magical metal manipulation; use Smithing for mundane forging, shaping, repairing, and metalwork.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Standard"
+        },
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        },
+        {
+          "label": "Starting access",
+          "value": "Available during character creation; choosing access does not grant mastery."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Motion Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Standard Arcana",
+      "kind": "Magical affinity",
+      "summary": "Manipulates movement, momentum, acceleration, deceleration, balance, trajectories, and kinetic flow. Motion Arcana changes how an existing body or object moves and can redirect, hasten, slow, or arrest that movement. Distinct from Force Arcana, which creates or directs push, impact, and pressure, and Gravity Arcana, which governs pull, weight, falling, and the direction of down.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Standard"
+        },
+        {
+          "label": "Attribute",
+          "value": "Dexterity"
+        },
+        {
+          "label": "Starting access",
+          "value": "Available during character creation; choosing access does not grant mastery."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Poison Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Standard Arcana",
+      "kind": "Magical affinity",
+      "summary": "Manipulates toxins, venoms, irritants, antidotal reactions, contamination, and bodily resistance to poison. Distinct from Plague Arcana, which spreads disease, decay, corruption, and magical blight.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Standard"
+        },
+        {
+          "label": "Attribute",
+          "value": "Constitution"
+        },
+        {
+          "label": "Starting access",
+          "value": "Available during character creation; choosing access does not grant mastery."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Power Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Standard Arcana",
+      "kind": "Magical affinity",
+      "summary": "Magically amplifies effort, impact, endurance, and exertion through raw arcane output. Power Arcana strengthens an action already being performed: a strike hits harder, a leap carries farther, a shield holds longer, or a spell lands with greater force. It does not create free-standing pushes, invisible blows, or external force control like Force Arcana, and it does not replace Might, weapon skill, technique, or ordinary physical strength.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Standard"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Available during character creation; choosing access does not grant mastery."
+        }
+      ],
+      "spoiler": false,
+      "articleId": "power-arcana"
+    },
+    {
+      "name": "Protection Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Standard Arcana",
+      "kind": "Magical affinity",
+      "summary": "Creates magical defenses, personal shields, wards, barriers, damage reduction, protective auras, and resistance against hostile effects. Use Protection Arcana for magical barriers and wards; use Shields for physical shield blocking, bashing, cover, and positioning.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Standard"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Available during character creation; choosing access does not grant mastery."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Rune Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Standard Arcana",
+      "kind": "Magical affinity",
+      "summary": "Inscribes magic into physical marks, symbols, materials, or prepared surfaces. Runes can hold effects, store energy, react to conditions, stabilize spells, or persist without constant concentration. Rune Arcana is defined by the magical inscription itself; Enchantment Arcana governs broader persistent imbuement, while Seal Arcana governs containment, suppression, and magical closure. Mundane writing uses Writing or Fine Script.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Standard"
+        },
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        },
+        {
+          "label": "Starting access",
+          "value": "Available during character creation; choosing access does not grant mastery."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Shadow Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Standard Arcana",
+      "kind": "Magical affinity",
+      "summary": "Magically manipulates shadow, darkness, light suppression, concealment, oppressive dark, hidden movement, and shadow-shaped force. Use Shadow Arcana when the character magically manipulates darkness or shadow; use Stealth for mundane sneaking, hiding, and quiet movement.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Standard"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Available during character creation; choosing access does not grant mastery."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Smoke Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Standard Arcana",
+      "kind": "Magical affinity",
+      "summary": "Magically manipulates smoke, soot, ash-laden haze, suspended particulate clouds, scent carried through smoke, and drifting obscuration. Governs shaping cover, choking or redirecting smoke, masking scent, and reading movement through smoke-filled space. It does not grant general control over clean air and wind, liquid water or steam, or toxins merely because they are airborne.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Standard"
+        },
+        {
+          "label": "Attribute",
+          "value": "Perception"
+        },
+        {
+          "label": "Starting access",
+          "value": "Available during character creation; choosing access does not grant mastery."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Spirit Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Standard Arcana",
+      "kind": "Magical affinity",
+      "summary": "Interacts with spirits, ghosts, animistic presences, hauntings, ancestor echoes, shrine entities, and unseen local powers. Distinct from Soul Arcana, which touches the living essence and identity of a person directly.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Standard"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Available during character creation; choosing access does not grant mastery."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Water Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Standard Arcana",
+      "kind": "Magical affinity",
+      "summary": "Manipulates water, liquid flow, pressure, currents, jets, floods, underwater breathing, cleansing, redirection, and aqueous environments. It is strongest where existing liquid is present.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Standard"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Available during character creation; choosing access does not grant mastery."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Wood Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Standard Arcana",
+      "kind": "Magical affinity",
+      "summary": "Manipulates living plants, roots, vines, wood, timber, botanical growth, and organic plant shaping. Governs plant direction, living barriers, natural bindings, and shaping wood as a tool, obstacle, or weapon. Nonliving processed fibers, textiles, rope, thread, and cloth belong to Fiber Arcana, while ordinary woodworking and fabrication remain Handcrafting.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Standard"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Available during character creation; choosing access does not grant mastery."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Blood Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Rare Arcana",
+      "kind": "Magical affinity",
+      "summary": "Magic of blood, vitality, injury, lineage signs, sacrifice, life-force tension, and the dangerous boundary between healing and harm. Blood Arcana is potent, intimate, physically costly, and widely restricted.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Rare"
+        },
+        {
+          "label": "Attribute",
+          "value": "Constitution"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Bone Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Rare Arcana",
+      "kind": "Magical affinity",
+      "summary": "Manipulates bone and fossil material, skeletal constructs, structural alignment, protective reinforcement, and non-invasive recognition of fractures or strain. Distinct from Death Arcana because it works through physical structure and preserved material rather than death-state energy. It does not forcibly reshape or control the skeleton of a living creature.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Rare"
+        },
+        {
+          "label": "Attribute",
+          "value": "Constitution"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Crystal Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Rare Arcana",
+      "kind": "Magical affinity",
+      "summary": "Manipulates crystal, gems, facets, hard growth, refracted light, resonance, stored energy, and brittle structures that hold force until they fracture. Crystals can serve as lenses, anchors, or magical reservoirs.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Rare"
+        },
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Dream Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Rare Arcana",
+      "kind": "Magical affinity",
+      "summary": "Interacts with dreams, symbols, sleep-thresholds, omens, shared visions, half-remembered places, and the structure of magical dream-spaces. Its controlled effects are limited to dream-space imagery, communication, protection, and structure.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Rare"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Echo Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Rare Arcana",
+      "kind": "Magical affinity",
+      "summary": "Reads and shapes lingering impressions left by events, emotions, voices, spells, wounds, deaths, or powerful presences. Echoes reveal what remains after something happened, but they are partial, symbolic, distorted, or emotionally charged rather than perfect records.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Rare"
+        },
+        {
+          "label": "Attribute",
+          "value": "Perception"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Force Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Rare Arcana",
+      "kind": "Magical affinity",
+      "summary": "Manipulates raw push, impact, pressure, resistance, kinetic release, invisible blows, and the direct transfer of applied force through bodies or objects. Force Arcana creates or directs force itself. Distinct from Power Arcana, which amplifies an action already being performed, and Motion Arcana, which changes the movement, speed, momentum, or trajectory of an existing body or object.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Rare"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Glass Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Rare Arcana",
+      "kind": "Magical affinity",
+      "summary": "Manipulates glass, brittle transparency, cutting edges, lenses, reflection, refraction, fragile barriers, and glass-like magical structures. Distinct from Crystal Arcana because glass is worked, fragile, transparent, and unstable rather than mineral-rooted.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Rare"
+        },
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Gravity Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Rare Arcana",
+      "kind": "Magical affinity",
+      "summary": "Manipulates weight, falling, pressure, pull, crushing force, balance, and the rule that tells bodies where down should be. Gravity Arcana is conspicuous, disorienting, and difficult to conceal.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Rare"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Hunger Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Rare Arcana",
+      "kind": "Magical affinity",
+      "summary": "Magic of hunger, craving, consumption, need, depletion, predatory focus, draining pressure, and power created by lack. Distinct from Blood Arcana because it governs appetite, emptiness, and depletion rather than blood, lineage, or injury.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Rare"
+        },
+        {
+          "label": "Attribute",
+          "value": "Constitution"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Magnetism Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Rare Arcana",
+      "kind": "Magical affinity",
+      "summary": "Manipulates magnetic attraction, repulsion, polarity, lodestone behavior, magnetic fields, alignment, and the pull exerted on magnetically responsive material. It can move or influence suitable metal through magnetism, but does not shape, reinforce, weaken, heat, or otherwise control metal as Metal Arcana does, and it does not create arbitrary Force effects against nonmagnetic targets.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Rare"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Memory Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Rare Arcana",
+      "kind": "Magical affinity",
+      "summary": "Reads, preserves, organizes, clarifies, and restores memory traces, recollection, forgotten impressions, mnemonic patterns, and preserved experiences. It works through stored or recalled experience rather than active thought or emotion.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Rare"
+        },
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Mirror Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Rare Arcana",
+      "kind": "Magical affinity",
+      "summary": "Works through mirrors, reflections, reflective surfaces, reversal, reflected observation, mirror-windows, reflective conduits, and doubled spaces anchored to a mirror or reflection. Its imitation, redirection, and spatial effects must remain meaningfully tied to reflection. Mirror Arcana does not grant unrestricted Illusion Arcana, duplication, or Spatial Arcana simply because an effect resembles one of those domains.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Rare"
+        },
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Oath Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Rare Arcana",
+      "kind": "Magical affinity",
+      "summary": "Magic of sworn words, vows, witnessed promises, binding declarations, broken pledges, sacred contracts, and supernatural obligation. Oath Arcana strengthens, records, enforces, or imposes consequences on commitments that are actually made or formally accepted. It does not create consent, invent an oath where none was sworn, or turn an arbitrary command into a binding promise.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Rare"
+        },
+        {
+          "label": "Attribute",
+          "value": "Communication"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Plague Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Rare Arcana",
+      "kind": "Magical affinity",
+      "summary": "Manipulates contagion, decay, fever, rot, spreading weakness, corrupted vitality, and magical blight. Distinct from Poison Arcana because it spreads disease-like corruption rather than isolated toxins.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Rare"
+        },
+        {
+          "label": "Attribute",
+          "value": "Constitution"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Seal Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Rare Arcana",
+      "kind": "Magical affinity",
+      "summary": "Magic of seals, closures, locks, bindings, containment, suppression, ward marks, held power, and guarded thresholds. Use Seal Arcana for magical containment, suppression, closure, ward-locks, and sealed power. Use Lock Picking for mundane locks, Traps for traps, and Rune Arcana for broader magical inscription.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Rare"
+        },
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Soul Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Rare Arcana",
+      "kind": "Magical affinity",
+      "summary": "Interacts with the living soul: inner essence, spiritual identity, the bond between self and body, soul injury, soul presence, and threats to personhood beneath the flesh. It can perceive, protect, affect, or stabilize the soul directly. Distinct from Spirit Arcana, which governs independent spirits and hauntings; Death Arcana, which governs death-state energy and the dead; and Healing Arcana, which restores ordinary physical harm.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Rare"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Sound Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Rare Arcana",
+      "kind": "Magical affinity",
+      "summary": "Manipulates vibration, voice, rhythm, resonance, silence, shockwaves, echoes, and sonic pressure. It can communicate, disrupt, reveal, conceal, or break structures that cannot endure the right frequency.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Rare"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Spatial Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Rare Arcana",
+      "kind": "Magical affinity",
+      "summary": "Manipulates distance, thresholds, pockets, crossings, folded rooms, hidden paths, and the rules separating one place from another. It is powerful because it makes walls, borders, and distance negotiable.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Rare"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Storm Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Rare Arcana",
+      "kind": "Magical affinity",
+      "summary": "Manipulates storms as weather-scale convergence: thunderheads, atmospheric pressure, violent wind, rain, thunder, and lightning acting together as a storm system. Storm Arcana is broader and wilder than ordinary Air or Lightning Arcana when those forces are part of storm weather, but it does not grant unrestricted independent mastery of every air, lightning, or water effect outside that storm context.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Rare"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Abyss Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Legendary Arcana",
+      "kind": "Magical affinity",
+      "summary": "Magic of bottomless depth, crushing pressure, devouring darkness, deep silence, descent, isolation, and the terror of an immeasurable below. Abyss Arcana manifests those qualities together as abyssal force: dragging, smothering, suppressing, separating, and overwhelming through supernatural depth. It does not grant unrestricted Shadow, Gravity, Air, or other Arcana simply because abyssal manifestations can resemble darkness, pull, pressure, or suffocation.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Legendary"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Aegis Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Legendary Arcana",
+      "kind": "Magical affinity",
+      "summary": "Magic of supreme protection, guardian force, interposition, last stands, refusal of catastrophic harm, and the boundary between disaster and survival. Aegis Arcana excels at sheltering, holding, intercepting, anchoring, and preserving under extreme threat. Its protection is legendary but not effortless invulnerability: strength of effect still depends on the action, success, opposition, and circumstances.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Legendary"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Dragon Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Legendary Arcana",
+      "kind": "Magical affinity",
+      "summary": "Ancient draconic magic expressed through a stable Draconic Type and Nature. Dragon Arcana governs distinctly draconic manifestations such as breath, scales, claws and fangs, bodily reinforcement, resistance, movement, senses, partial transformation, and draconic presence. Its Nature determines the tangible substance or directly observable natural phenomenon those manifestations express, but does not grant unrestricted control over that substance or phenomenon as an independent magical domain. On lower successes, manifestations are limited, brief, or narrowly effective; stronger successes increase force, scale, endurance, precision, or completeness of the draconic expression while remaining within the established Type and Nature.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Legendary"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Fate Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Legendary Arcana",
+      "kind": "Magical affinity",
+      "summary": "Magic of destiny, omen, blessing, curse, fortunate timing, unlucky collapse, and paths that seem ready to happen. Fate Arcana does not guarantee outcomes; it reveals turning points, bends likelihood, and makes choices feel weighted by consequence.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Legendary"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Moon Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Legendary Arcana",
+      "kind": "Magical affinity",
+      "summary": "Magic of the moon and its phases: moonlight, nocturnal revelation, tides, hidden instinct, cyclical transformation, secrecy, dreamlike influence, and beast-nature expressed through lunar change. These effects are lunar manifestations rather than unrestricted mastery of Water, Light, Shadow, Dream, or Beast Arcana. Moon Arcana is strongest where phases, night, instinct, hidden truth, and transformation meaningfully matter.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Legendary"
+        },
+        {
+          "label": "Attribute",
+          "value": "Perception"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Phoenix Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Legendary Arcana",
+      "kind": "Magical affinity",
+      "summary": "Magic of phoenix-like destruction and renewal: rebirth, survival after ruin, cleansing flame, restoration through ash, life rekindled after defeat, and the refusal to let an ending remain final. Its fire and restoration serve the cycle of burning, surviving, cleansing, and returning; Phoenix Arcana does not grant unrestricted Fire Arcana, Healing Arcana, or Death Arcana. Even at legendary strength, death and rebirth remain consequential rather than casual.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Legendary"
+        },
+        {
+          "label": "Attribute",
+          "value": "Constitution"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Ruin Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Legendary Arcana",
+      "kind": "Magical affinity",
+      "summary": "Magic of collapse, endings, fracture, failing structures, unraveling spells, doomed patterns, and the point where something can no longer remain whole. Ruin Arcana exposes, accelerates, or completes instability and failure, and is strongest where weakness, strain, damage, contradiction, or an existing ending can be exploited. It does not simply erase intact matter, automatically dispel any magic, or declare an otherwise sound target doomed without a plausible point of failure.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Legendary"
+        },
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Sovereign Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Legendary Arcana",
+      "kind": "Magical affinity",
+      "summary": "Magic of authority, legitimacy, rulership, command, banners, inheritance, recognition, and the supernatural weight of acknowledged sovereignty. It can reinforce recognized authority, make rightful command carry magical weight, and act through courts, armies, titles, succession, and public witness. Sovereign Arcana does not create legitimacy from nothing, compel arbitrary obedience without a relevant basis of authority, or replace ordinary Persuasion, Leadership, or Oath Arcana when those are the actual means at work.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Legendary"
+        },
+        {
+          "label": "Attribute",
+          "value": "Communication"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Star Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Legendary Arcana",
+      "kind": "Magical affinity",
+      "summary": "Magic of stars and the distant heavens: starlight, constellations, celestial navigation, cosmic omens, immense distance, cold radiance, fallen sky-matter, and patterns traced across the night sky. Star Arcana reads and expresses celestial relationships and distant stellar influence rather than granting unrestricted Light, Spatial, Divination, or Fate Arcana. Its strongest effects remain recognizably tied to stars, constellations, celestial distance, or material fallen from the heavens.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Legendary"
+        },
+        {
+          "label": "Attribute",
+          "value": "Perception"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Sun Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Legendary Arcana",
+      "kind": "Magical affinity",
+      "summary": "Magic of the sun: solar flame, daylight, sacred heat, purification, revelation, radiant judgment, battle resolve, and exposing radiance. Sun Arcana expresses these powers specifically through solar authority and presence. It does not grant unrestricted Fire Arcana, Light Arcana, or Heroic Arcana simply because solar manifestations can burn, illuminate, cleanse, or inspire.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Legendary"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Titan Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Legendary Arcana",
+      "kind": "Magical affinity",
+      "summary": "Magic of titan-like physical scale: colossal strength, mountain endurance, immense bodily weight, giant force, earth-shaking impact, bracing, carrying, resistance, and overwhelming physical presence. Titan Arcana magnifies the user's physical capacity and durability rather than granting independent Gravity Arcana or Earth Arcana, and it does not replace weapon technique or other trained combat skills.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Legendary"
+        },
+        {
+          "label": "Attribute",
+          "value": "Strength"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Twilight Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Legendary Arcana",
+      "kind": "Magical affinity",
+      "summary": "Magic of dusk and the meeting of radiance and shadow: mingled light and darkness, transition, contrast, thresholds between illumination and obscurity, and power created where those opposites coexist. Twilight Arcana can veil through dimness, reveal through contrast, answer extreme radiance or darkness, and stress boundaries specifically expressed through their meeting point. It does not grant unrestricted Light Arcana, Shadow Arcana, Force Arcana, or generic authority over every kind of boundary.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Legendary"
+        },
+        {
+          "label": "Attribute",
+          "value": "Willpower"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    },
+    {
+      "name": "Wyrd Arcana",
+      "sourceWorld": "Arkenfell",
+      "group": "Legendary Arcana",
+      "kind": "Magical affinity",
+      "summary": "Magic of prophecy, fate-knots, curses, inherited doom, story-patterns, strange coincidence, old promises returning, and long-form patterns that bind events together. Wyrd Arcana recognizes, entangles, loosens, or twists those developing patterns rather than simply choosing an outcome. It does not grant unrestricted Divination, immediate probability control like Fate Arcana, or oath enforcement simply because promises and consequences can become part of a wyrd pattern.",
+      "facts": [
+        {
+          "label": "Tier",
+          "value": "Legendary"
+        },
+        {
+          "label": "Attribute",
+          "value": "Intelligence"
+        },
+        {
+          "label": "Starting access",
+          "value": "Story-unlocked; not a normal character-creation choice."
+        }
+      ],
+      "spoiler": false,
+      "articleId": null
+    }
+  ]
+}
