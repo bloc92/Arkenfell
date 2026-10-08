@@ -6,10 +6,8 @@ const state = {
 };
 const THEME_STORAGE_KEY = 'arkenfell-theme';
 const GM_SESSION_KEY = 'arkenfell-gm-access';
-const GM_CREDENTIALS = Object.freeze({
-  username: 'Ushnark',
-  password: 'kerryblue1'
-});
+const GM_CREDENTIAL_HASH = 'f2c8095c9f0a274bbbed9c5e9c2fab9d6f83cb2d9aa8b0526cc52f0dfdce9330';
+const GM_CREDENTIAL_SALT = 'arkenfell-wiki-v2:';
 
 function escapeHtml(value) {
   return String(value)
@@ -18,6 +16,15 @@ function escapeHtml(value) {
     .replaceAll('>', '&gt;')
     .replaceAll('"', '&quot;')
     .replaceAll("'", '&#039;');
+}
+
+async function hashGMCredentials(username, password) {
+  if (!globalThis.crypto?.subtle) {
+    throw new Error('Secure browser hashing is unavailable.');
+  }
+  const input = `${GM_CREDENTIAL_SALT}${username}\0${password}`;
+  const digest = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(input));
+  return Array.from(new Uint8Array(digest), byte => byte.toString(16).padStart(2, '0')).join('');
 }
 
 function setTheme(theme) {
@@ -156,13 +163,20 @@ function initGMAccess() {
   document.getElementById('gm-login-close')?.addEventListener('click', closeGMLogin);
   document.getElementById('gm-login-cancel')?.addEventListener('click', closeGMLogin);
 
-  document.getElementById('gm-login-form')?.addEventListener('submit', event => {
+  document.getElementById('gm-login-form')?.addEventListener('submit', async event => {
     event.preventDefault();
     const username = document.getElementById('gm-username')?.value.trim() || '';
     const password = document.getElementById('gm-password')?.value || '';
     const error = document.getElementById('gm-login-error');
 
-    if (username === GM_CREDENTIALS.username && password === GM_CREDENTIALS.password) {
+    let credentialsMatch = false;
+    try {
+      credentialsMatch = await hashGMCredentials(username, password) === GM_CREDENTIAL_HASH;
+    } catch (hashError) {
+      console.warn('GM credential verification is unavailable.', hashError);
+    }
+
+    if (credentialsMatch) {
       if (error) error.hidden = true;
       closeGMLogin();
       setGMMode(true);
@@ -403,7 +417,10 @@ async function loadGeneratedArticleMarkdown(article) {
     `[Return to the Places Directory](#place-directory) to browse other locations in ${markdownEscape(entry.region || entry.group || 'Arkenfell')}.`
   );
 
-  return lines.join('\n');
+  return {
+    markdown: lines.join('\n'),
+    spoiler: Boolean(entry.spoiler)
+  };
 }
 
 async function loadArticle(id) {
@@ -427,14 +444,22 @@ async function loadArticle(id) {
 
   try {
     let markdown;
+    let generatedArticle = null;
     if (article.generatedType) {
-      markdown = await loadGeneratedArticleMarkdown(article);
+      generatedArticle = await loadGeneratedArticleMarkdown(article);
+      markdown = generatedArticle.markdown;
     } else {
       const response = await fetch(article.path, { cache: 'no-store' });
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       markdown = stripFrontMatter(await response.text());
     }
-    content.innerHTML = `${renderMeta(article)}${renderArticleMarkdown(markdown)}`;
+
+    if (generatedArticle?.spoiler) {
+      const bodyMarkdown = markdown.replace(/^# .+\n+/, '');
+      content.innerHTML = `${renderMeta(article)}<h1>${escapeHtml(article.title)}</h1><details class="directory-spoiler-disclosure generated-article-spoiler"><summary>Spoiler warning — reveal location article</summary><div class="generated-article-spoiler-body">${renderArticleMarkdown(bodyMarkdown)}</div></details>`;
+    } else {
+      content.innerHTML = `${renderMeta(article)}${renderArticleMarkdown(markdown)}`;
+    }
     status.hidden = true;
     content.hidden = false;
     document.title = `${article.title}${state.gmMode ? ' — GM Mode' : ''} - Arkenfell Wiki`;
