@@ -10,7 +10,8 @@ const directoryPages = {
   'important-npcs': {
     source: 'content/data/people.json',
     searchPlaceholder: 'Search people, factions, locations, species, or roles…',
-    roster: true
+    roster: true,
+    requiredSourceWorld: 'Arkenfell'
   },
   'faction-directory': {
     source: 'content/data/factions.json',
@@ -496,7 +497,10 @@ async function enhanceDirectoryPage() {
   content.dataset.directoryEnhanced = pageId;
 
   try {
-    const entries = await loadDirectoryData(config.source);
+    const loadedEntries = await loadDirectoryData(config.source);
+    const entries = config.requiredSourceWorld
+      ? loadedEntries.filter(entry => entry.sourceWorld === config.requiredSourceWorld)
+      : loadedEntries;
     if (state.activeId !== pageId || content.hidden) return;
 
     const groups = [...new Set(entries.map(entry => entry.group || 'Other'))];
