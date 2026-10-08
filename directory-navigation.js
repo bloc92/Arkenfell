@@ -9,7 +9,8 @@ const directoryPages = {
   },
   'important-npcs': {
     source: 'content/data/people.json',
-    searchPlaceholder: 'Search people, factions, locations, species, or roles…'
+    searchPlaceholder: 'Search people, factions, locations, species, or roles…',
+    roster: true
   },
   'faction-directory': {
     source: 'content/data/factions.json',
@@ -273,6 +274,50 @@ function createDirectoryTitle(entry) {
   return title;
 }
 
+function directoryInitials(name) {
+  const words = String(name || '?').trim().split(/\s+/).filter(Boolean);
+  return words.slice(0, 2).map(word => word[0]).join('').toUpperCase() || '?';
+}
+
+function createDirectoryPortrait(entry, concealed = false) {
+  const portrait = document.createElement('figure');
+  portrait.className = 'directory-entry-portrait';
+
+  const appendPlaceholder = (label, className = '') => {
+    portrait.replaceChildren();
+    portrait.className = `directory-entry-portrait ${className}`.trim();
+
+    const placeholder = document.createElement('span');
+    placeholder.className = 'directory-entry-portrait-placeholder';
+    placeholder.setAttribute('role', 'img');
+    placeholder.setAttribute('aria-label', label);
+    placeholder.textContent = concealed ? '?' : directoryInitials(entry.name);
+    portrait.appendChild(placeholder);
+  };
+
+  if (concealed) {
+    appendPlaceholder(`Portrait of ${entry.name} hidden by spoiler warning`, 'directory-entry-portrait--concealed');
+    return portrait;
+  }
+
+  if (!entry.image) {
+    appendPlaceholder(`No portrait is currently available for ${entry.name}`, 'directory-entry-portrait--missing');
+    return portrait;
+  }
+
+  const image = document.createElement('img');
+  image.src = entry.image;
+  image.alt = `Portrait of ${entry.name}`;
+  image.loading = 'lazy';
+  image.decoding = 'async';
+  image.addEventListener('error', () => {
+    concealed = false;
+    appendPlaceholder(`Portrait unavailable for ${entry.name}`, 'directory-entry-portrait--missing');
+  }, { once: true });
+  portrait.appendChild(image);
+  return portrait;
+}
+
 function createDirectoryEntry(entry, options = {}) {
   const useAccordion = Boolean(options.accordion);
   const card = document.createElement(useAccordion ? 'details' : 'article');
@@ -355,18 +400,43 @@ function createDirectoryEntry(entry, options = {}) {
 
     card.append(toggle, body);
   } else {
-    card.appendChild(createDirectoryTitle(entry));
-    appendDirectoryMetadata(card, entry);
+    let rosterPortrait = null;
+    if (options.roster) {
+      const heading = document.createElement('div');
+      heading.className = 'directory-entry-roster-heading';
+      rosterPortrait = createDirectoryPortrait(entry, Boolean(entry.spoiler));
+
+      const copy = document.createElement('div');
+      copy.className = 'directory-entry-roster-copy';
+      copy.appendChild(createDirectoryTitle(entry));
+      appendDirectoryMetadata(copy, entry);
+
+      heading.append(rosterPortrait, copy);
+      card.appendChild(heading);
+    } else {
+      card.appendChild(createDirectoryTitle(entry));
+      appendDirectoryMetadata(card, entry);
+    }
     appendDirectoryFacts(card, entry);
 
     if (entry.spoiler) {
       const disclosure = document.createElement('details');
       disclosure.className = 'directory-spoiler-disclosure';
       const warning = document.createElement('summary');
-      warning.textContent = 'Spoiler warning — reveal description';
+      warning.textContent = options.roster && entry.image
+        ? 'Spoiler warning — reveal portrait and description'
+        : 'Spoiler warning — reveal description';
       const text = document.createElement('p');
       text.textContent = summary || 'No additional description is available.';
       disclosure.append(warning, text);
+      if (options.roster && entry.image) {
+        disclosure.addEventListener('toggle', () => {
+          if (!disclosure.open || !rosterPortrait?.classList.contains('directory-entry-portrait--concealed')) return;
+          const revealedPortrait = createDirectoryPortrait(entry);
+          rosterPortrait.replaceWith(revealedPortrait);
+          rosterPortrait = revealedPortrait;
+        });
+      }
       card.appendChild(disclosure);
     } else if (summary) {
       const preview = document.createElement('p');
@@ -442,6 +512,7 @@ async function enhanceDirectoryPage() {
       const section = document.createElement('section');
       section.className = 'directory-group';
       if (config.accordion) section.classList.add('directory-group--accordion');
+      if (config.roster) section.classList.add('directory-group--roster');
       section.dataset.group = groupName;
 
       const heading = document.createElement('h2');
