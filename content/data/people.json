@@ -3,6 +3,7 @@
   "entries": [
     {
       "name": "Eydren Lawstone",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Eydren_Lawstone.png",
       "group": "Eldmark Kingdom",
       "kind": "Human",
@@ -13,6 +14,7 @@
     },
     {
       "name": "Hroldan Lawstone",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Hroldan_Lawstone.png",
       "group": "Eldmark Kingdom",
       "kind": "Human",
@@ -23,6 +25,7 @@
     },
     {
       "name": "Jora Lawstone",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Jora_Lawstone.png",
       "group": "Eldmark Kingdom",
       "kind": "Human",
@@ -33,6 +36,7 @@
     },
     {
       "name": "Signe Lawstone",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Signe_Lawstone.png",
       "group": "Eldmark Kingdom",
       "kind": "Human",
@@ -43,6 +47,7 @@
     },
     {
       "name": "Caelion Ilsem",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Caelion_Ilsem.png",
       "group": "High Elven Noble Houses",
       "kind": "High Elf",
@@ -53,6 +58,7 @@
     },
     {
       "name": "Laurielle Aurenth",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Laurielle_Aurenth.png",
       "group": "House Aurenth",
       "kind": "Human",
@@ -63,6 +69,7 @@
     },
     {
       "name": "Baldric Vannor",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Baldric_Vannor.png",
       "group": "House Fenrisard-Argenwald",
       "kind": "Human",
@@ -73,6 +80,7 @@
     },
     {
       "name": "Elsbeth Fenrisard-Argenwald",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Elsbeth_Fenrisard-Argenwald.png",
       "group": "House Fenrisard-Argenwald",
       "kind": "Human",
@@ -83,6 +91,7 @@
     },
     {
       "name": "Garran Fenrisard-Argenwald",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Garran_Fenrisard-Argenwald.png",
       "group": "House Fenrisard-Argenwald",
       "kind": "Human",
@@ -93,6 +102,7 @@
     },
     {
       "name": "Katren Fenrisard-Argenwald",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Katren_Fenrisard-Argenwald.png",
       "group": "House Fenrisard-Argenwald",
       "kind": "Human",
@@ -103,6 +113,7 @@
     },
     {
       "name": "Lucasta Fenrisard-Argenwald",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Lucasta_Fenrisard-Argenwald.png",
       "group": "House Fenrisard-Argenwald",
       "kind": "Human",
@@ -113,6 +124,7 @@
     },
     {
       "name": "Maela Fenrisard-Argenwald",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Maela_Fenrisard-Argenwald.png",
       "group": "House Fenrisard-Argenwald",
       "kind": "Human",
@@ -123,6 +135,7 @@
     },
     {
       "name": "Orsina Fenrisard-Argenwald",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Orsina_Fenrisard-Argenwald.png",
       "group": "House Fenrisard-Argenwald",
       "kind": "Human",
@@ -133,6 +146,7 @@
     },
     {
       "name": "Renwald Fenrisard-Argenwald",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Renwald_Fenrisard-Argenwald.png",
       "group": "House Fenrisard-Argenwald",
       "kind": "Human",
@@ -143,6 +157,7 @@
     },
     {
       "name": "Severin Fenrisard-Argenwald",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Severin_Fenrisard-Argenwald.png",
       "group": "House Fenrisard-Argenwald",
       "kind": "Human",
@@ -153,6 +168,7 @@
     },
     {
       "name": "Tavian Fenrisard-Argenwald",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Tavian_Fenrisard-Argenwald.png",
       "group": "House Fenrisard-Argenwald",
       "kind": "Human",
@@ -163,6 +179,7 @@
     },
     {
       "name": "Valeska Fenrisard-Argenwald",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Valeska_Fenrisard-Argenwald.png",
       "group": "House Fenrisard-Argenwald",
       "kind": "Human",
@@ -173,6 +190,7 @@
     },
     {
       "name": "Seralyne Frostmere",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Seralyne_Frostmere.png",
       "group": "House Frostmere",
       "kind": "Human",
@@ -183,6 +201,7 @@
     },
     {
       "name": "Caedran Sablethorn",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Caedran_Sablethorn.png",
       "group": "House Sablethorn",
       "kind": "Human",
@@ -193,6 +212,7 @@
     },
     {
       "name": "Cassian Rooke",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Cassian_Rooke.png",
       "group": "House Sablethorn",
       "kind": "Human",
@@ -203,6 +223,7 @@
     },
     {
       "name": "Dain Halvern",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Dain_Halvern.png",
       "group": "House Sablethorn",
       "kind": "Human",
@@ -213,6 +234,7 @@
     },
     {
       "name": "Ilyra Sablethorn",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Ilyra_Sablethorn.png",
       "group": "House Sablethorn",
       "kind": "Human",
@@ -223,6 +245,7 @@
     },
     {
       "name": "Lucan Sablethorn",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Lucan_Sablethorn.png",
       "group": "House Sablethorn",
       "kind": "Human",
@@ -233,6 +256,7 @@
     },
     {
       "name": "Maerwynn Sablethorn",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Maerwynn_Sablethorn.png",
       "group": "House Sablethorn",
       "kind": "Human",
@@ -243,6 +267,7 @@
     },
     {
       "name": "Odelia Sablethorn",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Odelia_Sablethorn.png",
       "group": "House Sablethorn",
       "kind": "Human",
@@ -253,6 +278,7 @@
     },
     {
       "name": "Rosamund Sablethorn",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Rosamund_Sablethorn.png",
       "group": "House Sablethorn",
       "kind": "Human",
@@ -263,6 +289,7 @@
     },
     {
       "name": "Tiffara Silverveil",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Tiffara_Silverveil.png",
       "group": "House Silverveil",
       "kind": "High Elf",
@@ -273,6 +300,7 @@
     },
     {
       "name": "Vaelira Silverveil",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Vaelira_Silverveil.png",
       "group": "House Silverveil",
       "kind": "High Elf",
@@ -283,6 +311,7 @@
     },
     {
       "name": "Maethros Vale",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Maethros_Vale.png",
       "group": "House Vale",
       "kind": "Human",
@@ -293,6 +322,7 @@
     },
     {
       "name": "Lexira Veyrath",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Lexira_Veyrath.png",
       "group": "House Veyrath",
       "kind": "Human",
@@ -303,6 +333,7 @@
     },
     {
       "name": "Adelise Luporian",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Wolfpine Hall",
@@ -312,6 +343,7 @@
     },
     {
       "name": "Adrien Veymont",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Adrien_Veymont.png",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
@@ -322,6 +354,7 @@
     },
     {
       "name": "Aldric",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Aldric_King.png",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
@@ -332,6 +365,7 @@
     },
     {
       "name": "Alise Veymont",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Alise_Veymont.png",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
@@ -342,6 +376,7 @@
     },
     {
       "name": "Ameline Merrow",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Lower Armathen",
@@ -351,6 +386,7 @@
     },
     {
       "name": "Aveline Morcant",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Aurelmont",
@@ -360,6 +396,7 @@
     },
     {
       "name": "Avenne Sorel",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Highcourt Armathen",
@@ -369,6 +406,7 @@
     },
     {
       "name": "Bastian Rell",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Aurelmont",
@@ -378,6 +416,7 @@
     },
     {
       "name": "Branik Dask",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Lower Armathen",
@@ -387,6 +426,7 @@
     },
     {
       "name": "Cedrik Parren",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Aurelmont",
@@ -396,6 +436,7 @@
     },
     {
       "name": "Celeste Veymont",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Celeste_Veymont.png",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
@@ -406,6 +447,7 @@
     },
     {
       "name": "Ceralie",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Ceralie.png",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
@@ -416,6 +458,7 @@
     },
     {
       "name": "Corren Cestrel",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Elf",
       "location": "Aurelmont",
@@ -425,6 +468,7 @@
     },
     {
       "name": "Cressida Valcourt",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Aurelmont",
@@ -434,6 +478,7 @@
     },
     {
       "name": "Dagna Veller",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Lower Armathen",
@@ -443,6 +488,7 @@
     },
     {
       "name": "Damaris Holtane",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Aurelmont",
@@ -452,6 +498,7 @@
     },
     {
       "name": "Delphine Rosset",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Aurelmont",
@@ -461,6 +508,7 @@
     },
     {
       "name": "Dorian Serevin",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Aurelmont",
@@ -470,6 +518,7 @@
     },
     {
       "name": "Dravros",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Dravros.png",
       "group": "Kingdom of Valenreach",
       "kind": "Dwarf",
@@ -480,6 +529,7 @@
     },
     {
       "name": "Eamon Serrick",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Aurelmont",
@@ -489,6 +539,7 @@
     },
     {
       "name": "Edgar Vaust",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Edgar_Vaust.png",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
@@ -499,6 +550,7 @@
     },
     {
       "name": "Edric Cauvain",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Aurelmont",
@@ -508,6 +560,7 @@
     },
     {
       "name": "Eliane Veymont",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Eliane_Veymont.png",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
@@ -518,6 +571,7 @@
     },
     {
       "name": "Elira",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Elira.png",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
@@ -528,6 +582,7 @@
     },
     {
       "name": "Evander Harcourt",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Highcourt Armathen",
@@ -537,6 +592,7 @@
     },
     {
       "name": "Evren Caldus",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Highcourt Armathen",
@@ -546,6 +602,7 @@
     },
     {
       "name": "Gervan Mornet",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Wolfpine Hall",
@@ -555,6 +612,7 @@
     },
     {
       "name": "Gisela Renn",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Aurelmont",
@@ -564,6 +622,7 @@
     },
     {
       "name": "Gregor Tannic",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Aurelmont",
@@ -573,6 +632,7 @@
     },
     {
       "name": "Hadrien Bellac",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Aurelmont",
@@ -582,6 +642,7 @@
     },
     {
       "name": "Hedda Morren",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Highcourt Armathen",
@@ -591,6 +652,7 @@
     },
     {
       "name": "Helena Ormont",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Aurelmont",
@@ -600,6 +662,7 @@
     },
     {
       "name": "Heloise Brant",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Wolfpine Hall",
@@ -609,6 +672,7 @@
     },
     {
       "name": "Ilyse Verran",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Highcourt Armathen",
@@ -618,6 +682,7 @@
     },
     {
       "name": "Iona Kell",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Wolfpine Hall",
@@ -627,6 +692,7 @@
     },
     {
       "name": "Ismera Calderyn",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Aurelmont",
@@ -636,6 +702,7 @@
     },
     {
       "name": "Jannik Forde",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Aurelmont",
@@ -645,6 +712,7 @@
     },
     {
       "name": "Joric Greystone",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Joric_Greystone.png",
       "group": "Kingdom of Valenreach",
       "kind": "Dogfolk Beastkin",
@@ -655,6 +723,7 @@
     },
     {
       "name": "Jorren Hale",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Highcourt Armathen",
@@ -664,6 +733,7 @@
     },
     {
       "name": "Julien Veymont",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Julien_Veymont.png",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
@@ -674,6 +744,7 @@
     },
     {
       "name": "Kaelric Dorn",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Highcourt Armathen",
@@ -683,6 +754,7 @@
     },
     {
       "name": "Kellan Dravett",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Aurelmont",
@@ -692,6 +764,7 @@
     },
     {
       "name": "Kess Bracken",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Kess_Bracken.png",
       "group": "Kingdom of Valenreach",
       "kind": "Foxfolk Beastkin",
@@ -702,6 +775,7 @@
     },
     {
       "name": "Laurent Veymont",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Laurent_Veymont.png",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
@@ -712,6 +786,7 @@
     },
     {
       "name": "Leovar Calderyn",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Highcourt Armathen",
@@ -721,6 +796,7 @@
     },
     {
       "name": "Lianne Veymont",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Lianne_Veymont.png",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
@@ -731,6 +807,7 @@
     },
     {
       "name": "Lucien Veymont",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Lucien_Veymont.png",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
@@ -741,6 +818,7 @@
     },
     {
       "name": "Maelin Dorr",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Highcourt Armathen",
@@ -750,6 +828,7 @@
     },
     {
       "name": "Mara",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Mara.png",
       "group": "Kingdom of Valenreach",
       "kind": "Dogfolk Beastkin",
@@ -760,6 +839,7 @@
     },
     {
       "name": "Marcen Luporian",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Tiefling — Cinderblood",
       "location": "Highcourt Armathen",
@@ -769,6 +849,7 @@
     },
     {
       "name": "Marius Halbrecht",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Marius_Halbrecht.png",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
@@ -779,6 +860,7 @@
     },
     {
       "name": "Matthieu Veymont",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Matthieu_Veymont.png",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
@@ -789,6 +871,7 @@
     },
     {
       "name": "Maudra Kest",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Dwarf",
       "location": "Aurelmont",
@@ -798,6 +881,7 @@
     },
     {
       "name": "Melisande Avenmere",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Elf",
       "location": "Aurelmont",
@@ -807,6 +891,7 @@
     },
     {
       "name": "Mirelle Veymont",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Mirelle_Veymont.png",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
@@ -817,6 +902,7 @@
     },
     {
       "name": "Nellara Pikeford",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Nellara_Pikeford.png",
       "group": "Kingdom of Valenreach",
       "kind": "Dogfolk Beastkin",
@@ -827,6 +913,7 @@
     },
     {
       "name": "Neria Vellwyn",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Neria_Vellwyn.png",
       "group": "Kingdom of Valenreach",
       "kind": "Catfolk Beastkin",
@@ -837,6 +924,7 @@
     },
     {
       "name": "Nolen Hart",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Aurelmont",
@@ -846,6 +934,7 @@
     },
     {
       "name": "Nyra",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Nyra.png",
       "group": "Kingdom of Valenreach",
       "kind": "Werewolf Beastkin",
@@ -856,6 +945,7 @@
     },
     {
       "name": "Odria Saltmere",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Odria_Saltmere.png",
       "group": "Kingdom of Valenreach",
       "kind": "Gnome",
@@ -866,6 +956,7 @@
     },
     {
       "name": "Ophelia Serrane",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Aurelmont",
@@ -875,6 +966,7 @@
     },
     {
       "name": "Orla Denner",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Wolfpine Hall",
@@ -884,6 +976,7 @@
     },
     {
       "name": "Orven Pike",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Highcourt Armathen",
@@ -893,6 +986,7 @@
     },
     {
       "name": "Osric Marden",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Wolfpine Hall",
@@ -902,6 +996,7 @@
     },
     {
       "name": "Osvin Deller",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Aurelmont",
@@ -911,6 +1006,7 @@
     },
     {
       "name": "Perren Vosca",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Aurelmont",
@@ -920,6 +1016,7 @@
     },
     {
       "name": "Petra Solven",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Wolfpine Hall",
@@ -929,6 +1026,7 @@
     },
     {
       "name": "Roderic",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Roderic.png",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
@@ -939,6 +1037,7 @@
     },
     {
       "name": "Roland Welleran",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Aurelmont",
@@ -948,6 +1047,7 @@
     },
     {
       "name": "Rowan",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Rowan.png",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
@@ -958,6 +1058,7 @@
     },
     {
       "name": "Rudek Varne",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Wolfpine Hall",
@@ -967,6 +1068,7 @@
     },
     {
       "name": "Sabine Veymont",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Sabine_Veymont.png",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
@@ -977,6 +1079,7 @@
     },
     {
       "name": "Seraphine Ardent",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Seraphine_Ardent.png",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
@@ -987,6 +1090,7 @@
     },
     {
       "name": "Stenric Morn",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Highcourt Armathen",
@@ -996,6 +1100,7 @@
     },
     {
       "name": "Tilda Arven",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Aurelmont",
@@ -1005,6 +1110,7 @@
     },
     {
       "name": "Tressa Vannier",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Wolfpine Hall",
@@ -1014,6 +1120,7 @@
     },
     {
       "name": "Vaelor",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Vaelor.png",
       "group": "Kingdom of Valenreach",
       "kind": "Elf",
@@ -1024,6 +1131,7 @@
     },
     {
       "name": "Verena Quillan",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Aurelmont",
@@ -1033,6 +1141,7 @@
     },
     {
       "name": "Vessa Rill",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Dogfolk Beastkin",
       "location": "Highcourt Armathen",
@@ -1042,6 +1151,7 @@
     },
     {
       "name": "Violette Cernay",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Aurelmont",
@@ -1051,6 +1161,7 @@
     },
     {
       "name": "Yselle Davenant",
+      "sourceWorld": "Arkenfell",
       "group": "Kingdom of Valenreach",
       "kind": "Human",
       "location": "Lower Armathen",
@@ -1060,6 +1171,7 @@
     },
     {
       "name": "Archelion Voss",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Archelion_Voss.png",
       "group": "The Arcanum Ascendancy",
       "kind": "Tiefling — Veilblood",
@@ -1070,6 +1182,7 @@
     },
     {
       "name": "Archon Selvaris Tyth",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Archon_Selvaris_Tyth.png",
       "group": "The Arcanum Ascendancy",
       "kind": "Human",
@@ -1080,6 +1193,7 @@
     },
     {
       "name": "Calienne Veyss",
+      "sourceWorld": "Arkenfell",
       "group": "The Arcanum Ascendancy",
       "kind": "Human",
       "location": "Aurelmont",
@@ -1089,6 +1203,7 @@
     },
     {
       "name": "Delyra Cindervane",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Delyra_Cindervane.png",
       "group": "The Arcanum Ascendancy",
       "kind": "Tiefling — Cinderblood",
@@ -1099,6 +1214,7 @@
     },
     {
       "name": "Ilyon Threadwise",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Ilyon_Threadwise.png",
       "group": "The Arcanum Ascendancy",
       "kind": "Elf",
@@ -1109,6 +1225,7 @@
     },
     {
       "name": "Ithrenn Vale",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Ithrenn_Vale.png",
       "group": "The Arcanum Ascendancy",
       "kind": "Elf",
@@ -1119,6 +1236,7 @@
     },
     {
       "name": "Lyren Vaelis",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Lyren_Vaelis.png",
       "group": "The Arcanum Ascendancy",
       "kind": "Elf",
@@ -1129,6 +1247,7 @@
     },
     {
       "name": "Lyris Tyth",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Lyris_Tyth.png",
       "group": "The Arcanum Ascendancy",
       "kind": "Human",
@@ -1139,6 +1258,7 @@
     },
     {
       "name": "Rethan Tyth",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Rethan_Tyth.png",
       "group": "The Arcanum Ascendancy",
       "kind": "Human",
@@ -1149,6 +1269,7 @@
     },
     {
       "name": "Rhavel Dorn",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Rhavel_Dorn.png",
       "group": "The Arcanum Ascendancy",
       "kind": "Dwarf",
@@ -1159,6 +1280,7 @@
     },
     {
       "name": "Selvaris Quen",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Selvaris_Quen.png",
       "group": "The Arcanum Ascendancy",
       "kind": "Human",
@@ -1169,6 +1291,7 @@
     },
     {
       "name": "Seris Halven",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Seris_Halven.png",
       "group": "The Arcanum Ascendancy",
       "kind": "Tiefling — Cinderblood",
@@ -1179,6 +1302,7 @@
     },
     {
       "name": "Valric Thrynn",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Valric_Thrynn.png",
       "group": "The Arcanum Ascendancy",
       "kind": "Elf",
@@ -1189,6 +1313,7 @@
     },
     {
       "name": "Viora Tessarin",
+      "sourceWorld": "Arkenfell",
       "group": "The Arcanum Ascendancy",
       "kind": "Human",
       "location": "Aurelmont",
@@ -1198,6 +1323,7 @@
     },
     {
       "name": "Maraic Renn",
+      "sourceWorld": "Arkenfell",
       "group": "The Ashen Veil",
       "kind": "Human",
       "location": "Stoneford Crossing",
@@ -1207,6 +1333,7 @@
     },
     {
       "name": "Neris Dalen",
+      "sourceWorld": "Arkenfell",
       "group": "The Ashen Veil",
       "kind": "Human",
       "location": "Stoneford Crossing",
@@ -1216,6 +1343,7 @@
     },
     {
       "name": "Riven Karr",
+      "sourceWorld": "Arkenfell",
       "group": "The Ashen Veil",
       "kind": "Human",
       "location": "King's Road Waystation",
@@ -1225,6 +1353,7 @@
     },
     {
       "name": "Teren Vask",
+      "sourceWorld": "Arkenfell",
       "group": "The Ashen Veil",
       "kind": "Human",
       "location": "King's Road Waystation",
@@ -1234,6 +1363,7 @@
     },
     {
       "name": "Thessara Rell",
+      "sourceWorld": "Arkenfell",
       "group": "The Ashen Veil",
       "kind": "Human",
       "location": "Stoneford Crossing",
@@ -1243,6 +1373,7 @@
     },
     {
       "name": "Valra",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Valra.png",
       "group": "The Ashen Veil",
       "kind": "Human",
@@ -1253,6 +1384,7 @@
     },
     {
       "name": "Alaric Ashcrown",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Alaric_Ashcrown.png",
       "group": "The Broken Crown Claimants",
       "kind": "Human",
@@ -1263,6 +1395,7 @@
     },
     {
       "name": "Alwen Carrow",
+      "sourceWorld": "Arkenfell",
       "group": "The Broken Crown Claimants",
       "kind": "Human",
       "location": "Ashen Crown Castle",
@@ -1272,6 +1405,7 @@
     },
     {
       "name": "Corvayne Ashcrown",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Corvayne_Ashcrown.png",
       "group": "The Broken Crown Claimants",
       "kind": "Human",
@@ -1282,6 +1416,7 @@
     },
     {
       "name": "Ilyne Sare",
+      "sourceWorld": "Arkenfell",
       "group": "The Broken Crown Claimants",
       "kind": "Human",
       "location": "Ashford Claimant Town",
@@ -1291,6 +1426,7 @@
     },
     {
       "name": "Lethra Corven",
+      "sourceWorld": "Arkenfell",
       "group": "The Broken Crown Claimants",
       "kind": "Human",
       "location": "Ashen Crown Castle",
@@ -1300,6 +1436,7 @@
     },
     {
       "name": "Merrik Rosecrown",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Merrik_Rosecrown.png",
       "group": "The Broken Crown Claimants",
       "kind": "Human",
@@ -1310,6 +1447,7 @@
     },
     {
       "name": "Mirelda Rosecrown",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Mirelda_Rosecrown.png",
       "group": "The Broken Crown Claimants",
       "kind": "Human",
@@ -1320,6 +1458,7 @@
     },
     {
       "name": "Serena Thorncrown",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Serena_Thorncrown.png",
       "group": "The Broken Crown Claimants",
       "kind": "Human",
@@ -1330,6 +1469,7 @@
     },
     {
       "name": "Sivren Cade",
+      "sourceWorld": "Arkenfell",
       "group": "The Broken Crown Claimants",
       "kind": "Human",
       "location": "Ashen Crown Castle",
@@ -1339,6 +1479,7 @@
     },
     {
       "name": "Ysmera Ashcrown",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Ysmera_Ashcrown.png",
       "group": "The Broken Crown Claimants",
       "kind": "Human",
@@ -1349,6 +1490,7 @@
     },
     {
       "name": "Aereth Cloudspire",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Aereth_Cloudspire.png",
       "group": "The Cloudspire Dominion",
       "kind": "Human",
@@ -1359,6 +1501,7 @@
     },
     {
       "name": "Kendra Cloudspire",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Kendra_Cloudspire.png",
       "group": "The Cloudspire Dominion",
       "kind": "Human",
@@ -1369,6 +1512,7 @@
     },
     {
       "name": "Syll Cloudspire",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Syll_Cloudspire.png",
       "group": "The Cloudspire Dominion",
       "kind": "Human",
@@ -1379,6 +1523,7 @@
     },
     {
       "name": "Thalen Windmere",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Thalen_Windmere.png",
       "group": "The Cloudspire Dominion",
       "kind": "Human",
@@ -1389,6 +1534,7 @@
     },
     {
       "name": "Merynth Pearl-Crown",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Merynth_Pearl-Crown.png",
       "group": "The Coral Throne",
       "kind": "Sea Elf",
@@ -1399,6 +1545,7 @@
     },
     {
       "name": "Nerion Pearl-Crown",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Nerion_Pearl-Crown.png",
       "group": "The Coral Throne",
       "kind": "Sea Elf",
@@ -1409,6 +1556,7 @@
     },
     {
       "name": "Syrava Pearl-Crown",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Syrava_Pearl-Crown.png",
       "group": "The Coral Throne",
       "kind": "Merfolk",
@@ -1419,6 +1567,7 @@
     },
     {
       "name": "Thalassira Pearl-Crown",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Thalassira_Pearl-Crown.png",
       "group": "The Coral Throne",
       "kind": "Sea Elf",
@@ -1429,6 +1578,7 @@
     },
     {
       "name": "Elowen",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Elowen.png",
       "group": "The Crownspire Collegium",
       "kind": "Elf",
@@ -1439,6 +1589,7 @@
     },
     {
       "name": "Gral",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Gral.png",
       "group": "The Crownspire Collegium",
       "kind": "Dogfolk Beastkin",
@@ -1449,6 +1600,7 @@
     },
     {
       "name": "Jacerin",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Jacerin.png",
       "group": "The Crownspire Collegium",
       "kind": "Human",
@@ -1459,6 +1611,7 @@
     },
     {
       "name": "Octavia Merel",
+      "sourceWorld": "Arkenfell",
       "group": "The Crownspire Collegium",
       "kind": "Human",
       "location": "Aurelmont",
@@ -1468,6 +1621,7 @@
     },
     {
       "name": "Kael Malrec",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Kael_Malrec.png",
       "group": "The Dreadmark Dominion",
       "kind": "Tiefling — Cinderblood",
@@ -1478,6 +1632,7 @@
     },
     {
       "name": "Lord Tavrek Malrec",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Lord_Tavrek_Malrec.png",
       "group": "The Dreadmark Dominion",
       "kind": "Tiefling — Wrathblood",
@@ -1488,6 +1643,7 @@
     },
     {
       "name": "Seressa Malrec",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Seressa_Malrec.png",
       "group": "The Dreadmark Dominion",
       "kind": "Tiefling — Cinderblood",
@@ -1498,6 +1654,7 @@
     },
     {
       "name": "Thessa Varkul",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Thessa_Varkul.png",
       "group": "The Dreadmark Dominion",
       "kind": "Tiefling — Blightblood",
@@ -1508,6 +1665,7 @@
     },
     {
       "name": "Vaelyra Malrec",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Vaelyra_Malrec.png",
       "group": "The Dreadmark Dominion",
       "kind": "Tiefling — Veilblood",
@@ -1518,6 +1676,7 @@
     },
     {
       "name": "Vessik Norn",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Vessik_Norn.png",
       "group": "The Dreadmark Dominion",
       "kind": "Human",
@@ -1528,6 +1687,7 @@
     },
     {
       "name": "Veyron Malrec",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Veyron_Malrec.png",
       "group": "The Dreadmark Dominion",
       "kind": "Tiefling — Wrathblood",
@@ -1538,6 +1698,7 @@
     },
     {
       "name": "Cindrel Cinderhorn",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Cindrel_Cinderhorn.png",
       "group": "The Emberhorn Accord",
       "kind": "Tiefling — Cinderblood",
@@ -1548,6 +1709,7 @@
     },
     {
       "name": "Iravelle Cinderhorn",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Iravelle_Cinderhorn.png",
       "group": "The Emberhorn Accord",
       "kind": "Tiefling — Cinderblood",
@@ -1558,6 +1720,7 @@
     },
     {
       "name": "Varos Cinderhorn",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Varos_Cinderhorn.png",
       "group": "The Emberhorn Accord",
       "kind": "Tiefling — Cinderblood",
@@ -1568,6 +1731,7 @@
     },
     {
       "name": "Zarelle Cinderhorn",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Zarelle_Cinderhorn.png",
       "group": "The Emberhorn Accord",
       "kind": "Tiefling — Cinderblood",
@@ -1578,6 +1742,7 @@
     },
     {
       "name": "Ashka Stormhoof",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Ashka_Stormhoof.png",
       "group": "The Fangbound Clans",
       "kind": "Orc",
@@ -1588,6 +1753,7 @@
     },
     {
       "name": "Khorag Stormhoof",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Khorag_Stormhoof.png",
       "group": "The Fangbound Clans",
       "kind": "Orc",
@@ -1598,6 +1764,7 @@
     },
     {
       "name": "Sena Stormhoof",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Sena_Stormhoof.png",
       "group": "The Fangbound Clans",
       "kind": "Wolfkin Beastkin",
@@ -1608,6 +1775,7 @@
     },
     {
       "name": "Torgul Stormhoof",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Torgul_Stormhoof.png",
       "group": "The Fangbound Clans",
       "kind": "Orc",
@@ -1618,6 +1786,7 @@
     },
     {
       "name": "Brannic Freefang",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Brannic_Freefang.png",
       "group": "The Freefang Captains",
       "kind": "Human",
@@ -1628,6 +1797,7 @@
     },
     {
       "name": "Jal Rook",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Jal_Rook.png",
       "group": "The Freefang Captains",
       "kind": "Human",
@@ -1638,6 +1808,7 @@
     },
     {
       "name": "Lysa Freefang",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Lysa_Freefang.png",
       "group": "The Freefang Captains",
       "kind": "Human",
@@ -1648,6 +1819,7 @@
     },
     {
       "name": "Nara Freefang",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Nara_Freefang.png",
       "group": "The Freefang Captains",
       "kind": "Human",
@@ -1658,6 +1830,7 @@
     },
     {
       "name": "Sereya Harrow",
+      "sourceWorld": "Arkenfell",
       "group": "The Freefang Captains",
       "kind": "Human",
       "location": "Freefang Mootroad",
@@ -1667,6 +1840,7 @@
     },
     {
       "name": "Brennar Reedwatch",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Brennar_Reedwatch.png",
       "group": "The Hollowmere Confederacy",
       "kind": "Human",
@@ -1677,6 +1851,7 @@
     },
     {
       "name": "Marwen Fenbridge",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Marwen_Fenbridge.png",
       "group": "The Hollowmere Confederacy",
       "kind": "Human",
@@ -1687,6 +1862,7 @@
     },
     {
       "name": "Oriel Fenbridge",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Oriel_Fenbridge.png",
       "group": "The Hollowmere Confederacy",
       "kind": "Human",
@@ -1697,6 +1873,7 @@
     },
     {
       "name": "Talan Fenbridge",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Talan_Fenbridge.png",
       "group": "The Hollowmere Confederacy",
       "kind": "Human",
@@ -1707,6 +1884,7 @@
     },
     {
       "name": "Berra Anvilroot",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Berra_Anvilroot.png",
       "group": "The Ironroot Holds",
       "kind": "Dwarf",
@@ -1717,6 +1895,7 @@
     },
     {
       "name": "Brunna Anvilroot",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Brunna_Anvilroot.png",
       "group": "The Ironroot Holds",
       "kind": "Dwarf",
@@ -1727,6 +1906,7 @@
     },
     {
       "name": "Dorrik Anvilroot",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Dorrik_Anvilroot.png",
       "group": "The Ironroot Holds",
       "kind": "Dwarf",
@@ -1737,6 +1917,7 @@
     },
     {
       "name": "Torvek Anvilroot",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Torvek_Anvilroot.png",
       "group": "The Ironroot Holds",
       "kind": "Dwarf",
@@ -1747,6 +1928,7 @@
     },
     {
       "name": "Aurelian Lythael",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Aurelian_Lythael.png",
       "group": "The Lythael Elven Dominion",
       "kind": "Elf",
@@ -1757,6 +1939,7 @@
     },
     {
       "name": "Calithra Moonspear",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Calithra_Moonspear.png",
       "group": "The Lythael Elven Dominion",
       "kind": "Elf",
@@ -1767,6 +1950,7 @@
     },
     {
       "name": "Faelyra Lythael",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Faelyra_Lythael.png",
       "group": "The Lythael Elven Dominion",
       "kind": "Elf",
@@ -1777,6 +1961,7 @@
     },
     {
       "name": "Liora Thornveil",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Liora_Thornveil.png",
       "group": "The Lythael Elven Dominion",
       "kind": "Elf",
@@ -1787,6 +1972,7 @@
     },
     {
       "name": "Maerelith Lythael",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Maerelith_Lythael.png",
       "group": "The Lythael Elven Dominion",
       "kind": "Elf",
@@ -1797,6 +1983,7 @@
     },
     {
       "name": "Nethril Saereth",
+      "sourceWorld": "Arkenfell",
       "group": "The Lythael Elven Dominion",
       "kind": "Elf",
       "location": "Aurelmont",
@@ -1806,6 +1993,7 @@
     },
     {
       "name": "Nymara Ithenel",
+      "sourceWorld": "Arkenfell",
       "group": "The Lythael Elven Dominion",
       "kind": "Elf",
       "location": "Aurelmont",
@@ -1815,6 +2003,7 @@
     },
     {
       "name": "Saelis Vaer",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Saelis_Vaer.png",
       "group": "The Lythael Elven Dominion",
       "kind": "Elf",
@@ -1825,6 +2014,7 @@
     },
     {
       "name": "Vaeryn Lythael",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Vaeryn_Lythael.png",
       "group": "The Lythael Elven Dominion",
       "kind": "Elf",
@@ -1835,6 +2025,7 @@
     },
     {
       "name": "Elric Blackbell",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Elric_Blackbell.png",
       "group": "The Mourning Bell Wardens",
       "kind": "Human",
@@ -1845,6 +2036,7 @@
     },
     {
       "name": "Maervyn Blackbell",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Maervyn_Blackbell.png",
       "group": "The Mourning Bell Wardens",
       "kind": "Human",
@@ -1855,6 +2047,7 @@
     },
     {
       "name": "Serra Blackbell",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Serra_Blackbell.png",
       "group": "The Mourning Bell Wardens",
       "kind": "Human",
@@ -1865,6 +2058,7 @@
     },
     {
       "name": "Tovin Blackbell",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Tovin_Blackbell.png",
       "group": "The Mourning Bell Wardens",
       "kind": "Human",
@@ -1875,6 +2069,7 @@
     },
     {
       "name": "Evelisse Nightglass",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Evelisse_Nightglass.png",
       "group": "The Nightglass Principality",
       "kind": "Vampire",
@@ -1885,6 +2080,7 @@
     },
     {
       "name": "Morvane Nightglass",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Morvane_Nightglass.png",
       "group": "The Nightglass Principality",
       "kind": "Vampire",
@@ -1895,6 +2091,7 @@
     },
     {
       "name": "Sable Nightglass",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Sable_Nightglass.png",
       "group": "The Nightglass Principality",
       "kind": "Vampire",
@@ -1905,6 +2102,7 @@
     },
     {
       "name": "Vespera Nightglass",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Vespera_Nightglass.png",
       "group": "The Nightglass Principality",
       "kind": "Vampire",
@@ -1915,6 +2113,7 @@
     },
     {
       "name": "Edras Varnholt",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Edras_Varnholt.png",
       "group": "The Order of the Runed Argent Fang",
       "kind": "Human",
@@ -1925,6 +2124,7 @@
     },
     {
       "name": "Hester Brannoch",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Hester_Brannoch.png",
       "group": "The Order of the Runed Argent Fang",
       "kind": "Human",
@@ -1935,6 +2135,7 @@
     },
     {
       "name": "Ilvara Sorn",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Ilvara_Sorn.png",
       "group": "The Order of the Runed Argent Fang",
       "kind": "Human",
@@ -1945,6 +2146,7 @@
     },
     {
       "name": "Marcella Vorrick",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Marcella_Vorrick.png",
       "group": "The Order of the Runed Argent Fang",
       "kind": "Human",
@@ -1955,6 +2157,7 @@
     },
     {
       "name": "Odran Keld",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Odran_Keld.png",
       "group": "The Order of the Runed Argent Fang",
       "kind": "Human",
@@ -1965,6 +2168,7 @@
     },
     {
       "name": "Ruvan Kest",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Ruvan_Kest.png",
       "group": "The Order of the Runed Argent Fang",
       "kind": "Human",
@@ -1975,6 +2179,7 @@
     },
     {
       "name": "Sabriel Quillan",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Sabriel_Quillan.png",
       "group": "The Order of the Runed Argent Fang",
       "kind": "Human",
@@ -1985,6 +2190,7 @@
     },
     {
       "name": "Tormund Grell",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Tormund_Grell.png",
       "group": "The Order of the Runed Argent Fang",
       "kind": "Human",
@@ -1995,6 +2201,7 @@
     },
     {
       "name": "Hyrna Frostvein",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Hyrna_Frostvein.png",
       "group": "The Palegrave Crown",
       "kind": "Frost Giant",
@@ -2005,6 +2212,7 @@
     },
     {
       "name": "Orun Cairn-Tongue",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Orun_Cairn-Tongue.png",
       "group": "The Palegrave Crown",
       "kind": "Frost Giant",
@@ -2015,6 +2223,7 @@
     },
     {
       "name": "Skardi Icecrown",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Skardi_Icecrown.png",
       "group": "The Palegrave Crown",
       "kind": "Frost Giant",
@@ -2025,6 +2234,7 @@
     },
     {
       "name": "Yska Icecrown",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Yska_Icecrown.png",
       "group": "The Palegrave Crown",
       "kind": "Frost Giant",
@@ -2035,6 +2245,7 @@
     },
     {
       "name": "Fern-Quick-After-Rain",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Fern-Quick-After-Rain.png",
       "group": "The Rootbound Moot",
       "kind": "Dryad",
@@ -2045,6 +2256,7 @@
     },
     {
       "name": "Moss-Under-Stars",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Moss-Under-Stars.png",
       "group": "The Rootbound Moot",
       "kind": "Dryad",
@@ -2055,6 +2267,7 @@
     },
     {
       "name": "Old-Briar-Remembers",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Old-Briar-Remembers.png",
       "group": "The Rootbound Moot",
       "kind": "Treant",
@@ -2065,6 +2278,7 @@
     },
     {
       "name": "Thorn-Beneath-Moon",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Thorn-Beneath-Moon.png",
       "group": "The Rootbound Moot",
       "kind": "Dryad",
@@ -2075,6 +2289,7 @@
     },
     {
       "name": "Bolon Veyron",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Bolon_Veyron.png",
       "group": "The Solarian Theocracy",
       "kind": "Human",
@@ -2085,6 +2300,7 @@
     },
     {
       "name": "Caelira Dawnmere",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Caelira_Dawnmere.png",
       "group": "The Solarian Theocracy",
       "kind": "Human",
@@ -2095,6 +2311,7 @@
     },
     {
       "name": "Daven Oras",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Daven_Oras.png",
       "group": "The Solarian Theocracy",
       "kind": "Human",
@@ -2105,6 +2322,7 @@
     },
     {
       "name": "Elian Solveil",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Elian_Solveil.png",
       "group": "The Solarian Theocracy",
       "kind": "Human",
@@ -2115,6 +2333,7 @@
     },
     {
       "name": "Elyra Sunveil",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Elyra_Sunveil.png",
       "group": "The Solarian Theocracy",
       "kind": "Elf",
@@ -2125,6 +2344,7 @@
     },
     {
       "name": "Hierophant Aureon Sol",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Hierophant_Aureon_Sol.png",
       "group": "The Solarian Theocracy",
       "kind": "Human",
@@ -2135,6 +2355,7 @@
     },
     {
       "name": "Jorah Venn",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Jorah_Venn.png",
       "group": "The Solarian Theocracy",
       "kind": "Human",
@@ -2145,6 +2366,7 @@
     },
     {
       "name": "Lumene Carthis",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Lumene_Carthis.png",
       "group": "The Solarian Theocracy",
       "kind": "Elf",
@@ -2155,6 +2377,7 @@
     },
     {
       "name": "Merian Sol",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Merian_Sol.png",
       "group": "The Solarian Theocracy",
       "kind": "Human",
@@ -2165,6 +2388,7 @@
     },
     {
       "name": "Mira Sol",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Mira_Sol.png",
       "group": "The Solarian Theocracy",
       "kind": "Human",
@@ -2175,6 +2399,7 @@
     },
     {
       "name": "Sarion Pell",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Sarion_Pell.png",
       "group": "The Solarian Theocracy",
       "kind": "Human",
@@ -2185,6 +2410,7 @@
     },
     {
       "name": "Ser Caldran Sol",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Ser_Caldran_Sol.png",
       "group": "The Solarian Theocracy",
       "kind": "Human",
@@ -2195,6 +2421,7 @@
     },
     {
       "name": "Sera Vell",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Sera_Vell.png",
       "group": "The Solarian Theocracy",
       "kind": "Human",
@@ -2205,6 +2432,7 @@
     },
     {
       "name": "Solvarion Hale",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Solvarion_Hale.png",
       "group": "The Solarian Theocracy",
       "kind": "Human",
@@ -2215,6 +2443,7 @@
     },
     {
       "name": "Theron Vaust",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Theron_Vaust.png",
       "group": "The Solarian Theocracy",
       "kind": "Human",
@@ -2225,6 +2454,7 @@
     },
     {
       "name": "Caldrin Ross",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Caldrin_Ross.png",
       "group": "The Solmire Concord",
       "kind": "Human",
@@ -2235,6 +2465,7 @@
     },
     {
       "name": "Coriel Veylan",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Coriel_Veylan.png",
       "group": "The Solmire Concord",
       "kind": "Human",
@@ -2245,6 +2476,7 @@
     },
     {
       "name": "Corvin Rethis",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Corvin_Rethis.png",
       "group": "The Solmire Concord",
       "kind": "Tiefling — Gloamblood",
@@ -2255,6 +2487,7 @@
     },
     {
       "name": "Dareth Veym",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Dareth_Veym.png",
       "group": "The Solmire Concord",
       "kind": "Human",
@@ -2265,6 +2498,7 @@
     },
     {
       "name": "Halvek Ruun",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Halvek_Ruun.png",
       "group": "The Solmire Concord",
       "kind": "Dwarf",
@@ -2275,6 +2509,7 @@
     },
     {
       "name": "Lyessa Valenne",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Lyessa_Valenne.png",
       "group": "The Solmire Concord",
       "kind": "Human",
@@ -2285,6 +2520,7 @@
     },
     {
       "name": "Merek Veylan",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Merek_Veylan.png",
       "group": "The Solmire Concord",
       "kind": "Human",
@@ -2295,6 +2531,7 @@
     },
     {
       "name": "Oren Veylan",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Oren_Veylan.png",
       "group": "The Solmire Concord",
       "kind": "Human",
@@ -2305,6 +2542,7 @@
     },
     {
       "name": "Pell Veyne",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Pell_Veyne.png",
       "group": "The Solmire Concord",
       "kind": "Human",
@@ -2315,6 +2553,7 @@
     },
     {
       "name": "Tavia Veylan",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Tavia_Veylan.png",
       "group": "The Solmire Concord",
       "kind": "Human",
@@ -2325,6 +2564,7 @@
     },
     {
       "name": "Teyra Solenne",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Teyra_Solenne.png",
       "group": "The Solmire Concord",
       "kind": "Tiefling — Veilblood",
@@ -2335,6 +2575,7 @@
     },
     {
       "name": "Ysabet Corvo",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Ysabet_Corvo.png",
       "group": "The Solmire Concord",
       "kind": "Human",
@@ -2345,6 +2586,7 @@
     },
     {
       "name": "Alyr Stormmere",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Alyr_Stormmere.png",
       "group": "The Stormpearl Free Captains",
       "kind": "Human",
@@ -2355,6 +2597,7 @@
     },
     {
       "name": "Marisel Stormmere",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Marisel_Stormmere.png",
       "group": "The Stormpearl Free Captains",
       "kind": "Human",
@@ -2365,6 +2608,7 @@
     },
     {
       "name": "Nessa Stormmere",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Nessa_Stormmere.png",
       "group": "The Stormpearl Free Captains",
       "kind": "Human",
@@ -2375,6 +2619,7 @@
     },
     {
       "name": "Rorik Stormmere",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Rorik_Stormmere.png",
       "group": "The Stormpearl Free Captains",
       "kind": "Human",
@@ -2385,6 +2630,7 @@
     },
     {
       "name": "Aldrien Valmyr",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Aldrien_Valmyr.png",
       "group": "The Tide Empire",
       "kind": "Human",
@@ -2395,6 +2641,7 @@
     },
     {
       "name": "Eirik Thane",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Eirik_Thane.png",
       "group": "The Tide Empire",
       "kind": "Human",
@@ -2405,6 +2652,7 @@
     },
     {
       "name": "Halven Rusk",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Halven_Rusk.png",
       "group": "The Tide Empire",
       "kind": "Dwarf",
@@ -2415,6 +2663,7 @@
     },
     {
       "name": "Karessa Dymar",
+      "sourceWorld": "Arkenfell",
       "group": "The Tide Empire",
       "kind": "Human",
       "location": "Aurelmont",
@@ -2424,6 +2673,7 @@
     },
     {
       "name": "Lysara Marovyn",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Lysara_Marovyn.png",
       "group": "The Tide Empire",
       "kind": "Human",
@@ -2434,6 +2684,7 @@
     },
     {
       "name": "Maera Stormhall",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Maera_Stormhall.png",
       "group": "The Tide Empire",
       "kind": "Human",
@@ -2444,6 +2695,7 @@
     },
     {
       "name": "Orestan Marovyn",
+      "sourceWorld": "Arkenfell",
       "group": "The Tide Empire",
       "kind": "Human",
       "location": "Marovyn Tidemark",
@@ -2453,6 +2705,7 @@
     },
     {
       "name": "Oryn Blueharp",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Oryn_Blueharp.png",
       "group": "The Tide Empire",
       "kind": "Human",
@@ -2463,6 +2716,7 @@
     },
     {
       "name": "Rhaeven Varemyr",
+      "sourceWorld": "Arkenfell",
       "group": "The Tide Empire",
       "kind": "Human",
       "location": "Aurelmont",
@@ -2472,6 +2726,7 @@
     },
     {
       "name": "Selene Marovyn",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Selene_Marovyn.png",
       "group": "The Tide Empire",
       "kind": "Human",
@@ -2482,6 +2737,7 @@
     },
     {
       "name": "Arvelion Valmere",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Arvelion_Valmere.png",
       "group": "The Valmere family",
       "kind": "Human",
@@ -2492,6 +2748,7 @@
     },
     {
       "name": "Luceran Valmere",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Luceran_Valmere.png",
       "group": "The Valmere family",
       "kind": "Human",
@@ -2502,6 +2759,7 @@
     },
     {
       "name": "Mereth Valmere",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Mereth_Valmere.png",
       "group": "The Valmere family",
       "kind": "Human",
@@ -2512,6 +2770,7 @@
     },
     {
       "name": "Selira Valmere",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Selira_Valmere.png",
       "group": "The Valmere family",
       "kind": "Human",
@@ -2522,6 +2781,7 @@
     },
     {
       "name": "Cyrienne Duskryn",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Cyrienne_Duskryn.png",
       "group": "The Whisper Network",
       "kind": "Human",
@@ -2532,6 +2792,7 @@
     },
     {
       "name": "Anwen Hallow",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Human",
       "location": "Knightless Keep",
@@ -2541,6 +2802,7 @@
     },
     {
       "name": "Beren Hallow",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Human",
       "location": "Knightless Keep",
@@ -2550,6 +2812,7 @@
     },
     {
       "name": "Bessa Orl",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Human",
       "location": "Coinstill Village",
@@ -2559,6 +2822,7 @@
     },
     {
       "name": "Bram Toller",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Human",
       "location": "Coinstill Village",
@@ -2568,6 +2832,7 @@
     },
     {
       "name": "Brenn Orward",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Human",
       "location": "Coinstill Village",
@@ -2577,6 +2842,7 @@
     },
     {
       "name": "Caelis",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Caelis.png",
       "group": "Unaffiliated",
       "kind": "Elf",
@@ -2587,6 +2853,7 @@
     },
     {
       "name": "Caldra Fen",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Human",
       "location": "Coinstill Village",
@@ -2596,6 +2863,7 @@
     },
     {
       "name": "Celestina Luporian",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Tiefling — Cinderblood",
       "location": "Lower Armathen",
@@ -2605,6 +2873,7 @@
     },
     {
       "name": "Ceryn Moss",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Human",
       "location": "Coinstill Village",
@@ -2614,6 +2883,7 @@
     },
     {
       "name": "Colm Bale",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Human",
       "location": "Knightless Keep",
@@ -2623,6 +2893,7 @@
     },
     {
       "name": "Edrin Cale",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Human",
       "location": "Oldlaw Hamlet",
@@ -2632,6 +2903,7 @@
     },
     {
       "name": "Emberwyrm the Ashfather",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Emberwyrm_the_Ashfather.png",
       "group": "Unaffiliated",
       "kind": "Dragon",
@@ -2642,6 +2914,7 @@
     },
     {
       "name": "Hoban Fenlow",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Human",
       "location": "Oldlaw Hamlet",
@@ -2651,6 +2924,7 @@
     },
     {
       "name": "Hollan Cress",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Human",
       "location": "Coinstill Village",
@@ -2660,6 +2934,7 @@
     },
     {
       "name": "Iva Den",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Human",
       "location": "Old Banner Checkpoint",
@@ -2669,6 +2944,7 @@
     },
     {
       "name": "Jalen Berrow",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Human",
       "location": "Coinstill Village",
@@ -2678,6 +2954,7 @@
     },
     {
       "name": "Jory Quill",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Human",
       "location": "Old Banner Checkpoint",
@@ -2687,6 +2964,7 @@
     },
     {
       "name": "Keir Mallow",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Human",
       "location": "Coinstill Village",
@@ -2696,6 +2974,7 @@
     },
     {
       "name": "Malric Dornell",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Human",
       "location": "Ashford Claimant Town",
@@ -2705,6 +2984,7 @@
     },
     {
       "name": "Maren Halren",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Human",
       "location": "Coinstill Village",
@@ -2714,6 +2994,7 @@
     },
     {
       "name": "Nella Quill",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Human",
       "location": "Coinstill Village",
@@ -2723,6 +3004,7 @@
     },
     {
       "name": "Nerra Kelle",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Human",
       "location": "Ashford Claimant Town",
@@ -2732,6 +3014,7 @@
     },
     {
       "name": "Oswin Dreel",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Human",
       "location": "Coinstill Village",
@@ -2741,6 +3024,7 @@
     },
     {
       "name": "Perrin Halren",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Human",
       "location": "Oldlaw Hamlet",
@@ -2750,6 +3034,7 @@
     },
     {
       "name": "Ressa Dorne",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Human",
       "location": "Knightless Keep",
@@ -2759,6 +3044,7 @@
     },
     {
       "name": "Sella Vard",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Human",
       "location": "Oldlaw Hamlet",
@@ -2768,6 +3054,7 @@
     },
     {
       "name": "Tamsin Ward",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Human",
       "location": "Oldlaw Hamlet",
@@ -2777,6 +3064,7 @@
     },
     {
       "name": "Tarn Orro",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Human",
       "location": "Old Banner Checkpoint",
@@ -2786,6 +3074,7 @@
     },
     {
       "name": "Tasmin Edevane",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/Tasmin_Edevane.png",
       "group": "Unaffiliated",
       "kind": "Human",
@@ -2796,6 +3085,7 @@
     },
     {
       "name": "Tavren Noll",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Human",
       "location": "War-Orphan Cross",
@@ -2805,6 +3095,7 @@
     },
     {
       "name": "The Cinder Sovereign",
+      "sourceWorld": "Arkenfell",
       "image": "Images/Characters/The_Cinder_Sovereign.png",
       "group": "Unaffiliated",
       "kind": "Dragon",
@@ -2815,6 +3106,7 @@
     },
     {
       "name": "Torren Reln",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Human",
       "location": "War-Orphan Cross",
@@ -2824,6 +3116,7 @@
     },
     {
       "name": "Veyla Morn",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Human",
       "location": "Crownfall Hold",
@@ -2833,6 +3126,7 @@
     },
     {
       "name": "Ysolde Marr",
+      "sourceWorld": "Arkenfell",
       "group": "Unaffiliated",
       "kind": "Human",
       "location": "War-Orphan Cross",
