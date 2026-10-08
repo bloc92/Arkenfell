@@ -816,3 +816,40 @@ html[data-access="gm"] .sidebar-note strong { color: var(--gm-strong); }
   outline-offset: 2px;
 }
 
+/* Arcana tier directory */
+:root {
+  --tier-standard: #356f7d;
+  --tier-rare: #755096;
+  --tier-legendary: #946611;
+}
+
+html[data-theme="dark"] {
+  --tier-standard: #79bac8;
+  --tier-rare: #c39be5;
+  --tier-legendary: #ddb966;
+}
+
+.directory-group[data-group="Standard Arcana"] .directory-entry {
+  border-top: 3px solid var(--tier-standard);
+}
+
+.directory-group[data-group="Rare Arcana"] .directory-entry {
+  border-top: 3px solid var(--tier-rare);
+}
+
+.directory-group[data-group="Legendary Arcana"] .directory-entry {
+  border-top: 3px solid var(--tier-legendary);
+}
+
+.directory-group[data-group="Standard Arcana"] > h2 {
+  color: var(--tier-standard);
+}
+
+.directory-group[data-group="Rare Arcana"] > h2 {
+  color: var(--tier-rare);
+}
+
+.directory-group[data-group="Legendary Arcana"] > h2 {
+  color: var(--tier-legendary);
+}
+
