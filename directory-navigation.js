@@ -5,7 +5,11 @@ const directoryPages = {
   },
   'place-directory': {
     source: 'content/data/places.json',
-    searchPlaceholder: 'Search regions, settlements, landmarks, or keywords…'
+    searchPlaceholder: 'Search regions, settlements, landmarks, areas, or keywords…',
+    groupFilterLabel: 'Browse by region',
+    allGroupsLabel: 'All regions and locations',
+    regionalHierarchy: true,
+    requiredSourceWorld: 'Arkenfell'
   },
   'important-npcs': {
     source: 'content/data/people.json',
@@ -95,7 +99,7 @@ function directoryExcerpt(text, limit = 240) {
   return `${shortened.slice(0, boundary > 140 ? boundary : limit)}…`;
 }
 
-function createDirectoryToolbar(groups, placeholder) {
+function createDirectoryToolbar(groups, placeholder, options = {}) {
   const toolbar = document.createElement('div');
   toolbar.className = 'directory-toolbar';
   toolbar.setAttribute('role', 'search');
@@ -113,11 +117,11 @@ function createDirectoryToolbar(groups, placeholder) {
   const groupLabel = document.createElement('label');
   groupLabel.className = 'directory-filter';
   const groupText = document.createElement('span');
-  groupText.textContent = 'Show group';
+  groupText.textContent = options.groupFilterLabel || 'Show group';
   const groupSelect = document.createElement('select');
   const allOption = document.createElement('option');
   allOption.value = '';
-  allOption.textContent = 'All groups';
+  allOption.textContent = options.allGroupsLabel || 'All groups';
   groupSelect.appendChild(allOption);
   groups.forEach(group => {
     const option = document.createElement('option');
@@ -461,6 +465,16 @@ function createDirectoryEntry(entry, options = {}) {
     appendDirectoryDetails(card, entry);
   }
 
+  if (options.regionalHierarchy && entry.kind === 'Region') {
+    const browseButton = document.createElement('button');
+    browseButton.className = 'directory-region-browse';
+    browseButton.type = 'button';
+    browseButton.dataset.directoryGroupTarget = entry.name;
+    browseButton.textContent = 'Browse locations in this region';
+    browseButton.setAttribute('aria-label', `Browse locations in ${entry.name}`);
+    card.appendChild(browseButton);
+  }
+
   card.dataset.group = entry.group || 'Other';
   card.dataset.searchText = JSON.stringify(entry).toLowerCase();
   return card;
@@ -505,7 +519,7 @@ async function enhanceDirectoryPage() {
 
     const groups = [...new Set(entries.map(entry => entry.group || 'Other'))];
     const { toolbar, searchInput, groupSelect, status } =
-      createDirectoryToolbar(groups, config.searchPlaceholder);
+      createDirectoryToolbar(groups, config.searchPlaceholder, config);
 
     const directory = document.createElement('div');
     directory.className = 'directory-list';
@@ -517,6 +531,7 @@ async function enhanceDirectoryPage() {
       section.className = 'directory-group';
       if (config.accordion) section.classList.add('directory-group--accordion');
       if (config.roster) section.classList.add('directory-group--roster');
+      if (config.regionalHierarchy && groupName === 'Regions') section.classList.add('directory-group--overview');
       section.dataset.group = groupName;
 
       const heading = document.createElement('h2');
@@ -568,6 +583,16 @@ async function enhanceDirectoryPage() {
 
     searchInput.addEventListener('input', applyFilters);
     groupSelect.addEventListener('change', applyFilters);
+    directory.querySelectorAll('[data-directory-group-target]').forEach(button => {
+      button.addEventListener('click', () => {
+        const targetGroup = button.dataset.directoryGroupTarget;
+        if (!targetGroup || !groupElements.has(targetGroup)) return;
+        searchInput.value = '';
+        groupSelect.value = targetGroup;
+        applyFilters();
+        toolbar.scrollIntoView({ block: 'start', behavior: 'smooth' });
+      });
+    });
     applyFilters();
 
     if (pendingDirectoryTarget && pendingDirectoryTarget.page === pageId) {
