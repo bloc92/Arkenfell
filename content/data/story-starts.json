@@ -4,7 +4,7 @@
       "name": "Lost Heir: Unproven Blood",
       "group": "Fully Authored Story Starts",
       "summary": "A royal summons start. An ordinary Greyhaven morning is interrupted by a sealed Crown carriage asking for you by name. The Crown's interest is recent, dangerous, and unproven.",
-      "details": "Expect questions of lineage, duty, and political legitimacy to grow around the opening problem. Your choices can draw you into noble households, old obligations, and rival ideas about who has the right to lead.",
+      "details": "Once you identify yourself, the Crown delegation explains why it came: newly uncovered evidence may connect you to the royal bloodline, but nothing has yet been accepted as proof. Further play follows the investigation of that claim, your introduction to the royal household, and the political and personal consequences of whatever the evidence establishes. You decide what the possibility means to you and how deeply you become involved.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -28,76 +28,53 @@
         {
           "label": "Laurent Veymont",
           "page": "important-npcs",
-          "target": "Laurent Veymont"
+          "target": "Laurent Veymont",
+          "description": "Valenreach's Royal Chamberlain, responsible for guiding the claim through formal royal procedure."
         },
         {
           "label": "Seraphine Ardent",
           "page": "important-npcs",
-          "target": "Seraphine Ardent"
+          "target": "Seraphine Ardent",
+          "description": "The Royal High Arcanist, whose expertise is essential when magical evidence and royal security overlap."
         },
         {
           "label": "Vaelor",
           "page": "important-npcs",
-          "target": "Vaelor"
+          "target": "Vaelor",
+          "description": "The Marshal of the Crown, an ancient elven commander who values competence more than rank."
         },
         {
-          "label": "Adrien Veymont",
+          "label": "Aldric",
           "page": "important-npcs",
-          "target": "Adrien Veymont"
+          "target": "Aldric",
+          "description": "The watchful King of Valenreach, responsible for deciding how the Crown responds to an unproven blood claim."
         },
         {
-          "label": "Alise Veymont",
+          "label": "Ceralie",
           "page": "important-npcs",
-          "target": "Alise Veymont"
+          "target": "Ceralie",
+          "description": "The perceptive Queen of Valenreach, skilled at reading the people and pressures surrounding the royal household."
         },
         {
-          "label": "Celeste Veymont",
+          "label": "Rowan",
           "page": "important-npcs",
-          "target": "Celeste Veymont"
+          "target": "Rowan",
+          "description": "Valenreach's established Crown Prince, whose position makes any new question of royal blood politically sensitive."
         },
         {
-          "label": "Eliane Veymont",
+          "label": "Elira",
           "page": "important-npcs",
-          "target": "Eliane Veymont"
-        },
-        {
-          "label": "Julien Veymont",
-          "page": "important-npcs",
-          "target": "Julien Veymont"
-        },
-        {
-          "label": "Lianne Veymont",
-          "page": "important-npcs",
-          "target": "Lianne Veymont"
-        },
-        {
-          "label": "Lucien Veymont",
-          "page": "important-npcs",
-          "target": "Lucien Veymont"
-        },
-        {
-          "label": "Matthieu Veymont",
-          "page": "important-npcs",
-          "target": "Matthieu Veymont"
-        },
-        {
-          "label": "Mirelle Veymont",
-          "page": "important-npcs",
-          "target": "Mirelle Veymont"
-        },
-        {
-          "label": "Sabine Veymont",
-          "page": "important-npcs",
-          "target": "Sabine Veymont"
+          "target": "Elira",
+          "description": "The curious and strong-willed young princess, impatient with protocol that conceals more than it explains."
         }
       ],
-      "linksLabel": "NPCs you may encounter"
+      "linksLabel": "Important characters you may meet"
     },
     {
       "name": "The Argent Inheritance",
       "group": "Fully Authored Story Starts",
       "summary": "A noble-inheritance start. An ordinary morning in Aldergate is interrupted by a senior Crown herald carrying conclusive proof that you are the lawful heir to a failing border estate, two ancient titles, and an order that no longer agrees who should command it.",
-      "details": "Expect questions of lineage, duty, and political legitimacy to grow around the opening problem. Your choices can draw you into noble households, old obligations, and rival ideas about who has the right to lead.",
+      "details": "The herald's documents can give you a title, but they cannot make a divided estate obey you or restore what years of uncertainty have damaged. Further play can take you to Varglund, its household, the Fenrisard-Argenwald relatives already gathered there, and the remnants of the Runed Argent Fang. You may investigate the inheritance, negotiate competing loyalties, repair the estate, redefine its obligations, or decide that possession is not the same as responsibility.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -117,71 +94,83 @@
         {
           "label": "Marius Halbrecht",
           "page": "important-npcs",
-          "target": "Marius Halbrecht"
+          "target": "Marius Halbrecht",
+          "description": "The senior Crown herald who brings the inheritance documents and oversees their lawful recognition."
         },
         {
           "label": "Tasmin Edevane",
           "page": "important-npcs",
-          "target": "Tasmin Edevane"
+          "target": "Tasmin Edevane",
+          "description": "An Aldergate records coordinator whose ordinary municipal work is disrupted by official interest in her family."
         },
         {
           "label": "Valeska Fenrisard-Argenwald",
           "page": "important-npcs",
-          "target": "Valeska Fenrisard-Argenwald"
+          "target": "Valeska Fenrisard-Argenwald",
+          "description": "The accomplished spellsword presently leading the relatives occupying Varglund."
         },
         {
           "label": "Elsbeth Fenrisard-Argenwald",
           "page": "important-npcs",
-          "target": "Elsbeth Fenrisard-Argenwald"
+          "target": "Elsbeth Fenrisard-Argenwald",
+          "description": "A physician caring for the estate's exhausted servants, retainers, and injured residents."
         },
         {
           "label": "Garran Fenrisard-Argenwald",
           "page": "important-npcs",
-          "target": "Garran Fenrisard-Argenwald"
+          "target": "Garran Fenrisard-Argenwald",
+          "description": "Valeska's forceful household enforcer and unofficial provisioning officer."
         },
         {
           "label": "Katren Fenrisard-Argenwald",
           "page": "important-npcs",
-          "target": "Katren Fenrisard-Argenwald"
+          "target": "Katren Fenrisard-Argenwald",
+          "description": "An estate outrider who knows the disputed roads and is increasingly uncertain about the occupation."
         },
         {
           "label": "Lucasta Fenrisard-Argenwald",
           "page": "important-npcs",
-          "target": "Lucasta Fenrisard-Argenwald"
+          "target": "Lucasta Fenrisard-Argenwald",
+          "description": "A polished commercial broker carefully avoiding any appearance of reviving her own claim."
         },
         {
           "label": "Maela Fenrisard-Argenwald",
           "page": "important-npcs",
-          "target": "Maela Fenrisard-Argenwald"
+          "target": "Maela Fenrisard-Argenwald",
+          "description": "A nervous but observant genealogist and rune copyist working among the estate records."
         },
         {
           "label": "Orsina Fenrisard-Argenwald",
           "page": "important-npcs",
-          "target": "Orsina Fenrisard-Argenwald"
+          "target": "Orsina Fenrisard-Argenwald",
+          "description": "A Crown-licensed surveyor assessing Varglund's neglected structures while refusing to endorse either claimant."
         },
         {
           "label": "Renwald Fenrisard-Argenwald",
           "page": "important-npcs",
-          "target": "Renwald Fenrisard-Argenwald"
+          "target": "Renwald Fenrisard-Argenwald",
+          "description": "A charming, financially strained cousin quietly cultivating creditors, relatives, and messengers."
         },
         {
           "label": "Severin Fenrisard-Argenwald",
           "page": "important-npcs",
-          "target": "Severin Fenrisard-Argenwald"
+          "target": "Severin Fenrisard-Argenwald",
+          "description": "A respected former quartermaster-captain of the Runed Argent Fang who refuses to be used as a political endorsement."
         },
         {
           "label": "Tavian Fenrisard-Argenwald",
           "page": "important-npcs",
-          "target": "Tavian Fenrisard-Argenwald"
+          "target": "Tavian Fenrisard-Argenwald",
+          "description": "Valeska's younger brother and most visible supporter, though his certainty is less effortless than hers."
         }
       ],
-      "linksLabel": "NPCs you may encounter"
+      "linksLabel": "Important characters you may meet"
     },
     {
       "name": "Her Ladyship's Choice",
       "group": "Fully Authored Story Starts",
       "summary": "You have only recently arrived in Armathen when Celestina Luporian stops her carriage at Mudgate, takes one look at you, and decides she wants you as another personal attendant. Whether you accept, negotiate, ask for time, or refuse remains your decision.",
-      "details": "The opening situation is designed to widen naturally through the people you meet and the choices you make. Expect investigation, travel, and relationships that can redirect the story rather than a single fixed path.",
+      "details": "Celestina's offer can become an entrance into noble travel, household service, friendship, court expectations, and the practical work performed behind aristocratic appearances. The people around her have their own duties and opinions, and accepting the position does not remove your ability to negotiate boundaries or choose another direction. Relationships develop from what happens in play rather than from the opening offer alone.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -201,36 +190,41 @@
         {
           "label": "Ameline Merrow",
           "page": "important-npcs",
-          "target": "Ameline Merrow"
+          "target": "Ameline Merrow",
+          "description": "Celestina's friendly personal attendant and household healer."
         },
         {
           "label": "Branik Dask",
           "page": "important-npcs",
-          "target": "Branik Dask"
+          "target": "Branik Dask",
+          "description": "A calm, experienced household guard responsible for Celestina's everyday security."
         },
         {
           "label": "Celestina Luporian",
           "page": "important-npcs",
-          "target": "Celestina Luporian"
+          "target": "Celestina Luporian",
+          "description": "The young marquessate heir who stops her carriage and offers you a place in her personal household."
         },
         {
           "label": "Dagna Veller",
           "page": "important-npcs",
-          "target": "Dagna Veller"
+          "target": "Dagna Veller",
+          "description": "Celestina's veteran carriage driver, equipped with practical road knowledge and little patience for foolishness."
         },
         {
           "label": "Yselle Davenant",
           "page": "important-npcs",
-          "target": "Yselle Davenant"
+          "target": "Yselle Davenant",
+          "description": "Celestina's precise senior attendant, responsible for standards, schedules, and household discipline."
         }
       ],
-      "linksLabel": "NPCs you may encounter"
+      "linksLabel": "Important characters you may meet"
     },
     {
       "name": "The Roads Return",
       "group": "Fully Authored Story Starts",
       "summary": "A long-form Broken Crownlands start. You are an ordinary resident of Coinstill, a small crossroads village where old authority has faded into custom, reputation, patrols, forgotten records, and whatever people can actually make work. The roads are becoming safer, trade is returning, and abandoned land is worth settling again. Nothing has been decided about what Coinstill—or you—will become.",
-      "details": "Expect questions of lineage, duty, and political legitimacy to grow around the opening problem. Your choices can draw you into noble households, old obligations, and rival ideas about who has the right to lead.",
+      "details": "Coinstill's recovery unfolds through ordinary work with lasting consequences: reopening land, repairing routes, welcoming newcomers, handling trade, settling boundaries, preparing for difficult seasons, and deciding what the village should become. There is no predetermined office or grand destiny waiting for you. Influence grows from participation, trust, useful work, and the choices you make alongside the people already living there.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -250,51 +244,59 @@
         {
           "label": "Bessa Orl",
           "page": "important-npcs",
-          "target": "Bessa Orl"
+          "target": "Bessa Orl",
+          "description": "A respected elder whose memory helps Coinstill understand old boundaries, bargains, and disputes."
         },
         {
           "label": "Bram Toller",
           "page": "important-npcs",
-          "target": "Bram Toller"
+          "target": "Bram Toller",
+          "description": "A wheelwright and former caravan driver who understands the practical needs of returning trade."
         },
         {
           "label": "Ceryn Moss",
           "page": "important-npcs",
-          "target": "Ceryn Moss"
+          "target": "Ceryn Moss",
+          "description": "A hunter and seasonal fieldworker who knows which apparently unused lands the community still depends upon."
         },
         {
           "label": "Hollan Cress",
           "page": "important-npcs",
-          "target": "Hollan Cress"
+          "target": "Hollan Cress",
+          "description": "Coinstill's practical village smith, respected for solving problems without claiming authority he does not possess."
         },
         {
           "label": "Keir Mallow",
           "page": "important-npcs",
-          "target": "Keir Mallow"
+          "target": "Keir Mallow",
+          "description": "The coordinator of the communal Wayhouse and a natural source of travel news, needs, and introductions."
         },
         {
           "label": "Maren Halren",
           "page": "important-npcs",
-          "target": "Maren Halren"
+          "target": "Maren Halren",
+          "description": "A prosperous farmer alert to both the opportunities and dangers created by recovering abandoned land."
         },
         {
           "label": "Nella Quill",
           "page": "important-npcs",
-          "target": "Nella Quill"
+          "target": "Nella Quill",
+          "description": "The experienced operator of Coinstill's communal ferry, knowledgeable about currents, cargo, and travelers."
         },
         {
           "label": "Oswin Dreel",
           "page": "important-npcs",
-          "target": "Oswin Dreel"
+          "target": "Oswin Dreel",
+          "description": "A former soldier who helps organize local defense while resisting attempts to turn military experience into political rule."
         }
       ],
-      "linksLabel": "NPCs you may encounter"
+      "linksLabel": "Important characters you may meet"
     },
     {
       "name": "Random",
       "group": "World Exploration Story Starts",
       "summary": "Begin somewhere in Eldaven, with the location chosen freely and the opening shaped around who your character actually is.",
-      "details": "The opening situation is designed to widen naturally through the people you meet and the choices you make. Expect investigation, travel, and relationships that can redirect the story rather than a single fixed path.",
+      "details": "Choose any suitable place in Eldaven and begin without a dedicated opening plot. The narrator builds the first situation around your character, location, traits, and stated interests. This is the most flexible option for players who want to discover their direction through travel, relationships, employment, investigation, or whatever attracts their attention during play.",
       "detailsLabel": "What awaits in play",
       "facts": [],
       "links": [],
@@ -304,7 +306,7 @@
       "name": "The Royal Lists",
       "group": "World Exploration Story Starts",
       "summary": "A tournament and martial-court start. You begin at Highcourt Armathen as a royal tournament draws fighters, nobles, officers, gamblers, healers, and ambitious outsiders.",
-      "details": "Expect questions of lineage, duty, and political legitimacy to grow around the opening problem. Your choices can draw you into noble households, old obligations, and rival ideas about who has the right to lead.",
+      "details": "Enter Highcourt's royal tournament as a competitor, attendant, worker, visitor, or interested outsider. Matches and demonstrations create opportunities, but the wider story can also grow through rivalries, injuries, wagers, noble attention, military recruitment, and the people gathered around the event. Participation in combat is never the only way to become involved.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -327,7 +329,7 @@
       "name": "Greyhaven Guild Notice",
       "group": "World Exploration Story Starts",
       "summary": "A grounded village-adventure start. You begin at Greyhaven's modest Adventurers Guild, where a missing wagon and false road tolls make an ordinary job feel less ordinary.",
-      "details": "The initial job is a doorway into local loyalties, professional rivalries, and obligations that may outlast the original contract. Expect room to choose allies, negotiate terms, and decide how much responsibility to take on.",
+      "details": "The missing wagon and false tolls begin as a modest guild job rather than a world-saving crisis. Following the road can reveal who depends on it, who profits from disrupting it, and how Greyhaven's guild members judge reliability. You can pursue the contract directly, negotiate your role, recruit help, or become more invested in the community than the original payment requires.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -350,7 +352,7 @@
       "name": "Wrong Papers in Lower Armathen",
       "group": "World Exploration Story Starts",
       "summary": "An urban investigation start. You begin in Lower Armathen, where workers, servants, porters, and poor families are vanishing behind official-looking papers.",
-      "details": "What begins as a practical obligation can uncover competing claims and people with very different ideas about what is owed. Expect investigation, negotiation, and consequences shaped by whom you trust.",
+      "details": "The disappearances are hidden behind documents that look lawful enough to discourage questions. Further play centers on tracing who issues the papers, finding the people affected, and navigating officials, employers, neighborhoods, and witnesses with different amounts of power. Evidence, discretion, alliances, and the way you treat vulnerable people matter as much as confrontation.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -373,7 +375,7 @@
       "name": "Crownspire Question",
       "group": "World Exploration Story Starts",
       "summary": "An academy and magical-oversight start. You begin at Crownspire Collegium as a seal, screening notice, or magical classification order proves almost authentic enough to be dangerous.",
-      "details": "Expect questions of lineage, duty, and political legitimacy to grow around the opening problem. Your choices can draw you into noble households, old obligations, and rival ideas about who has the right to lead.",
+      "details": "A nearly authentic magical order draws you into the Collegium's mixture of scholarship, regulation, rivalry, and institutional caution. You may help determine where the document came from, what it was meant to authorize, and whether the underlying magical concern is genuine. Expect laboratories, records, instructors, students, and difficult questions about who should control dangerous knowledge.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -396,7 +398,7 @@
       "name": "Royal Army Muster",
       "group": "World Exploration Story Starts",
       "summary": "A soldier and escort-duty start. You begin in Highcourt's Royal Yard as drills, sealed wagons, courier mounts, and sensitive orders turn ordinary muster into Crown business.",
-      "details": "Expect questions of lineage, duty, and political legitimacy to grow around the opening problem. Your choices can draw you into noble households, old obligations, and rival ideas about who has the right to lead.",
+      "details": "An ordinary muster becomes an escort and security problem involving sealed cargo, incomplete information, and orders that may change once the column is moving. Further play can explore military service, logistics, command responsibility, camaraderie, and the difference between following an order and understanding its consequences. Your rank or background does not predetermine how others respond to your conduct.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -416,16 +418,17 @@
         {
           "label": "Vaelor",
           "page": "important-npcs",
-          "target": "Vaelor"
+          "target": "Vaelor",
+          "description": "The Marshal of the Crown, an ancient elven commander who values competence more than rank."
         }
       ],
-      "linksLabel": "NPCs you may encounter"
+      "linksLabel": "Important characters you may meet"
     },
     {
       "name": "Minor Noble Blood",
       "group": "World Exploration Story Starts",
       "summary": "A court-obligation start. You begin as a member, ward, spare heir, envoy, or dependent of a minor Valenreach noble family trying to survive Highcourt's polite dangers.",
-      "details": "Expect questions of lineage, duty, and political legitimacy to grow around the opening problem. Your choices can draw you into noble households, old obligations, and rival ideas about who has the right to lead.",
+      "details": "Begin within a minor noble household as a relative, ward, heir, envoy, or dependent, with the exact family and personal circumstances defined during play. Highcourt offers invitations, obligations, favors, rivalries, and financial pressures rather than one fixed quest. You decide whether to strengthen the household, seek independence, pursue court influence, or build a life outside the role others expect.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -448,7 +451,7 @@
       "name": "Saltglass Passage",
       "group": "World Exploration Story Starts",
       "summary": "A Stormpearl sea-road start in the Galechain High Isles. A hard storm has damaged the harbor, stripped reef markers away, and left the next safe passage uncertain.",
-      "details": "The first danger opens onto maritime travel, contested routes, and communities shaped by the sea. Expect hazards, discoveries, and difficult choices about what should be recovered, protected, or left alone.",
+      "details": "Storm damage has made a familiar harbor route uncertain just when people and supplies need to move. Further play can involve repairing markers, reading dangerous water, choosing which voyage takes priority, and dealing with crews whose livelihoods depend on different decisions. The opening can grow into island travel, maritime relationships, and disputes over safety, salvage, and access.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -471,7 +474,7 @@
       "name": "Hearthsnow Winter Debt",
       "group": "World Exploration Story Starts",
       "summary": "A Palegrave frontier start in the Frostpine Gatewoods. Winter supplies are late, and an old promise is suddenly worth more than coin.",
-      "details": "What begins as a practical obligation can uncover competing claims and people with very different ideas about what is owed. Expect investigation, negotiation, and consequences shaped by whom you trust.",
+      "details": "Late supplies force Hearthsnow to rely on an old promise whose meaning is no longer agreed upon. You may help secure food and fuel, investigate why the shipment failed, negotiate with those bound by the debt, or challenge the terms entirely. Winter makes delay costly, but the people involved remain more than obstacles in a resource problem.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -494,7 +497,7 @@
       "name": "The Dead King's Cairn",
       "group": "World Exploration Story Starts",
       "summary": "A high-northern ruin start in the Whitecrown Glacier Range. A familiar memorial site has changed after a night of cracking ice.",
-      "details": "Expect questions of lineage, duty, and political legitimacy to grow around the opening problem. Your choices can draw you into noble households, old obligations, and rival ideas about who has the right to lead.",
+      "details": "Cracking ice has exposed a change at a memorial site locals believed they understood. The opening supports careful exploration, consultation with people who remember the cairn's traditions, and decisions about what should be removed, protected, reported, or left undisturbed. What you discover can lead further into northern history without requiring your character to begin as an expert.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -517,7 +520,7 @@
       "name": "Last Candle Bell",
       "group": "World Exploration Story Starts",
       "summary": "A Blackbell Deadroads containment start. A routine bell signal fails, and nobody agrees whether that means danger or only delay.",
-      "details": "The opening carries older customs and spiritual obligations beneath its immediate danger. Further play may test what you believe, what promises you keep, and how you respond when tradition and necessity conflict.",
+      "details": "A failed bell signal may indicate delay, damaged equipment, broken procedure, or something moving through the Deadroads. Further play can involve checking the route, helping an isolated station, interpreting containment customs, and deciding when caution becomes abandonment. Local wardens and residents take the bells seriously because they have survived by doing so.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -540,7 +543,7 @@
       "name": "Guest Before Curfew",
       "group": "World Exploration Story Starts",
       "summary": "A Nightglass social start in the Shadowglass Headlands. Dusk approaches, and a disputed guest-right leaves someone without the protection they expected.",
-      "details": "The opening situation is designed to widen naturally through the people you meet and the choices you make. Expect investigation, travel, and relationships that can redirect the story rather than a single fixed path.",
+      "details": "Someone expected the protection of Nightglass guest-right and may lose it when curfew falls. You can investigate the disputed invitation, help negotiate temporary protection, learn who benefits from the ambiguity, or refuse involvement. Further play explores vampire and mortal society through hospitality law, household obligations, controlled danger, and the exact meaning of words already spoken.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -563,7 +566,7 @@
       "name": "Reefroad Salvage",
       "group": "World Exploration Story Starts",
       "summary": "A Stormpearl salvage start in the Stormbreak Reefroads. A wreck has appeared where yesterday there was only rough water, and several crews want first claim.",
-      "details": "The first danger opens onto maritime travel, contested routes, and communities shaped by the sea. Expect hazards, discoveries, and difficult choices about what should be recovered, protected, or left alone.",
+      "details": "A newly exposed wreck attracts crews with competing claims before anyone knows what condition it is in or why it appeared. You may join a salvage effort, protect survivors or evidence, negotiate ownership, or argue that some cargo should remain untouched. Weather, reefs, rival crews, and maritime law can carry the story well beyond the first dive.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -586,7 +589,7 @@
       "name": "Thornveil Courtesy",
       "group": "World Exploration Story Starts",
       "summary": "A Lythael border start in the Elderwood Crownwoods. The road is open, but the route you are permitted to take is suddenly not the route you expected.",
-      "details": "Expect questions of lineage, duty, and political legitimacy to grow around the opening problem. Your choices can draw you into noble households, old obligations, and rival ideas about who has the right to lead.",
+      "details": "The Lythael road remains open, but permission now directs you somewhere unexpected. Further play centers on learning what the courteous restriction means, who requested it, and whether following, questioning, or refusing it changes how the border receives you. Living roads, old agreements, restrained diplomacy, and long memories shape the situation without dictating your choices.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -609,7 +612,7 @@
       "name": "Papers at Graven Ash",
       "group": "World Exploration Story Starts",
       "summary": "A Dreadmark border start in the Highwind Escarpments. A routine permit check becomes dangerous because two official records disagree.",
-      "details": "What begins as a practical obligation can uncover competing claims and people with very different ideas about what is owed. Expect investigation, negotiation, and consequences shaped by whom you trust.",
+      "details": "Two official records disagree during a Dreadmark border inspection, placing travelers and personnel at risk of being treated as liars or infiltrators. You may trace the discrepancy, advocate for those caught by it, work within the system, or search for whoever benefits. Procedure, rank, discipline, and careful evidence are often more useful here than open defiance.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -632,7 +635,7 @@
       "name": "Rimeholt Winter Oath",
       "group": "World Exploration Story Starts",
       "summary": "A Tide Empire provincial start in the Deepforge Highlands. An old local promise collides with an imperial supply order before winter.",
-      "details": "The opening carries older customs and spiritual obligations beneath its immediate danger. Further play may test what you believe, what promises you keep, and how you respond when tradition and necessity conflict.",
+      "details": "A local promise conflicts with an imperial supply order at the point when winter makes both difficult to ignore. Further play asks who made the oath, who now depends on it, and what an administrator or community owes when lawful obligations cannot all be satisfied. Logistics, reputation, and compromise can reshape relationships across the province.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -655,7 +658,7 @@
       "name": "Brinehall Beacon Duty",
       "group": "World Exploration Story Starts",
       "summary": "An Eldmark coastal start on the Runehall Pine Coast. Two signal stations report the same incoming ship in incompatible ways.",
-      "details": "The first danger opens onto maritime travel, contested routes, and communities shaped by the sea. Expect hazards, discoveries, and difficult choices about what should be recovered, protected, or left alone.",
+      "details": "Two coastal stations report the same ship in ways that cannot both be correct. You may inspect the signals, question the crews, prepare the harbor, or travel toward the vessel before uncertainty becomes danger. The story can expand through coastal defense, seafaring, old beacon customs, and the consequences of acting on incomplete information.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -678,7 +681,7 @@
       "name": "Rootbound Trail",
       "group": "World Exploration Story Starts",
       "summary": "A wilderness-community start in the Great Greenwild. A familiar path no longer leads where local guides expect it to.",
-      "details": "The journey soon becomes more than reaching a destination. Expect encounters along the road, shifting companions, local disputes, and choices that may change which routes—and relationships—remain open.",
+      "details": "A path known to local guides now reaches the wrong place, disrupting travel and raising questions about the Greenwild itself. Further play can involve retracing the route, consulting nearby communities, observing ecological and magical changes, and deciding whether the path should be restored. Familiar wilderness knowledge helps, but the start does not assume the forest is merely a puzzle to conquer.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -701,7 +704,7 @@
       "name": "Quicksilver Notice",
       "group": "World Exploration Story Starts",
       "summary": "A low-status magical start in the Crownlake Heartlands. A cheap work notice carries the wrong hazard classification—and the supposedly dormant job is not as dormant as advertised.",
-      "details": "Expect questions of lineage, duty, and political legitimacy to grow around the opening problem. Your choices can draw you into noble households, old obligations, and rival ideas about who has the right to lead.",
+      "details": "A poorly paid magical job was advertised under the wrong hazard classification, and the supposedly dormant site is already showing signs of activity. You can demand better terms, warn others, investigate the misclassification, or take on only the work you consider reasonable. The opening leads into apprentice life, workplace safety, magical oversight, and the people who benefit when risk is understated.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -724,7 +727,7 @@
       "name": "Khar Voss Work Detail",
       "group": "World Exploration Story Starts",
       "summary": "A Dreadmark labor start in the Blackroad Borderlands. An injured shift has come back early, but the quota order says the next detail goes into the same section anyway.",
-      "details": "The initial job is a doorway into local loyalties, professional rivalries, and obligations that may outlast the original contract. Expect room to choose allies, negotiate terms, and decide how much responsibility to take on.",
+      "details": "An injured shift returns from a dangerous section, yet the quota order sends another crew straight back in. Further play can involve learning what happened, protecting workers, negotiating through Dreadmark authority, documenting failures, or deciding whether production should stop. The situation emphasizes labor, discipline, survival, and the cost of challenging an order inside a rigid institution.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -747,7 +750,7 @@
       "name": "Northstar Dispatch",
       "group": "World Exploration Story Starts",
       "summary": "A road-and-weather start in the Dawnwater Shorelands. A Tide Empire relay expects a courier who should already have arrived.",
-      "details": "The first danger opens onto maritime travel, contested routes, and communities shaped by the sea. Expect hazards, discoveries, and difficult choices about what should be recovered, protected, or left alone.",
+      "details": "A courier is overdue on a route where weather, river crossings, official messages, and ordinary accidents can all cause delay. You may search the road, safeguard the dispatch, help the relay station, or follow whatever interrupted the journey. The opening supports travel and investigation while introducing Tide Empire duty, practical hospitality, and respect earned through competence.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -770,7 +773,7 @@
       "name": "Westleaf Storm Signal",
       "group": "World Exploration Story Starts",
       "summary": "A skerry-coast weather start in the Stormcarved Skerries. A veteran warning signal rises under a clear sky while the sea itself begins showing signs the horizon does not.",
-      "details": "Survival pressure and isolation make every alliance matter. Further play can expand into journeys through hostile weather, strained settlements, and decisions about whose needs come first when resources run thin.",
+      "details": "An experienced warning signal rises beneath a clear sky while the sea shows subtler signs of approaching danger. You can help prepare the harbor, verify the signal, persuade skeptical residents, or investigate what the veteran watchers noticed. Further play may follow evacuation, rescue, island travel, damaged communities, or whatever the strange weather leaves behind.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -793,7 +796,7 @@
       "name": "The Drowned Pylon",
       "group": "World Exploration Story Starts",
       "summary": "A Coral Throne exploration start on the Drowned Green Coast. A low tide exposes more of an old pylon ruin than local charts record.",
-      "details": "The first danger opens onto maritime travel, contested routes, and communities shaped by the sea. Expect hazards, discoveries, and difficult choices about what should be recovered, protected, or left alone.",
+      "details": "An unusually low tide reveals chambers and markings absent from local charts. You may explore before the water returns, consult nearby communities, document the ruin, protect it, or negotiate with others claiming access. The start can expand into reef travel, old sea law, archaeological questions, and disputes over whether discovery grants ownership.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -816,7 +819,7 @@
       "name": "Copperwake Contract",
       "group": "World Exploration Story Starts",
       "summary": "A Solmire urban start in the Ledgerbay Harbors. A canal work contract is valid on paper and impossible in practice.",
-      "details": "The initial job is a doorway into local loyalties, professional rivalries, and obligations that may outlast the original contract. Expect room to choose allies, negotiate terms, and decide how much responsibility to take on.",
+      "details": "A lawful canal contract cannot be completed under the conditions written into it. You may inspect the site, renegotiate the terms, organize workers, uncover why the requirements conflict, or decide the commission should be abandoned. Further play explores Solmire commerce through public works, labor, civic relationships, and bargains whose fairness matters after the signatures are dry.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -839,7 +842,7 @@
       "name": "Fang Moot Challenge",
       "group": "World Exploration Story Starts",
       "summary": "A Fangbound start in the Thundergrass Steppe. A dispute over a herd route becomes a public test of reputation without requiring combat.",
-      "details": "The opening conflict can grow into questions of command, loyalty, and reputation. Expect rivals and allies to judge how you handle danger, authority, and the cost of standing by a cause.",
+      "details": "A herd-route dispute becomes a public test before the Great Fang Moot, but strength can be demonstrated through judgment, courage, negotiation, knowledge, or service as well as combat. You may support a claimant, propose another route, investigate the underlying grievance, or earn a voice of your own. Reputation grows from what others witness you actually do.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -862,7 +865,7 @@
       "name": "Ash on the Salt Road",
       "group": "World Exploration Story Starts",
       "summary": "A Sunroad Coast frontier start. A weary convoy arrives carrying ash sickness, conflicting papers, and people whom neighboring powers distrust for different reasons.",
-      "details": "What begins as a practical obligation can uncover competing claims and people with very different ideas about what is owed. Expect investigation, negotiation, and consequences shaped by whom you trust.",
+      "details": "A sick and exhausted convoy arrives with conflicting papers while several authorities disagree about who may enter, who must provide aid, and what risks can be accepted. You may assist the ill, verify the documents, negotiate quarantine and shelter, or investigate the source of the ash sickness. Compassion, caution, and political pressure all remain legitimate concerns.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -885,7 +888,7 @@
       "name": "Outer Pearl Pilot",
       "group": "World Exploration Story Starts",
       "summary": "A far-reef navigation start in the Sapphire Outer Reefs. The pilot is present, the convoy is ready, and the familiar channel is suddenly the one route they refuse to use.",
-      "details": "The first danger opens onto maritime travel, contested routes, and communities shaped by the sea. Expect hazards, discoveries, and difficult choices about what should be recovered, protected, or left alone.",
+      "details": "A respected pilot refuses the only channel the waiting convoy considers practical. You can learn what changed, find another route, support the refusal, replace the pilot, or postpone the voyage. Further play can involve reef hazards, island communities, trade pressure, and discoveries that reward attention to local expertise rather than treating hesitation as cowardice.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -908,7 +911,7 @@
       "name": "Tideglass Debt",
       "group": "World Exploration Story Starts",
       "summary": "A lagoon-market start in the Pearlwater Lagoons. A missing diver leaves a pearl debt, a family promise, and a tide-window nobody can extend.",
-      "details": "What begins as a practical obligation can uncover competing claims and people with very different ideas about what is owed. Expect investigation, negotiation, and consequences shaped by whom you trust.",
+      "details": "A missing diver leaves behind a valuable pearl obligation and a narrow tide-window for finding answers. You may join the search, negotiate time for the family, investigate the debt, or question the practices surrounding the dive. The story can broaden through lagoon society, pearl commerce, family promises, and the difference between legal ownership and moral responsibility.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -931,7 +934,7 @@
       "name": "Southbond Convoy",
       "group": "World Exploration Story Starts",
       "summary": "A frontier-commerce start in the Wolfroad Marches. Customs finds an unlisted sealed package hidden in an otherwise ordinary convoy, and nobody admits loading it.",
-      "details": "The journey soon becomes more than reaching a destination. Expect encounters along the road, shifting companions, local disputes, and choices that may change which routes—and relationships—remain open.",
+      "details": "Customs discovers an unlisted sealed package inside a legitimate convoy, and every delay threatens schedules, wages, and trust. You may help identify its owner, protect the caravan, cooperate with inspection, or investigate without opening it. Further play follows roads, merchants, escorts, border communities, and whatever consequences the package creates.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -948,7 +951,7 @@
       "name": "Pilgrim Writ",
       "group": "World Exploration Story Starts",
       "summary": "A Solarian pilgrimage start in the Sunspine Pilgrimlands. The morning cleansing basin runs dry just before a procession, and sacred travel procedure suddenly depends on a very practical water problem.",
-      "details": "What begins as a practical obligation can uncover competing claims and people with very different ideas about what is owed. Expect investigation, negotiation, and consequences shaped by whom you trust.",
+      "details": "A dry cleansing basin brings a major procession to a halt and exposes tension between sacred procedure and practical necessity. You may trace the water failure, assist pilgrims, negotiate an accommodation, or question those insisting the rite proceed unchanged. Further play can explore faith through healing, service, doctrine, doubt, and the people who depend on the pilgrimage route.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -971,7 +974,7 @@
       "name": "Vowmarket Contract",
       "group": "World Exploration Story Starts",
       "summary": "An Emberhorn civic-and-craft start in the Ashglass Volcanoes. A commissioned public work cracks during its proofing, and the witnessed contract now makes the failure everyone's business.",
-      "details": "The initial job is a doorway into local loyalties, professional rivalries, and obligations that may outlast the original contract. Expect room to choose allies, negotiate terms, and decide how much responsibility to take on.",
+      "details": "A commissioned public work cracks during formal proofing, making the failure a matter of witnesses, liability, craft reputation, and civic safety. You may inspect the damage, defend or challenge the makers, renegotiate the contract, or help prevent further harm. Emberhorn pact culture treats chosen obligations seriously, but responsibility still has to be established rather than assumed.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -994,7 +997,7 @@
       "name": "Seven Winds Crossing",
       "group": "World Exploration Story Starts",
       "summary": "A Cloudspire vertical-travel start. A damaged wind bridge turns an ordinary crossing into a problem of engineering, weather, and landing rights.",
-      "details": "The journey soon becomes more than reaching a destination. Expect encounters along the road, shifting companions, local disputes, and choices that may change which routes—and relationships—remain open.",
+      "details": "A damaged wind bridge interrupts ordinary travel between communities that depend on strict landing and maintenance rules. You may help stabilize the crossing, arrange another route, coordinate stranded travelers, or investigate why the structure failed. Weather, engineering, aerial movement, and shared responsibility can carry the story into the wider Cloudspire Dominion.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -1017,7 +1020,7 @@
       "name": "Anvilroot Deep-Road Claim",
       "group": "World Exploration Story Starts",
       "summary": "An Ironroot craft-and-expedition start. A deep-road work crew fails to return, and two clans disagree over who has authority to reopen the route.",
-      "details": "The journey soon becomes more than reaching a destination. Expect encounters along the road, shifting companions, local disputes, and choices that may change which routes—and relationships—remain open.",
+      "details": "A work crew is missing beyond a closed deep road while two clans dispute who may authorize a rescue or reopening. You can join the search, examine the route, negotiate jurisdiction, or support the families waiting for news. Further play can involve underground travel, craft traditions, clan responsibility, and discoveries whose value may intensify the original dispute.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -1040,7 +1043,7 @@
       "name": "Nineferry Charter",
       "group": "World Exploration Story Starts",
       "summary": "A Hollowmere border-law start. Two local authorities claim the same ferry toll, and both can show paperwork older than the other side wants to admit.",
-      "details": "The initial job is a doorway into local loyalties, professional rivalries, and obligations that may outlast the original contract. Expect room to choose allies, negotiate terms, and decide how much responsibility to take on.",
+      "details": "Two authorities collect the same ferry toll under different old charters, leaving travelers and locals to pay for a dispute they did not create. You may compare the documents, hear community testimony, negotiate a temporary arrangement, or challenge both claims. The opening introduces Hollowmere law as something preserved through use, memory, and recognition rather than a single unquestioned government.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -1063,7 +1066,7 @@
       "name": "Ashford Broken Banner",
       "group": "World Exploration Story Starts",
       "summary": "A Broken Crownlands start. A town uses three old authorities at once because none is strong enough to replace the others.",
-      "details": "Expect questions of lineage, duty, and political legitimacy to grow around the opening problem. Your choices can draw you into noble households, old obligations, and rival ideas about who has the right to lead.",
+      "details": "Ashford survives by using three overlapping authorities because none can govern the town alone. A new dispute makes that compromise difficult to maintain. You may support one claim, preserve the balance, help create a new arrangement, or focus on the people harmed by institutional rivalry. Further play can shape the town without automatically placing you in charge of it.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
@@ -1086,7 +1089,7 @@
       "name": "Freefang Protection Price",
       "group": "World Exploration Story Starts",
       "summary": "A Freefang underworld start in the Wolfroad Marches. The market's protection contract expires at noon, and a rival company chooses the worst possible moment to offer a more expensive replacement.",
-      "details": "The initial job is a doorway into local loyalties, professional rivalries, and obligations that may outlast the original contract. Expect room to choose allies, negotiate terms, and decide how much responsibility to take on.",
+      "details": "A protection agreement expires just as a rival company offers harsher terms to a market that cannot simply close its doors. You may negotiate, investigate the timing, support one provider, organize another defense, or expose the methods used to make protection seem necessary. The start explores underworld commerce, mercenary reputation, and the line between security and extortion.",
       "detailsLabel": "What awaits in play",
       "facts": [
         {
