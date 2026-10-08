@@ -18,12 +18,31 @@
           "value": "Constitution"
         },
         {
-          "label": "Starting access",
-          "value": "Available during character creation; choosing access does not grant mastery."
+          "label": "Availability",
+          "value": "Normal character-creation option; choose up to four Standard Arcana."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Acid Arcana +15, Mana +2"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Acid Arcana",
+          "page": "skill-directory",
+          "target": "Acid Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Etching Touch",
+          "page": "ability-directory",
+          "target": "Etching Touch",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Air Arcana",
@@ -41,12 +60,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
-          "value": "Available during character creation; choosing access does not grant mastery."
+          "label": "Availability",
+          "value": "Normal character-creation option; choose up to four Standard Arcana."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Air Arcana +15, Mana +2"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Air Arcana",
+          "page": "skill-directory",
+          "target": "Air Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Wind Burst",
+          "page": "ability-directory",
+          "target": "Wind Burst",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Beast Arcana",
@@ -64,12 +102,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
-          "value": "Available during character creation; choosing access does not grant mastery."
+          "label": "Availability",
+          "value": "Normal character-creation option; choose up to four Standard Arcana."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Beast Arcana +15, Mana +2"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Beast Arcana",
+          "page": "skill-directory",
+          "target": "Beast Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Beast Tongue",
+          "page": "ability-directory",
+          "target": "Beast Tongue",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Cold Arcana",
@@ -87,12 +144,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
-          "value": "Available during character creation; choosing access does not grant mastery."
+          "label": "Availability",
+          "value": "Normal character-creation option; choose up to four Standard Arcana."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Cold Arcana +15, Mana +2"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Cold Arcana",
+          "page": "skill-directory",
+          "target": "Cold Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Frost Bite",
+          "page": "ability-directory",
+          "target": "Frost Bite",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Conjuration Arcana",
@@ -110,12 +186,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
-          "value": "Available during character creation; choosing access does not grant mastery."
+          "label": "Availability",
+          "value": "Normal character-creation option; choose up to four Standard Arcana."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Conjuration Arcana +15, Mana +2"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Conjuration Arcana",
+          "page": "skill-directory",
+          "target": "Conjuration Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Minor Summon",
+          "page": "ability-directory",
+          "target": "Minor Summon",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Death Arcana",
@@ -133,12 +228,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
-          "value": "Available during character creation; choosing access does not grant mastery."
+          "label": "Availability",
+          "value": "Normal character-creation option; choose up to four Standard Arcana."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Death Arcana +15, Mana +2"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Death Arcana",
+          "page": "skill-directory",
+          "target": "Death Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Death Sense",
+          "page": "ability-directory",
+          "target": "Death Sense",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Divination Arcana",
@@ -156,12 +270,31 @@
           "value": "Perception"
         },
         {
-          "label": "Starting access",
-          "value": "Available during character creation; choosing access does not grant mastery."
+          "label": "Availability",
+          "value": "Normal character-creation option; choose up to four Standard Arcana."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Divination Arcana +15, Mana +2"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Divination Arcana",
+          "page": "skill-directory",
+          "target": "Divination Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Sense Magic",
+          "page": "ability-directory",
+          "target": "Sense Magic",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Earth Arcana",
@@ -179,12 +312,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
-          "value": "Available during character creation; choosing access does not grant mastery."
+          "label": "Availability",
+          "value": "Normal character-creation option; choose up to four Standard Arcana."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Earth Arcana +15, Mana +2"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Earth Arcana",
+          "page": "skill-directory",
+          "target": "Earth Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Stone Fragment",
+          "page": "ability-directory",
+          "target": "Stone Fragment",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Enchantment Arcana",
@@ -202,12 +354,31 @@
           "value": "Intelligence"
         },
         {
-          "label": "Starting access",
-          "value": "Available during character creation; choosing access does not grant mastery."
+          "label": "Availability",
+          "value": "Normal character-creation option; choose up to four Standard Arcana."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Enchantment Arcana +15, Mana +2"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Enchantment Arcana",
+          "page": "skill-directory",
+          "target": "Enchantment Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Minor Binding",
+          "page": "ability-directory",
+          "target": "Minor Binding",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Fiber Arcana",
@@ -225,12 +396,31 @@
           "value": "Intelligence"
         },
         {
-          "label": "Starting access",
-          "value": "Available during character creation; choosing access does not grant mastery."
+          "label": "Availability",
+          "value": "Normal character-creation option; choose up to four Standard Arcana."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Fiber Arcana +15, Mana +2"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Fiber Arcana",
+          "page": "skill-directory",
+          "target": "Fiber Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Living Thread",
+          "page": "ability-directory",
+          "target": "Living Thread",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Fire Arcana",
@@ -248,12 +438,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
-          "value": "Available during character creation; choosing access does not grant mastery."
+          "label": "Availability",
+          "value": "Normal character-creation option; choose up to four Standard Arcana."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Fire Arcana +15, Mana +2"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Fire Arcana",
+          "page": "skill-directory",
+          "target": "Fire Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Flame Strike",
+          "page": "ability-directory",
+          "target": "Flame Strike",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Healing Arcana",
@@ -271,12 +480,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
-          "value": "Available during character creation; choosing access does not grant mastery."
+          "label": "Availability",
+          "value": "Normal character-creation option; choose up to four Standard Arcana."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Healing Arcana +15, Mana +2"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Healing Arcana",
+          "page": "skill-directory",
+          "target": "Healing Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Healing Thread",
+          "page": "ability-directory",
+          "target": "Healing Thread",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Heroic Arcana",
@@ -294,12 +522,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
-          "value": "Available during character creation; choosing access does not grant mastery."
+          "label": "Availability",
+          "value": "Normal character-creation option; choose up to four Standard Arcana."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Heroic Arcana +15, Mana +2"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Heroic Arcana",
+          "page": "skill-directory",
+          "target": "Heroic Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Soft Light Ward",
+          "page": "ability-directory",
+          "target": "Soft Light Ward",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Illusion Arcana",
@@ -317,12 +564,31 @@
           "value": "Intelligence"
         },
         {
-          "label": "Starting access",
-          "value": "Available during character creation; choosing access does not grant mastery."
+          "label": "Availability",
+          "value": "Normal character-creation option; choose up to four Standard Arcana."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Illusion Arcana +15, Mana +2"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Illusion Arcana",
+          "page": "skill-directory",
+          "target": "Illusion Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Minor Illusion",
+          "page": "ability-directory",
+          "target": "Minor Illusion",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Light Arcana",
@@ -340,12 +606,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
-          "value": "Available during character creation; choosing access does not grant mastery."
+          "label": "Availability",
+          "value": "Normal character-creation option; choose up to four Standard Arcana."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Light Arcana +15, Mana +2"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Light Arcana",
+          "page": "skill-directory",
+          "target": "Light Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Lightglow",
+          "page": "ability-directory",
+          "target": "Lightglow",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Lightning Arcana",
@@ -363,12 +648,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
-          "value": "Available during character creation; choosing access does not grant mastery."
+          "label": "Availability",
+          "value": "Normal character-creation option; choose up to four Standard Arcana."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Lightning Arcana +15, Mana +2"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Lightning Arcana",
+          "page": "skill-directory",
+          "target": "Lightning Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Lightning Jolt",
+          "page": "ability-directory",
+          "target": "Lightning Jolt",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Metal Arcana",
@@ -386,12 +690,31 @@
           "value": "Intelligence"
         },
         {
-          "label": "Starting access",
-          "value": "Available during character creation; choosing access does not grant mastery."
+          "label": "Availability",
+          "value": "Normal character-creation option; choose up to four Standard Arcana."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Metal Arcana +15, Mana +2"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Metal Arcana",
+          "page": "skill-directory",
+          "target": "Metal Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Metal Sense",
+          "page": "ability-directory",
+          "target": "Metal Sense",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Motion Arcana",
@@ -409,12 +732,31 @@
           "value": "Dexterity"
         },
         {
-          "label": "Starting access",
-          "value": "Available during character creation; choosing access does not grant mastery."
+          "label": "Availability",
+          "value": "Normal character-creation option; choose up to four Standard Arcana."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Motion Arcana +15, Mana +2"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Motion Arcana",
+          "page": "skill-directory",
+          "target": "Motion Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Motion Nudge",
+          "page": "ability-directory",
+          "target": "Motion Nudge",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Poison Arcana",
@@ -432,12 +774,31 @@
           "value": "Constitution"
         },
         {
-          "label": "Starting access",
-          "value": "Available during character creation; choosing access does not grant mastery."
+          "label": "Availability",
+          "value": "Normal character-creation option; choose up to four Standard Arcana."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Poison Arcana +15, Mana +2"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Poison Arcana",
+          "page": "skill-directory",
+          "target": "Poison Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Toxin Sense",
+          "page": "ability-directory",
+          "target": "Toxin Sense",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Power Arcana",
@@ -455,12 +816,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
-          "value": "Available during character creation; choosing access does not grant mastery."
+          "label": "Availability",
+          "value": "Normal character-creation option; choose up to four Standard Arcana."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Power Arcana +15, Mana +2"
         }
       ],
       "spoiler": false,
-      "articleId": "power-arcana"
+      "articleId": "power-arcana",
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Power Arcana",
+          "page": "skill-directory",
+          "target": "Power Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Power Surge",
+          "page": "ability-directory",
+          "target": "Power Surge",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Protection Arcana",
@@ -478,12 +858,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
-          "value": "Available during character creation; choosing access does not grant mastery."
+          "label": "Availability",
+          "value": "Normal character-creation option; choose up to four Standard Arcana."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Protection Arcana +15, Mana +2"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Protection Arcana",
+          "page": "skill-directory",
+          "target": "Protection Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Magic Shield",
+          "page": "ability-directory",
+          "target": "Magic Shield",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Rune Arcana",
@@ -501,12 +900,31 @@
           "value": "Intelligence"
         },
         {
-          "label": "Starting access",
-          "value": "Available during character creation; choosing access does not grant mastery."
+          "label": "Availability",
+          "value": "Normal character-creation option; choose up to four Standard Arcana."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Rune Arcana +15, Mana +2"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Rune Arcana",
+          "page": "skill-directory",
+          "target": "Rune Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Rune Mark",
+          "page": "ability-directory",
+          "target": "Rune Mark",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Shadow Arcana",
@@ -524,12 +942,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
-          "value": "Available during character creation; choosing access does not grant mastery."
+          "label": "Availability",
+          "value": "Normal character-creation option; choose up to four Standard Arcana."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Shadow Arcana +15, Mana +2"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Shadow Arcana",
+          "page": "skill-directory",
+          "target": "Shadow Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Shadow Slip",
+          "page": "ability-directory",
+          "target": "Shadow Slip",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Smoke Arcana",
@@ -547,12 +984,31 @@
           "value": "Perception"
         },
         {
-          "label": "Starting access",
-          "value": "Available during character creation; choosing access does not grant mastery."
+          "label": "Availability",
+          "value": "Normal character-creation option; choose up to four Standard Arcana."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Smoke Arcana +15, Mana +2"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Smoke Arcana",
+          "page": "skill-directory",
+          "target": "Smoke Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Smoke Wisp",
+          "page": "ability-directory",
+          "target": "Smoke Wisp",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Spirit Arcana",
@@ -570,12 +1026,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
-          "value": "Available during character creation; choosing access does not grant mastery."
+          "label": "Availability",
+          "value": "Normal character-creation option; choose up to four Standard Arcana."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Spirit Arcana +15, Mana +2"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Spirit Arcana",
+          "page": "skill-directory",
+          "target": "Spirit Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Spirit Whisper",
+          "page": "ability-directory",
+          "target": "Spirit Whisper",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Water Arcana",
@@ -593,12 +1068,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
-          "value": "Available during character creation; choosing access does not grant mastery."
+          "label": "Availability",
+          "value": "Normal character-creation option; choose up to four Standard Arcana."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Water Arcana +15, Mana +2"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Water Arcana",
+          "page": "skill-directory",
+          "target": "Water Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Water Jet",
+          "page": "ability-directory",
+          "target": "Water Jet",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Wood Arcana",
@@ -616,12 +1110,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
-          "value": "Available during character creation; choosing access does not grant mastery."
+          "label": "Availability",
+          "value": "Normal character-creation option; choose up to four Standard Arcana."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Wood Arcana +15, Mana +2"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Wood Arcana",
+          "page": "skill-directory",
+          "target": "Wood Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Entangle",
+          "page": "ability-directory",
+          "target": "Entangle",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Blood Arcana",
@@ -639,12 +1152,31 @@
           "value": "Constitution"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Blood Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Blood Arcana",
+          "page": "skill-directory",
+          "target": "Blood Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Blood Sense",
+          "page": "ability-directory",
+          "target": "Blood Sense",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Bone Arcana",
@@ -662,12 +1194,31 @@
           "value": "Constitution"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Bone Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Bone Arcana",
+          "page": "skill-directory",
+          "target": "Bone Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Bone Sense",
+          "page": "ability-directory",
+          "target": "Bone Sense",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Crystal Arcana",
@@ -685,12 +1236,31 @@
           "value": "Intelligence"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Crystal Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Crystal Arcana",
+          "page": "skill-directory",
+          "target": "Crystal Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Crystal Growth",
+          "page": "ability-directory",
+          "target": "Crystal Growth",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Dream Arcana",
@@ -708,12 +1278,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Dream Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Dream Arcana",
+          "page": "skill-directory",
+          "target": "Dream Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Dream Entry",
+          "page": "ability-directory",
+          "target": "Dream Entry",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Echo Arcana",
@@ -731,12 +1320,31 @@
           "value": "Perception"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Echo Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Echo Arcana",
+          "page": "skill-directory",
+          "target": "Echo Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Echo Sense",
+          "page": "ability-directory",
+          "target": "Echo Sense",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Force Arcana",
@@ -754,12 +1362,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Force Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Force Arcana",
+          "page": "skill-directory",
+          "target": "Force Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Force Push",
+          "page": "ability-directory",
+          "target": "Force Push",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Glass Arcana",
@@ -777,12 +1404,31 @@
           "value": "Intelligence"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Glass Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Glass Arcana",
+          "page": "skill-directory",
+          "target": "Glass Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Glass Gleam",
+          "page": "ability-directory",
+          "target": "Glass Gleam",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Gravity Arcana",
@@ -800,12 +1446,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Gravity Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Gravity Arcana",
+          "page": "skill-directory",
+          "target": "Gravity Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Gravity Shift",
+          "page": "ability-directory",
+          "target": "Gravity Shift",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Hunger Arcana",
@@ -823,12 +1488,31 @@
           "value": "Constitution"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Hunger Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Hunger Arcana",
+          "page": "skill-directory",
+          "target": "Hunger Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Hunger Draw",
+          "page": "ability-directory",
+          "target": "Hunger Draw",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Magnetism Arcana",
@@ -846,12 +1530,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Magnetism Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Magnetism Arcana",
+          "page": "skill-directory",
+          "target": "Magnetism Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Magnetic Tug",
+          "page": "ability-directory",
+          "target": "Magnetic Tug",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Memory Arcana",
@@ -869,12 +1572,31 @@
           "value": "Intelligence"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Memory Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Memory Arcana",
+          "page": "skill-directory",
+          "target": "Memory Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Mnemonic Glimpse",
+          "page": "ability-directory",
+          "target": "Mnemonic Glimpse",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Mirror Arcana",
@@ -892,12 +1614,31 @@
           "value": "Intelligence"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Mirror Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Mirror Arcana",
+          "page": "skill-directory",
+          "target": "Mirror Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Mirror Window",
+          "page": "ability-directory",
+          "target": "Mirror Window",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Oath Arcana",
@@ -915,12 +1656,31 @@
           "value": "Communication"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Oath Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Oath Arcana",
+          "page": "skill-directory",
+          "target": "Oath Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Oath Sense",
+          "page": "ability-directory",
+          "target": "Oath Sense",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Plague Arcana",
@@ -938,12 +1698,31 @@
           "value": "Constitution"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Plague Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Plague Arcana",
+          "page": "skill-directory",
+          "target": "Plague Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Blight Touch",
+          "page": "ability-directory",
+          "target": "Blight Touch",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Seal Arcana",
@@ -961,12 +1740,31 @@
           "value": "Intelligence"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Seal Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Seal Arcana",
+          "page": "skill-directory",
+          "target": "Seal Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Seal Mark",
+          "page": "ability-directory",
+          "target": "Seal Mark",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Soul Arcana",
@@ -984,12 +1782,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Soul Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Soul Arcana",
+          "page": "skill-directory",
+          "target": "Soul Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Soul Sight",
+          "page": "ability-directory",
+          "target": "Soul Sight",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Sound Arcana",
@@ -1007,12 +1824,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Sound Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Sound Arcana",
+          "page": "skill-directory",
+          "target": "Sound Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Amplify",
+          "page": "ability-directory",
+          "target": "Amplify",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Spatial Arcana",
@@ -1030,12 +1866,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Spatial Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Spatial Arcana",
+          "page": "skill-directory",
+          "target": "Spatial Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Pocket Space",
+          "page": "ability-directory",
+          "target": "Pocket Space",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Storm Arcana",
@@ -1053,12 +1908,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Storm Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Storm Arcana",
+          "page": "skill-directory",
+          "target": "Storm Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Charged Sky",
+          "page": "ability-directory",
+          "target": "Charged Sky",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Abyss Arcana",
@@ -1076,12 +1950,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Abyss Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Abyss Arcana",
+          "page": "skill-directory",
+          "target": "Abyss Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Abyssal Gaze",
+          "page": "ability-directory",
+          "target": "Abyssal Gaze",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Aegis Arcana",
@@ -1099,12 +1992,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Aegis Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Aegis Arcana",
+          "page": "skill-directory",
+          "target": "Aegis Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Aegis Guard",
+          "page": "ability-directory",
+          "target": "Aegis Guard",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Dragon Arcana",
@@ -1122,12 +2034,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Dragon Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Dragon Arcana",
+          "page": "skill-directory",
+          "target": "Dragon Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Dragon Breath Spark",
+          "page": "ability-directory",
+          "target": "Dragon Breath Spark",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Fate Arcana",
@@ -1145,12 +2076,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Fate Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Fate Arcana",
+          "page": "skill-directory",
+          "target": "Fate Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Omen Thread",
+          "page": "ability-directory",
+          "target": "Omen Thread",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Moon Arcana",
@@ -1168,12 +2118,31 @@
           "value": "Perception"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Moon Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Moon Arcana",
+          "page": "skill-directory",
+          "target": "Moon Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Moonlit Veil",
+          "page": "ability-directory",
+          "target": "Moonlit Veil",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Phoenix Arcana",
@@ -1191,12 +2160,31 @@
           "value": "Constitution"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Phoenix Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Phoenix Arcana",
+          "page": "skill-directory",
+          "target": "Phoenix Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Ember Renewal",
+          "page": "ability-directory",
+          "target": "Ember Renewal",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Ruin Arcana",
@@ -1214,12 +2202,31 @@
           "value": "Intelligence"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Ruin Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Ruin Arcana",
+          "page": "skill-directory",
+          "target": "Ruin Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Ruin Fracture",
+          "page": "ability-directory",
+          "target": "Ruin Fracture",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Sovereign Arcana",
@@ -1237,12 +2244,31 @@
           "value": "Communication"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Sovereign Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Sovereign Arcana",
+          "page": "skill-directory",
+          "target": "Sovereign Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Commanding Presence",
+          "page": "ability-directory",
+          "target": "Commanding Presence",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Star Arcana",
@@ -1260,12 +2286,31 @@
           "value": "Perception"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Star Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Star Arcana",
+          "page": "skill-directory",
+          "target": "Star Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Star Sight",
+          "page": "ability-directory",
+          "target": "Star Sight",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Sun Arcana",
@@ -1283,12 +2328,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Sun Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Sun Arcana",
+          "page": "skill-directory",
+          "target": "Sun Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Sunspark",
+          "page": "ability-directory",
+          "target": "Sunspark",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Titan Arcana",
@@ -1306,12 +2370,31 @@
           "value": "Strength"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Titan Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Titan Arcana",
+          "page": "skill-directory",
+          "target": "Titan Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Titan Grip",
+          "page": "ability-directory",
+          "target": "Titan Grip",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Twilight Arcana",
@@ -1329,12 +2412,31 @@
           "value": "Willpower"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Twilight Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Twilight Arcana",
+          "page": "skill-directory",
+          "target": "Twilight Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Twilight Veil",
+          "page": "ability-directory",
+          "target": "Twilight Veil",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     },
     {
       "name": "Wyrd Arcana",
@@ -1352,12 +2454,31 @@
           "value": "Intelligence"
         },
         {
-          "label": "Starting access",
+          "label": "Availability",
           "value": "Story-unlocked; not a normal character-creation choice."
+        },
+        {
+          "label": "Arcana trait grants",
+          "value": "Wyrd Arcana +15, Mana +3"
         }
       ],
       "spoiler": false,
-      "articleId": null
+      "articleId": null,
+      "linksLabel": "Related character options",
+      "links": [
+        {
+          "label": "Wyrd Arcana",
+          "page": "skill-directory",
+          "target": "Wyrd Arcana",
+          "description": "Open the corresponding magical skill entry."
+        },
+        {
+          "label": "Wyrdmark",
+          "page": "ability-directory",
+          "target": "Wyrdmark",
+          "description": "Open the technique granted by this Arcana trait."
+        }
+      ]
     }
   ]
 }
