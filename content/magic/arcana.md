@@ -12,7 +12,7 @@ Arcana are named magical affinities and disciplines used throughout Arkenfell. A
 
 Skill with an Arcana represents training, control, reliability, and depth. Someone with a single well-developed Arcana may be a more capable specialist than someone with several affinities but little practice. Arcane Lore and other knowledge skills are not additional Arcana.
 
-Common Arcana are not extraordinary merely because they are magical. Trained mages may possess several. Rare and Legendary Arcana are different: their rarity, political implications, religious interpretation, danger, or unusual applications can attract institutional and faction attention.
+Standard Arcana are not extraordinary merely because they are magical. Trained mages may possess several. Rare and Legendary Arcana are different: their rarity, political implications, religious interpretation, danger, or unusual applications can attract institutional and faction attention.
 
 Arcana may become apparent through childhood talent, training, testing, study, instinct, crisis, or later life. An Arcana does not determine a person's morality, personality, profession, bloodline, prophecy, or destiny.
 
