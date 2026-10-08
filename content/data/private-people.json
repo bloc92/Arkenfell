@@ -12,7 +12,7 @@
       "location": "Highcourt Armathen",
       "summary": "Lady of a minor Valenreach noble house and junior rune scholar. Soft rose-colored hair to her shoulder blades, pale skin, and gray eyes. Slightly built with a noticeably large chest, a feature she is self-conscious about; when shy or uncertain, she often holds notebooks close in front of herself. Ann Resario is currently posted at the Chapel of Oaths in Highcourt Armathen, where she works with runes and protective wards. Age: 19 | Race: Human.",
       "spoiler": false,
-      "articleId": null
+      "articleId": "person-ann-resario"
     },
     {
       "name": "Brakka Vorn",
@@ -24,7 +24,7 @@
       "location": "Khar Voss Labor Citadel",
       "summary": "Labor overseer at Khar Voss Labor Citadel. Broad-shouldered man with shaved dark hair, cracked knuckles, a scarred jaw, and a black overseer's coat marked by iron tally pins. Brakka Vorn is currently posted at the Outer Courtyard in Khar Voss Labor Citadel, where his work makes him a visible part of local life. Age: 41 | Race: Human.",
       "spoiler": false,
-      "articleId": null
+      "articleId": "person-brakka-vorn"
     },
     {
       "name": "Korran Veysk",
@@ -36,7 +36,7 @@
       "location": "Mordrake Beast Warrens",
       "summary": "Bloodpit manager and combat handler attached to the Mordrake Beast Warrens. Lean tiefling with red-brown skin, swept black horns, gold rings, bright predator eyes, and a lacquered arena coat. Korran Veysk is currently posted at the State Market in Mordrake Beast Warrens, where his work makes him a visible part of local life. Age: 36 | Race: Tiefling — Cinderblood.",
       "spoiler": false,
-      "articleId": null
+      "articleId": "person-korran-veysk"
     },
     {
       "name": "Trissa",
@@ -48,7 +48,7 @@
       "location": "Valenreach",
       "summary": "Scout-Lieutenant, Valenreach Army. Athletic build with short dark hair, amber eyes, and black cat ears and tail. Wears light ranger leathers suited for speed and silent movement. Trissa moves through the world with the casual competence of someone who learned everything the hard way and has stopped being surprised by difficulty. She is competitive without being petty, funny without performing for it, and takes her work seriously in a way that her easy manner sometimes obscures. She finds court assignments irritating but has enough self-awareness to know she is not built for that world, which is why she works harder at it than she lets on. Age: 19 | Race: Catfolk Beastkin.",
       "spoiler": false,
-      "articleId": null
+      "articleId": "person-trissa"
     }
   ]
 }

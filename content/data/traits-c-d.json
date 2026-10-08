@@ -12,7 +12,8 @@
           "value": "Military Lore +8, Courage +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-called-to-local-muster"
     },
     {
       "name": "Caring for an Injured Companion",
@@ -25,7 +26,8 @@
           "value": "Medicine +8, Empathy +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-caring-for-an-injured-companion"
     },
     {
       "name": "Contract You Regret Signing",
@@ -38,7 +40,8 @@
           "value": "Archival Research +8, Bargaining +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-contract-you-regret-signing"
     },
     {
       "name": "Cursed Relic Carrier",
@@ -51,7 +54,8 @@
           "value": "Forbidden Lore +8, Relic Lore +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-cursed-relic-carrier"
     },
     {
       "name": "Disgraced Young Adult",
@@ -64,7 +68,8 @@
           "value": "Social Inquiry +8, Courage +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-disgraced-young-adult"
     },
     {
       "name": "Disowned Adult",
@@ -77,7 +82,8 @@
           "value": "Courage +8, Social Inquiry +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-disowned-adult"
     },
     {
       "name": "Dreams Still Follow You",
@@ -90,7 +96,8 @@
           "value": "Self-Discipline +8, Empathy +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dreams-still-follow-you"
     },
     {
       "name": "Caravan Hand Adult",
@@ -103,7 +110,8 @@
           "value": "Cart Driving +8, Navigation +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-caravan-hand-adult"
     },
     {
       "name": "Carpenter's Journeyman",
@@ -116,7 +124,8 @@
           "value": "Handcrafting +8, Engineering +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-carpenter-s-journeyman"
     },
     {
       "name": "Cook or Kitchen Worker",
@@ -129,7 +138,8 @@
           "value": "Brewing +8, Tasting +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-cook-or-kitchen-worker"
     },
     {
       "name": "Court Attendant Adult",
@@ -142,7 +152,8 @@
           "value": "Etiquette +8, Heraldry +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-court-attendant-adult"
     },
     {
       "name": "Dockworker Adult",
@@ -155,7 +166,8 @@
           "value": "Might +8, Hearing +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dockworker-adult"
     },
     {
       "name": "Candlelit Reader",
@@ -168,7 +180,8 @@
           "value": "Archival Research +6, Self-Discipline +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-candlelit-reader"
     },
     {
       "name": "Childhood Rival",
@@ -181,7 +194,8 @@
           "value": "Self-Discipline +6, Intimidation +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-childhood-rival"
     },
     {
       "name": "Collected Old Stories",
@@ -194,7 +208,8 @@
           "value": "Cultural Lore +6, Historical Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-collected-old-stories"
     },
     {
       "name": "Comfortable Being Alone",
@@ -207,7 +222,8 @@
           "value": "Self-Discipline +6, Seeing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-comfortable-being-alone"
     },
     {
       "name": "Copied Letters for Practice",
@@ -220,7 +236,8 @@
           "value": "Fine Script +6, Writing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-copied-letters-for-practice"
     },
     {
       "name": "Curious Little Tinkerer",
@@ -233,7 +250,8 @@
           "value": "Engineering +6, Appraisal +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-curious-little-tinkerer"
     },
     {
       "name": "Dragon Stories Felt Personal",
@@ -246,7 +264,8 @@
           "value": "Dragon Lore +6, Historical Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dragon-stories-felt-personal"
     },
     {
       "name": "Drew Maps for Fun",
@@ -259,7 +278,8 @@
           "value": "Cartography +6, Navigation +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-drew-maps-for-fun"
     },
     {
       "name": "Canal Lock Child",
@@ -272,7 +292,8 @@
           "value": "Engineering +6, Vessel Piloting +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-canal-lock-child"
     },
     {
       "name": "Caravan Child",
@@ -285,7 +306,8 @@
           "value": "Navigation +6, Cart Driving +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-caravan-child"
     },
     {
       "name": "Clerk's Office Child",
@@ -298,7 +320,8 @@
           "value": "Writing +6, Fine Script +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-clerk-s-office-child"
     },
     {
       "name": "Collectively Raised by the Village",
@@ -311,7 +334,8 @@
           "value": "Cultural Lore +6, Empathy +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-collectively-raised-by-the-village"
     },
     {
       "name": "Commoner Among Noble Children",
@@ -324,7 +348,8 @@
           "value": "Etiquette +6, Empathy +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-commoner-among-noble-children"
     },
     {
       "name": "Counting-House Child",
@@ -337,7 +362,8 @@
           "value": "Archival Research +6, Appraisal +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-counting-house-child"
     },
     {
       "name": "Criminal Errand Child",
@@ -350,7 +376,8 @@
           "value": "Thieves' Lore +6, Deception +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-criminal-errand-child"
     },
     {
       "name": "Crowded Tenement Child",
@@ -363,7 +390,8 @@
           "value": "Hearing +6, Empathy +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-crowded-tenement-child"
     },
     {
       "name": "Close-Quarters Fighter",
@@ -376,7 +404,8 @@
           "value": "Brawling +15, Light Blades +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-close-quarters-fighter"
     },
     {
       "name": "Counterfighter",
@@ -389,7 +418,8 @@
           "value": "Dueling +15, Seeing +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-counterfighter"
     },
     {
       "name": "Crossbow Specialist",
@@ -402,7 +432,8 @@
           "value": "Crossbows +15, Seeing +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-crossbow-specialist"
     },
     {
       "name": "Defensive Duelist",
@@ -415,7 +446,8 @@
           "value": "Dueling +15, Shields +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-defensive-duelist"
     },
     {
       "name": "Dual Wielder",
@@ -428,7 +460,8 @@
           "value": "Light Blades +15, Acrobatics +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dual-wielder"
     },
     {
       "name": "Calculated Aim",
@@ -441,7 +474,8 @@
           "value": "Intelligence +6, Accuracy +2"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-calculated-aim"
     },
     {
       "name": "Calculated Precision",
@@ -454,7 +488,8 @@
           "value": "Accuracy +4, Intelligence +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-calculated-precision"
     },
     {
       "name": "Close-Quarters Instinct",
@@ -467,7 +502,8 @@
           "value": "Fighting +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-close-quarters-instinct"
     },
     {
       "name": "Commanding Composure",
@@ -480,7 +516,8 @@
           "value": "Communication +4, Willpower +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-commanding-composure"
     },
     {
       "name": "Commanding Fighter",
@@ -493,7 +530,8 @@
           "value": "Fighting +4, Communication +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-commanding-fighter"
     },
     {
       "name": "Controlled Agility",
@@ -506,7 +544,8 @@
           "value": "Dexterity +4, Willpower +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-controlled-agility"
     },
     {
       "name": "Deadeye Coordination",
@@ -519,7 +558,8 @@
           "value": "Accuracy +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-deadeye-coordination"
     },
     {
       "name": "Deep Resilience",
@@ -532,7 +572,8 @@
           "value": "Constitution +4, Willpower +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-deep-resilience"
     },
     {
       "name": "Civil Clerk Family",
@@ -545,7 +586,8 @@
           "value": "Fine Script +6, Archival Research +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-civil-clerk-family"
     },
     {
       "name": "Cooks' Family",
@@ -558,7 +600,8 @@
           "value": "Brewing +6, Tasting +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-cooks-family"
     },
     {
       "name": "Court Servant Tradition",
@@ -571,7 +614,8 @@
           "value": "Etiquette +6, Social Inquiry +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-court-servant-tradition"
     },
     {
       "name": "Criminal Family Name",
@@ -584,7 +628,8 @@
           "value": "Thieves' Lore +6, Deception +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-criminal-family-name"
     },
     {
       "name": "Disputed Ancestry",
@@ -597,7 +642,8 @@
           "value": "Historical Lore +6, Social Inquiry +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-disputed-ancestry"
     },
     {
       "name": "Disputed Noble Line",
@@ -610,7 +656,8 @@
           "value": "Heraldry +6, Social Inquiry +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-disputed-noble-line"
     },
     {
       "name": "Cartographic Scholar",
@@ -623,7 +670,8 @@
           "value": "Cartography +15, Navigation +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-cartographic-scholar"
     },
     {
       "name": "Cryptographer",
@@ -636,7 +684,8 @@
           "value": "Cryptography +15, Writing +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-cryptographer"
     },
     {
       "name": "Dragon Scholar",
@@ -649,7 +698,8 @@
           "value": "Dragon Lore +15, Historical Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dragon-scholar"
     },
     {
       "name": "Cold Arcana",
@@ -666,7 +716,8 @@
           "value": "Frost Bite"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-cold-arcana"
     },
     {
       "name": "Conjuration Arcana",
@@ -683,7 +734,8 @@
           "value": "Minor Summon"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-conjuration-arcana"
     },
     {
       "name": "Death Arcana",
@@ -700,7 +752,8 @@
           "value": "Death Sense"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-death-arcana"
     },
     {
       "name": "Divination Arcana",
@@ -717,7 +770,8 @@
           "value": "Sense Magic"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-divination-arcana"
     },
     {
       "name": "Cloudspire Highcourt Citizen",
@@ -730,7 +784,8 @@
           "value": "Air Arcana +5, Etiquette +8, Cultural Lore +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-cloudspire-highcourt-citizen"
     },
     {
       "name": "Cloudspire Skybridge Local",
@@ -743,7 +798,8 @@
           "value": "Air Arcana +5, Climbing +8, Seeing +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-cloudspire-skybridge-local"
     },
     {
       "name": "Cloudspire Windroad Citizen",
@@ -756,7 +812,8 @@
           "value": "Air Arcana +5, Navigation +8, Cartography +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-cloudspire-windroad-citizen"
     },
     {
       "name": "Coral Throne Deep-Law",
@@ -769,7 +826,8 @@
           "value": "Spirit Arcana +5, Religious Lore +8, Natural Lore +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-coral-throne-deep-law"
     },
     {
       "name": "Coral Throne Harborbound",
@@ -782,7 +840,8 @@
           "value": "Spirit Arcana +5, Bargaining +8, Empathy +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-coral-throne-harborbound"
     },
     {
       "name": "Coral Throne Reefcourt",
@@ -795,7 +854,8 @@
           "value": "Spirit Arcana +5, Etiquette +8, Cultural Lore +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-coral-throne-reefcourt"
     },
     {
       "name": "Dreadmark Commandwise",
@@ -808,7 +868,8 @@
           "value": "Power Arcana +5, Intimidation +8, Self-Discipline +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dreadmark-commandwise"
     },
     {
       "name": "Dreadmark Rankwise",
@@ -821,7 +882,8 @@
           "value": "Enchantment Arcana +5, Military Lore +8, Etiquette +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dreadmark-rankwise"
     },
     {
       "name": "Dreadmark Watchwise",
@@ -834,7 +896,8 @@
           "value": "Divination Arcana +5, Seeing +8, Deception +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dreadmark-watchwise"
     },
     {
       "name": "Cavalry Duelist",
@@ -855,7 +918,8 @@
           "value": "characterLevel 10, Dueling skill 30, Riding skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-cavalry-duelist"
     },
     {
       "name": "Climbing Apex",
@@ -876,7 +940,8 @@
           "value": "Climbing Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-climbing-apex"
     },
     {
       "name": "Climbing Discipline",
@@ -893,7 +958,8 @@
           "value": "characterLevel 5, Climbing skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-climbing-discipline"
     },
     {
       "name": "Climbing Expertise",
@@ -914,7 +980,8 @@
           "value": "Climbing Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-climbing-expertise"
     },
     {
       "name": "Climbing Mastery",
@@ -939,7 +1006,8 @@
           "value": "Climbing Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-climbing-mastery"
     },
     {
       "name": "Cold Arcana Mastery",
@@ -964,7 +1032,8 @@
           "value": "Cold Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-cold-arcana-mastery"
     },
     {
       "name": "Combat Awareness",
@@ -981,7 +1050,8 @@
           "value": "characterLevel 20, Seeing skill 35, Military Lore skill 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-combat-awareness"
     },
     {
       "name": "Combat Medic",
@@ -1002,7 +1072,8 @@
           "value": "characterLevel 10, Medicine skill 30, Tolerance skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-combat-medic"
     },
     {
       "name": "Command Presence",
@@ -1015,7 +1086,8 @@
           "value": "Leadership +10, Military Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-command-presence"
     },
     {
       "name": "Compelling Performer",
@@ -1036,7 +1108,8 @@
           "value": "characterLevel 10, Performance skill 30, Persuasion skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-compelling-performer"
     },
     {
       "name": "Confidence Artist",
@@ -1057,7 +1130,8 @@
           "value": "characterLevel 10, Deception skill 30, Persuasion skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-confidence-artist"
     },
     {
       "name": "Conjuration Arcana Mastery",
@@ -1082,7 +1156,8 @@
           "value": "Conjuration Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-conjuration-arcana-mastery"
     },
     {
       "name": "Consummate Liar",
@@ -1103,7 +1178,8 @@
           "value": "characterLevel 10, Deception skill 30, Disguise skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-consummate-liar"
     },
     {
       "name": "Court Genealogist",
@@ -1124,7 +1200,8 @@
           "value": "characterLevel 10, Heraldry skill 30, Historical Lore skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-court-genealogist"
     },
     {
       "name": "Court Operator",
@@ -1145,7 +1222,8 @@
           "value": "characterLevel 10, Etiquette skill 30, Social Inquiry skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-court-operator"
     },
     {
       "name": "Courtly Confidence",
@@ -1166,7 +1244,8 @@
           "value": "characterLevel 10, Etiquette skill 30, Heraldry skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-courtly-confidence"
     },
     {
       "name": "Crossbow Apex",
@@ -1187,7 +1266,8 @@
           "value": "Crossbow Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-crossbow-apex"
     },
     {
       "name": "Crossbow Discipline",
@@ -1204,7 +1284,8 @@
           "value": "characterLevel 5, Crossbows skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-crossbow-discipline"
     },
     {
       "name": "Crossbow Expertise",
@@ -1225,7 +1306,8 @@
           "value": "Crossbow Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-crossbow-expertise"
     },
     {
       "name": "Crossbow Mastery",
@@ -1250,7 +1332,8 @@
           "value": "Crossbow Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-crossbow-mastery"
     },
     {
       "name": "Crystal Arcana",
@@ -1267,7 +1350,8 @@
           "value": "Crystal Growth"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-crystal-arcana"
     },
     {
       "name": "Crystal Arcana Mastery",
@@ -1292,7 +1376,8 @@
           "value": "Crystal Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-crystal-arcana-mastery"
     },
     {
       "name": "Death Arcana Mastery",
@@ -1317,7 +1402,8 @@
           "value": "Death Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-death-arcana-mastery"
     },
     {
       "name": "Deception Apex",
@@ -1338,7 +1424,8 @@
           "value": "Deception Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-deception-apex"
     },
     {
       "name": "Deception Discipline",
@@ -1355,7 +1442,8 @@
           "value": "characterLevel 5, Deception skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-deception-discipline"
     },
     {
       "name": "Deception Expertise",
@@ -1376,7 +1464,8 @@
           "value": "Deception Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-deception-expertise"
     },
     {
       "name": "Deception Mastery",
@@ -1401,7 +1490,8 @@
           "value": "Deception Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-deception-mastery"
     },
     {
       "name": "Deep Mana Well",
@@ -1418,7 +1508,8 @@
           "value": "characterLevel 15, Self-Discipline skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-deep-mana-well"
     },
     {
       "name": "Devout Conviction",
@@ -1435,7 +1526,8 @@
           "value": "characterLevel 20, Faith skill 35, Religious Lore skill 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-devout-conviction"
     },
     {
       "name": "Divination Arcana Mastery",
@@ -1460,7 +1552,8 @@
           "value": "Divination Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-divination-arcana-mastery"
     },
     {
       "name": "Diviner Investigator",
@@ -1481,7 +1574,8 @@
           "value": "characterLevel 10, Divination Arcana skill 30, Searching skill 30, Divination Arcana trait 1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-diviner-investigator"
     },
     {
       "name": "Dragon",
@@ -1494,7 +1588,8 @@
           "value": "Dragon Arcana +25, Intimidation +20, Acrobatics +20, Strength +5, Constitution +5, Communication +4, Willpower +3, Health +250, Mana +150, Stamina +150"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dragon"
     },
     {
       "name": "Dragon Arcana",
@@ -1511,7 +1606,8 @@
           "value": "Dragon Breath Spark"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dragon-arcana"
     },
     {
       "name": "Dragon Arcana Mastery",
@@ -1536,7 +1632,8 @@
           "value": "Dragon Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dragon-arcana-mastery"
     },
     {
       "name": "Dragon Historian",
@@ -1557,7 +1654,8 @@
           "value": "characterLevel 10, Dragon Lore skill 30, Historical Lore skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dragon-historian"
     },
     {
       "name": "Dream Arcana",
@@ -1574,7 +1672,8 @@
           "value": "Dream Entry"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dream-arcana"
     },
     {
       "name": "Dream Arcana Mastery",
@@ -1599,7 +1698,8 @@
           "value": "Dream Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dream-arcana-mastery"
     },
     {
       "name": "Dueling Apex",
@@ -1620,7 +1720,8 @@
           "value": "Dueling Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dueling-apex"
     },
     {
       "name": "Dueling Discipline",
@@ -1637,7 +1738,8 @@
           "value": "characterLevel 5, Dueling skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dueling-discipline"
     },
     {
       "name": "Dueling Expertise",
@@ -1658,7 +1760,8 @@
           "value": "Dueling Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dueling-expertise"
     },
     {
       "name": "Dueling Mastery",
@@ -1683,7 +1786,8 @@
           "value": "Dueling Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dueling-mastery"
     },
     {
       "name": "Dungeon Skirmisher",
@@ -1704,7 +1808,8 @@
           "value": "characterLevel 10, Light Blades skill 30, Traps skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dungeon-skirmisher"
     },
     {
       "name": "Climber",
@@ -1717,7 +1822,8 @@
           "value": "Climbing +15, Tolerance +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-climber"
     },
     {
       "name": "Deft Hands",
@@ -1730,7 +1836,8 @@
           "value": "Legerdemain +15, Touching +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-deft-hands"
     },
     {
       "name": "Difficult Mount Rider",
@@ -1743,7 +1850,8 @@
           "value": "Riding +15, Self-Discipline +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-difficult-mount-rider"
     },
     {
       "name": "Canal Lock Helper",
@@ -1756,7 +1864,8 @@
           "value": "Engineering +6, Vessel Piloting +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-canal-lock-helper"
     },
     {
       "name": "Caravan Tagalong",
@@ -1769,7 +1878,8 @@
           "value": "Navigation +6, Cart Driving +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-caravan-tagalong"
     },
     {
       "name": "Caretaker for an Ill Adult",
@@ -1782,7 +1892,8 @@
           "value": "Medicine +6, Empathy +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-caretaker-for-an-ill-adult"
     },
     {
       "name": "Carpenter's Helper",
@@ -1795,7 +1906,8 @@
           "value": "Handcrafting +6, Engineering +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-carpenter-s-helper"
     },
     {
       "name": "Coal Carrier",
@@ -1808,7 +1920,8 @@
           "value": "Might +6, Tolerance +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-coal-carrier"
     },
     {
       "name": "Compulsory Work Child",
@@ -1821,7 +1934,8 @@
           "value": "Might +6, Self-Discipline +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-compulsory-work-child"
     },
     {
       "name": "Counting-House Helper",
@@ -1834,7 +1948,8 @@
           "value": "Archival Research +6, Appraisal +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-counting-house-helper"
     },
     {
       "name": "Court Page",
@@ -1847,7 +1962,8 @@
           "value": "Etiquette +6, Heraldry +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-court-page"
     },
     {
       "name": "Criminal Delivery Child",
@@ -1860,7 +1976,8 @@
           "value": "Deception +6, Thieves' Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-criminal-delivery-child"
     },
     {
       "name": "Drill Yard Helper",
@@ -1873,7 +1990,8 @@
           "value": "Military Lore +6, Self-Discipline +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-drill-yard-helper"
     },
     {
       "name": "Duel Yard Water Carrier",
@@ -1886,7 +2004,8 @@
           "value": "Dueling +6, Medicine +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-duel-yard-water-carrier"
     },
     {
       "name": "Caught a Thief",
@@ -1899,7 +2018,8 @@
           "value": "Seeing +6, Thieves' Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-caught-a-thief"
     },
     {
       "name": "Chose Not to Tell a Secret",
@@ -1912,7 +2032,8 @@
           "value": "Deception +6, Empathy +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-chose-not-to-tell-a-secret"
     },
     {
       "name": "Dreams Became Warnings",
@@ -1925,7 +2046,8 @@
           "value": "Self-Discipline +6, Cultural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dreams-became-warnings"
     },
     {
       "name": "Camp Keeper",
@@ -1938,7 +2060,8 @@
           "value": "Natural Lore +15, Military Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-camp-keeper"
     },
     {
       "name": "Carpenter",
@@ -1951,7 +2074,8 @@
           "value": "Handcrafting +15, Engineering +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-carpenter"
     },
     {
       "name": "Cartographer",
@@ -1964,7 +2088,8 @@
           "value": "Cartography +15, Writing +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-cartographer"
     },
     {
       "name": "Ceremonialist",
@@ -1977,7 +2102,8 @@
           "value": "Etiquette +15, Religious Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-ceremonialist"
     },
     {
       "name": "Cook",
@@ -1990,7 +2116,8 @@
           "value": "Brewing +15, Tasting +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-cook"
     },
     {
       "name": "Dungeoneer",
@@ -2003,7 +2130,8 @@
           "value": "Searching +15, Traps +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dungeoneer"
     },
     {
       "name": "Caelari — Dawnmarked",
@@ -2016,7 +2144,8 @@
           "value": "Seeing +8, Courage +8, Light Arcana +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-caelari-dawnmarked"
     },
     {
       "name": "Caelari — Gloryborn",
@@ -2029,7 +2158,8 @@
           "value": "Courage +8, Persuasion +8, Heroic Arcana +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-caelari-gloryborn"
     },
     {
       "name": "Caelari — Mercyborn",
@@ -2042,7 +2172,8 @@
           "value": "Empathy +8, Tolerance +8, Healing Arcana +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-caelari-mercyborn"
     },
     {
       "name": "Caelari — Star-Eyed",
@@ -2055,7 +2186,8 @@
           "value": "Seeing +8, Self-Discipline +8, Divination Arcana +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-caelari-star-eyed"
     },
     {
       "name": "Caelari — Wardmarked",
@@ -2068,7 +2200,8 @@
           "value": "Courage +8, Self-Discipline +8, Protection Arcana +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-caelari-wardmarked"
     },
     {
       "name": "Catfolk Beastkin",
@@ -2081,7 +2214,8 @@
           "value": "Acrobatics +8, Stealth +8, Hearing +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-catfolk-beastkin"
     },
     {
       "name": "Deerfolk Beastkin",
@@ -2094,7 +2228,8 @@
           "value": "Running +8, Hearing +8, Seeing +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-deerfolk-beastkin"
     },
     {
       "name": "Demon-Touched Beastkin",
@@ -2107,7 +2242,8 @@
           "value": "Fire Arcana +8, Intimidation +8, Tolerance +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-demon-touched-beastkin"
     },
     {
       "name": "Dhampir",
@@ -2120,7 +2256,8 @@
           "value": "Seeing +11, Hearing +5, Smelling +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dhampir"
     },
     {
       "name": "Dogfolk Beastkin",
@@ -2133,7 +2270,8 @@
           "value": "Smelling +11, Hearing +5, Searching +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dogfolk-beastkin"
     },
     {
       "name": "Dragonfolk",
@@ -2146,7 +2284,8 @@
           "value": "Tolerance +8, Might +8, Intimidation +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dragonfolk"
     },
     {
       "name": "Dragonkin",
@@ -2159,7 +2298,8 @@
           "value": "Acrobatics +8, Seeing +8, Intimidation +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dragonkin"
     },
     {
       "name": "Dwarf",
@@ -2172,7 +2312,8 @@
           "value": "Tolerance +8, Might +8, Brawling +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dwarf"
     },
     {
       "name": "Commanding Voice",
@@ -2185,7 +2326,8 @@
           "value": "Leadership +15, Intimidation +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-commanding-voice"
     },
     {
       "name": "Confident Flirt",
@@ -2198,7 +2340,8 @@
           "value": "Courtship +15, Persuasion +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-confident-flirt"
     },
     {
       "name": "Conflict Mediator",
@@ -2211,7 +2354,8 @@
           "value": "Empathy +15, Bargaining +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-conflict-mediator"
     },
     {
       "name": "Convincing Liar",
@@ -2224,7 +2368,8 @@
           "value": "Deception +15, Persuasion +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-convincing-liar"
     },
     {
       "name": "Court Political Reader",
@@ -2237,7 +2382,8 @@
           "value": "Social Inquiry +15, Heraldry +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-court-political-reader"
     },
     {
       "name": "Courtly Manners",
@@ -2250,7 +2396,8 @@
           "value": "Etiquette +15, Heraldry +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-courtly-manners"
     },
     {
       "name": "Credibility Artist",
@@ -2263,7 +2410,8 @@
           "value": "Deception +15, Empathy +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-credibility-artist"
     },
     {
       "name": "Crisis Organizer",
@@ -2276,7 +2424,8 @@
           "value": "Leadership +15, Self-Discipline +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-crisis-organizer"
     },
     {
       "name": "Cross-Cultural Courtesy",
@@ -2289,7 +2438,8 @@
           "value": "Etiquette +15, Cultural Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-cross-cultural-courtesy"
     },
     {
       "name": "Crowd Charmer",
@@ -2302,7 +2452,8 @@
           "value": "Performance +15, Empathy +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-crowd-charmer"
     },
     {
       "name": "Deal Broker",
@@ -2315,7 +2466,8 @@
           "value": "Bargaining +15, Social Inquiry +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-deal-broker"
     },
     {
       "name": "Diplomat",
@@ -2328,7 +2480,8 @@
           "value": "Persuasion +15, Etiquette +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-diplomat"
     },
     {
       "name": "Disguise Artist",
@@ -2341,7 +2494,8 @@
           "value": "Disguise +15, Deception +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-disguise-artist"
     },
     {
       "name": "Cold Weather Clothing Set",
@@ -2354,7 +2508,8 @@
           "value": "1, 1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-cold-weather-clothing-set"
     },
     {
       "name": "Commoner's Outfit Set",
@@ -2367,7 +2522,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-commoner-s-outfit-set"
     },
     {
       "name": "Courtier's Attire Set",
@@ -2380,7 +2536,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-courtier-s-attire-set"
     },
     {
       "name": "Desert Travel Clothing Set",
@@ -2393,7 +2550,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-desert-travel-clothing-set"
     },
     {
       "name": "Disguise Clothes Set",
@@ -2406,7 +2564,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-disguise-clothes-set"
     },
     {
       "name": "Dockworker Clothes Set",
@@ -2419,7 +2578,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dockworker-clothes-set"
     },
     {
       "name": "Chain Armor Set",
@@ -2432,7 +2592,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-chain-armor-set"
     },
     {
       "name": "Chain Shirt Set",
@@ -2445,7 +2606,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-chain-shirt-set"
     },
     {
       "name": "Cavalry Lance",
@@ -2458,7 +2620,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-cavalry-lance"
     },
     {
       "name": "Cestus",
@@ -2471,7 +2634,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-cestus"
     },
     {
       "name": "Chakram",
@@ -2484,7 +2648,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-chakram"
     },
     {
       "name": "Claw Gauntlets",
@@ -2497,7 +2662,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-claw-gauntlets"
     },
     {
       "name": "Claymore",
@@ -2510,7 +2676,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-claymore"
     },
     {
       "name": "Compound Bow",
@@ -2523,7 +2690,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-compound-bow"
     },
     {
       "name": "Court Sabre",
@@ -2536,7 +2704,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-court-sabre"
     },
     {
       "name": "Crossbow",
@@ -2549,7 +2718,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-crossbow"
     },
     {
       "name": "Cudgel",
@@ -2562,7 +2732,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-cudgel"
     },
     {
       "name": "Dart Set",
@@ -2575,7 +2746,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dart-set"
     },
     {
       "name": "Dirk",
@@ -2588,7 +2760,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dirk"
     },
     {
       "name": "Caught Breaking Doctrine",
@@ -2601,7 +2774,8 @@
           "value": "Deception +6, Religious Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-caught-breaking-doctrine"
     },
     {
       "name": "Caught Carrying Something Illegal",
@@ -2614,7 +2788,8 @@
           "value": "Deception +6, Thieves' Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-caught-carrying-something-illegal"
     },
     {
       "name": "Chose Work Over Ambition",
@@ -2627,7 +2802,8 @@
           "value": "Self-Discipline +6, Bargaining +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-chose-work-over-ambition"
     },
     {
       "name": "Could Not Afford Training",
@@ -2640,7 +2816,8 @@
           "value": "Bargaining +6, Appraisal +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-could-not-afford-training"
     },
     {
       "name": "Could Not Kill",
@@ -2653,7 +2830,8 @@
           "value": "Empathy +6, Courage +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-could-not-kill"
     },
     {
       "name": "Court Scandal Witness",
@@ -2666,7 +2844,8 @@
           "value": "Hearing +6, Etiquette +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-court-scandal-witness"
     },
     {
       "name": "Criminal Debt Carrier",
@@ -2679,7 +2858,8 @@
           "value": "Bargaining +6, Thieves' Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-criminal-debt-carrier"
     },
     {
       "name": "Cursed Object Touched",
@@ -2692,7 +2872,8 @@
           "value": "Forbidden Lore +6, Relic Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-cursed-object-touched"
     },
     {
       "name": "Disowned by Family",
@@ -2705,7 +2886,8 @@
           "value": "Courage +6, Navigation +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-disowned-by-family"
     },
     {
       "name": "Dragon Seen at Dusk",
@@ -2718,7 +2900,8 @@
           "value": "Dragon Lore +6, Seeing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dragon-seen-at-dusk"
     },
     {
       "name": "Caravan Hand",
@@ -2731,7 +2914,8 @@
           "value": "Cart Driving +8, Navigation +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-caravan-hand"
     },
     {
       "name": "Clerk's Apprentice",
@@ -2744,7 +2928,8 @@
           "value": "Writing +8, Fine Script +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-clerk-s-apprentice"
     },
     {
       "name": "Cook's Apprentice",
@@ -2757,7 +2942,8 @@
           "value": "Brewing +8, Tasting +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-cook-s-apprentice"
     },
     {
       "name": "Counting-House Apprentice",
@@ -2770,7 +2956,8 @@
           "value": "Archival Research +8, Appraisal +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-counting-house-apprentice"
     },
     {
       "name": "Court Attendant",
@@ -2783,7 +2970,8 @@
           "value": "Etiquette +8, Heraldry +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-court-attendant"
     },
     {
       "name": "Dockside Laborer",
@@ -2796,7 +2984,8 @@
           "value": "Might +8, Hearing +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dockside-laborer"
     },
     {
       "name": "Duel Yard Regular",
@@ -2809,7 +2998,8 @@
           "value": "Dueling +8, Light Blades +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-duel-yard-regular"
     },
     {
       "name": "Carried Through Evacuation",
@@ -2822,7 +3012,8 @@
           "value": "Navigation +6, Courage +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-carried-through-evacuation"
     },
     {
       "name": "Dragon Dreamt of You",
@@ -2835,7 +3026,8 @@
           "value": "Dragon Lore +6, Courage +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dragon-dreamt-of-you"
     },
     {
       "name": "Chased Sunbeams",
@@ -2848,7 +3040,8 @@
           "value": "Seeing +6, Acrobatics +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-chased-sunbeams"
     },
     {
       "name": "Cheerful Stranger-Greeter",
@@ -2861,7 +3054,8 @@
           "value": "Persuasion +6, Social Inquiry +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-cheerful-stranger-greeter"
     },
     {
       "name": "Climbed Everything",
@@ -2874,7 +3068,8 @@
           "value": "Climbing +6, Acrobatics +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-climbed-everything"
     },
     {
       "name": "Clung to One Person",
@@ -2887,7 +3082,8 @@
           "value": "Empathy +6, Courage +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-clung-to-one-person"
     },
     {
       "name": "Collected Feathers",
@@ -2900,7 +3096,8 @@
           "value": "Searching +6, Natural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-collected-feathers"
     },
     {
       "name": "Collected Stones",
@@ -2913,7 +3110,8 @@
           "value": "Touching +6, Appraisal +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-collected-stones"
     },
     {
       "name": "Comforted Crying Children",
@@ -2926,7 +3124,8 @@
           "value": "Empathy +6, Persuasion +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-comforted-crying-children"
     },
     {
       "name": "Copied Adult Manners",
@@ -2939,7 +3138,8 @@
           "value": "Etiquette +6, Performance +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-copied-adult-manners"
     },
     {
       "name": "Copied Every Sound",
@@ -2952,7 +3152,8 @@
           "value": "Hearing +6, Performance +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-copied-every-sound"
     },
     {
       "name": "Cried at Cruelty",
@@ -2965,7 +3166,8 @@
           "value": "Empathy +6, Courage +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-cried-at-cruelty"
     },
     {
       "name": "Cry That Carried",
@@ -2978,7 +3180,8 @@
           "value": "Performance +6, Intimidation +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-cry-that-carried"
     },
     {
       "name": "Curious About Every Door",
@@ -2991,7 +3194,8 @@
           "value": "Searching +6, Legerdemain +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-curious-about-every-door"
     },
     {
       "name": "Danced Before Walking",
@@ -3004,7 +3208,8 @@
           "value": "Acrobatics +6, Performance +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-danced-before-walking"
     },
     {
       "name": "Concentration Drills",
@@ -3017,7 +3222,8 @@
           "value": "Self-Discipline +8, Searching +5, Seeing +3, Willpower +2, Intelligence +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-concentration-drills"
     },
     {
       "name": "Coordination Drills",
@@ -3030,7 +3236,8 @@
           "value": "Touching +8, Legerdemain +5, Acrobatics +3, Dexterity +2, Accuracy +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-coordination-drills"
     },
     {
       "name": "Crossbow Drills",
@@ -3043,7 +3250,8 @@
           "value": "Crossbows +8, Seeing +5, Searching +3, Accuracy +2, Intelligence +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-crossbow-drills"
     },
     {
       "name": "Defensive Drills",
@@ -3056,7 +3264,8 @@
           "value": "Shields +8, Staff Fighting +5, Self-Discipline +3, Fighting +2, Willpower +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-defensive-drills"
     },
     {
       "name": "Canal Settlement",
@@ -3069,7 +3278,8 @@
           "value": "Vessel Piloting +8, Engineering +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-canal-settlement"
     },
     {
       "name": "Clerk's Household",
@@ -3082,7 +3292,8 @@
           "value": "Writing +8, Fine Script +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-clerk-s-household"
     },
     {
       "name": "Collegiate Quarter",
@@ -3095,7 +3306,8 @@
           "value": "Writing +8, Archival Research +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-collegiate-quarter"
     },
     {
       "name": "Comfortable Town Household",
@@ -3108,7 +3320,8 @@
           "value": "Writing +8, Persuasion +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-comfortable-town-household"
     },
     {
       "name": "Commoner Among Nobles",
@@ -3121,7 +3334,8 @@
           "value": "Etiquette +8, Social Inquiry +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-commoner-among-nobles"
     },
     {
       "name": "Criminal Den",
@@ -3134,7 +3348,8 @@
           "value": "Thieves' Lore +8, Deception +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-criminal-den"
     },
     {
       "name": "Crowded Tenement",
@@ -3147,7 +3362,8 @@
           "value": "Hearing +8, Empathy +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-crowded-tenement"
     },
     {
       "name": "Dockside Quarter",
@@ -3160,7 +3376,8 @@
           "value": "Seeing +8, Hearing +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dockside-quarter"
     },
     {
       "name": "Dwarven Stronghold",
@@ -3173,7 +3390,8 @@
           "value": "Engineering +8, Historical Lore +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-dwarven-stronghold"
     }
   ],
   "sourceWorld": "Arkenfell"

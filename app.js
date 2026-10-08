@@ -320,108 +320,258 @@ function renderMeta(article) {
 
 const generatedArticleDataCache = new Map();
 
-function markdownEscape(value) {
-  return String(value ?? '')
-    .replaceAll('\\', '\\\\')
-    .replace(/([\`*_{}\[\]()#+\-.!>|])/g, '\\$1');
-}
+  function markdownEscape(value) {
+    return String(value ?? '')
+      .replaceAll('\\', '\\\\')
+      .replace(/([`*_{}\[\]()#+\-.!>|])/g, '\\$1');
+  }
 
-function markdownParagraphs(value) {
-  return String(value || '')
-    .trim()
-    .split(/\n\s*\n/)
-    .filter(Boolean)
-    .map(paragraph => markdownEscape(paragraph.replace(/\s*\n\s*/g, ' ')))
-    .join('\n\n');
-}
+  function markdownInline(value) {
+    return markdownEscape(String(value ?? '').replace(/\s+/g, ' ').trim());
+  }
 
-function normalizeLocationAreas(value) {
-  if (Array.isArray(value)) {
-    return value.map((area, index) => {
-      if (typeof area === 'string') return { name: area };
-      return { ...area, name: area?.name || `Area ${index + 1}` };
+  function markdownParagraphs(value) {
+    return String(value || '')
+      .trim()
+      .split(/\n\s*\n/)
+      .filter(Boolean)
+      .map(paragraph => markdownEscape(paragraph.replace(/\s*\n\s*/g, ' ')))
+      .join('\n\n');
+  }
+
+  function articleSlug(value) {
+    return String(value || '')
+      .normalize('NFKD')
+      .replace(/[\u0300-\u036f]/g, '')
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/^-|-$/g, '');
+  }
+
+  function normalizeLocationAreas(value) {
+    if (Array.isArray(value)) {
+      return value.map((area, index) => {
+        if (typeof area === 'string') return { name: area };
+        return { ...area, name: area?.name || `Area ${index + 1}` };
+      });
+    }
+
+    if (value && typeof value === 'object') {
+      return Object.entries(value).map(([name, area]) => {
+        if (typeof area === 'string') return { name, summary: area };
+        return { ...area, name: area?.name || name };
+      });
+    }
+
+    return [];
+  }
+
+  function appendFactSection(lines, heading, facts) {
+    const usableFacts = Array.isArray(facts)
+      ? facts.filter(fact => fact?.label && fact.value !== undefined && fact.value !== null && String(fact.value).trim())
+      : [];
+    if (!usableFacts.length) return;
+
+    lines.push('', `## ${heading}`, '');
+    usableFacts.forEach(fact => {
+      const value = Array.isArray(fact.value) ? fact.value.join(', ') : fact.value;
+      lines.push(`- **${markdownInline(fact.label)}:** ${markdownInline(value)}`);
     });
   }
 
-  if (value && typeof value === 'object') {
-    return Object.entries(value).map(([name, area]) => {
-      if (typeof area === 'string') return { name, summary: area };
-      return { ...area, name: area?.name || name };
+  function relatedArticleId(item) {
+    const prefixes = {
+      'skill-directory': 'skill',
+      'ability-directory': 'ability',
+      'trait-catalog': 'trait',
+      'arcana-catalog': 'arcana',
+      'important-npcs': 'person'
+    };
+    const prefix = prefixes[item?.page];
+    if (!prefix || !item?.target) return item?.page || '';
+    return `${prefix}-${articleSlug(item.target)}`;
+  }
+
+  function appendRelatedLinks(lines, entry) {
+    const links = Array.isArray(entry.links)
+      ? entry.links.filter(item => item?.label && item?.page && item?.target)
+      : [];
+    if (!links.length) return;
+
+    lines.push('', `## ${markdownInline(entry.linksLabel || 'Related entries')}`, '');
+    links.forEach(item => {
+      const destination = relatedArticleId(item);
+      const description = String(item.description || '').trim();
+      lines.push(`- [${markdownInline(item.label)}](#${destination})${description ? ` — ${markdownInline(description)}` : ''}`);
     });
   }
 
-  return [];
-}
+  function buildLocationArticle(entry) {
+    const lines = [
+      `# ${markdownEscape(entry.name)}`,
+      '',
+      markdownParagraphs(entry.summary || 'No public overview is currently recorded.'),
+      '',
+      '## At a glance',
+      '',
+      `- **Region:** ${markdownInline(entry.region || entry.group || 'Unassigned')}`,
+      '- **Type:** Location',
+      `- **Source:** ${markdownInline(entry.sourceWorld || 'Arkenfell')}`
+    ];
 
-async function loadGeneratedArticleMarkdown(article) {
-  if (article.generatedType !== 'location' || !article.dataSource || !article.recordName) {
-    throw new Error(`Unsupported generated article: ${article.id}`);
+    const areas = normalizeLocationAreas(entry.areas);
+    lines.push('', '## Areas', '');
+
+    if (areas.length) {
+      areas.forEach(area => {
+        const publicText =
+          area.summary ||
+          area.basicInfo ||
+          area.description ||
+          area.publicInfo ||
+          `A named area within ${entry.name}.`;
+
+        lines.push(`### ${markdownEscape(area.name)}`, '', markdownParagraphs(publicText), '');
+
+        const hiddenText = area.hiddenInfo || area.gmInfo;
+        if (hiddenText) {
+          lines.push(':::gm', '', '#### GM information', '', markdownParagraphs(hiddenText), '', ':::', '');
+        }
+      });
+    } else {
+      lines.push('No separately named areas are currently recorded for this location.', '');
+    }
+
+    if (entry.hiddenInfo) {
+      lines.push(':::gm', '', '## GM information', '', markdownParagraphs(entry.hiddenInfo), '', ':::', '');
+    }
+
+    lines.push(
+      '## Continue browsing',
+      '',
+      `[Return to the Places Directory](#place-directory) to browse other locations in ${markdownInline(entry.region || entry.group || 'Arkenfell')}.`
+    );
+    return lines;
   }
 
-  let dataset = generatedArticleDataCache.get(article.dataSource);
-  if (!dataset) {
-    const response = await fetch(article.dataSource, { cache: 'no-store' });
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    dataset = await response.json();
-    generatedArticleDataCache.set(article.dataSource, dataset);
+  function buildPersonArticle(entry) {
+    const lines = [`# ${markdownEscape(entry.name)}`, ''];
+
+    if (entry.image) {
+      const imagePath = encodeURI(entry.image).replaceAll('(', '%28').replaceAll(')', '%29');
+      lines.push(`![Portrait of ${markdownInline(entry.name)}](${imagePath})`, '');
+    }
+
+    lines.push(
+      markdownParagraphs(entry.summary || 'No public overview is currently recorded.'),
+      '',
+      '## At a glance',
+      '',
+      `- **Affiliation:** ${markdownInline(entry.group || 'Unassigned')}`,
+      `- **Ancestry:** ${markdownInline(entry.kind || 'Not recorded')}`,
+      `- **Location:** ${markdownInline(entry.location || 'Not recorded')}`,
+      `- **Source:** ${markdownInline(entry.sourceWorld || 'Arkenfell')}`
+    );
+
+    appendFactSection(lines, 'Known details', entry.facts);
+
+    if (entry.hiddenInfo) {
+      lines.push(':::gm', '', '## GM information', '', markdownParagraphs(entry.hiddenInfo), '', ':::', '');
+    }
+
+    lines.push('', '## Continue browsing', '', '[Return to the People Directory](#important-npcs) to browse the full NPC roster.');
+    return lines;
   }
 
-  const entry = (dataset.entries || []).find(item =>
-    item.name === article.recordName &&
-    item.sourceWorld === 'Arkenfell'
-  );
-  if (!entry) throw new Error(`Location record not found: ${article.recordName}`);
+  function buildArcanaArticle(entry) {
+    const lines = [
+      `# ${markdownEscape(entry.name)}`,
+      '',
+      markdownParagraphs(entry.summary || 'No overview is currently recorded.')
+    ];
+    appendFactSection(lines, 'Arcana profile', entry.facts);
+    appendRelatedLinks(lines, entry);
+    lines.push(
+      '',
+      '## Understanding Arcana',
+      '',
+      'An Arcana represents magical affinity and access, not automatic mastery. Its tier describes rarity and accessibility; practical control is represented by the corresponding skill and its developed level.',
+      '',
+      '[Return to the Arcana Catalog](#arcana-catalog) to compare every affinity.'
+    );
+    return lines;
+  }
 
-  const lines = [
-    `# ${markdownEscape(entry.name)}`,
-    '',
-    markdownParagraphs(entry.summary || 'No public overview is currently recorded.'),
-    '',
-    '## At a glance',
-    '',
-    `- **Region:** ${markdownEscape(entry.region || entry.group || 'Unassigned')}`,
-    '- **Type:** Location',
-    '- **Source:** Arkenfell'
-  ];
-
-  const areas = normalizeLocationAreas(entry.areas);
-  lines.push('', '## Areas', '');
-
-  if (areas.length) {
-    areas.forEach(area => {
-      const publicText =
-        area.summary ||
-        area.basicInfo ||
-        area.description ||
-        area.publicInfo ||
-        `A named area within ${entry.name}.`;
-
-      lines.push(`### ${markdownEscape(area.name)}`, '', markdownParagraphs(publicText), '');
-
-      const hiddenText = area.hiddenInfo || area.gmInfo;
-      if (hiddenText) {
-        lines.push(':::gm', '', '#### GM information', '', markdownParagraphs(hiddenText), '', ':::', '');
+  function buildOptionArticle(entry, type) {
+    const config = {
+      skill: {
+        heading: 'Skill profile',
+        directory: 'skill-directory',
+        directoryLabel: 'Skill Directory',
+        fallback: 'No skill overview is currently recorded.'
+      },
+      ability: {
+        heading: 'Requirements and use',
+        directory: 'ability-directory',
+        directoryLabel: 'Ability Directory',
+        fallback: 'No ability overview is currently recorded.'
+      },
+      trait: {
+        heading: 'Mechanical effects',
+        directory: 'trait-catalog',
+        directoryLabel: 'Trait Directory',
+        fallback: 'No trait overview is currently recorded.'
       }
-    });
-  } else {
-    lines.push('No separately named areas are currently recorded for this location.', '');
+    }[type];
+
+    const lines = [
+      `# ${markdownEscape(entry.name)}`,
+      '',
+      markdownParagraphs(entry.summary || config.fallback),
+      '',
+      '## Classification',
+      '',
+      `- **Group:** ${markdownInline(entry.group || 'Other')}`,
+      `- **Type:** ${markdownInline(entry.kind || type)}`
+    ];
+    appendFactSection(lines, config.heading, entry.facts);
+    appendRelatedLinks(lines, entry);
+    lines.push('', '## Continue browsing', '', `[Return to the ${config.directoryLabel}](#${config.directory}) to compare other options.`);
+    return lines;
   }
 
-  if (state.gmMode && entry.hiddenInfo) {
-    lines.push(':::gm', '', '## GM information', '', markdownParagraphs(entry.hiddenInfo), '', ':::', '');
+  async function loadGeneratedArticleMarkdown(article) {
+    const supportedTypes = new Set(['location', 'person', 'arcana', 'skill', 'ability', 'trait']);
+    if (!supportedTypes.has(article.generatedType) || !article.dataSource || !article.recordName) {
+      throw new Error(`Unsupported generated article: ${article.id}`);
+    }
+
+    let dataset = generatedArticleDataCache.get(article.dataSource);
+    if (!dataset) {
+      const response = await fetch(article.dataSource, { cache: 'no-store' });
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      dataset = await response.json();
+      generatedArticleDataCache.set(article.dataSource, dataset);
+    }
+
+    const expectedSource = article.sourceWorld || dataset.sourceWorld || 'Arkenfell';
+    const entry = (dataset.entries || []).find(item =>
+      item.name === article.recordName &&
+      (item.sourceWorld || dataset.sourceWorld || 'Arkenfell') === expectedSource
+    );
+    if (!entry) throw new Error(`${article.generatedType} record not found: ${article.recordName}`);
+
+    let lines;
+    if (article.generatedType === 'location') lines = buildLocationArticle(entry);
+    else if (article.generatedType === 'person') lines = buildPersonArticle(entry);
+    else if (article.generatedType === 'arcana') lines = buildArcanaArticle(entry);
+    else lines = buildOptionArticle(entry, article.generatedType);
+
+    return {
+      markdown: lines.join('\n'),
+      spoiler: Boolean(entry.spoiler)
+    };
   }
-
-  lines.push(
-    '## Continue browsing',
-    '',
-    `[Return to the Places Directory](#place-directory) to browse other locations in ${markdownEscape(entry.region || entry.group || 'Arkenfell')}.`
-  );
-
-  return {
-    markdown: lines.join('\n'),
-    spoiler: Boolean(entry.spoiler)
-  };
-}
 
 async function loadArticle(id) {
   const requested = state.articles.find(item => item.id === id);
@@ -456,7 +606,7 @@ async function loadArticle(id) {
 
     if (generatedArticle?.spoiler) {
       const bodyMarkdown = markdown.replace(/^# .+\n+/, '');
-      content.innerHTML = `${renderMeta(article)}<h1>${escapeHtml(article.title)}</h1><details class="directory-spoiler-disclosure generated-article-spoiler"><summary>Spoiler warning — reveal location article</summary><div class="generated-article-spoiler-body">${renderArticleMarkdown(bodyMarkdown)}</div></details>`;
+      content.innerHTML = `${renderMeta(article)}<h1>${escapeHtml(article.title)}</h1><details class="directory-spoiler-disclosure generated-article-spoiler"><summary>Spoiler warning — reveal article</summary><div class="generated-article-spoiler-body">${renderArticleMarkdown(bodyMarkdown)}</div></details>`;
     } else {
       content.innerHTML = `${renderMeta(article)}${renderArticleMarkdown(markdown)}`;
     }
@@ -476,11 +626,17 @@ function filterArticles(query) {
   const articles = getVisibleArticles();
   const needle = query.trim().toLowerCase();
   if (!needle) return articles;
-  return articles.filter(article => {
+
+  const matches = articles.filter(article => {
+    if (needle.length < 2 && article.navigation === false) return false;
     const gmTags = state.gmMode ? (article.gmTags || []) : [];
     const haystack = [article.title, article.category, article.summary, ...(article.tags || []), ...gmTags].join(' ').toLowerCase();
     return haystack.includes(needle);
   });
+
+  const regular = matches.filter(article => article.navigation !== false);
+  const generated = matches.filter(article => article.navigation === false).slice(0, 300);
+  return [...regular, ...generated];
 }
 
 async function init() {
@@ -492,7 +648,21 @@ async function init() {
     const response = await fetch('content/index.json', { cache: 'no-store' });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const data = await response.json();
-    state.articles = data.articles;
+
+    let generatedArticles = [];
+    try {
+      const generatedResponse = await fetch('content/generated-index.json', { cache: 'no-store' });
+      if (generatedResponse.ok) {
+        const generatedData = await generatedResponse.json();
+        generatedArticles = Array.isArray(generatedData.articles) ? generatedData.articles : [];
+      } else if (generatedResponse.status !== 404) {
+        console.warn(`Generated article index returned HTTP ${generatedResponse.status}.`);
+      }
+    } catch (generatedError) {
+      console.warn('Generated article index could not be loaded.', generatedError);
+    }
+
+    state.articles = [...data.articles, ...generatedArticles];
 
     const search = document.getElementById('search');
     search.addEventListener('input', () => renderNavigation(filterArticles(search.value)));

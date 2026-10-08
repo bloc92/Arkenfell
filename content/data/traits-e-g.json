@@ -12,7 +12,8 @@
           "value": "Persuasion +8, Self-Discipline +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-employer-may-replace-you"
     },
     {
       "name": "Everyone Else Moved On",
@@ -25,7 +26,8 @@
           "value": "Empathy +8, Social Inquiry +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-everyone-else-moved-on"
     },
     {
       "name": "Expected to Take Over the Business",
@@ -38,7 +40,8 @@
           "value": "Bargaining +8, Leadership +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-expected-to-take-over-the-business"
     },
     {
       "name": "Failed Noble Suitor",
@@ -51,7 +54,8 @@
           "value": "Etiquette +8, Persuasion +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-failed-noble-suitor"
     },
     {
       "name": "Failed Your First Adult Responsibility",
@@ -64,7 +68,8 @@
           "value": "Self-Discipline +8, Empathy +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-failed-your-first-adult-responsibility"
     },
     {
       "name": "Family Debt Bearer",
@@ -77,7 +82,8 @@
           "value": "Bargaining +8, Archival Research +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-family-debt-bearer"
     },
     {
       "name": "Family Name Disgraced",
@@ -90,7 +96,8 @@
           "value": "Social Inquiry +8, Persuasion +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-family-name-disgraced"
     },
     {
       "name": "First Real Contract on the Line",
@@ -103,7 +110,8 @@
           "value": "Archival Research +8, Bargaining +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-real-contract-on-the-line"
     },
     {
       "name": "First Time You Had to Kill",
@@ -116,7 +124,8 @@
           "value": "Courage +8, Self-Discipline +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-time-you-had-to-kill"
     },
     {
       "name": "Friend Needs Your Help",
@@ -129,7 +138,8 @@
           "value": "Empathy +8, Self-Discipline +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-friend-needs-your-help"
     },
     {
       "name": "Fugitive Under Alias",
@@ -142,7 +152,8 @@
           "value": "Deception +8, Disguise +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-fugitive-under-alias"
     },
     {
       "name": "Gang Escapee",
@@ -155,7 +166,8 @@
           "value": "Stealth +8, Thieves' Lore +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-gang-escapee"
     },
     {
       "name": "Good at a Life You Hate",
@@ -168,7 +180,8 @@
           "value": "Self-Discipline +8, Courage +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-good-at-a-life-you-hate"
     },
     {
       "name": "Expedition Scribe",
@@ -181,7 +194,8 @@
           "value": "Writing +8, Cartography +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-expedition-scribe"
     },
     {
       "name": "Farm Laborer",
@@ -194,7 +208,8 @@
           "value": "Natural Lore +8, Might +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-farm-laborer"
     },
     {
       "name": "Fresh Academy Graduate",
@@ -207,7 +222,8 @@
           "value": "Writing +8, Archival Research +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-fresh-academy-graduate"
     },
     {
       "name": "General Repair Hand",
@@ -220,7 +236,8 @@
           "value": "Handcrafting +8, Engineering +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-general-repair-hand"
     },
     {
       "name": "Guild Contract Holder",
@@ -233,7 +250,8 @@
           "value": "Bargaining +8, Cultural Lore +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-guild-contract-holder"
     },
     {
       "name": "Guild Journeyman",
@@ -246,7 +264,8 @@
           "value": "Handcrafting +8, Appraisal +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-guild-journeyman"
     },
     {
       "name": "Fascinated by Magic",
@@ -259,7 +278,8 @@
           "value": "Arcane Lore +6, Searching +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-fascinated-by-magic"
     },
     {
       "name": "First Familiar Bond",
@@ -272,7 +292,8 @@
           "value": "Animal Handling +6, Empathy +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-familiar-bond"
     },
     {
       "name": "Fought Other Children's Battles",
@@ -285,7 +306,8 @@
           "value": "Brawling +6, Leadership +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-fought-other-children-s-battles"
     },
     {
       "name": "Found a Strange Relic",
@@ -298,7 +320,8 @@
           "value": "Relic Lore +6, Appraisal +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-found-a-strange-relic"
     },
     {
       "name": "Garden Child",
@@ -311,7 +334,8 @@
           "value": "Natural Lore +6, Touching +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-garden-child"
     },
     {
       "name": "Estate Tenant Child",
@@ -324,7 +348,8 @@
           "value": "Bargaining +6, Cultural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-estate-tenant-child"
     },
     {
       "name": "Farmyard Child",
@@ -337,7 +362,8 @@
           "value": "Animal Handling +6, Natural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-farmyard-child"
     },
     {
       "name": "Ferry Child",
@@ -350,7 +376,8 @@
           "value": "Rowing +6, Vessel Piloting +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-ferry-child"
     },
     {
       "name": "Festival Circuit Child",
@@ -363,7 +390,8 @@
           "value": "Performance +6, Bargaining +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-festival-circuit-child"
     },
     {
       "name": "Fishing Boat Child",
@@ -376,7 +404,8 @@
           "value": "Rowing +6, Sail Handling +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-fishing-boat-child"
     },
     {
       "name": "Forest Wanderer",
@@ -389,7 +418,8 @@
           "value": "Natural Lore +6, Navigation +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-forest-wanderer"
     },
     {
       "name": "Garden Helper",
@@ -402,7 +432,8 @@
           "value": "Natural Lore +6, Touching +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-garden-helper"
     },
     {
       "name": "Gatehouse Child",
@@ -415,7 +446,8 @@
           "value": "Seeing +6, Persuasion +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-gatehouse-child"
     },
     {
       "name": "Graveyard Keeper's Child",
@@ -428,7 +460,8 @@
           "value": "Religious Lore +6, Historical Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-graveyard-keeper-s-child"
     },
     {
       "name": "Evasive Fighter",
@@ -441,7 +474,8 @@
           "value": "Acrobatics +15, Dueling +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-evasive-fighter"
     },
     {
       "name": "Formation Fighter",
@@ -454,7 +488,8 @@
           "value": "Military Lore +15, Shields +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-formation-fighter"
     },
     {
       "name": "Grappler",
@@ -467,7 +502,8 @@
           "value": "Brawling +15, Might +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-grappler"
     },
     {
       "name": "Enduring Intellect",
@@ -480,7 +516,8 @@
           "value": "Constitution +4, Intelligence +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-enduring-intellect"
     },
     {
       "name": "Enduring Mobility",
@@ -493,7 +530,8 @@
           "value": "Constitution +4, Dexterity +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-enduring-mobility"
     },
     {
       "name": "Expressive Precision",
@@ -506,7 +544,8 @@
           "value": "Accuracy +4, Communication +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-expressive-precision"
     },
     {
       "name": "Fine Coordination",
@@ -519,7 +558,8 @@
           "value": "Dexterity +4, Accuracy +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-fine-coordination"
     },
     {
       "name": "Focused Precision",
@@ -532,7 +572,8 @@
           "value": "Accuracy +4, Willpower +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-focused-precision"
     },
     {
       "name": "Forceful Combat",
@@ -545,7 +586,8 @@
           "value": "Strength +6, Fighting +2"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-forceful-combat"
     },
     {
       "name": "Forceful Precision",
@@ -558,7 +600,8 @@
           "value": "Strength +4, Accuracy +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-forceful-precision"
     },
     {
       "name": "Forceful Presence",
@@ -571,7 +614,8 @@
           "value": "Strength +4, Communication +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-forceful-presence"
     },
     {
       "name": "Graceful Presence",
@@ -584,7 +628,8 @@
           "value": "Dexterity +4, Communication +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-graceful-presence"
     },
     {
       "name": "Grounded Presence",
@@ -597,7 +642,8 @@
           "value": "Constitution +4, Communication +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-grounded-presence"
     },
     {
       "name": "Entertainer's Line",
@@ -610,7 +656,8 @@
           "value": "Performance +6, Persuasion +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-entertainer-s-line"
     },
     {
       "name": "Fallen House",
@@ -623,7 +670,8 @@
           "value": "Heraldry +6, Social Inquiry +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-fallen-house"
     },
     {
       "name": "Family Under a Curse",
@@ -636,7 +684,8 @@
           "value": "Forbidden Lore +6, Self-Discipline +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-family-under-a-curse"
     },
     {
       "name": "Farmstead Line",
@@ -649,7 +698,8 @@
           "value": "Natural Lore +6, Animal Handling +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-farmstead-line"
     },
     {
       "name": "Ferrykeeper Line",
@@ -662,7 +712,8 @@
           "value": "Vessel Piloting +6, Rowing +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-ferrykeeper-line"
     },
     {
       "name": "Firstblood House Scion",
@@ -675,7 +726,8 @@
           "value": "Heraldry +6, Historical Lore +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-firstblood-house-scion"
     },
     {
       "name": "Fishing Family",
@@ -688,7 +740,8 @@
           "value": "Rowing +6, Natural Lore +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-fishing-family"
     },
     {
       "name": "Forester Family",
@@ -701,7 +754,8 @@
           "value": "Natural Lore +6, Handcrafting +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-forester-family"
     },
     {
       "name": "Frontier Family",
@@ -714,7 +768,8 @@
           "value": "Natural Lore +6, Handcrafting +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-frontier-family"
     },
     {
       "name": "Generations in Service",
@@ -727,7 +782,8 @@
           "value": "Etiquette +6, Empathy +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-generations-in-service"
     },
     {
       "name": "Gravekeeper Line",
@@ -740,7 +796,8 @@
           "value": "Religious Lore +6, Cultural Lore +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-gravekeeper-line"
     },
     {
       "name": "Economic Scholar",
@@ -753,7 +810,8 @@
           "value": "Appraisal +15, Faction Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-economic-scholar"
     },
     {
       "name": "Engineer",
@@ -766,7 +824,8 @@
           "value": "Engineering +15, Handcrafting +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-engineer"
     },
     {
       "name": "Faction Analyst",
@@ -779,7 +838,8 @@
           "value": "Faction Lore +15, Social Inquiry +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-faction-analyst"
     },
     {
       "name": "Folklorist",
@@ -792,7 +852,8 @@
           "value": "Cultural Lore +15, Historical Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-folklorist"
     },
     {
       "name": "Forbidden Scholar",
@@ -805,7 +866,8 @@
           "value": "Forbidden Lore +15, Archival Research +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-forbidden-scholar"
     },
     {
       "name": "Geographer",
@@ -818,7 +880,8 @@
           "value": "Cartography +15, Natural Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-geographer"
     },
     {
       "name": "Earth Arcana",
@@ -835,7 +898,8 @@
           "value": "Stone Fragment"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-earth-arcana"
     },
     {
       "name": "Enchantment Arcana",
@@ -852,7 +916,8 @@
           "value": "Minor Binding"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-enchantment-arcana"
     },
     {
       "name": "Fiber Arcana",
@@ -869,7 +934,8 @@
           "value": "Living Thread"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-fiber-arcana"
     },
     {
       "name": "Fire Arcana",
@@ -886,7 +952,8 @@
           "value": "Flame Strike"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-fire-arcana"
     },
     {
       "name": "Eldmark Barrowland",
@@ -899,7 +966,8 @@
           "value": "Earth Arcana +5, Historical Lore +8, Etiquette +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-eldmark-barrowland"
     },
     {
       "name": "Eldmark Beaconlander",
@@ -912,7 +980,8 @@
           "value": "Earth Arcana +5, Military Lore +8, Navigation +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-eldmark-beaconlander"
     },
     {
       "name": "Eldmark Oathstone",
@@ -925,7 +994,8 @@
           "value": "Earth Arcana +5, Religious Lore +8, Cultural Lore +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-eldmark-oathstone"
     },
     {
       "name": "Emberhorn Accord-Bred",
@@ -938,7 +1008,8 @@
           "value": "Power Arcana +5, Persuasion +8, Faction Lore +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-emberhorn-accord-bred"
     },
     {
       "name": "Emberhorn Housewise",
@@ -951,7 +1022,8 @@
           "value": "Power Arcana +5, Etiquette +8, Cultural Lore +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-emberhorn-housewise"
     },
     {
       "name": "Emberhorn Steel-Law",
@@ -964,7 +1036,8 @@
           "value": "Power Arcana +5, Military Lore +8, Self-Discipline +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-emberhorn-steel-law"
     },
     {
       "name": "Fangbound Guest-Law",
@@ -977,7 +1050,8 @@
           "value": "Beast Arcana +5, Cultural Lore +8, Persuasion +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-fangbound-guest-law"
     },
     {
       "name": "Fangbound Saddleborn",
@@ -990,7 +1064,8 @@
           "value": "Beast Arcana +5, Riding +8, Animal Handling +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-fangbound-saddleborn"
     },
     {
       "name": "Fangbound Trailwise",
@@ -1003,7 +1078,8 @@
           "value": "Beast Arcana +5, Tracking +8, Natural Lore +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-fangbound-trailwise"
     },
     {
       "name": "Freefang Bannerwise",
@@ -1016,7 +1092,8 @@
           "value": "Motion Arcana +5, Faction Lore +8, Military Lore +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-freefang-bannerwise"
     },
     {
       "name": "Freefang Fort-Town",
@@ -1029,7 +1106,8 @@
           "value": "Motion Arcana +5, Social Inquiry +8, Persuasion +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-freefang-fort-town"
     },
     {
       "name": "Freefang Roadfree",
@@ -1042,7 +1120,8 @@
           "value": "Motion Arcana +5, Navigation +8, Bargaining +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-freefang-roadfree"
     },
     {
       "name": "Earth Arcana Mastery",
@@ -1067,7 +1146,8 @@
           "value": "Earth Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-earth-arcana-mastery"
     },
     {
       "name": "Earthwright",
@@ -1088,7 +1168,8 @@
           "value": "characterLevel 10, Earth Arcana skill 30, Engineering skill 30, Earth Arcana trait 1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-earthwright"
     },
     {
       "name": "Echo Arcana",
@@ -1105,7 +1186,8 @@
           "value": "Echo Sense"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-echo-arcana"
     },
     {
       "name": "Echo Arcana Mastery",
@@ -1130,7 +1212,8 @@
           "value": "Echo Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-echo-arcana-mastery"
     },
     {
       "name": "Enchantment Arcana Mastery",
@@ -1155,7 +1238,8 @@
           "value": "Enchantment Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-enchantment-arcana-mastery"
     },
     {
       "name": "Engineering Apex",
@@ -1176,7 +1260,8 @@
           "value": "Engineering Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-engineering-apex"
     },
     {
       "name": "Engineering Discipline",
@@ -1193,7 +1278,8 @@
           "value": "characterLevel 5, Engineering skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-engineering-discipline"
     },
     {
       "name": "Engineering Expertise",
@@ -1214,7 +1300,8 @@
           "value": "Engineering Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-engineering-expertise"
     },
     {
       "name": "Engineering Mastery",
@@ -1239,7 +1326,8 @@
           "value": "Engineering Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-engineering-mastery"
     },
     {
       "name": "Etiquette Apex",
@@ -1260,7 +1348,8 @@
           "value": "Etiquette Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-etiquette-apex"
     },
     {
       "name": "Etiquette Discipline",
@@ -1277,7 +1366,8 @@
           "value": "characterLevel 5, Etiquette skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-etiquette-discipline"
     },
     {
       "name": "Etiquette Expertise",
@@ -1298,7 +1388,8 @@
           "value": "Etiquette Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-etiquette-expertise"
     },
     {
       "name": "Etiquette Mastery",
@@ -1323,7 +1414,8 @@
           "value": "Etiquette Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-etiquette-mastery"
     },
     {
       "name": "Expedition Scholar",
@@ -1344,7 +1436,8 @@
           "value": "characterLevel 10, Historical Lore skill 30, Navigation skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-expedition-scholar"
     },
     {
       "name": "Faction Lore Apex",
@@ -1365,7 +1458,8 @@
           "value": "Faction Lore Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-faction-lore-apex"
     },
     {
       "name": "Faction Lore Discipline",
@@ -1382,7 +1476,8 @@
           "value": "characterLevel 5, Faction Lore skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-faction-lore-discipline"
     },
     {
       "name": "Faction Lore Expertise",
@@ -1403,7 +1498,8 @@
           "value": "Faction Lore Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-faction-lore-expertise"
     },
     {
       "name": "Faction Lore Mastery",
@@ -1428,7 +1524,8 @@
           "value": "Faction Lore Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-faction-lore-mastery"
     },
     {
       "name": "Fate Arcana",
@@ -1445,7 +1542,8 @@
           "value": "Omen Thread"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-fate-arcana"
     },
     {
       "name": "Fate Arcana Mastery",
@@ -1470,7 +1568,8 @@
           "value": "Fate Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-fate-arcana-mastery"
     },
     {
       "name": "Fearless Heart",
@@ -1487,7 +1586,8 @@
           "value": "characterLevel 20, Courage skill 35, Self-Discipline skill 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-fearless-heart"
     },
     {
       "name": "Fiber Arcana Mastery",
@@ -1512,7 +1612,8 @@
           "value": "Fiber Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-fiber-arcana-mastery"
     },
     {
       "name": "Field Physician",
@@ -1533,7 +1634,8 @@
           "value": "characterLevel 10, Medicine skill 30, Natural Lore skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-field-physician"
     },
     {
       "name": "Fire Arcana Mastery",
@@ -1558,7 +1660,8 @@
           "value": "Fire Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-fire-arcana-mastery"
     },
     {
       "name": "First Fang of the Runed Argent Fang",
@@ -1566,7 +1669,8 @@
       "kind": "Trait",
       "summary": "The Runed Argent Fang has completed its recognition process and acknowledged you as First Fang, the order's lawful commander. You may issue order-wide commands, appoint officers within the order's rules, direct its fortresses and patrols, and speak for the institution. The title gives genuine command authority, but the order remains depleted, divided, underfunded, and dependent upon the willingness and ability of its surviving members to carry out those commands.\n\nNarrative effects: The character has been formally recognized as First Fang and is the lawful commander of the Runed Argent Fang. Members of every internal camp should recognize that the command question has been institutionally settled, even when they disagree with the character's policies, distrust their judgment, request release from service, or resist specific reforms through lawful order procedure. The character may issue order-wide commands, appoint or remove officers within established rules, direct Wolfsward and order patrols, and represent the order before outside authorities. This trait does not restore lost personnel, equipment, wages, recruitment systems, unity, morale, or regalia. Orders that are impossible, unlawful, suicidal, or unsupported may still produce protest, refusal, desertion, or institutional consequences rather than effortless obedience.",
       "facts": [],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-fang-of-the-runed-argent-fang"
     },
     {
       "name": "Forbidden Antiquarian",
@@ -1587,7 +1691,8 @@
           "value": "characterLevel 10, Forbidden Lore skill 30, Relic Lore skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-forbidden-antiquarian"
     },
     {
       "name": "Force Arcana",
@@ -1604,7 +1709,8 @@
           "value": "Force Push"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-force-arcana"
     },
     {
       "name": "Force Arcana Mastery",
@@ -1629,7 +1735,8 @@
           "value": "Force Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-force-arcana-mastery"
     },
     {
       "name": "Forge Mage",
@@ -1650,7 +1757,8 @@
           "value": "characterLevel 10, Fire Arcana skill 30, Smithing skill 30, Fire Arcana trait 1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-forge-mage"
     },
     {
       "name": "Forge Temper",
@@ -1671,7 +1779,8 @@
           "value": "characterLevel 10, Smithing skill 30, Engineering skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-forge-temper"
     },
     {
       "name": "Glass Arcana",
@@ -1688,7 +1797,8 @@
           "value": "Glass Gleam"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-glass-arcana"
     },
     {
       "name": "Glass Arcana Mastery",
@@ -1713,7 +1823,8 @@
           "value": "Glass Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-glass-arcana-mastery"
     },
     {
       "name": "Goblin",
@@ -1726,7 +1837,8 @@
           "value": "Stealth +15, Traps +15, Light Blades +10, Thieves' Lore +10, Stamina +25"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-goblin"
     },
     {
       "name": "Gravity Arcana",
@@ -1743,7 +1855,8 @@
           "value": "Gravity Shift"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-gravity-arcana"
     },
     {
       "name": "Gravity Arcana Mastery",
@@ -1768,7 +1881,8 @@
           "value": "Gravity Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-gravity-arcana-mastery"
     },
     {
       "name": "Greatblade Apex",
@@ -1789,7 +1903,8 @@
           "value": "Greatblade Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-greatblade-apex"
     },
     {
       "name": "Greatblade Discipline",
@@ -1806,7 +1921,8 @@
           "value": "characterLevel 5, Heavy Blades skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-greatblade-discipline"
     },
     {
       "name": "Greatblade Expertise",
@@ -1827,7 +1943,8 @@
           "value": "Greatblade Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-greatblade-expertise"
     },
     {
       "name": "Greatblade Mastery",
@@ -1852,7 +1969,8 @@
           "value": "Greatblade Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-greatblade-mastery"
     },
     {
       "name": "Greyhaven Foundling",
@@ -1865,7 +1983,8 @@
           "value": "Lost Royal Child of Valenreach"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-greyhaven-foundling"
     },
     {
       "name": "Exposure Hardened",
@@ -1878,7 +1997,8 @@
           "value": "Tolerance +15, Natural Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-exposure-hardened"
     },
     {
       "name": "Field Repairer",
@@ -1891,7 +2011,8 @@
           "value": "Handcrafting +15, Appraisal +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-field-repairer"
     },
     {
       "name": "Forceful Mover",
@@ -1904,7 +2025,8 @@
           "value": "Might +15, Brawling +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-forceful-mover"
     },
     {
       "name": "Elder Care Helper",
@@ -1917,7 +2039,8 @@
           "value": "Empathy +6, Medicine +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-elder-care-helper"
     },
     {
       "name": "Farmhand",
@@ -1930,7 +2053,8 @@
           "value": "Might +6, Natural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-farmhand"
     },
     {
       "name": "Ferry Hand",
@@ -1943,7 +2067,8 @@
           "value": "Vessel Piloting +8, Rowing +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-ferry-hand"
     },
     {
       "name": "Fishing Dock Helper",
@@ -1956,7 +2081,8 @@
           "value": "Rowing +6, Sail Handling +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-fishing-dock-helper"
     },
     {
       "name": "Forest Path Runner",
@@ -1969,7 +2095,8 @@
           "value": "Running +6, Natural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-forest-path-runner"
     },
     {
       "name": "Game Hall Scorekeeper",
@@ -1982,7 +2109,8 @@
           "value": "Gambling +6, Social Inquiry +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-game-hall-scorekeeper"
     },
     {
       "name": "Gang Lookout",
@@ -1995,7 +2123,8 @@
           "value": "Seeing +6, Stealth +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-gang-lookout"
     },
     {
       "name": "Graveyard Tender",
@@ -2008,7 +2137,8 @@
           "value": "Religious Lore +6, Historical Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-graveyard-tender"
     },
     {
       "name": "Escaped a Rising Flood",
@@ -2021,7 +2151,8 @@
           "value": "Swimming +6, Navigation +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-escaped-a-rising-flood"
     },
     {
       "name": "Failed First Casting",
@@ -2034,7 +2165,8 @@
           "value": "Arcane Lore +6, Self-Discipline +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-failed-first-casting"
     },
     {
       "name": "Failed Someone Who Trusted You",
@@ -2047,7 +2179,8 @@
           "value": "Empathy +6, Self-Discipline +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-failed-someone-who-trusted-you"
     },
     {
       "name": "Falsely Accused",
@@ -2060,7 +2193,8 @@
           "value": "Persuasion +6, Social Inquiry +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-falsely-accused"
     },
     {
       "name": "First Axe Lessons",
@@ -2073,7 +2207,8 @@
           "value": "Axes +6, Bludgeons +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-axe-lessons"
     },
     {
       "name": "First Betrayal",
@@ -2086,7 +2221,8 @@
           "value": "Empathy +6, Social Inquiry +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-betrayal"
     },
     {
       "name": "First Bow Lessons",
@@ -2099,7 +2235,8 @@
           "value": "Bows +6, Crossbows +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-bow-lessons"
     },
     {
       "name": "First Brave Rescue",
@@ -2112,7 +2249,8 @@
           "value": "Courage +6, Leadership +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-brave-rescue"
     },
     {
       "name": "First Close-Quarters Lessons",
@@ -2125,7 +2263,8 @@
           "value": "Brawling +6, Light Blades +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-close-quarters-lessons"
     },
     {
       "name": "First Crossbow Lessons",
@@ -2138,7 +2277,8 @@
           "value": "Crossbows +6, Bows +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-crossbow-lessons"
     },
     {
       "name": "First Greatblade Lessons",
@@ -2151,7 +2291,8 @@
           "value": "Heavy Blades +6, Dueling +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-greatblade-lessons"
     },
     {
       "name": "First Knife-Fighting Lessons",
@@ -2164,7 +2305,8 @@
           "value": "Light Blades +6, Brawling +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-knife-fighting-lessons"
     },
     {
       "name": "First Lance Lessons",
@@ -2177,7 +2319,8 @@
           "value": "Lances +6, Spears +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-lance-lessons"
     },
     {
       "name": "First Long Journey",
@@ -2190,7 +2333,8 @@
           "value": "Navigation +6, Cultural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-long-journey"
     },
     {
       "name": "First Mace-and-Club Lessons",
@@ -2203,7 +2347,8 @@
           "value": "Bludgeons +6, Axes +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-mace-and-club-lessons"
     },
     {
       "name": "First Paid Work",
@@ -2216,7 +2361,8 @@
           "value": "Bargaining +6, Appraisal +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-paid-work"
     },
     {
       "name": "First Polearm Lessons",
@@ -2229,7 +2375,8 @@
           "value": "Polearms +6, Staff Fighting +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-polearm-lessons"
     },
     {
       "name": "First Public Shame",
@@ -2242,7 +2389,8 @@
           "value": "Etiquette +6, Social Inquiry +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-public-shame"
     },
     {
       "name": "First Real Grief",
@@ -2255,7 +2403,8 @@
           "value": "Empathy +6, Self-Discipline +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-real-grief"
     },
     {
       "name": "First Sling Lessons",
@@ -2268,7 +2417,8 @@
           "value": "Slings +6, Thrown Weapons +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-sling-lessons"
     },
     {
       "name": "First Spear-and-Shield Lessons",
@@ -2281,7 +2431,8 @@
           "value": "Spears +6, Shields +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-spear-and-shield-lessons"
     },
     {
       "name": "First Spell Lessons",
@@ -2294,7 +2445,8 @@
           "value": "Arcane Lore +6, Self-Discipline +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-spell-lessons"
     },
     {
       "name": "First Staff Lessons",
@@ -2307,7 +2459,8 @@
           "value": "Staff Fighting +6, Polearms +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-staff-lessons"
     },
     {
       "name": "First Storm at Sea",
@@ -2320,7 +2473,8 @@
           "value": "Sail Handling +6, Hearing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-storm-at-sea"
     },
     {
       "name": "First Sword-and-Shield Lessons",
@@ -2333,7 +2487,8 @@
           "value": "Dueling +6, Shields +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-sword-and-shield-lessons"
     },
     {
       "name": "First Throwing Lessons",
@@ -2346,7 +2501,8 @@
           "value": "Thrown Weapons +6, Slings +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-throwing-lessons"
     },
     {
       "name": "First Thrown-Blade Lessons",
@@ -2359,7 +2515,8 @@
           "value": "Thrown Weapons +6, Light Blades +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-thrown-blade-lessons"
     },
     {
       "name": "First Time Left Home Alone",
@@ -2372,7 +2529,8 @@
           "value": "Navigation +6, Social Inquiry +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-time-left-home-alone"
     },
     {
       "name": "Forbidden Book Discovered",
@@ -2385,7 +2543,8 @@
           "value": "Forbidden Lore +6, Archival Research +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-forbidden-book-discovered"
     },
     {
       "name": "Found a Buried Charm",
@@ -2398,7 +2557,8 @@
           "value": "Relic Lore +6, Appraisal +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-found-a-buried-charm"
     },
     {
       "name": "Found a Lost Child",
@@ -2411,7 +2571,8 @@
           "value": "Searching +6, Social Inquiry +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-found-a-lost-child"
     },
     {
       "name": "Found an Old Map",
@@ -2424,7 +2585,8 @@
           "value": "Cartography +6, Historical Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-found-an-old-map"
     },
     {
       "name": "Got Lost Far From Home",
@@ -2437,7 +2599,8 @@
           "value": "Navigation +6, Seeing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-got-lost-far-from-home"
     },
     {
       "name": "Enchanter",
@@ -2450,7 +2613,8 @@
           "value": "Handcrafting +15, Arcane Lore +5, Enchantment Arcana +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-enchanter"
     },
     {
       "name": "Excavator",
@@ -2463,7 +2627,8 @@
           "value": "Engineering +15, Handcrafting +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-excavator"
     },
     {
       "name": "Expedition Planner",
@@ -2476,7 +2641,8 @@
           "value": "Military Lore +15, Navigation +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-expedition-planner"
     },
     {
       "name": "Farmer",
@@ -2489,7 +2655,8 @@
           "value": "Natural Lore +15, Handcrafting +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-farmer"
     },
     {
       "name": "Ferryman",
@@ -2502,7 +2669,8 @@
           "value": "Vessel Piloting +15, Rowing +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-ferryman"
     },
     {
       "name": "Fisher",
@@ -2515,7 +2683,8 @@
           "value": "Natural Lore +15, Swimming +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-fisher"
     },
     {
       "name": "Forager",
@@ -2528,7 +2697,8 @@
           "value": "Natural Lore +15, Searching +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-forager"
     },
     {
       "name": "Gardener",
@@ -2541,7 +2711,8 @@
           "value": "Natural Lore +15, Handcrafting +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-gardener"
     },
     {
       "name": "Guild Professional",
@@ -2554,7 +2725,8 @@
           "value": "Cultural Lore +15, Bargaining +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-guild-professional"
     },
     {
       "name": "Elementborn — Ashborn",
@@ -2567,7 +2739,8 @@
           "value": "Stealth +8, Tolerance +8, Smoke Arcana +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-elementborn-ashborn"
     },
     {
       "name": "Elementborn — Emberborn",
@@ -2580,7 +2753,8 @@
           "value": "Tolerance +8, Courage +8, Fire Arcana +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-elementborn-emberborn"
     },
     {
       "name": "Elementborn — Frostborn",
@@ -2593,7 +2767,8 @@
           "value": "Tolerance +11, Touching +5, Cold Arcana +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-elementborn-frostborn"
     },
     {
       "name": "Elementborn — Galeborn",
@@ -2606,7 +2781,8 @@
           "value": "Acrobatics +8, Seeing +8, Air Arcana +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-elementborn-galeborn"
     },
     {
       "name": "Elementborn — Ironveined",
@@ -2619,7 +2795,8 @@
           "value": "Touching +8, Tolerance +8, Metal Arcana +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-elementborn-ironveined"
     },
     {
       "name": "Elementborn — Rootborn",
@@ -2632,7 +2809,8 @@
           "value": "Smelling +8, Tolerance +8, Wood Arcana +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-elementborn-rootborn"
     },
     {
       "name": "Elementborn — Stoneborn",
@@ -2645,7 +2823,8 @@
           "value": "Might +8, Tolerance +8, Earth Arcana +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-elementborn-stoneborn"
     },
     {
       "name": "Elementborn — Stormborn",
@@ -2658,7 +2837,8 @@
           "value": "Running +8, Courage +8, Lightning Arcana +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-elementborn-stormborn"
     },
     {
       "name": "Elementborn — Tideborn",
@@ -2671,7 +2851,8 @@
           "value": "Swimming +8, Tolerance +8, Water Arcana +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-elementborn-tideborn"
     },
     {
       "name": "Elf",
@@ -2684,7 +2865,8 @@
           "value": "Seeing +8, Hearing +8, Acrobatics +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-elf"
     },
     {
       "name": "Foxfolk Beastkin",
@@ -2697,7 +2879,8 @@
           "value": "Hearing +8, Seeing +8, Stealth +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-foxfolk-beastkin"
     },
     {
       "name": "Gnome",
@@ -2710,7 +2893,8 @@
           "value": "Searching +8, Touching +8, Legerdemain +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-gnome"
     },
     {
       "name": "Goatfolk Beastkin",
@@ -2723,7 +2907,8 @@
           "value": "Climbing +8, Acrobatics +8, Jumping +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-goatfolk-beastkin"
     },
     {
       "name": "Empathic Listener",
@@ -2736,7 +2921,8 @@
           "value": "Empathy +15, Persuasion +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-empathic-listener"
     },
     {
       "name": "False Identity Specialist",
@@ -2749,7 +2935,8 @@
           "value": "Disguise +15, Etiquette +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-false-identity-specialist"
     },
     {
       "name": "Fine Ball Attire Set",
@@ -2762,7 +2949,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-fine-ball-attire-set"
     },
     {
       "name": "Frontier Travel Clothes Set",
@@ -2775,7 +2963,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-frontier-travel-clothes-set"
     },
     {
       "name": "Gambeson Set",
@@ -2788,7 +2977,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-gambeson-set"
     },
     {
       "name": "Estoc",
@@ -2801,7 +2991,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-estoc"
     },
     {
       "name": "Fauchard",
@@ -2814,7 +3005,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-fauchard"
     },
     {
       "name": "Flail",
@@ -2827,7 +3019,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-flail"
     },
     {
       "name": "Glaive",
@@ -2840,7 +3033,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-glaive"
     },
     {
       "name": "Great Axe",
@@ -2853,7 +3047,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-great-axe"
     },
     {
       "name": "Greatsword",
@@ -2866,7 +3061,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-greatsword"
     },
     {
       "name": "Escaped a Gang",
@@ -2879,7 +3075,8 @@
           "value": "Running +6, Stealth +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-escaped-a-gang"
     },
     {
       "name": "Evicted With the Household",
@@ -2892,7 +3089,8 @@
           "value": "Navigation +6, Bargaining +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-evicted-with-the-household"
     },
     {
       "name": "Exiled Teen",
@@ -2905,7 +3103,8 @@
           "value": "Cultural Lore +6, Navigation +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-exiled-teen"
     },
     {
       "name": "Expelled Without Scandal",
@@ -2918,7 +3117,8 @@
           "value": "Self-Discipline +6, Cultural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-expelled-without-scandal"
     },
     {
       "name": "Failed to Join the Guard",
@@ -2931,7 +3131,8 @@
           "value": "Military Lore +6, Self-Discipline +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-failed-to-join-the-guard"
     },
     {
       "name": "First Duel Lost Badly",
@@ -2944,7 +3145,8 @@
           "value": "Dueling +6, Courage +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-duel-lost-badly"
     },
     {
       "name": "First Duel Won",
@@ -2957,7 +3159,8 @@
           "value": "Dueling +6, Leadership +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-duel-won"
     },
     {
       "name": "First Kill Remembered",
@@ -2970,7 +3173,8 @@
           "value": "Empathy +6, Self-Discipline +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-kill-remembered"
     },
     {
       "name": "First Love Scandal",
@@ -2983,7 +3187,8 @@
           "value": "Deception +6, Empathy +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-love-scandal"
     },
     {
       "name": "First Spell Gone Wrong",
@@ -2996,7 +3201,8 @@
           "value": "Arcane Lore +6, Self-Discipline +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-spell-gone-wrong"
     },
     {
       "name": "First Spell Saved Someone",
@@ -3009,7 +3215,8 @@
           "value": "Courage +6, Arcane Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-first-spell-saved-someone"
     },
     {
       "name": "Forbidden Romance",
@@ -3022,7 +3229,8 @@
           "value": "Empathy +6, Deception +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-forbidden-romance"
     },
     {
       "name": "Friendship Became Rivalry",
@@ -3035,7 +3243,8 @@
           "value": "Self-Discipline +6, Empathy +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-friendship-became-rivalry"
     },
     {
       "name": "Early Magic Prodigy",
@@ -3048,7 +3257,8 @@
           "value": "Arcane Lore +8, Self-Discipline +4, Mana +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-early-magic-prodigy"
     },
     {
       "name": "Estate Worker",
@@ -3061,7 +3271,8 @@
           "value": "Natural Lore +8, Handcrafting +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-estate-worker"
     },
     {
       "name": "Failed Academy Student",
@@ -3074,7 +3285,8 @@
           "value": "Archival Research +8, Self-Discipline +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-failed-academy-student"
     },
     {
       "name": "Farmstead Worker",
@@ -3087,7 +3299,8 @@
           "value": "Natural Lore +8, Might +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-farmstead-worker"
     },
     {
       "name": "Fisher's Apprentice",
@@ -3100,7 +3313,8 @@
           "value": "Rowing +8, Sail Handling +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-fisher-s-apprentice"
     },
     {
       "name": "Forbidden Text Reader",
@@ -3113,7 +3327,8 @@
           "value": "Forbidden Lore +8, Archival Research +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-forbidden-text-reader"
     },
     {
       "name": "Gang Runner",
@@ -3126,7 +3341,8 @@
           "value": "Deception +8, Thieves' Lore +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-gang-runner"
     },
     {
       "name": "Guild Apprentice",
@@ -3139,7 +3355,8 @@
           "value": "Handcrafting +8, Cultural Lore +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-guild-apprentice"
     },
     {
       "name": "Fostered Between Homes",
@@ -3152,7 +3369,8 @@
           "value": "Etiquette +6, Cultural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-fostered-between-homes"
     },
     {
       "name": "Found After Vanishing",
@@ -3165,7 +3383,8 @@
           "value": "Navigation +6, Searching +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-found-after-vanishing"
     },
     {
       "name": "Found in the Rain",
@@ -3178,7 +3397,8 @@
           "value": "Tolerance +6, Seeing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-found-in-the-rain"
     },
     {
       "name": "Early Questioner",
@@ -3191,7 +3411,8 @@
           "value": "Social Inquiry +6, Persuasion +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-early-questioner"
     },
     {
       "name": "Early Walker",
@@ -3204,7 +3425,8 @@
           "value": "Running +6, Acrobatics +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-early-walker"
     },
     {
       "name": "Fascinated by Firelight",
@@ -3217,7 +3439,8 @@
           "value": "Seeing +6, Courage +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-fascinated-by-firelight"
     },
     {
       "name": "Feared Deep Water",
@@ -3230,7 +3453,8 @@
           "value": "Swimming +6, Courage +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-feared-deep-water"
     },
     {
       "name": "Feared Dogs",
@@ -3243,7 +3467,8 @@
           "value": "Animal Handling +6, Courage +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-feared-dogs"
     },
     {
       "name": "Fed Every Animal",
@@ -3256,7 +3481,8 @@
           "value": "Animal Handling +6, Natural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-fed-every-animal"
     },
     {
       "name": "Followed Music",
@@ -3269,7 +3495,8 @@
           "value": "Hearing +6, Musical Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-followed-music"
     },
     {
       "name": "Followed Older Children",
@@ -3282,7 +3509,8 @@
           "value": "Cultural Lore +6, Social Inquiry +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-followed-older-children"
     },
     {
       "name": "Gentle With Small Things",
@@ -3295,7 +3523,8 @@
           "value": "Touching +6, Empathy +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-gentle-with-small-things"
     },
     {
       "name": "Endurance Conditioning",
@@ -3308,7 +3537,8 @@
           "value": "Tolerance +8, Running +5, Swimming +3, Constitution +2, Strength +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-endurance-conditioning"
     },
     {
       "name": "Explosive Power Drills",
@@ -3321,7 +3551,8 @@
           "value": "Jumping +8, Might +5, Running +3, Strength +2, Dexterity +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-explosive-power-drills"
     },
     {
       "name": "Fear Conditioning",
@@ -3334,7 +3565,8 @@
           "value": "Courage +8, Self-Discipline +5, Tolerance +3, Willpower +2, Constitution +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-fear-conditioning"
     },
     {
       "name": "Formation Combat Drills",
@@ -3347,7 +3579,8 @@
           "value": "Polearms +8, Shields +5, Military Lore +3, Fighting +2, Intelligence +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-formation-combat-drills"
     },
     {
       "name": "Grappling Practice",
@@ -3360,7 +3593,8 @@
           "value": "Brawling +8, Might +5, Self-Discipline +3, Strength +2, Fighting +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-grappling-practice"
     },
     {
       "name": "Elven Enclave",
@@ -3373,7 +3607,8 @@
           "value": "Historical Lore +8, Etiquette +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-elven-enclave"
     },
     {
       "name": "Estate Tenant Village",
@@ -3386,7 +3621,8 @@
           "value": "Natural Lore +8, Cultural Lore +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-estate-tenant-village"
     },
     {
       "name": "Farm Household",
@@ -3399,7 +3635,8 @@
           "value": "Animal Handling +8, Natural Lore +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-farm-household"
     },
     {
       "name": "Ferry Settlement",
@@ -3412,7 +3649,8 @@
           "value": "Rowing +8, Vessel Piloting +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-ferry-settlement"
     },
     {
       "name": "Festival Caravan",
@@ -3425,7 +3663,8 @@
           "value": "Performance +8, Bargaining +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-festival-caravan"
     },
     {
       "name": "Fishing Fleet Household",
@@ -3438,7 +3677,8 @@
           "value": "Sail Handling +8, Rowing +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-fishing-fleet-household"
     },
     {
       "name": "Frontier Homestead",
@@ -3451,7 +3691,8 @@
           "value": "Handcrafting +8, Natural Lore +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-frontier-homestead"
     },
     {
       "name": "Garrison Town",
@@ -3464,7 +3705,8 @@
           "value": "Military Lore +8, Faction Lore +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-garrison-town"
     },
     {
       "name": "Guildhall Raised",
@@ -3477,7 +3719,8 @@
           "value": "Faction Lore +8, Appraisal +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-guildhall-raised"
     }
   ],
   "sourceWorld": "Arkenfell"

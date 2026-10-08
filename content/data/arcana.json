@@ -27,7 +27,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-acid-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -69,7 +69,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-air-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -111,7 +111,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-beast-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -153,7 +153,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-cold-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -195,7 +195,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-conjuration-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -237,7 +237,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-death-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -279,7 +279,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-divination-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -321,7 +321,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-earth-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -363,7 +363,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-enchantment-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -405,7 +405,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-fiber-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -447,7 +447,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-fire-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -489,7 +489,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-healing-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -531,7 +531,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-heroic-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -573,7 +573,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-illusion-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -615,7 +615,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-light-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -657,7 +657,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-lightning-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -699,7 +699,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-metal-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -741,7 +741,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-motion-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -783,7 +783,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-poison-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -825,7 +825,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": "power-arcana",
+      "articleId": "arcana-power-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -867,7 +867,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-protection-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -909,7 +909,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-rune-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -951,7 +951,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-shadow-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -993,7 +993,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-smoke-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -1035,7 +1035,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-spirit-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -1077,7 +1077,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-water-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -1119,7 +1119,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-wood-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -1161,7 +1161,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-blood-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -1203,7 +1203,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-bone-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -1245,7 +1245,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-crystal-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -1287,7 +1287,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-dream-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -1329,7 +1329,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-echo-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -1371,7 +1371,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-force-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -1413,7 +1413,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-glass-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -1455,7 +1455,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-gravity-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -1497,7 +1497,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-hunger-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -1539,7 +1539,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-magnetism-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -1581,7 +1581,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-memory-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -1623,7 +1623,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-mirror-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -1665,7 +1665,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-oath-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -1707,7 +1707,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-plague-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -1749,7 +1749,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-seal-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -1791,7 +1791,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-soul-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -1833,7 +1833,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-sound-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -1875,7 +1875,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-spatial-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -1917,7 +1917,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-storm-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -1959,7 +1959,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-abyss-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -2001,7 +2001,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-aegis-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -2043,7 +2043,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-dragon-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -2085,7 +2085,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-fate-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -2127,7 +2127,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-moon-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -2169,7 +2169,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-phoenix-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -2211,7 +2211,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-ruin-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -2253,7 +2253,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-sovereign-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -2295,7 +2295,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-star-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -2337,7 +2337,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-sun-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -2379,7 +2379,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-titan-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -2421,7 +2421,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-twilight-arcana",
       "linksLabel": "Related character options",
       "links": [
         {
@@ -2463,7 +2463,7 @@
         }
       ],
       "spoiler": false,
-      "articleId": null,
+      "articleId": "arcana-wyrd-arcana",
       "linksLabel": "Related character options",
       "links": [
         {

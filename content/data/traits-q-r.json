@@ -12,7 +12,8 @@
           "value": "Faction Lore +8, Courage +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-rebel-cell-recruit"
     },
     {
       "name": "Recent Exile",
@@ -25,7 +26,8 @@
           "value": "Cultural Lore +8, Navigation +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-recent-exile"
     },
     {
       "name": "Rejected From the Path You Wanted",
@@ -38,7 +40,8 @@
           "value": "Courage +8, Social Inquiry +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-rejected-from-the-path-you-wanted"
     },
     {
       "name": "Reluctant Heir",
@@ -51,7 +54,8 @@
           "value": "Heraldry +8, Self-Discipline +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-reluctant-heir"
     },
     {
       "name": "Rent or Board Is Due",
@@ -64,7 +68,8 @@
           "value": "Bargaining +8, Self-Discipline +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-rent-or-board-is-due"
     },
     {
       "name": "Runaway Heir",
@@ -77,7 +82,8 @@
           "value": "Deception +8, Heraldry +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-runaway-heir"
     },
     {
       "name": "Rebel Contact Adult",
@@ -90,7 +96,8 @@
           "value": "Faction Lore +8, Social Inquiry +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-rebel-contact-adult"
     },
     {
       "name": "Relic Hunter Novice",
@@ -103,7 +110,8 @@
           "value": "Relic Lore +8, Searching +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-relic-hunter-novice"
     },
     {
       "name": "Road Courier",
@@ -116,7 +124,8 @@
           "value": "Navigation +8, Riding +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-road-courier"
     },
     {
       "name": "Royal Attendant",
@@ -129,7 +138,8 @@
           "value": "Etiquette +8, Empathy +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-royal-attendant"
     },
     {
       "name": "Quiet Rule-Follower",
@@ -142,7 +152,8 @@
           "value": "Etiquette +6, Self-Discipline +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-quiet-rule-follower"
     },
     {
       "name": "Rebellious Child",
@@ -155,7 +166,8 @@
           "value": "Persuasion +6, Courage +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-rebellious-child"
     },
     {
       "name": "Remembered Every Face",
@@ -168,7 +180,8 @@
           "value": "Empathy +6, Social Inquiry +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-remembered-every-face"
     },
     {
       "name": "Remembered Every Route",
@@ -181,7 +194,8 @@
           "value": "Navigation +6, Cartography +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-remembered-every-route"
     },
     {
       "name": "River Swimmer",
@@ -194,7 +208,8 @@
           "value": "Swimming +6, Navigation +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-river-swimmer"
     },
     {
       "name": "Roof Runner",
@@ -207,7 +222,8 @@
           "value": "Acrobatics +6, Climbing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-roof-runner"
     },
     {
       "name": "Runaway for a Day",
@@ -220,7 +236,8 @@
           "value": "Navigation +6, Running +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-runaway-for-a-day"
     },
     {
       "name": "Quarry Child",
@@ -233,7 +250,8 @@
           "value": "Engineering +6, Might +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-quarry-child"
     },
     {
       "name": "Raised by Older Children",
@@ -246,7 +264,8 @@
           "value": "Cultural Lore +6, Social Inquiry +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-raised-by-older-children"
     },
     {
       "name": "Remote Farm Child",
@@ -259,7 +278,8 @@
           "value": "Self-Discipline +6, Natural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-remote-farm-child"
     },
     {
       "name": "Restricted Household Child",
@@ -272,7 +292,8 @@
           "value": "Self-Discipline +6, Seeing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-restricted-household-child"
     },
     {
       "name": "Riverbank Explorer",
@@ -285,7 +306,8 @@
           "value": "Swimming +6, Navigation +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-riverbank-explorer"
     },
     {
       "name": "Roadside Inn Child",
@@ -298,7 +320,8 @@
           "value": "Social Inquiry +6, Cart Driving +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-roadside-inn-child"
     },
     {
       "name": "Reach Control Specialist",
@@ -311,7 +334,8 @@
           "value": "Spears +15, Polearms +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-reach-control-specialist"
     },
     {
       "name": "Quick Aim",
@@ -324,7 +348,8 @@
           "value": "Dexterity +6, Accuracy +2"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-quick-aim"
     },
     {
       "name": "Quick Mind",
@@ -337,7 +362,8 @@
           "value": "Dexterity +6, Intelligence +2"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-quick-mind"
     },
     {
       "name": "Quick Reasoning",
@@ -350,7 +376,8 @@
           "value": "Dexterity +4, Intelligence +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-quick-reasoning"
     },
     {
       "name": "Quiet Conviction",
@@ -363,7 +390,8 @@
           "value": "Willpower +6, Communication +2"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-quiet-conviction"
     },
     {
       "name": "Ranged Discipline",
@@ -376,7 +404,8 @@
           "value": "Accuracy +6, Fighting +2"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-ranged-discipline"
     },
     {
       "name": "Reactive Awareness",
@@ -389,7 +418,8 @@
           "value": "Dexterity +4, Perception +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-reactive-awareness"
     },
     {
       "name": "Resolute Fighter",
@@ -402,7 +432,8 @@
           "value": "Fighting +4, Willpower +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-resolute-fighter"
     },
     {
       "name": "Resolute Power",
@@ -415,7 +446,8 @@
           "value": "Willpower +6, Strength +2"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-resolute-power"
     },
     {
       "name": "Resolute Strength",
@@ -428,7 +460,8 @@
           "value": "Strength +4, Willpower +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-resolute-strength"
     },
     {
       "name": "Quarry Family",
@@ -441,7 +474,8 @@
           "value": "Might +6, Appraisal +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-quarry-family"
     },
     {
       "name": "Rebel Bloodline",
@@ -454,7 +488,8 @@
           "value": "Faction Lore +6, Deception +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-rebel-bloodline"
     },
     {
       "name": "Roadborn Line",
@@ -467,7 +502,8 @@
           "value": "Navigation +6, Bargaining +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-roadborn-line"
     },
     {
       "name": "Regional Lorekeeper",
@@ -480,7 +516,8 @@
           "value": "Cultural Lore +15, Navigation +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-regional-lorekeeper"
     },
     {
       "name": "Relic Scholar",
@@ -493,7 +530,8 @@
           "value": "Relic Lore +15, Appraisal +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-relic-scholar"
     },
     {
       "name": "Religious Scholar",
@@ -506,7 +544,8 @@
           "value": "Religious Lore +15, Historical Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-religious-scholar"
     },
     {
       "name": "Ritual Scholar",
@@ -519,7 +558,8 @@
           "value": "Arcane Lore +15, Religious Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-ritual-scholar"
     },
     {
       "name": "Rune Arcana",
@@ -536,7 +576,8 @@
           "value": "Rune Mark"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-rune-arcana"
     },
     {
       "name": "Recognized Heir of Fenrisard-Argenwald",
@@ -544,7 +585,8 @@
       "kind": "Trait",
       "summary": "The Crown has conclusively authenticated your descent from Roderan Fenrisard-Argenwald and recognized you as the lawful heir named by Othmar Fenrisard-Argenwald's final succession arrangements. Your identity and eligibility are no longer reasonably disputed under Crown law. This recognition does not mean you have accepted the inheritance, assumed its titles, taken possession of Varglund, claimed the Argent Seat, or been recognized as commander of the Runed Argent Fang.\n\nNarrative effects: The Crown has conclusively authenticated the character as Roderan Fenrisard-Argenwald's lawful child and the recognized heir named by Othmar's succession arrangements. Crown officials, informed nobles, House Fenrisard-Argenwald members, and other knowledgeable NPCs should treat the character's identity and place in the succession as legally established rather than uncertain or mistaken. Hostile relatives may argue that the will was unjust, that the character is unfit, or that practical authority should pass elsewhere, but they should not repeatedly treat the bloodline as unproven without new and exceptional evidence. This trait establishes eligibility only. The character has not necessarily accepted the inheritance, received either Argent title, taken possession of the estate, activated the Argent Seat, or become First Fang.",
       "facts": [],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-recognized-heir-of-fenrisard-argenwald"
     },
     {
       "name": "Relic Archaeologist",
@@ -565,7 +607,8 @@
           "value": "characterLevel 10, Relic Lore skill 30, Searching skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-relic-archaeologist"
     },
     {
       "name": "Relic Channeler",
@@ -586,7 +629,8 @@
           "value": "characterLevel 10, Relic Lore skill 30, Rune Arcana skill 30, Rune Arcana trait 1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-relic-channeler"
     },
     {
       "name": "Relic Lore Apex",
@@ -607,7 +651,8 @@
           "value": "Relic Lore Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-relic-lore-apex"
     },
     {
       "name": "Relic Lore Discipline",
@@ -624,7 +669,8 @@
           "value": "characterLevel 5, Relic Lore skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-relic-lore-discipline"
     },
     {
       "name": "Relic Lore Expertise",
@@ -645,7 +691,8 @@
           "value": "Relic Lore Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-relic-lore-expertise"
     },
     {
       "name": "Relic Lore Mastery",
@@ -670,7 +717,8 @@
           "value": "Relic Lore Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-relic-lore-mastery"
     },
     {
       "name": "Riding Apex",
@@ -691,7 +739,8 @@
           "value": "Riding Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-riding-apex"
     },
     {
       "name": "Riding Discipline",
@@ -708,7 +757,8 @@
           "value": "characterLevel 5, Riding skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-riding-discipline"
     },
     {
       "name": "Riding Expertise",
@@ -729,7 +779,8 @@
           "value": "Riding Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-riding-expertise"
     },
     {
       "name": "Riding Mastery",
@@ -754,7 +805,8 @@
           "value": "Riding Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-riding-mastery"
     },
     {
       "name": "Roderan's Argent Lessons",
@@ -767,7 +819,8 @@
           "value": "Argent Measure"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-roderan-s-argent-lessons"
     },
     {
       "name": "Royal Blood Privately Confirmed",
@@ -780,7 +833,8 @@
           "value": "Royal Origin Unproven, Royal Blood Suspected, Royal Blood Under Verification, Royal Blood Publicly Disputed, Royal Blood Publicly Recognized"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-royal-blood-privately-confirmed"
     },
     {
       "name": "Royal Blood Publicly Disputed",
@@ -793,7 +847,8 @@
           "value": "Royal Origin Unproven, Royal Blood Suspected, Royal Blood Under Verification, Royal Blood Privately Confirmed, Royal Blood Publicly Recognized"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-royal-blood-publicly-disputed"
     },
     {
       "name": "Royal Blood Publicly Recognized",
@@ -806,7 +861,8 @@
           "value": "Royal Origin Unproven, Royal Blood Suspected, Royal Blood Under Verification, Royal Blood Privately Confirmed, Royal Blood Publicly Disputed"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-royal-blood-publicly-recognized"
     },
     {
       "name": "Royal Blood Suspected",
@@ -819,7 +875,8 @@
           "value": "Royal Origin Unproven, Royal Blood Under Verification, Royal Blood Privately Confirmed, Royal Blood Publicly Disputed, Royal Blood Publicly Recognized"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-royal-blood-suspected"
     },
     {
       "name": "Royal Blood Under Verification",
@@ -832,7 +889,8 @@
           "value": "Royal Origin Unproven, Royal Blood Suspected, Royal Blood Privately Confirmed, Royal Blood Publicly Disputed, Royal Blood Publicly Recognized"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-royal-blood-under-verification"
     },
     {
       "name": "Royal Origin Unproven",
@@ -845,7 +903,8 @@
           "value": "Royal Blood Suspected, Royal Blood Under Verification, Royal Blood Privately Confirmed, Royal Blood Publicly Disputed, Royal Blood Publicly Recognized"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-royal-origin-unproven"
     },
     {
       "name": "Ruin Arcana",
@@ -862,7 +921,8 @@
           "value": "Ruin Fracture"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-ruin-arcana"
     },
     {
       "name": "Ruin Arcana Mastery",
@@ -887,7 +947,8 @@
           "value": "Ruin Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-ruin-arcana-mastery"
     },
     {
       "name": "Ruin Surveyor",
@@ -908,7 +969,8 @@
           "value": "characterLevel 10, Cartography skill 30, Searching skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-ruin-surveyor"
     },
     {
       "name": "Rune Arcana Mastery",
@@ -933,7 +995,8 @@
           "value": "Rune Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-rune-arcana-mastery"
     },
     {
       "name": "Rune Enchanter",
@@ -954,7 +1017,8 @@
           "value": "characterLevel 10, Rune Arcana skill 30, Enchantment Arcana skill 30, Rune Arcana trait 1, Enchantment Arcana trait 1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-rune-enchanter"
     },
     {
       "name": "Rune Engineer",
@@ -975,7 +1039,8 @@
           "value": "characterLevel 10, Rune Arcana skill 30, Engineering skill 30, Rune Arcana trait 1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-rune-engineer"
     },
     {
       "name": "Running Apex",
@@ -996,7 +1061,8 @@
           "value": "Running Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-running-apex"
     },
     {
       "name": "Running Discipline",
@@ -1013,7 +1079,8 @@
           "value": "characterLevel 5, Running skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-running-discipline"
     },
     {
       "name": "Running Expertise",
@@ -1034,7 +1101,8 @@
           "value": "Running Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-running-expertise"
     },
     {
       "name": "Running Mastery",
@@ -1059,7 +1127,8 @@
           "value": "Running Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-running-mastery"
     },
     {
       "name": "Rider",
@@ -1072,7 +1141,8 @@
           "value": "Riding +15, Animal Handling +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-rider"
     },
     {
       "name": "Route Finder",
@@ -1085,7 +1155,8 @@
           "value": "Navigation +15, Searching +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-route-finder"
     },
     {
       "name": "Quarry Sorter",
@@ -1098,7 +1169,8 @@
           "value": "Appraisal +6, Might +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-quarry-sorter"
     },
     {
       "name": "Relic Room Sweeper",
@@ -1111,7 +1183,8 @@
           "value": "Relic Lore +6, Appraisal +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-relic-room-sweeper"
     },
     {
       "name": "Ran Away Overnight",
@@ -1124,7 +1197,8 @@
           "value": "Navigation +6, Running +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-ran-away-overnight"
     },
     {
       "name": "Ran Messages for Rebels",
@@ -1137,7 +1211,8 @@
           "value": "Faction Lore +6, Navigation +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-ran-messages-for-rebels"
     },
     {
       "name": "Reconciled With a Rival",
@@ -1150,7 +1225,8 @@
           "value": "Persuasion +6, Empathy +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-reconciled-with-a-rival"
     },
     {
       "name": "Refused an Adult's Order",
@@ -1163,7 +1239,8 @@
           "value": "Courage +6, Persuasion +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-refused-an-adult-s-order"
     },
     {
       "name": "Runecrafter",
@@ -1176,7 +1253,8 @@
           "value": "Fine Script +15, Arcane Lore +5, Rune Arcana +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-runecrafter"
     },
     {
       "name": "Rabbitfolk Beastkin",
@@ -1189,7 +1267,8 @@
           "value": "Running +8, Hearing +8, Acrobatics +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-rabbitfolk-beastkin"
     },
     {
       "name": "Raccoonfolk Beastkin",
@@ -1202,7 +1281,8 @@
           "value": "Searching +8, Touching +8, Legerdemain +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-raccoonfolk-beastkin"
     },
     {
       "name": "Ratfolk Beastkin",
@@ -1215,7 +1295,8 @@
           "value": "Tolerance +8, Smelling +8, Stealth +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-ratfolk-beastkin"
     },
     {
       "name": "Ravenfolk Beastkin",
@@ -1228,7 +1309,8 @@
           "value": "Seeing +8, Hearing +8, Searching +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-ravenfolk-beastkin"
     },
     {
       "name": "Rumormonger",
@@ -1241,7 +1323,8 @@
           "value": "Social Inquiry +15, Deception +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-rumormonger"
     },
     {
       "name": "Raincloak Travel Set",
@@ -1254,7 +1337,8 @@
           "value": "1, 1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-raincloak-travel-set"
     },
     {
       "name": "Ranger's Garb Set",
@@ -1267,7 +1351,8 @@
           "value": "1, 1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-ranger-s-garb-set"
     },
     {
       "name": "Refugee Rags Set",
@@ -1280,7 +1365,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-refugee-rags-set"
     },
     {
       "name": "Reinforced Travel Gear Set",
@@ -1293,7 +1379,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-reinforced-travel-gear-set"
     },
     {
       "name": "Quarterstaff",
@@ -1306,7 +1393,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-quarterstaff"
     },
     {
       "name": "Rapier",
@@ -1319,7 +1407,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-rapier"
     },
     {
       "name": "Recurve Bow",
@@ -1332,7 +1421,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-recurve-bow"
     },
     {
       "name": "Repeating Crossbow",
@@ -1345,7 +1435,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-repeating-crossbow"
     },
     {
       "name": "Round Shield",
@@ -1358,7 +1449,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-round-shield"
     },
     {
       "name": "Rare Arcana Rumor",
@@ -1371,7 +1463,8 @@
           "value": "Social Inquiry +6, Arcane Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-rare-arcana-rumor"
     },
     {
       "name": "Rebel Courier",
@@ -1384,7 +1477,8 @@
           "value": "Faction Lore +6, Navigation +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-rebel-courier"
     },
     {
       "name": "Refused Recruitment",
@@ -1397,7 +1491,8 @@
           "value": "Courage +6, Faction Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-refused-recruitment"
     },
     {
       "name": "Rejected Below Your Station",
@@ -1410,7 +1505,8 @@
           "value": "Empathy +6, Self-Discipline +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-rejected-below-your-station"
     },
     {
       "name": "Rumor Followed You",
@@ -1423,7 +1519,8 @@
           "value": "Deception +6, Empathy +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-rumor-followed-you"
     },
     {
       "name": "Runaway Teen",
@@ -1436,7 +1533,8 @@
           "value": "Navigation +6, Stealth +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-runaway-teen"
     },
     {
       "name": "Ranger Trainee",
@@ -1449,7 +1547,8 @@
           "value": "Bows +8, Light Blades +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-ranger-trainee"
     },
     {
       "name": "Rejected by the Academy",
@@ -1462,7 +1561,8 @@
           "value": "Writing +8, Self-Discipline +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-rejected-by-the-academy"
     },
     {
       "name": "Relic Curious",
@@ -1475,7 +1575,8 @@
           "value": "Relic Lore +8, Appraisal +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-relic-curious"
     },
     {
       "name": "Quietly Adopted",
@@ -1488,7 +1589,8 @@
           "value": "Empathy +6, Social Inquiry +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-quietly-adopted"
     },
     {
       "name": "Raised Above an Inn",
@@ -1501,7 +1603,8 @@
           "value": "Social Inquiry +6, Hearing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-raised-above-an-inn"
     },
     {
       "name": "Raised Behind a Shop",
@@ -1514,7 +1617,8 @@
           "value": "Appraisal +6, Bargaining +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-raised-behind-a-shop"
     },
     {
       "name": "Raised Under Another Name",
@@ -1527,7 +1631,8 @@
           "value": "Deception +6, Social Inquiry +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-raised-under-another-name"
     },
     {
       "name": "Raised by a Grandparent",
@@ -1540,7 +1645,8 @@
           "value": "Historical Lore +6, Empathy +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-raised-by-a-grandparent"
     },
     {
       "name": "Raised in Shared Rooms",
@@ -1553,7 +1659,8 @@
           "value": "Hearing +6, Cultural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-raised-in-shared-rooms"
     },
     {
       "name": "Raised in a Crowded Home",
@@ -1566,7 +1673,8 @@
           "value": "Hearing +6, Empathy +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-raised-in-a-crowded-home"
     },
     {
       "name": "Raised in a Farmhouse",
@@ -1579,7 +1687,8 @@
           "value": "Animal Handling +6, Natural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-raised-in-a-farmhouse"
     },
     {
       "name": "Raised in a Guardhouse",
@@ -1592,7 +1701,8 @@
           "value": "Seeing +6, Military Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-raised-in-a-guardhouse"
     },
     {
       "name": "Raised in a Workshop",
@@ -1605,7 +1715,8 @@
           "value": "Handcrafting +6, Touching +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-raised-in-a-workshop"
     },
     {
       "name": "Raised on a Barge",
@@ -1618,7 +1729,8 @@
           "value": "Vessel Piloting +6, Navigation +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-raised-on-a-barge"
     },
     {
       "name": "Quiet Observer",
@@ -1631,7 +1743,8 @@
           "value": "Seeing +6, Empathy +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-quiet-observer"
     },
     {
       "name": "Reached for Books",
@@ -1644,7 +1757,8 @@
           "value": "Cultural Lore +6, Writing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-reached-for-books"
     },
     {
       "name": "Quiet Movement Practice",
@@ -1657,7 +1771,8 @@
           "value": "Stealth +8, Acrobatics +5, Legerdemain +3, Dexterity +2, Perception +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-quiet-movement-practice"
     },
     {
       "name": "Recovery Discipline",
@@ -1670,7 +1785,8 @@
           "value": "Tolerance +8, Self-Discipline +5, Medicine +3, Constitution +2, Intelligence +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-recovery-discipline"
     },
     {
       "name": "Quarry Settlement",
@@ -1683,7 +1799,8 @@
           "value": "Might +8, Engineering +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-quarry-settlement"
     },
     {
       "name": "Refugee Camp",
@@ -1696,7 +1813,8 @@
           "value": "Empathy +8, Navigation +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-refugee-camp"
     },
     {
       "name": "Restricted Household",
@@ -1709,7 +1827,8 @@
           "value": "Self-Discipline +8, Seeing +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-restricted-household"
     },
     {
       "name": "Riverfolk Barges",
@@ -1722,7 +1841,8 @@
           "value": "Vessel Piloting +8, Navigation +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-riverfolk-barges"
     },
     {
       "name": "Roadside Inn",
@@ -1735,7 +1855,8 @@
           "value": "Cart Driving +8, Social Inquiry +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-roadside-inn"
     },
     {
       "name": "Rural Village",
@@ -1748,7 +1869,8 @@
           "value": "Natural Lore +8, Social Inquiry +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-rural-village"
     }
   ],
   "sourceWorld": "Arkenfell"

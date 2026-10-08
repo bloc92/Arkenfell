@@ -12,7 +12,8 @@
           "value": "Self-Discipline +8, Social Inquiry +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mistake-you-still-have-to-put-right"
     },
     {
       "name": "Monster Attack Survivor",
@@ -25,7 +26,8 @@
           "value": "Courage +8, Seeing +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-monster-attack-survivor"
     },
     {
       "name": "Must Prove You Can Live Alone",
@@ -38,7 +40,8 @@
           "value": "Self-Discipline +8, Bargaining +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-must-prove-you-can-live-alone"
     },
     {
       "name": "Need a Recommendation",
@@ -51,7 +54,8 @@
           "value": "Persuasion +8, Etiquette +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-need-a-recommendation"
     },
     {
       "name": "Need a Sponsor",
@@ -64,7 +68,8 @@
           "value": "Persuasion +8, Etiquette +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-need-a-sponsor"
     },
     {
       "name": "Needed Money Fast",
@@ -77,7 +82,8 @@
           "value": "Bargaining +8, Social Inquiry +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-needed-money-fast"
     },
     {
       "name": "No One Is Coming to Fix It",
@@ -90,7 +96,8 @@
           "value": "Self-Discipline +8, Courage +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-no-one-is-coming-to-fix-it"
     },
     {
       "name": "Oath You Chose Yourself",
@@ -103,7 +110,8 @@
           "value": "Self-Discipline +8, Leadership +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-oath-you-chose-yourself"
     },
     {
       "name": "Owe Someone a Favor",
@@ -116,7 +124,8 @@
           "value": "Empathy +8, Persuasion +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-owe-someone-a-favor"
     },
     {
       "name": "Partner Left You With the Work",
@@ -129,7 +138,8 @@
           "value": "Self-Discipline +8, Leadership +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-partner-left-you-with-the-work"
     },
     {
       "name": "Personal Debt Comes Due",
@@ -142,7 +152,8 @@
           "value": "Bargaining +8, Archival Research +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-personal-debt-comes-due"
     },
     {
       "name": "Power Needs Restraint",
@@ -155,7 +166,8 @@
           "value": "Self-Discipline +8, Arcane Lore +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-power-needs-restraint"
     },
     {
       "name": "Promised Yourself You Would Leave",
@@ -168,7 +180,8 @@
           "value": "Navigation +8, Courage +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-promised-yourself-you-would-leave"
     },
     {
       "name": "Promotion You Are Not Ready For",
@@ -181,7 +194,8 @@
           "value": "Leadership +8, Self-Discipline +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-promotion-you-are-not-ready-for"
     },
     {
       "name": "Mercenary Recruit",
@@ -194,7 +208,8 @@
           "value": "Axes +8, Heavy Blades +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mercenary-recruit"
     },
     {
       "name": "Merchant Clerk",
@@ -207,7 +222,8 @@
           "value": "Bargaining +8, Archival Research +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-merchant-clerk"
     },
     {
       "name": "Merchant House Standing",
@@ -220,7 +236,8 @@
           "value": "Bargaining +8, Persuasion +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-merchant-house-standing"
     },
     {
       "name": "Message Courier",
@@ -233,7 +250,8 @@
           "value": "Navigation +8, Self-Discipline +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-message-courier"
     },
     {
       "name": "Militia Regular",
@@ -246,7 +264,8 @@
           "value": "Spears +8, Shields +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-militia-regular"
     },
     {
       "name": "Mill Worker",
@@ -259,7 +278,8 @@
           "value": "Engineering +8, Might +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mill-worker"
     },
     {
       "name": "Minor Noble Debut",
@@ -272,7 +292,8 @@
           "value": "Etiquette +8, Heraldry +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-minor-noble-debut"
     },
     {
       "name": "Monster Handler's Assistant",
@@ -285,7 +306,8 @@
           "value": "Animal Handling +8, Natural Lore +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-monster-handler-s-assistant"
     },
     {
       "name": "Never Found Your Trade",
@@ -298,7 +320,8 @@
           "value": "Self-Discipline +8, Bargaining +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-never-found-your-trade"
     },
     {
       "name": "New Soldier",
@@ -311,7 +334,8 @@
           "value": "Polearms +8, Crossbows +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-new-soldier"
     },
     {
       "name": "Newly Independent",
@@ -324,7 +348,8 @@
           "value": "Self-Discipline +8, Bargaining +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-newly-independent"
     },
     {
       "name": "Noble Living Quietly",
@@ -337,7 +362,8 @@
           "value": "Deception +8, Heraldry +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-noble-living-quietly"
     },
     {
       "name": "Ordinary Life Interrupted",
@@ -350,7 +376,8 @@
           "value": "Courage +8, Cultural Lore +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-ordinary-life-interrupted"
     },
     {
       "name": "Palace Staffer",
@@ -363,7 +390,8 @@
           "value": "Etiquette +8, Social Inquiry +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-palace-staffer"
     },
     {
       "name": "Performer on the Road",
@@ -376,7 +404,8 @@
           "value": "Performance +8, Cultural Lore +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-performer-on-the-road"
     },
     {
       "name": "Property Caretaker",
@@ -389,7 +418,8 @@
           "value": "Self-Discipline +8, Handcrafting +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-property-caretaker"
     },
     {
       "name": "Made Up Stories",
@@ -402,7 +432,8 @@
           "value": "Writing +6, Performance +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-made-up-stories"
     },
     {
       "name": "Mana Flickered Around You",
@@ -415,7 +446,8 @@
           "value": "Self-Discipline +6, Arcane Lore +3, Mana +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mana-flickered-around-you"
     },
     {
       "name": "Mediated Other Children",
@@ -428,7 +460,8 @@
           "value": "Persuasion +6, Empathy +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mediated-other-children"
     },
     {
       "name": "Mocked for Strange Blood",
@@ -441,7 +474,8 @@
           "value": "Courage +6, Empathy +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mocked-for-strange-blood"
     },
     {
       "name": "Monster-Touched Childhood",
@@ -454,7 +488,8 @@
           "value": "Courage +6, Natural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-monster-touched-childhood"
     },
     {
       "name": "Never Liked Crowds",
@@ -467,7 +502,8 @@
           "value": "Stealth +6, Hearing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-never-liked-crowds"
     },
     {
       "name": "Never Where Expected",
@@ -480,7 +516,8 @@
           "value": "Stealth +6, Navigation +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-never-where-expected"
     },
     {
       "name": "Ordinary Happy Childhood",
@@ -493,7 +530,8 @@
           "value": "Cultural Lore +6, Empathy +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-ordinary-happy-childhood"
     },
     {
       "name": "Played at Being a Knight",
@@ -506,7 +544,8 @@
           "value": "Military Lore +6, Dueling +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-played-at-being-a-knight"
     },
     {
       "name": "Played at Being a Mage",
@@ -519,7 +558,8 @@
           "value": "Performance +6, Arcane Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-played-at-being-a-mage"
     },
     {
       "name": "Praised for Strange Talent",
@@ -532,7 +572,8 @@
           "value": "Persuasion +6, Performance +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-praised-for-strange-talent"
     },
     {
       "name": "Prize Pupil",
@@ -545,7 +586,8 @@
           "value": "Writing +6, Archival Research +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-prize-pupil"
     },
     {
       "name": "Protected the Weak",
@@ -558,7 +600,8 @@
           "value": "Leadership +6, Courage +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-protected-the-weak"
     },
     {
       "name": "Market Child",
@@ -571,7 +614,8 @@
           "value": "Bargaining +6, Social Inquiry +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-market-child"
     },
     {
       "name": "Millhouse Child",
@@ -584,7 +628,8 @@
           "value": "Engineering +6, Might +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-millhouse-child"
     },
     {
       "name": "Mine Camp Child",
@@ -597,7 +642,8 @@
           "value": "Hearing +6, Engineering +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mine-camp-child"
     },
     {
       "name": "Mountain Hold Child",
@@ -610,7 +656,8 @@
           "value": "Climbing +6, Tolerance +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mountain-hold-child"
     },
     {
       "name": "Noble Among Commoner Children",
@@ -623,7 +670,8 @@
           "value": "Cultural Lore +6, Persuasion +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-noble-among-commoner-children"
     },
     {
       "name": "Noble Etiquette Lessons",
@@ -636,7 +684,8 @@
           "value": "Etiquette +6, Heraldry +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-noble-etiquette-lessons"
     },
     {
       "name": "Noble Playmate",
@@ -649,7 +698,8 @@
           "value": "Etiquette +6, Persuasion +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-noble-playmate"
     },
     {
       "name": "Orchard Child",
@@ -662,7 +712,8 @@
           "value": "Natural Lore +6, Brewing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-orchard-child"
     },
     {
       "name": "Pilgrim Road Child",
@@ -675,7 +726,8 @@
           "value": "Religious Lore +6, Navigation +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-pilgrim-road-child"
     },
     {
       "name": "Protected by One Kind Adult",
@@ -688,7 +740,8 @@
           "value": "Empathy +6, Courage +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-protected-by-one-kind-adult"
     },
     {
       "name": "Martial Artist",
@@ -701,7 +754,8 @@
           "value": "Brawling +15, Acrobatics +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-martial-artist"
     },
     {
       "name": "Mobile Marksman",
@@ -714,7 +768,8 @@
           "value": "Bows +15, Acrobatics +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mobile-marksman"
     },
     {
       "name": "Mounted Combatant",
@@ -727,7 +782,8 @@
           "value": "Riding +15, Lances +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mounted-combatant"
     },
     {
       "name": "Polearm Specialist",
@@ -740,7 +796,8 @@
           "value": "Polearms +15, Military Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-polearm-specialist"
     },
     {
       "name": "Magnetic Presence",
@@ -753,7 +810,8 @@
           "value": "Communication +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-magnetic-presence"
     },
     {
       "name": "Martial Power",
@@ -766,7 +824,8 @@
           "value": "Strength +4, Fighting +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-martial-power"
     },
     {
       "name": "Martial Precision",
@@ -779,7 +838,8 @@
           "value": "Fighting +6, Accuracy +2"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-martial-precision"
     },
     {
       "name": "Methodical Power",
@@ -792,7 +852,8 @@
           "value": "Strength +4, Intelligence +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-methodical-power"
     },
     {
       "name": "Mobile Fighter",
@@ -805,7 +866,8 @@
           "value": "Dexterity +6, Fighting +2"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mobile-fighter"
     },
     {
       "name": "Observant Reasoning",
@@ -818,7 +880,8 @@
           "value": "Intelligence +4, Perception +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-observant-reasoning"
     },
     {
       "name": "Ordered Mind",
@@ -831,7 +894,8 @@
           "value": "Intelligence +4, Willpower +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-ordered-mind"
     },
     {
       "name": "Perceptive Aim",
@@ -844,7 +908,8 @@
           "value": "Accuracy +4, Perception +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-perceptive-aim"
     },
     {
       "name": "Persuasive Resolve",
@@ -857,7 +922,8 @@
           "value": "Communication +6, Willpower +2"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-persuasive-resolve"
     },
     {
       "name": "Physical Discipline",
@@ -870,7 +936,8 @@
           "value": "Constitution +6, Willpower +2"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-physical-discipline"
     },
     {
       "name": "Powerful Frame",
@@ -883,7 +950,8 @@
           "value": "Strength +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-powerful-frame"
     },
     {
       "name": "Master Craft Line",
@@ -896,7 +964,8 @@
           "value": "Handcrafting +6, Appraisal +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-master-craft-line"
     },
     {
       "name": "Merchant Dynasty",
@@ -909,7 +978,8 @@
           "value": "Bargaining +6, Persuasion +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-merchant-dynasty"
     },
     {
       "name": "Midwife Tradition",
@@ -922,7 +992,8 @@
           "value": "Medicine +6, Empathy +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-midwife-tradition"
     },
     {
       "name": "Military Family",
@@ -935,7 +1006,8 @@
           "value": "Military Lore +6, Leadership +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-military-family"
     },
     {
       "name": "Miller's Family",
@@ -948,7 +1020,8 @@
           "value": "Engineering +6, Might +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-miller-s-family"
     },
     {
       "name": "Miner Family",
@@ -961,7 +1034,8 @@
           "value": "Engineering +6, Searching +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-miner-family"
     },
     {
       "name": "Mixed-Tradition Family",
@@ -974,7 +1048,8 @@
           "value": "Cultural Lore +6, Social Inquiry +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mixed-tradition-family"
     },
     {
       "name": "Newly Raised House",
@@ -987,7 +1062,8 @@
           "value": "Persuasion +6, Etiquette +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-newly-raised-house"
     },
     {
       "name": "Old Noble Line",
@@ -1000,7 +1076,8 @@
           "value": "Heraldry +6, Etiquette +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-old-noble-line"
     },
     {
       "name": "Potter's Line",
@@ -1013,7 +1090,8 @@
           "value": "Handcrafting +6, Touching +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-potter-s-line"
     },
     {
       "name": "Material Scholar",
@@ -1026,7 +1104,8 @@
           "value": "Appraisal +15, Engineering +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-material-scholar"
     },
     {
       "name": "Medic",
@@ -1039,7 +1118,8 @@
           "value": "Medicine +15, Natural Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-medic"
     },
     {
       "name": "Military Scholar",
@@ -1052,7 +1132,8 @@
           "value": "Military Lore +15, Historical Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-military-scholar"
     },
     {
       "name": "Monster Scholar",
@@ -1065,7 +1146,8 @@
           "value": "Natural Lore +15, Tracking +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-monster-scholar"
     },
     {
       "name": "Musicologist",
@@ -1078,7 +1160,8 @@
           "value": "Musical Lore +15, Cultural Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-musicologist"
     },
     {
       "name": "Naturalist",
@@ -1091,7 +1174,8 @@
           "value": "Natural Lore +15, Medicine +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-naturalist"
     },
     {
       "name": "Planar Scholar",
@@ -1104,7 +1188,8 @@
           "value": "Planar Lore +15, Arcane Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-planar-scholar"
     },
     {
       "name": "Political Scholar",
@@ -1117,7 +1202,8 @@
           "value": "Cultural Lore +15, Faction Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-political-scholar"
     },
     {
       "name": "Metal Arcana",
@@ -1134,7 +1220,8 @@
           "value": "Metal Sense"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-metal-arcana"
     },
     {
       "name": "Motion Arcana",
@@ -1151,7 +1238,8 @@
           "value": "Motion Nudge"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-motion-arcana"
     },
     {
       "name": "Poison Arcana",
@@ -1168,7 +1256,8 @@
           "value": "Toxin Sense"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-poison-arcana"
     },
     {
       "name": "Power Arcana",
@@ -1185,7 +1274,8 @@
           "value": "Power Surge"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-power-arcana"
     },
     {
       "name": "Protection Arcana",
@@ -1202,7 +1292,8 @@
           "value": "Magic Shield"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-protection-arcana"
     },
     {
       "name": "Nightglass Courtwise",
@@ -1215,7 +1306,8 @@
           "value": "Shadow Arcana +5, Etiquette +8, Empathy +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-nightglass-courtwise"
     },
     {
       "name": "Nightglass Sanctuary-Bred",
@@ -1228,7 +1320,8 @@
           "value": "Shadow Arcana +5, Cultural Lore +8, Social Inquiry +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-nightglass-sanctuary-bred"
     },
     {
       "name": "Nightglass Veilwise",
@@ -1241,7 +1334,8 @@
           "value": "Shadow Arcana +5, Deception +8, Seeing +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-nightglass-veilwise"
     },
     {
       "name": "Palegrave Gravewise",
@@ -1254,7 +1348,8 @@
           "value": "Death Arcana +5, Religious Lore +8, Historical Lore +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-palegrave-gravewise"
     },
     {
       "name": "Palegrave Living-Court",
@@ -1267,7 +1362,8 @@
           "value": "Death Arcana +5, Cultural Lore +8, Empathy +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-palegrave-living-court"
     },
     {
       "name": "Palegrave Oathcourt",
@@ -1280,7 +1376,8 @@
           "value": "Death Arcana +5, Etiquette +8, Self-Discipline +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-palegrave-oathcourt"
     },
     {
       "name": "Magnetism Arcana",
@@ -1297,7 +1394,8 @@
           "value": "Magnetic Tug"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-magnetism-arcana"
     },
     {
       "name": "Magnetism Arcana Mastery",
@@ -1322,7 +1420,8 @@
           "value": "Magnetism Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-magnetism-arcana-mastery"
     },
     {
       "name": "Mariner Combatant",
@@ -1343,7 +1442,8 @@
           "value": "characterLevel 10, Sail Handling skill 30, Light Blades skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mariner-combatant"
     },
     {
       "name": "Master Artisan",
@@ -1364,7 +1464,8 @@
           "value": "characterLevel 10, Handcrafting skill 30, Appraisal skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-master-artisan"
     },
     {
       "name": "Master Cartographer",
@@ -1385,7 +1486,8 @@
           "value": "characterLevel 10, Cartography skill 30, Navigation skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-master-cartographer"
     },
     {
       "name": "Medicine Apex",
@@ -1406,7 +1508,8 @@
           "value": "Medicine Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-medicine-apex"
     },
     {
       "name": "Medicine Discipline",
@@ -1423,7 +1526,8 @@
           "value": "characterLevel 5, Medicine skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-medicine-discipline"
     },
     {
       "name": "Medicine Expertise",
@@ -1444,7 +1548,8 @@
           "value": "Medicine Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-medicine-expertise"
     },
     {
       "name": "Medicine Mastery",
@@ -1469,7 +1574,8 @@
           "value": "Medicine Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-medicine-mastery"
     },
     {
       "name": "Memory Arcana",
@@ -1486,7 +1592,8 @@
           "value": "Mnemonic Glimpse"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-memory-arcana"
     },
     {
       "name": "Memory Arcana Mastery",
@@ -1511,7 +1618,8 @@
           "value": "Memory Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-memory-arcana-mastery"
     },
     {
       "name": "Merchant Diplomat",
@@ -1532,7 +1640,8 @@
           "value": "characterLevel 10, Bargaining skill 30, Persuasion skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-merchant-diplomat"
     },
     {
       "name": "Metal Arcana Mastery",
@@ -1557,7 +1666,8 @@
           "value": "Metal Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-metal-arcana-mastery"
     },
     {
       "name": "Metalwright",
@@ -1578,7 +1688,8 @@
           "value": "characterLevel 10, Metal Arcana skill 30, Smithing skill 30, Metal Arcana trait 1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-metalwright"
     },
     {
       "name": "Military Lore Apex",
@@ -1599,7 +1710,8 @@
           "value": "Military Lore Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-military-lore-apex"
     },
     {
       "name": "Military Lore Discipline",
@@ -1616,7 +1728,8 @@
           "value": "characterLevel 5, Military Lore skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-military-lore-discipline"
     },
     {
       "name": "Military Lore Expertise",
@@ -1637,7 +1750,8 @@
           "value": "Military Lore Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-military-lore-expertise"
     },
     {
       "name": "Military Lore Mastery",
@@ -1662,7 +1776,8 @@
           "value": "Military Lore Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-military-lore-mastery"
     },
     {
       "name": "Mirror Arcana",
@@ -1679,7 +1794,8 @@
           "value": "Mirror Window"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mirror-arcana"
     },
     {
       "name": "Mirror Arcana Mastery",
@@ -1704,7 +1820,8 @@
           "value": "Mirror Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mirror-arcana-mastery"
     },
     {
       "name": "Moon Arcana",
@@ -1721,7 +1838,8 @@
           "value": "Moonlit Veil"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-moon-arcana"
     },
     {
       "name": "Moon Arcana Mastery",
@@ -1746,7 +1864,8 @@
           "value": "Moon Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-moon-arcana-mastery"
     },
     {
       "name": "Motion Arcana Mastery",
@@ -1771,7 +1890,8 @@
           "value": "Motion Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-motion-arcana-mastery"
     },
     {
       "name": "Motion Duelist",
@@ -1792,7 +1912,8 @@
           "value": "characterLevel 10, Motion Arcana skill 30, Dueling skill 30, Motion Arcana trait 1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-motion-duelist"
     },
     {
       "name": "Mountain Fighter",
@@ -1813,7 +1934,8 @@
           "value": "characterLevel 10, Climbing skill 30, Brawling skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mountain-fighter"
     },
     {
       "name": "Mounted Archer",
@@ -1834,7 +1956,8 @@
           "value": "characterLevel 10, Bows skill 30, Riding skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mounted-archer"
     },
     {
       "name": "Mounted Skirmisher",
@@ -1855,7 +1978,8 @@
           "value": "characterLevel 10, Thrown Weapons skill 30, Riding skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mounted-skirmisher"
     },
     {
       "name": "Natural Lore Apex",
@@ -1876,7 +2000,8 @@
           "value": "Natural Lore Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-natural-lore-apex"
     },
     {
       "name": "Natural Lore Discipline",
@@ -1893,7 +2018,8 @@
           "value": "characterLevel 5, Natural Lore skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-natural-lore-discipline"
     },
     {
       "name": "Natural Lore Expertise",
@@ -1914,7 +2040,8 @@
           "value": "Natural Lore Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-natural-lore-expertise"
     },
     {
       "name": "Natural Lore Mastery",
@@ -1939,7 +2066,8 @@
           "value": "Natural Lore Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-natural-lore-mastery"
     },
     {
       "name": "Navigation Apex",
@@ -1960,7 +2088,8 @@
           "value": "Navigation Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-navigation-apex"
     },
     {
       "name": "Navigation Discipline",
@@ -1977,7 +2106,8 @@
           "value": "characterLevel 5, Navigation skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-navigation-discipline"
     },
     {
       "name": "Navigation Expertise",
@@ -1998,7 +2128,8 @@
           "value": "Navigation Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-navigation-expertise"
     },
     {
       "name": "Navigation Mastery",
@@ -2023,7 +2154,8 @@
           "value": "Navigation Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-navigation-mastery"
     },
     {
       "name": "Oath Arcana",
@@ -2040,7 +2172,8 @@
           "value": "Oath Sense"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-oath-arcana"
     },
     {
       "name": "Oath Arcana Mastery",
@@ -2065,7 +2198,8 @@
           "value": "Oath Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-oath-arcana-mastery"
     },
     {
       "name": "Ogre",
@@ -2078,7 +2212,8 @@
           "value": "Might +20, Brawling +15, Bludgeons +15, Health +75, Stamina +40"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-ogre"
     },
     {
       "name": "Persuasion Apex",
@@ -2099,7 +2234,8 @@
           "value": "Persuasion Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-persuasion-apex"
     },
     {
       "name": "Persuasion Discipline",
@@ -2116,7 +2252,8 @@
           "value": "characterLevel 5, Persuasion skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-persuasion-discipline"
     },
     {
       "name": "Persuasion Expertise",
@@ -2137,7 +2274,8 @@
           "value": "Persuasion Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-persuasion-expertise"
     },
     {
       "name": "Persuasion Mastery",
@@ -2162,7 +2300,8 @@
           "value": "Persuasion Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-persuasion-mastery"
     },
     {
       "name": "Phoenix Arcana",
@@ -2179,7 +2318,8 @@
           "value": "Ember Renewal"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-phoenix-arcana"
     },
     {
       "name": "Phoenix Arcana Mastery",
@@ -2204,7 +2344,8 @@
           "value": "Phoenix Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-phoenix-arcana-mastery"
     },
     {
       "name": "Pike Sentinel",
@@ -2225,7 +2366,8 @@
           "value": "characterLevel 10, Spears skill 30, Shields skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-pike-sentinel"
     },
     {
       "name": "Plague Arcana",
@@ -2242,7 +2384,8 @@
           "value": "Blight Touch"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-plague-arcana"
     },
     {
       "name": "Plague Arcana Mastery",
@@ -2267,7 +2410,8 @@
           "value": "Plague Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-plague-arcana-mastery"
     },
     {
       "name": "Planar Theorist",
@@ -2288,7 +2432,8 @@
           "value": "characterLevel 10, Planar Lore skill 30, Arcane Lore skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-planar-theorist"
     },
     {
       "name": "Poison Arcana Mastery",
@@ -2313,7 +2458,8 @@
           "value": "Poison Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-poison-arcana-mastery"
     },
     {
       "name": "Polearm Apex",
@@ -2334,7 +2480,8 @@
           "value": "Polearm Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-polearm-apex"
     },
     {
       "name": "Polearm Discipline",
@@ -2351,7 +2498,8 @@
           "value": "characterLevel 5, Polearms skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-polearm-discipline"
     },
     {
       "name": "Polearm Expertise",
@@ -2372,7 +2520,8 @@
           "value": "Polearm Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-polearm-expertise"
     },
     {
       "name": "Polearm Guardian",
@@ -2393,7 +2542,8 @@
           "value": "characterLevel 10, Polearms skill 30, Shields skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-polearm-guardian"
     },
     {
       "name": "Polearm Mastery",
@@ -2418,7 +2568,8 @@
           "value": "Polearm Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-polearm-mastery"
     },
     {
       "name": "Political Archivist",
@@ -2439,7 +2590,8 @@
           "value": "characterLevel 10, Faction Lore skill 30, Archival Research skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-political-archivist"
     },
     {
       "name": "Political Negotiator",
@@ -2460,7 +2612,8 @@
           "value": "characterLevel 10, Bargaining skill 30, Faction Lore skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-political-negotiator"
     },
     {
       "name": "Power Arcana Mastery",
@@ -2485,7 +2638,8 @@
           "value": "Power Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-power-arcana-mastery"
     },
     {
       "name": "Protection Arcana Mastery",
@@ -2510,7 +2664,8 @@
           "value": "Protection Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-protection-arcana-mastery"
     },
     {
       "name": "Public Advocate",
@@ -2531,7 +2686,8 @@
           "value": "characterLevel 10, Persuasion skill 30, Cultural Lore skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-public-advocate"
     },
     {
       "name": "Map Copyist",
@@ -2544,7 +2700,8 @@
           "value": "Cartography +6, Fine Script +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-map-copyist"
     },
     {
       "name": "Market Apprentice",
@@ -2557,7 +2714,8 @@
           "value": "Bargaining +6, Appraisal +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-market-apprentice"
     },
     {
       "name": "Market Stall Helper",
@@ -2570,7 +2728,8 @@
           "value": "Bargaining +6, Appraisal +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-market-stall-helper"
     },
     {
       "name": "Miller's Helper",
@@ -2583,7 +2742,8 @@
           "value": "Engineering +6, Might +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-miller-s-helper"
     },
     {
       "name": "Mine Lamp Bearer",
@@ -2596,7 +2756,8 @@
           "value": "Hearing +6, Engineering +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mine-lamp-bearer"
     },
     {
       "name": "Monastery Novice",
@@ -2609,7 +2770,8 @@
           "value": "Self-Discipline +6, Religious Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-monastery-novice"
     },
     {
       "name": "Mountain Pass Runner",
@@ -2622,7 +2784,8 @@
           "value": "Climbing +6, Navigation +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mountain-pass-runner"
     },
     {
       "name": "Noble Tutor's Student",
@@ -2635,7 +2798,8 @@
           "value": "Writing +6, Historical Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-noble-tutor-s-student"
     },
     {
       "name": "Nomad Trail Child",
@@ -2648,7 +2812,8 @@
           "value": "Riding +6, Navigation +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-nomad-trail-child"
     },
     {
       "name": "Orchard Picker",
@@ -2661,7 +2826,8 @@
           "value": "Natural Lore +6, Climbing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-orchard-picker"
     },
     {
       "name": "Potter's Helper",
@@ -2674,7 +2840,8 @@
           "value": "Handcrafting +6, Touching +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-potter-s-helper"
     },
     {
       "name": "Magic Came Too Easily",
@@ -2687,7 +2854,8 @@
           "value": "Arcane Lore +6, Self-Discipline +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-magic-came-too-easily"
     },
     {
       "name": "Magic Frightened You",
@@ -2700,7 +2868,8 @@
           "value": "Courage +6, Arcane Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-magic-frightened-you"
     },
     {
       "name": "Mana Control Drills",
@@ -2713,7 +2882,8 @@
           "value": "Self-Discipline +6, Arcane Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mana-control-drills"
     },
     {
       "name": "Met a Foreign Traveler",
@@ -2726,7 +2896,8 @@
           "value": "Cultural Lore +6, Social Inquiry +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-met-a-foreign-traveler"
     },
     {
       "name": "Promise Made to a Dying Adult",
@@ -2739,7 +2910,8 @@
           "value": "Self-Discipline +6, Empathy +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-promise-made-to-a-dying-adult"
     },
     {
       "name": "Protected Someone From Punishment",
@@ -2752,7 +2924,8 @@
           "value": "Persuasion +6, Leadership +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-protected-someone-from-punishment"
     },
     {
       "name": "Mason",
@@ -2765,7 +2938,8 @@
           "value": "Handcrafting +15, Engineering +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mason"
     },
     {
       "name": "Merchant",
@@ -2778,7 +2952,8 @@
           "value": "Bargaining +15, Appraisal +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-merchant"
     },
     {
       "name": "Miller",
@@ -2791,7 +2966,8 @@
           "value": "Handcrafting +15, Appraisal +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-miller"
     },
     {
       "name": "Miner",
@@ -2804,7 +2980,8 @@
           "value": "Natural Lore +15, Engineering +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-miner"
     },
     {
       "name": "Navigator",
@@ -2817,7 +2994,8 @@
           "value": "Navigation +15, Cartography +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-navigator"
     },
     {
       "name": "Palace Servant",
@@ -2830,7 +3008,8 @@
           "value": "Etiquette +15, Social Inquiry +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-palace-servant"
     },
     {
       "name": "Pathfinder",
@@ -2843,7 +3022,8 @@
           "value": "Navigation +15, Tracking +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-pathfinder"
     },
     {
       "name": "Potter",
@@ -2856,7 +3036,8 @@
           "value": "Handcrafting +15, Touching +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-potter"
     },
     {
       "name": "Prospector",
@@ -2869,7 +3050,8 @@
           "value": "Appraisal +15, Natural Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-prospector"
     },
     {
       "name": "Mousefolk Beastkin",
@@ -2882,7 +3064,8 @@
           "value": "Stealth +8, Hearing +8, Legerdemain +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mousefolk-beastkin"
     },
     {
       "name": "Orc",
@@ -2895,7 +3078,8 @@
           "value": "Might +8, Tolerance +8, Intimidation +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-orc"
     },
     {
       "name": "Otterfolk Beastkin",
@@ -2908,7 +3092,8 @@
           "value": "Swimming +11, Acrobatics +5, Tolerance +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-otterfolk-beastkin"
     },
     {
       "name": "Owlfolk Beastkin",
@@ -2921,7 +3106,8 @@
           "value": "Hearing +11, Seeing +5, Stealth +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-owlfolk-beastkin"
     },
     {
       "name": "Pantherfolk Beastkin",
@@ -2934,7 +3120,8 @@
           "value": "Stealth +11, Acrobatics +5, Seeing +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-pantherfolk-beastkin"
     },
     {
       "name": "Misdirector",
@@ -2947,7 +3134,8 @@
           "value": "Deception +15, Social Inquiry +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-misdirector"
     },
     {
       "name": "Negotiator",
@@ -2960,7 +3148,8 @@
           "value": "Bargaining +15, Persuasion +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-negotiator"
     },
     {
       "name": "People Reader",
@@ -2973,7 +3162,8 @@
           "value": "Empathy +15, Social Inquiry +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-people-reader"
     },
     {
       "name": "Performer",
@@ -2986,7 +3176,8 @@
           "value": "Performance +15, Deception +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-performer"
     },
     {
       "name": "Persuasive Speaker",
@@ -2999,7 +3190,8 @@
           "value": "Persuasion +15, Empathy +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-persuasive-speaker"
     },
     {
       "name": "Playful Tease",
@@ -3012,7 +3204,8 @@
           "value": "Courtship +15, Deception +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-playful-tease"
     },
     {
       "name": "Pressure Bargainer",
@@ -3025,7 +3218,8 @@
           "value": "Bargaining +15, Intimidation +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-pressure-bargainer"
     },
     {
       "name": "Protocol Navigator",
@@ -3038,7 +3232,8 @@
           "value": "Etiquette +15, Social Inquiry +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-protocol-navigator"
     },
     {
       "name": "Provocateur",
@@ -3051,7 +3246,8 @@
           "value": "Intimidation +15, Deception +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-provocateur"
     },
     {
       "name": "Mage Attire Set",
@@ -3064,7 +3260,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mage-attire-set"
     },
     {
       "name": "Merchant's Fine Clothes Set",
@@ -3077,7 +3274,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-merchant-s-fine-clothes-set"
     },
     {
       "name": "Military Uniform Set",
@@ -3090,7 +3288,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-military-uniform-set"
     },
     {
       "name": "Mining Workwear Set",
@@ -3103,7 +3302,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mining-workwear-set"
     },
     {
       "name": "Monastic Robes Set",
@@ -3116,7 +3316,8 @@
           "value": "1, 1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-monastic-robes-set"
     },
     {
       "name": "Mountain Travel Clothes Set",
@@ -3129,7 +3330,8 @@
           "value": "1, 1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mountain-travel-clothes-set"
     },
     {
       "name": "Mourning Clothes Set",
@@ -3142,7 +3344,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mourning-clothes-set"
     },
     {
       "name": "Noble's Attire Set",
@@ -3155,7 +3358,8 @@
           "value": "1, 1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-noble-s-attire-set"
     },
     {
       "name": "Nomad Caravan Clothes Set",
@@ -3168,7 +3372,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-nomad-caravan-clothes-set"
     },
     {
       "name": "Palace Servant Livery Set",
@@ -3181,7 +3386,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-palace-servant-livery-set"
     },
     {
       "name": "Peasant's Work Clothes Set",
@@ -3194,7 +3400,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-peasant-s-work-clothes-set"
     },
     {
       "name": "Performer Costume Set",
@@ -3207,7 +3414,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-performer-costume-set"
     },
     {
       "name": "Mage Ward Garments Set",
@@ -3220,7 +3428,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mage-ward-garments-set"
     },
     {
       "name": "No Armor",
@@ -3228,7 +3437,8 @@
       "kind": "Trait",
       "summary": "You begin without armor or protective gear. Whether by poverty, confidence, magical preference, social circumstance, or simple bad luck, you rely on clothing, movement, and whatever protection you can find later.",
       "facts": [],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-no-armor"
     },
     {
       "name": "Padded Armor Set",
@@ -3241,7 +3451,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-padded-armor-set"
     },
     {
       "name": "Plate Armor Set",
@@ -3254,7 +3465,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-plate-armor-set"
     },
     {
       "name": "Mace",
@@ -3267,7 +3479,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mace"
     },
     {
       "name": "Mage Staff",
@@ -3284,7 +3497,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mage-staff"
     },
     {
       "name": "Main-Gauche",
@@ -3297,7 +3511,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-main-gauche"
     },
     {
       "name": "Maul",
@@ -3310,7 +3525,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-maul"
     },
     {
       "name": "Odachi",
@@ -3323,7 +3539,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-odachi"
     },
     {
       "name": "Parrying Sword",
@@ -3336,7 +3553,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-parrying-sword"
     },
     {
       "name": "Partisan",
@@ -3349,7 +3567,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-partisan"
     },
     {
       "name": "Pike",
@@ -3362,7 +3581,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-pike"
     },
     {
       "name": "Made a Powerful Enemy",
@@ -3375,7 +3595,8 @@
           "value": "Courage +6, Social Inquiry +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-made-a-powerful-enemy"
     },
     {
       "name": "Magic Hidden from Authorities",
@@ -3388,7 +3609,8 @@
           "value": "Deception +6, Faction Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-magic-hidden-from-authorities"
     },
     {
       "name": "Magic Suppressed by Family",
@@ -3401,7 +3623,8 @@
           "value": "Self-Discipline +6, Deception +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-magic-suppressed-by-family"
     },
     {
       "name": "Mana Awakening Crisis",
@@ -3414,7 +3637,8 @@
           "value": "Self-Discipline +6, Arcane Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mana-awakening-crisis"
     },
     {
       "name": "Ordinary Teen Until It Happened",
@@ -3427,7 +3651,8 @@
           "value": "Cultural Lore +6, Courage +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-ordinary-teen-until-it-happened"
     },
     {
       "name": "Patron Lost Interest",
@@ -3440,7 +3665,8 @@
           "value": "Persuasion +6, Etiquette +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-patron-lost-interest"
     },
     {
       "name": "Protected Younger Street Kids",
@@ -3453,7 +3679,8 @@
           "value": "Brawling +6, Leadership +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-protected-younger-street-kids"
     },
     {
       "name": "Public Duel Disgraced",
@@ -3466,7 +3693,8 @@
           "value": "Dueling +6, Etiquette +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-public-duel-disgraced"
     },
     {
       "name": "Public Failure",
@@ -3479,7 +3707,8 @@
           "value": "Performance +6, Courage +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-public-failure"
     },
     {
       "name": "Market Stall Worker",
@@ -3492,7 +3721,8 @@
           "value": "Bargaining +8, Appraisal +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-market-stall-worker"
     },
     {
       "name": "Mercenary Trainee",
@@ -3505,7 +3735,8 @@
           "value": "Axes +8, Bludgeons +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mercenary-trainee"
     },
     {
       "name": "Merchant Negotiator",
@@ -3518,7 +3749,8 @@
           "value": "Bargaining +8, Persuasion +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-merchant-negotiator"
     },
     {
       "name": "Messenger Teen",
@@ -3531,7 +3763,8 @@
           "value": "Navigation +8, Running +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-messenger-teen"
     },
     {
       "name": "Militia Teen",
@@ -3544,7 +3777,8 @@
           "value": "Spears +8, Shields +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-militia-teen"
     },
     {
       "name": "Miller's Apprentice",
@@ -3557,7 +3791,8 @@
           "value": "Engineering +8, Might +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-miller-s-apprentice"
     },
     {
       "name": "Monastery Student",
@@ -3570,7 +3805,8 @@
           "value": "Self-Discipline +8, Religious Lore +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-monastery-student"
     },
     {
       "name": "Monster-Hunter Trainee",
@@ -3583,7 +3819,8 @@
           "value": "Crossbows +8, Spears +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-monster-hunter-trainee"
     },
     {
       "name": "Mounted Guard Trainee",
@@ -3596,7 +3833,8 @@
           "value": "Lances +8, Heavy Blades +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mounted-guard-trainee"
     },
     {
       "name": "No Clear Path",
@@ -3609,7 +3847,8 @@
           "value": "Social Inquiry +8, Cultural Lore +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-no-clear-path"
     },
     {
       "name": "Noble Page",
@@ -3622,7 +3861,8 @@
           "value": "Etiquette +8, Heraldry +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-noble-page"
     },
     {
       "name": "Palace Guard Cadet",
@@ -3635,7 +3875,8 @@
           "value": "Heavy Blades +8, Shields +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-palace-guard-cadet"
     },
     {
       "name": "Performer in Training",
@@ -3648,7 +3889,8 @@
           "value": "Performance +8, Persuasion +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-performer-in-training"
     },
     {
       "name": "Pickpocket Crew Member",
@@ -3661,7 +3903,8 @@
           "value": "Legerdemain +8, Stealth +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-pickpocket-crew-member"
     },
     {
       "name": "Potter's Apprentice",
@@ -3674,7 +3917,8 @@
           "value": "Handcrafting +8, Touching +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-potter-s-apprentice"
     },
     {
       "name": "Mana-Sensitive Infant",
@@ -3687,7 +3931,8 @@
           "value": "Arcane Lore +6, Self-Discipline +3, Mana +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mana-sensitive-infant"
     },
     {
       "name": "Marked by an Old Scar",
@@ -3700,7 +3945,8 @@
           "value": "Medicine +6, Courage +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-marked-by-an-old-scar"
     },
     {
       "name": "Military Cradle",
@@ -3713,7 +3959,8 @@
           "value": "Military Lore +6, Hearing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-military-cradle"
     },
     {
       "name": "Monastery Cradle",
@@ -3726,7 +3973,8 @@
           "value": "Self-Discipline +6, Religious Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-monastery-cradle"
     },
     {
       "name": "Monster Quieted Near You",
@@ -3739,7 +3987,8 @@
           "value": "Animal Handling +6, Natural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-monster-quieted-near-you"
     },
     {
       "name": "Moved Under False Papers",
@@ -3752,7 +4001,8 @@
           "value": "Deception +6, Social Inquiry +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-moved-under-false-papers"
     },
     {
       "name": "Nearly Drowned",
@@ -3765,7 +4015,8 @@
           "value": "Swimming +6, Courage +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-nearly-drowned"
     },
     {
       "name": "Neglected Child",
@@ -3778,7 +4029,8 @@
           "value": "Stealth +6, Seeing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-neglected-child"
     },
     {
       "name": "Only Child Then",
@@ -3791,7 +4043,8 @@
           "value": "Empathy +6, Self-Discipline +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-only-child-then"
     },
     {
       "name": "Parent Returned After an Absence",
@@ -3804,7 +4057,8 @@
           "value": "Empathy +6, Social Inquiry +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-parent-returned-after-an-absence"
     },
     {
       "name": "Passed Between Caregivers",
@@ -3817,7 +4071,8 @@
           "value": "Cultural Lore +6, Empathy +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-passed-between-caregivers"
     },
     {
       "name": "Protected by Older Sibling",
@@ -3830,7 +4085,8 @@
           "value": "Empathy +6, Courage +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-protected-by-older-sibling"
     },
     {
       "name": "Never Sat Still",
@@ -3843,7 +4099,8 @@
           "value": "Running +6, Acrobatics +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-never-sat-still"
     },
     {
       "name": "Noticed Missing Things",
@@ -3856,7 +4113,8 @@
           "value": "Searching +6, Appraisal +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-noticed-missing-things"
     },
     {
       "name": "Patient With Puzzles",
@@ -3869,7 +4127,8 @@
           "value": "Searching +6, Self-Discipline +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-patient-with-puzzles"
     },
     {
       "name": "Played with Water",
@@ -3882,7 +4141,8 @@
           "value": "Swimming +6, Touching +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-played-with-water"
     },
     {
       "name": "Marksmanship Practice",
@@ -3895,7 +4155,8 @@
           "value": "Bows +8, Seeing +5, Self-Discipline +3, Accuracy +2, Perception +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-marksmanship-practice"
     },
     {
       "name": "Meditative Practice",
@@ -3908,7 +4169,8 @@
           "value": "Self-Discipline +8, Empathy +5, Courage +3, Willpower +2, Perception +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-meditative-practice"
     },
     {
       "name": "Negotiation Practice",
@@ -3921,7 +4183,8 @@
           "value": "Bargaining +8, Persuasion +5, Appraisal +3, Communication +2, Intelligence +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-negotiation-practice"
     },
     {
       "name": "Nimble Training",
@@ -3934,7 +4197,8 @@
           "value": "Acrobatics +8, Running +5, Stealth +3, Dexterity +2, Fighting +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-nimble-training"
     },
     {
       "name": "Precision Drills",
@@ -3947,7 +4211,8 @@
           "value": "Seeing +8, Touching +5, Legerdemain +3, Accuracy +2, Willpower +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-precision-drills"
     },
     {
       "name": "Public Speaking Drills",
@@ -3960,7 +4225,8 @@
           "value": "Performance +8, Persuasion +5, Self-Discipline +3, Communication +2, Willpower +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-public-speaking-drills"
     },
     {
       "name": "Market District",
@@ -3973,7 +4239,8 @@
           "value": "Bargaining +8, Social Inquiry +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-market-district"
     },
     {
       "name": "Merchant Household",
@@ -3986,7 +4253,8 @@
           "value": "Bargaining +8, Appraisal +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-merchant-household"
     },
     {
       "name": "Military Household",
@@ -3999,7 +4267,8 @@
           "value": "Military Lore +8, Self-Discipline +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-military-household"
     },
     {
       "name": "Miller's Household",
@@ -4012,7 +4281,8 @@
           "value": "Engineering +8, Might +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-miller-s-household"
     },
     {
       "name": "Mining Town",
@@ -4025,7 +4295,8 @@
           "value": "Engineering +8, Hearing +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mining-town"
     },
     {
       "name": "Monastery Raised",
@@ -4038,7 +4309,8 @@
           "value": "Self-Discipline +8, Religious Lore +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-monastery-raised"
     },
     {
       "name": "Mountain Hold",
@@ -4051,7 +4323,8 @@
           "value": "Climbing +8, Tolerance +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-mountain-hold"
     },
     {
       "name": "Noble Among Commoners",
@@ -4064,7 +4337,8 @@
           "value": "Cultural Lore +8, Empathy +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-noble-among-commoners"
     },
     {
       "name": "Noble Hostage Ward",
@@ -4077,7 +4351,8 @@
           "value": "Faction Lore +8, Etiquette +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-noble-hostage-ward"
     },
     {
       "name": "Nomad Caravan",
@@ -4090,7 +4365,8 @@
           "value": "Navigation +8, Riding +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-nomad-caravan"
     },
     {
       "name": "Orchard Estate",
@@ -4103,7 +4379,8 @@
           "value": "Natural Lore +8, Brewing +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-orchard-estate"
     },
     {
       "name": "Orphaned Ward",
@@ -4116,7 +4393,8 @@
           "value": "Empathy +8, Persuasion +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-orphaned-ward"
     },
     {
       "name": "Pilgrim Hostel",
@@ -4129,7 +4407,8 @@
           "value": "Religious Lore +8, Cultural Lore +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-pilgrim-hostel"
     }
   ],
   "sourceWorld": "Arkenfell"

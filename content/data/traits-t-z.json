@@ -12,7 +12,8 @@
           "value": "Religious Lore +8, Deception +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-temple-scrutiny"
     },
     {
       "name": "Tools Need Replacing",
@@ -25,7 +26,8 @@
           "value": "Appraisal +8, Handcrafting +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tools-need-replacing"
     },
     {
       "name": "Training You Cannot Afford",
@@ -38,7 +40,8 @@
           "value": "Bargaining +8, Appraisal +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-training-you-cannot-afford"
     },
     {
       "name": "Useful Marriage Prospect",
@@ -51,7 +54,8 @@
           "value": "Etiquette +8, Social Inquiry +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-useful-marriage-prospect"
     },
     {
       "name": "Wages Withheld",
@@ -64,7 +68,8 @@
           "value": "Persuasion +8, Bargaining +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-wages-withheld"
     },
     {
       "name": "Want Out Before You Get Stuck",
@@ -77,7 +82,8 @@
           "value": "Courage +8, Social Inquiry +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-want-out-before-you-get-stuck"
     },
     {
       "name": "Want to Change Trades",
@@ -90,7 +96,8 @@
           "value": "Social Inquiry +8, Self-Discipline +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-want-to-change-trades"
     },
     {
       "name": "War Refugee Rebuilder",
@@ -103,7 +110,8 @@
           "value": "Handcrafting +8, Self-Discipline +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-war-refugee-rebuilder"
     },
     {
       "name": "Watched by Spies",
@@ -116,7 +124,8 @@
           "value": "Seeing +8, Social Inquiry +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-watched-by-spies"
     },
     {
       "name": "Work Dried Up",
@@ -129,7 +138,8 @@
           "value": "Bargaining +8, Social Inquiry +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-work-dried-up"
     },
     {
       "name": "Wrongly Blamed for a Failure",
@@ -142,7 +152,8 @@
           "value": "Persuasion +8, Social Inquiry +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-wrongly-blamed-for-a-failure"
     },
     {
       "name": "Younger Sibling's Guardian",
@@ -155,7 +166,8 @@
           "value": "Leadership +8, Empathy +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-younger-sibling-s-guardian"
     },
     {
       "name": "Temple Acolyte Adult",
@@ -168,7 +180,8 @@
           "value": "Religious Lore +8, Etiquette +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-temple-acolyte-adult"
     },
     {
       "name": "Temple Healer Assistant",
@@ -181,7 +194,8 @@
           "value": "Medicine +8, Religious Lore +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-temple-healer-assistant"
     },
     {
       "name": "Temple Investigator's Aide",
@@ -194,7 +208,8 @@
           "value": "Religious Lore +8, Social Inquiry +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-temple-investigator-s-aide"
     },
     {
       "name": "Town Guard Recruit",
@@ -207,7 +222,8 @@
           "value": "Shields +8, Bludgeons +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-town-guard-recruit"
     },
     {
       "name": "Village Record Keeper",
@@ -220,7 +236,8 @@
           "value": "Archival Research +8, Writing +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-village-record-keeper"
     },
     {
       "name": "Village Watchman",
@@ -233,7 +250,8 @@
           "value": "Seeing +8, Military Lore +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-village-watchman"
     },
     {
       "name": "Weaver's Journeyman",
@@ -246,7 +264,8 @@
           "value": "Handcrafting +8, Appraisal +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-weaver-s-journeyman"
     },
     {
       "name": "Wilderness Guide",
@@ -259,7 +278,8 @@
           "value": "Navigation +8, Natural Lore +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-wilderness-guide"
     },
     {
       "name": "Woodcutter",
@@ -272,7 +292,8 @@
           "value": "Might +8, Natural Lore +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-woodcutter"
     },
     {
       "name": "Working Where You Were Needed",
@@ -285,7 +306,8 @@
           "value": "Handcrafting +8, Self-Discipline +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-working-where-you-were-needed"
     },
     {
       "name": "Young Alchemist",
@@ -298,7 +320,8 @@
           "value": "Brewing +8, Natural Lore +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-young-alchemist"
     },
     {
       "name": "Young Blacksmith",
@@ -311,7 +334,8 @@
           "value": "Smithing +8, Handcrafting +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-young-blacksmith"
     },
     {
       "name": "Young Fisher",
@@ -324,7 +348,8 @@
           "value": "Rowing +8, Natural Lore +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-young-fisher"
     },
     {
       "name": "Tiny Negotiator",
@@ -337,7 +362,8 @@
           "value": "Persuasion +6, Bargaining +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tiny-negotiator"
     },
     {
       "name": "Tree Climber",
@@ -350,7 +376,8 @@
           "value": "Climbing +6, Jumping +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tree-climber"
     },
     {
       "name": "Troublemaker",
@@ -363,7 +390,8 @@
           "value": "Deception +6, Legerdemain +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-troublemaker"
     },
     {
       "name": "Trusted With Small Tasks",
@@ -376,7 +404,8 @@
           "value": "Self-Discipline +6, Cultural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-trusted-with-small-tasks"
     },
     {
       "name": "Watched the Adults Lie",
@@ -389,7 +418,8 @@
           "value": "Empathy +6, Deception +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-watched-the-adults-lie"
     },
     {
       "name": "Temple Student",
@@ -402,7 +432,8 @@
           "value": "Religious Lore +6, Writing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-temple-student"
     },
     {
       "name": "Theatre Troupe Child",
@@ -415,7 +446,8 @@
           "value": "Performance +6, Musical Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-theatre-troupe-child"
     },
     {
       "name": "Townhouse Courtyard Child",
@@ -428,7 +460,8 @@
           "value": "Etiquette +6, Empathy +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-townhouse-courtyard-child"
     },
     {
       "name": "Village Errand Child",
@@ -441,7 +474,8 @@
           "value": "Navigation +6, Running +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-village-errand-child"
     },
     {
       "name": "Village Favorite",
@@ -454,7 +488,8 @@
           "value": "Persuasion +6, Empathy +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-village-favorite"
     },
     {
       "name": "Village Oddity",
@@ -467,7 +502,8 @@
           "value": "Social Inquiry +6, Self-Discipline +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-village-oddity"
     },
     {
       "name": "Village Scapegoat",
@@ -480,7 +516,8 @@
           "value": "Courage +6, Social Inquiry +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-village-scapegoat"
     },
     {
       "name": "Workshop Dust Child",
@@ -493,7 +530,8 @@
           "value": "Handcrafting +6, Touching +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-workshop-dust-child"
     },
     {
       "name": "Young Caretaker",
@@ -506,7 +544,8 @@
           "value": "Empathy +6, Medicine +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-young-caretaker"
     },
     {
       "name": "Thrown Weapon Specialist",
@@ -519,7 +558,8 @@
           "value": "Thrown Weapons +15, Legerdemain +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-thrown-weapon-specialist"
     },
     {
       "name": "Unarmed Brawler",
@@ -532,7 +572,8 @@
           "value": "Brawling +15, Tolerance +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-unarmed-brawler"
     },
     {
       "name": "Tactical Fighter",
@@ -545,7 +586,8 @@
           "value": "Fighting +4, Intelligence +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tactical-fighter"
     },
     {
       "name": "Tactical Insight",
@@ -558,7 +600,8 @@
           "value": "Intelligence +6, Fighting +2"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tactical-insight"
     },
     {
       "name": "Versatile Combatant",
@@ -571,7 +614,8 @@
           "value": "Dexterity +4, Fighting +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-versatile-combatant"
     },
     {
       "name": "Watchful Endurance",
@@ -584,7 +628,8 @@
           "value": "Constitution +4, Perception +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-watchful-endurance"
     },
     {
       "name": "Watchful Fighter",
@@ -597,7 +642,8 @@
           "value": "Perception +6, Fighting +2"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-watchful-fighter"
     },
     {
       "name": "Watchful Resolve",
@@ -610,7 +656,8 @@
           "value": "Perception +4, Willpower +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-watchful-resolve"
     },
     {
       "name": "Teamster's Line",
@@ -623,7 +670,8 @@
           "value": "Cart Driving +6, Animal Handling +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-teamster-s-line"
     },
     {
       "name": "Temple Servants Line",
@@ -636,7 +684,8 @@
           "value": "Religious Lore +6, Empathy +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-temple-servants-line"
     },
     {
       "name": "Tenant-Farmer Line",
@@ -649,7 +698,8 @@
           "value": "Natural Lore +6, Bargaining +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tenant-farmer-line"
     },
     {
       "name": "Textile Workers' Line",
@@ -662,7 +712,8 @@
           "value": "Handcrafting +6, Appraisal +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-textile-workers-line"
     },
     {
       "name": "Tutors' Line",
@@ -675,7 +726,8 @@
           "value": "Historical Lore +6, Writing +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tutors-line"
     },
     {
       "name": "Unknown Heritage",
@@ -688,7 +740,8 @@
           "value": "Social Inquiry +6, Archival Research +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-unknown-heritage"
     },
     {
       "name": "Village Pillar Family",
@@ -701,7 +754,8 @@
           "value": "Cultural Lore +6, Empathy +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-village-pillar-family"
     },
     {
       "name": "Undead Scholar",
@@ -714,7 +768,8 @@
           "value": "Forbidden Lore +15, Religious Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-undead-scholar"
     },
     {
       "name": "Underworld Scholar",
@@ -727,7 +782,8 @@
           "value": "Thieves' Lore +15, Faction Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-underworld-scholar"
     },
     {
       "name": "Water Arcana",
@@ -744,7 +800,8 @@
           "value": "Water Jet"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-water-arcana"
     },
     {
       "name": "Wood Arcana",
@@ -761,7 +818,8 @@
           "value": "Entangle"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-wood-arcana"
     },
     {
       "name": "Tide Cold-Coast",
@@ -774,7 +832,8 @@
           "value": "Water Arcana +5, Natural Lore +8, Cultural Lore +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tide-cold-coast"
     },
     {
       "name": "Tide Fleetward",
@@ -787,7 +846,8 @@
           "value": "Water Arcana +5, Sail Handling +8, Military Lore +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tide-fleetward"
     },
     {
       "name": "Tide Riverroad",
@@ -800,7 +860,8 @@
           "value": "Water Arcana +5, Navigation +8, Bargaining +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tide-riverroad"
     },
     {
       "name": "Valenreach Crownside",
@@ -813,7 +874,8 @@
           "value": "Protection Arcana +8, Persuasion +8, Etiquette +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-valenreach-crownside"
     },
     {
       "name": "Valenreach Marchlander",
@@ -826,7 +888,8 @@
           "value": "Protection Arcana +8, Military Lore +8, Cultural Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-valenreach-marchlander"
     },
     {
       "name": "Valenreach Oldroad Native",
@@ -839,7 +902,8 @@
           "value": "Protection Arcana +8, Bargaining +8, Navigation +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-valenreach-oldroad-native"
     },
     {
       "name": "Verdant Grovewise",
@@ -852,7 +916,8 @@
           "value": "Wood Arcana +5, Natural Lore +8, Cultural Lore +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-verdant-grovewise"
     },
     {
       "name": "Verdant Ranger-Marked",
@@ -865,7 +930,8 @@
           "value": "Wood Arcana +5, Tracking +8, Seeing +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-verdant-ranger-marked"
     },
     {
       "name": "Verdant Treatywood",
@@ -878,7 +944,8 @@
           "value": "Wood Arcana +5, Cultural Lore +8, Empathy +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-verdant-treatywood"
     },
     {
       "name": "Tavern Worker",
@@ -891,7 +958,8 @@
           "value": "Social Inquiry +5, Brewing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tavern-worker"
     },
     {
       "name": "Thrown Weapon Apex",
@@ -912,7 +980,8 @@
           "value": "Thrown Weapon Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-thrown-weapon-apex"
     },
     {
       "name": "Thrown Weapon Discipline",
@@ -929,7 +998,8 @@
           "value": "characterLevel 5, Thrown Weapons skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-thrown-weapon-discipline"
     },
     {
       "name": "Thrown Weapon Expertise",
@@ -950,7 +1020,8 @@
           "value": "Thrown Weapon Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-thrown-weapon-expertise"
     },
     {
       "name": "Thrown Weapon Mastery",
@@ -975,7 +1046,8 @@
           "value": "Thrown Weapon Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-thrown-weapon-mastery"
     },
     {
       "name": "Thrown-Blade Duelist",
@@ -996,7 +1068,8 @@
           "value": "characterLevel 10, Light Blades skill 30, Thrown Weapons skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-thrown-blade-duelist"
     },
     {
       "name": "Tireless Reserve",
@@ -1013,7 +1086,8 @@
           "value": "characterLevel 15, Running skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tireless-reserve"
     },
     {
       "name": "Titan Arcana",
@@ -1030,7 +1104,8 @@
           "value": "Titan Grip"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-titan-arcana"
     },
     {
       "name": "Titan Arcana Mastery",
@@ -1055,7 +1130,8 @@
           "value": "Titan Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-titan-arcana-mastery"
     },
     {
       "name": "Tracking Apex",
@@ -1076,7 +1152,8 @@
           "value": "Tracking Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tracking-apex"
     },
     {
       "name": "Tracking Discipline",
@@ -1093,7 +1170,8 @@
           "value": "characterLevel 5, Tracking skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tracking-discipline"
     },
     {
       "name": "Tracking Expertise",
@@ -1114,7 +1192,8 @@
           "value": "Tracking Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tracking-expertise"
     },
     {
       "name": "Tracking Mastery",
@@ -1139,7 +1218,8 @@
           "value": "Tracking Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tracking-mastery"
     },
     {
       "name": "Trailwise",
@@ -1152,7 +1232,8 @@
           "value": "Tracking +10, Natural Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-trailwise"
     },
     {
       "name": "Trapcraft Apex",
@@ -1173,7 +1254,8 @@
           "value": "Trapcraft Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-trapcraft-apex"
     },
     {
       "name": "Trapcraft Discipline",
@@ -1190,7 +1272,8 @@
           "value": "characterLevel 5, Traps skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-trapcraft-discipline"
     },
     {
       "name": "Trapcraft Expertise",
@@ -1211,7 +1294,8 @@
           "value": "Trapcraft Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-trapcraft-expertise"
     },
     {
       "name": "Trapcraft Mastery",
@@ -1236,7 +1320,8 @@
           "value": "Trapcraft Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-trapcraft-mastery"
     },
     {
       "name": "Traveling Troupe",
@@ -1249,7 +1334,8 @@
           "value": "Performance +5, Disguise +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-traveling-troupe"
     },
     {
       "name": "Troll",
@@ -1262,7 +1348,8 @@
           "value": "Tolerance +20, Might +15, Brawling +15, Natural Lore +10, Health +100, Stamina +50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-troll"
     },
     {
       "name": "Twilight Arcana",
@@ -1279,7 +1366,8 @@
           "value": "Twilight Veil"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-twilight-arcana"
     },
     {
       "name": "Twilight Arcana Mastery",
@@ -1304,7 +1392,8 @@
           "value": "Twilight Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-twilight-arcana-mastery"
     },
     {
       "name": "Underworld Negotiator",
@@ -1325,7 +1414,8 @@
           "value": "characterLevel 10, Bargaining skill 30, Thieves' Lore skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-underworld-negotiator"
     },
     {
       "name": "Vampire",
@@ -1342,7 +1432,8 @@
           "value": "Predatory Senses, Vampiric Regeneration, Dominating Presence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-vampire"
     },
     {
       "name": "Vital Reserve",
@@ -1359,7 +1450,8 @@
           "value": "characterLevel 15, Tolerance skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-vital-reserve"
     },
     {
       "name": "Water Arcana Mastery",
@@ -1384,7 +1476,8 @@
           "value": "Water Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-water-arcana-mastery"
     },
     {
       "name": "Waterfarer",
@@ -1405,7 +1498,8 @@
           "value": "characterLevel 10, Water Arcana skill 30, Sail Handling skill 30, Water Arcana trait 1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-waterfarer"
     },
     {
       "name": "Wielder of the Argent Vow",
@@ -1413,7 +1507,8 @@
       "kind": "Trait",
       "summary": "The Argent Vow is currently equipped as the character's Main Weapon, allowing its restored runes to answer to their intent.\n\nNarrative effects: While this trait is present, The Argent Vow occupies the character's Main Weapon slot and grants access to Oath Unbroken. The trait grants no Arcana, noble title, order rank, ownership claim, or permanent attunement, and it should be removed as soon as the weapon is no longer equipped.",
       "facts": [],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-wielder-of-the-argent-vow"
     },
     {
       "name": "Wood Arcana Mastery",
@@ -1438,7 +1533,8 @@
           "value": "Wood Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-wood-arcana-mastery"
     },
     {
       "name": "Wyrd Arcana",
@@ -1455,7 +1551,8 @@
           "value": "Wyrdmark"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-wyrd-arcana"
     },
     {
       "name": "Wyrd Arcana Mastery",
@@ -1480,7 +1577,8 @@
           "value": "Wyrd Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-wyrd-arcana-mastery"
     },
     {
       "name": "Thorough Searcher",
@@ -1493,7 +1591,8 @@
           "value": "Searching +15, Seeing +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-thorough-searcher"
     },
     {
       "name": "Tracker",
@@ -1506,7 +1605,8 @@
           "value": "Tracking +15, Natural Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tracker"
     },
     {
       "name": "Trap Handler",
@@ -1519,7 +1619,8 @@
           "value": "Traps +15, Searching +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-trap-handler"
     },
     {
       "name": "Urban Tracker",
@@ -1532,7 +1633,8 @@
           "value": "Tracking +15, Searching +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-urban-tracker"
     },
     {
       "name": "Vaulting Specialist",
@@ -1545,7 +1647,8 @@
           "value": "Jumping +15, Running +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-vaulting-specialist"
     },
     {
       "name": "Vertical Explorer",
@@ -1558,7 +1661,8 @@
           "value": "Climbing +15, Searching +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-vertical-explorer"
     },
     {
       "name": "Wayfinder",
@@ -1571,7 +1675,8 @@
           "value": "Navigation +15, Natural Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-wayfinder"
     },
     {
       "name": "Wilderness Forager",
@@ -1584,7 +1689,8 @@
           "value": "Natural Lore +15, Searching +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-wilderness-forager"
     },
     {
       "name": "Temple Choir Child",
@@ -1597,7 +1703,8 @@
           "value": "Performance +6, Musical Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-temple-choir-child"
     },
     {
       "name": "Trapper's Helper",
@@ -1610,7 +1717,8 @@
           "value": "Traps +6, Tracking +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-trapper-s-helper"
     },
     {
       "name": "Village Chore Child",
@@ -1623,7 +1731,8 @@
           "value": "Handcrafting +6, Cultural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-village-chore-child"
     },
     {
       "name": "Water Carrier",
@@ -1636,7 +1745,8 @@
           "value": "Might +6, Self-Discipline +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-water-carrier"
     },
     {
       "name": "Weaver's Helper",
@@ -1649,7 +1759,8 @@
           "value": "Handcrafting +6, Appraisal +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-weaver-s-helper"
     },
     {
       "name": "Workshop Apprentice",
@@ -1662,7 +1773,8 @@
           "value": "Handcrafting +6, Appraisal +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-workshop-apprentice"
     },
     {
       "name": "Young Scout",
@@ -1675,7 +1787,8 @@
           "value": "Seeing +6, Navigation +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-young-scout"
     },
     {
       "name": "Younger Children's Tutor",
@@ -1688,7 +1801,8 @@
           "value": "Writing +6, Persuasion +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-younger-children-s-tutor"
     },
     {
       "name": "Trusted With Money",
@@ -1701,7 +1815,8 @@
           "value": "Appraisal +6, Bargaining +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-trusted-with-money"
     },
     {
       "name": "Vow Made in Anger",
@@ -1714,7 +1829,8 @@
           "value": "Intimidation +6, Courage +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-vow-made-in-anger"
     },
     {
       "name": "Witnessed a Birth",
@@ -1727,7 +1843,8 @@
           "value": "Medicine +6, Empathy +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-witnessed-a-birth"
     },
     {
       "name": "Witnessed a Secret Meeting",
@@ -1740,7 +1857,8 @@
           "value": "Hearing +6, Faction Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-witnessed-a-secret-meeting"
     },
     {
       "name": "Won a Real Competition",
@@ -1753,7 +1871,8 @@
           "value": "Performance +6, Courage +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-won-a-real-competition"
     },
     {
       "name": "Won an Adult's Respect",
@@ -1766,7 +1885,8 @@
           "value": "Persuasion +6, Etiquette +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-won-an-adult-s-respect"
     },
     {
       "name": "Tailor",
@@ -1779,7 +1899,8 @@
           "value": "Handcrafting +15, Touching +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tailor"
     },
     {
       "name": "Teamster",
@@ -1792,7 +1913,8 @@
           "value": "Cart Driving +15, Animal Handling +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-teamster"
     },
     {
       "name": "Weaver",
@@ -1805,7 +1927,8 @@
           "value": "Handcrafting +15, Touching +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-weaver"
     },
     {
       "name": "Tiefling — Blightblood",
@@ -1818,7 +1941,8 @@
           "value": "Tolerance +8, Smelling +8, Poison Arcana +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tiefling-blightblood"
     },
     {
       "name": "Tiefling — Cinderblood",
@@ -1831,7 +1955,8 @@
           "value": "Tolerance +8, Intimidation +8, Fire Arcana +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tiefling-cinderblood"
     },
     {
       "name": "Tiefling — Gloamblood",
@@ -1844,7 +1969,8 @@
           "value": "Stealth +8, Seeing +8, Shadow Arcana +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tiefling-gloamblood"
     },
     {
       "name": "Tiefling — Veilblood",
@@ -1857,7 +1983,8 @@
           "value": "Empathy +8, Seeing +8, Enchantment Arcana +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tiefling-veilblood"
     },
     {
       "name": "Tiefling — Wrathblood",
@@ -1870,7 +1997,8 @@
           "value": "Might +8, Courage +8, Power Arcana +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tiefling-wrathblood"
     },
     {
       "name": "Tigerfolk Beastkin",
@@ -1883,7 +2011,8 @@
           "value": "Might +8, Stealth +8, Seeing +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tigerfolk-beastkin"
     },
     {
       "name": "Weaselfolk Beastkin",
@@ -1896,7 +2025,8 @@
           "value": "Stealth +8, Acrobatics +8, Legerdemain +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-weaselfolk-beastkin"
     },
     {
       "name": "Werewolf Beastkin",
@@ -1909,7 +2039,8 @@
           "value": "Tracking +11, Tolerance +5, Intimidation +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-werewolf-beastkin"
     },
     {
       "name": "Wolfkin Beastkin",
@@ -1922,7 +2053,8 @@
           "value": "Smelling +8, Hearing +8, Tracking +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-wolfkin-beastkin"
     },
     {
       "name": "Temple Vestments Set",
@@ -1935,7 +2067,8 @@
           "value": "1, 1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-temple-vestments-set"
     },
     {
       "name": "Traveler's Outfit Set",
@@ -1948,7 +2081,8 @@
           "value": "1, 1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-traveler-s-outfit-set"
     },
     {
       "name": "Village Festival Clothes Set",
@@ -1961,7 +2095,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-village-festival-clothes-set"
     },
     {
       "name": "Tachi",
@@ -1974,7 +2109,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tachi"
     },
     {
       "name": "Throwing Axe",
@@ -1987,7 +2123,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-throwing-axe"
     },
     {
       "name": "Throwing Knife",
@@ -2000,7 +2137,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-throwing-knife"
     },
     {
       "name": "Tournament Lance",
@@ -2013,7 +2151,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tournament-lance"
     },
     {
       "name": "Tower Shield",
@@ -2026,7 +2165,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tower-shield"
     },
     {
       "name": "Twin Daggers",
@@ -2039,7 +2179,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-twin-daggers"
     },
     {
       "name": "Wand",
@@ -2056,7 +2197,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-wand"
     },
     {
       "name": "War Axe",
@@ -2069,7 +2211,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-war-axe"
     },
     {
       "name": "War Bow",
@@ -2082,7 +2225,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-war-bow"
     },
     {
       "name": "War Sling",
@@ -2095,7 +2239,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-war-sling"
     },
     {
       "name": "War Staff",
@@ -2108,7 +2253,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-war-staff"
     },
     {
       "name": "Warhammer",
@@ -2121,7 +2267,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-warhammer"
     },
     {
       "name": "Weighted Handwraps",
@@ -2134,7 +2281,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-weighted-handwraps"
     },
     {
       "name": "Winged Spear",
@@ -2147,7 +2295,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-winged-spear"
     },
     {
       "name": "Wooden Club",
@@ -2160,7 +2309,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-wooden-club"
     },
     {
       "name": "Temple Doubter",
@@ -2173,7 +2323,8 @@
           "value": "Religious Lore +6, Courage +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-temple-doubter"
     },
     {
       "name": "Unstable Arcana Signs",
@@ -2186,7 +2337,8 @@
           "value": "Arcane Lore +6, Self-Discipline +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-unstable-arcana-signs"
     },
     {
       "name": "Unwanted Local Fame",
@@ -2199,7 +2351,8 @@
           "value": "Performance +6, Social Inquiry +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-unwanted-local-fame"
     },
     {
       "name": "Village Scapegoat as a Teen",
@@ -2212,7 +2365,8 @@
           "value": "Courage +6, Persuasion +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-village-scapegoat-as-a-teen"
     },
     {
       "name": "Wages Were Stolen",
@@ -2225,7 +2379,8 @@
           "value": "Bargaining +6, Deception +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-wages-were-stolen"
     },
     {
       "name": "War Refugee Teen",
@@ -2238,7 +2393,8 @@
           "value": "Navigation +6, Military Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-war-refugee-teen"
     },
     {
       "name": "Watched by Noble Spies",
@@ -2251,7 +2407,8 @@
           "value": "Seeing +6, Stealth +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-watched-by-noble-spies"
     },
     {
       "name": "Watched by Temple Agents",
@@ -2264,7 +2421,8 @@
           "value": "Seeing +6, Religious Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-watched-by-temple-agents"
     },
     {
       "name": "Worked Two Jobs",
@@ -2277,7 +2435,8 @@
           "value": "Self-Discipline +6, Bargaining +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-worked-two-jobs"
     },
     {
       "name": "Wrongly Accused",
@@ -2290,7 +2449,8 @@
           "value": "Persuasion +6, Social Inquiry +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-wrongly-accused"
     },
     {
       "name": "Teenage Shrine Acolyte",
@@ -2303,7 +2463,8 @@
           "value": "Religious Lore +8, Etiquette +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-teenage-shrine-acolyte"
     },
     {
       "name": "Temple Choir Teen",
@@ -2316,7 +2477,8 @@
           "value": "Performance +8, Musical Lore +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-temple-choir-teen"
     },
     {
       "name": "Temple Novice",
@@ -2329,7 +2491,8 @@
           "value": "Religious Lore +8, Self-Discipline +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-temple-novice"
     },
     {
       "name": "Tournament Hopeful",
@@ -2342,7 +2505,8 @@
           "value": "Dueling +8, Heavy Blades +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tournament-hopeful"
     },
     {
       "name": "Traveling Troupe Teen",
@@ -2355,7 +2519,8 @@
           "value": "Performance +8, Cultural Lore +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-traveling-troupe-teen"
     },
     {
       "name": "Village Skirmisher",
@@ -2368,7 +2533,8 @@
           "value": "Slings +8, Thrown Weapons +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-village-skirmisher"
     },
     {
       "name": "Watch Cadet",
@@ -2381,7 +2547,8 @@
           "value": "Crossbows +8, Bludgeons +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-watch-cadet"
     },
     {
       "name": "Weaver's Apprentice",
@@ -2394,7 +2561,8 @@
           "value": "Handcrafting +8, Appraisal +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-weaver-s-apprentice"
     },
     {
       "name": "Young Soldier",
@@ -2407,7 +2575,8 @@
           "value": "Polearms +8, Crossbows +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-young-soldier"
     },
     {
       "name": "Taken in by Strangers",
@@ -2420,7 +2589,8 @@
           "value": "Empathy +6, Persuasion +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-taken-in-by-strangers"
     },
     {
       "name": "Temple Cradle",
@@ -2433,7 +2603,8 @@
           "value": "Religious Lore +6, Cultural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-temple-cradle"
     },
     {
       "name": "Travelled Constantly",
@@ -2446,7 +2617,8 @@
           "value": "Navigation +6, Cultural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-travelled-constantly"
     },
     {
       "name": "Twin Separated Early",
@@ -2459,7 +2631,8 @@
           "value": "Empathy +6, Social Inquiry +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-twin-separated-early"
     },
     {
       "name": "Twin Who Stayed Close",
@@ -2472,7 +2645,8 @@
           "value": "Empathy +6, Cultural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-twin-who-stayed-close"
     },
     {
       "name": "Village-Carried Child",
@@ -2485,7 +2659,8 @@
           "value": "Cultural Lore +6, Empathy +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-village-carried-child"
     },
     {
       "name": "Watched by Many Cousins",
@@ -2498,7 +2673,8 @@
           "value": "Cultural Lore +6, Leadership +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-watched-by-many-cousins"
     },
     {
       "name": "Youngest in a Crowd",
@@ -2511,7 +2687,8 @@
           "value": "Empathy +6, Hearing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-youngest-in-a-crowd"
     },
     {
       "name": "Tiny Escape Artist",
@@ -2524,7 +2701,8 @@
           "value": "Legerdemain +6, Stealth +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tiny-escape-artist"
     },
     {
       "name": "Took Things Apart",
@@ -2537,7 +2715,8 @@
           "value": "Handcrafting +6, Engineering +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-took-things-apart"
     },
     {
       "name": "Wandered Off Constantly",
@@ -2550,7 +2729,8 @@
           "value": "Navigation +6, Searching +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-wandered-off-constantly"
     },
     {
       "name": "Wanted to Do It Alone",
@@ -2563,7 +2743,8 @@
           "value": "Self-Discipline +6, Handcrafting +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-wanted-to-do-it-alone"
     },
     {
       "name": "Watched Craftspeople Work",
@@ -2576,7 +2757,8 @@
           "value": "Handcrafting +6, Appraisal +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-watched-craftspeople-work"
     },
     {
       "name": "Woke at Every Sound",
@@ -2589,7 +2771,8 @@
           "value": "Hearing +6, Self-Discipline +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-woke-at-every-sound"
     },
     {
       "name": "Would Not Be Held",
@@ -2602,7 +2785,8 @@
           "value": "Acrobatics +6, Brawling +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-would-not-be-held"
     },
     {
       "name": "Technical Study",
@@ -2615,7 +2799,8 @@
           "value": "Engineering +8, Handcrafting +5, Appraisal +3, Intelligence +2, Dexterity +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-technical-study"
     },
     {
       "name": "Throwing Practice",
@@ -2628,7 +2813,8 @@
           "value": "Thrown Weapons +8, Touching +5, Seeing +3, Accuracy +2, Dexterity +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-throwing-practice"
     },
     {
       "name": "Trail Awareness",
@@ -2641,7 +2827,8 @@
           "value": "Tracking +8, Seeing +5, Smelling +3, Perception +2, Dexterity +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-trail-awareness"
     },
     {
       "name": "Warrior's Regimen",
@@ -2654,7 +2841,8 @@
           "value": "Shields +8, Brawling +5, Courage +3, Fighting +2, Constitution +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-warrior-s-regimen"
     },
     {
       "name": "Temple Raised",
@@ -2667,7 +2855,8 @@
           "value": "Religious Lore +8, Etiquette +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-temple-raised"
     },
     {
       "name": "Tiefling Quarter",
@@ -2680,7 +2869,8 @@
           "value": "Cultural Lore +8, Empathy +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-tiefling-quarter"
     },
     {
       "name": "Traveling Theatre Troupe",
@@ -2693,7 +2883,8 @@
           "value": "Performance +8, Musical Lore +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-traveling-theatre-troupe"
     },
     {
       "name": "War-Torn Province",
@@ -2706,7 +2897,8 @@
           "value": "Courage +8, Seeing +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-war-torn-province"
     },
     {
       "name": "Workhouse Raised",
@@ -2719,7 +2911,8 @@
           "value": "Self-Discipline +8, Cultural Lore +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-workhouse-raised"
     },
     {
       "name": "Workshop Row",
@@ -2732,7 +2925,8 @@
           "value": "Handcrafting +8, Touching +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-workshop-row"
     }
   ],
   "sourceWorld": "Arkenfell"

@@ -12,7 +12,8 @@
           "value": "Natural Lore +8, Bargaining +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-a-bad-season-left-you-short"
     },
     {
       "name": "Adult Runaway",
@@ -25,7 +26,8 @@
           "value": "Navigation +8, Stealth +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-adult-runaway"
     },
     {
       "name": "Awakened Late",
@@ -38,7 +40,8 @@
           "value": "Arcane Lore +8, Self-Discipline +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-awakened-late"
     },
     {
       "name": "Betrothed for Alliance",
@@ -51,7 +54,8 @@
           "value": "Etiquette +8, Faction Lore +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-betrothed-for-alliance"
     },
     {
       "name": "Broken Betrothal Survivor",
@@ -64,7 +68,8 @@
           "value": "Empathy +8, Social Inquiry +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-broken-betrothal-survivor"
     },
     {
       "name": "Business Partner Disappeared",
@@ -77,7 +82,8 @@
           "value": "Social Inquiry +8, Archival Research +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-business-partner-disappeared"
     },
     {
       "name": "Academy Dropout Adult",
@@ -90,7 +96,8 @@
           "value": "Archival Research +8, Self-Discipline +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-academy-dropout-adult"
     },
     {
       "name": "Arcane Research Assistant",
@@ -103,7 +110,8 @@
           "value": "Arcane Lore +8, Archival Research +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-arcane-research-assistant"
     },
     {
       "name": "Baker's Assistant",
@@ -116,7 +124,8 @@
           "value": "Brewing +8, Touching +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-baker-s-assistant"
     },
     {
       "name": "Between Trades",
@@ -129,7 +138,8 @@
           "value": "Bargaining +8, Cultural Lore +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-between-trades"
     },
     {
       "name": "Board-and-Work Laborer",
@@ -142,7 +152,8 @@
           "value": "Bargaining +8, Handcrafting +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-board-and-work-laborer"
     },
     {
       "name": "Bodyguard's First Charge",
@@ -155,7 +166,8 @@
           "value": "Dueling +8, Shields +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-bodyguard-s-first-charge"
     },
     {
       "name": "Border Patrol Recruit",
@@ -168,7 +180,8 @@
           "value": "Bows +8, Tracking +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-border-patrol-recruit"
     },
     {
       "name": "Brewer's Assistant",
@@ -181,7 +194,8 @@
           "value": "Brewing +8, Smelling +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-brewer-s-assistant"
     },
     {
       "name": "Afraid of Magic",
@@ -194,7 +208,8 @@
           "value": "Courage +6, Arcane Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-afraid-of-magic"
     },
     {
       "name": "Always Building Something",
@@ -207,7 +222,8 @@
           "value": "Handcrafting +6, Engineering +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-always-building-something"
     },
     {
       "name": "Always Trading Something",
@@ -220,7 +236,8 @@
           "value": "Bargaining +6, Appraisal +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-always-trading-something"
     },
     {
       "name": "Animal Rescuer",
@@ -233,7 +250,8 @@
           "value": "Animal Handling +6, Medicine +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-animal-rescuer"
     },
     {
       "name": "Asked Too Many Questions",
@@ -246,7 +264,8 @@
           "value": "Social Inquiry +6, Persuasion +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-asked-too-many-questions"
     },
     {
       "name": "Blamed for Bad Luck",
@@ -259,7 +278,8 @@
           "value": "Social Inquiry +6, Cultural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-blamed-for-bad-luck"
     },
     {
       "name": "Bookish Child",
@@ -272,7 +292,8 @@
           "value": "Cultural Lore +6, Historical Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-bookish-child"
     },
     {
       "name": "Bullied and Cornered",
@@ -285,7 +306,8 @@
           "value": "Empathy +6, Courage +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-bullied-and-cornered"
     },
     {
       "name": "Academy Corridor Child",
@@ -298,7 +320,8 @@
           "value": "Arcane Lore +6, Writing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-academy-corridor-child"
     },
     {
       "name": "Apprentice Helper",
@@ -311,7 +334,8 @@
           "value": "Handcrafting +6, Appraisal +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-apprentice-helper"
     },
     {
       "name": "Bakery Child",
@@ -324,7 +348,8 @@
           "value": "Brewing +6, Tasting +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-bakery-child"
     },
     {
       "name": "Barefoot Village Child",
@@ -337,7 +362,8 @@
           "value": "Natural Lore +6, Running +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-barefoot-village-child"
     },
     {
       "name": "Barge Deck Child",
@@ -350,7 +376,8 @@
           "value": "Vessel Piloting +6, Navigation +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-barge-deck-child"
     },
     {
       "name": "Bathhouse Child",
@@ -363,7 +390,8 @@
           "value": "Hearing +6, Social Inquiry +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-bathhouse-child"
     },
     {
       "name": "Border Fort Child",
@@ -376,7 +404,8 @@
           "value": "Seeing +6, Military Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-border-fort-child"
     },
     {
       "name": "Archer",
@@ -389,7 +418,8 @@
           "value": "Bows +15, Seeing +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-archer"
     },
     {
       "name": "Armored Combatant",
@@ -402,7 +432,8 @@
           "value": "Tolerance +15, Shields +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-armored-combatant"
     },
     {
       "name": "Axe Specialist",
@@ -415,7 +446,8 @@
           "value": "Axes +15, Might +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-axe-specialist"
     },
     {
       "name": "Battlefield Survivor",
@@ -428,7 +460,8 @@
           "value": "Courage +15, Tolerance +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-battlefield-survivor"
     },
     {
       "name": "Bludgeon Specialist",
@@ -441,7 +474,8 @@
           "value": "Bludgeons +15, Might +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-bludgeon-specialist"
     },
     {
       "name": "Agile Frame",
@@ -454,7 +488,8 @@
           "value": "Dexterity +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-agile-frame"
     },
     {
       "name": "Analytical Awareness",
@@ -467,7 +502,8 @@
           "value": "Intelligence +6, Perception +2"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-analytical-awareness"
     },
     {
       "name": "Articulate Intellect",
@@ -480,7 +516,8 @@
           "value": "Intelligence +4, Communication +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-articulate-intellect"
     },
     {
       "name": "Athletic Balance",
@@ -493,7 +530,8 @@
           "value": "Strength +4, Dexterity +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-athletic-balance"
     },
     {
       "name": "Balanced Combatant",
@@ -506,7 +544,8 @@
           "value": "Fighting +4, Accuracy +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-balanced-combatant"
     },
     {
       "name": "Battle Awareness",
@@ -519,7 +558,8 @@
           "value": "Fighting +4, Perception +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-battle-awareness"
     },
     {
       "name": "Battle Hardiness",
@@ -532,7 +572,8 @@
           "value": "Constitution +4, Fighting +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-battle-hardiness"
     },
     {
       "name": "Battle-Hardened",
@@ -545,7 +586,8 @@
           "value": "Constitution +6, Fighting +2"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-battle-hardened"
     },
     {
       "name": "Adopted Family Name",
@@ -558,7 +600,8 @@
           "value": "Empathy +6, Cultural Lore +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-adopted-family-name"
     },
     {
       "name": "Animal Breeder Line",
@@ -571,7 +614,8 @@
           "value": "Animal Handling +6, Appraisal +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-animal-breeder-line"
     },
     {
       "name": "Bakers' Line",
@@ -584,7 +628,8 @@
           "value": "Brewing +6, Touching +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-bakers-line"
     },
     {
       "name": "Banking and Ledger Family",
@@ -597,7 +642,8 @@
           "value": "Bargaining +6, Archival Research +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-banking-and-ledger-family"
     },
     {
       "name": "Border-Warden Line",
@@ -610,7 +656,8 @@
           "value": "Military Lore +6, Natural Lore +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-border-warden-line"
     },
     {
       "name": "Brewers' Line",
@@ -623,7 +670,8 @@
           "value": "Brewing +6, Smelling +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-brewers-line"
     },
     {
       "name": "Builder's Line",
@@ -636,7 +684,8 @@
           "value": "Engineering +6, Handcrafting +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-builder-s-line"
     },
     {
       "name": "Alchemist",
@@ -649,7 +698,8 @@
           "value": "Brewing +15, Natural Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-alchemist"
     },
     {
       "name": "Appraiser",
@@ -662,7 +712,8 @@
           "value": "Appraisal +15, Handcrafting +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-appraiser"
     },
     {
       "name": "Arcana Scholar",
@@ -675,7 +726,8 @@
           "value": "Arcane Lore +15, Archival Research +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-arcana-scholar"
     },
     {
       "name": "Arcane Theorist",
@@ -688,7 +740,8 @@
           "value": "Arcane Lore +15, Planar Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-arcane-theorist"
     },
     {
       "name": "Archivist",
@@ -701,7 +754,8 @@
           "value": "Archival Research +15, Writing +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-archivist"
     },
     {
       "name": "Acid Arcana",
@@ -718,7 +772,8 @@
           "value": "Etching Touch"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-acid-arcana"
     },
     {
       "name": "Air Arcana",
@@ -735,7 +790,8 @@
           "value": "Wind Burst"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-air-arcana"
     },
     {
       "name": "Beast Arcana",
@@ -752,7 +808,8 @@
           "value": "Beast Tongue"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-beast-arcana"
     },
     {
       "name": "Arcanum Survey-Bred",
@@ -765,7 +822,8 @@
           "value": "Divination Arcana +5, Cartography +8, Seeing +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-arcanum-survey-bred"
     },
     {
       "name": "Arcanum Tower-Taught",
@@ -778,7 +836,8 @@
           "value": "Divination Arcana +5, Arcane Lore +8, Archival Research +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-arcanum-tower-taught"
     },
     {
       "name": "Arcanum Wardwise",
@@ -791,7 +850,8 @@
           "value": "Divination Arcana +5, Self-Discipline +8, Arcane Lore +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-arcanum-wardwise"
     },
     {
       "name": "Ashen Maw Challenge-Bred",
@@ -804,7 +864,8 @@
           "value": "Fire Arcana +5, Courage +8, Intimidation +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-ashen-maw-challenge-bred"
     },
     {
       "name": "Ashen Maw Cinderland",
@@ -817,7 +878,8 @@
           "value": "Fire Arcana +5, Natural Lore +8, Military Lore +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-ashen-maw-cinderland"
     },
     {
       "name": "Ashen Maw Oathwise",
@@ -830,7 +892,8 @@
           "value": "Fire Arcana +5, Cultural Lore +8, Self-Discipline +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-ashen-maw-oathwise"
     },
     {
       "name": "Abyss Arcana",
@@ -847,7 +910,8 @@
           "value": "Abyssal Gaze"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-abyss-arcana"
     },
     {
       "name": "Abyss Arcana Mastery",
@@ -872,7 +936,8 @@
           "value": "Abyss Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-abyss-arcana-mastery"
     },
     {
       "name": "Acid Arcana Mastery",
@@ -897,7 +962,8 @@
           "value": "Acid Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-acid-arcana-mastery"
     },
     {
       "name": "Acrobatics Apex",
@@ -918,7 +984,8 @@
           "value": "Acrobatics Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-acrobatics-apex"
     },
     {
       "name": "Acrobatics Discipline",
@@ -935,7 +1002,8 @@
           "value": "characterLevel 5, Acrobatics skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-acrobatics-discipline"
     },
     {
       "name": "Acrobatics Expertise",
@@ -956,7 +1024,8 @@
           "value": "Acrobatics Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-acrobatics-expertise"
     },
     {
       "name": "Acrobatics Mastery",
@@ -981,7 +1050,8 @@
           "value": "Acrobatics Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-acrobatics-mastery"
     },
     {
       "name": "Adaptive Training",
@@ -998,7 +1068,8 @@
           "value": "characterLevel 20, Cultural Lore skill 35, Self-Discipline skill 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-adaptive-training"
     },
     {
       "name": "Aegis Arcana",
@@ -1015,7 +1086,8 @@
           "value": "Aegis Guard"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-aegis-arcana"
     },
     {
       "name": "Aegis Arcana Mastery",
@@ -1040,7 +1112,8 @@
           "value": "Aegis Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-aegis-arcana-mastery"
     },
     {
       "name": "Air Arcana Mastery",
@@ -1065,7 +1138,8 @@
           "value": "Air Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-air-arcana-mastery"
     },
     {
       "name": "Ambush Specialist",
@@ -1086,7 +1160,8 @@
           "value": "characterLevel 10, Stealth skill 30, Thrown Weapons skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-ambush-specialist"
     },
     {
       "name": "Arcane Investigator",
@@ -1107,7 +1182,8 @@
           "value": "characterLevel 10, Arcane Lore skill 30, Searching skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-arcane-investigator"
     },
     {
       "name": "Arcane Scholarship Apex",
@@ -1128,7 +1204,8 @@
           "value": "Arcane Scholarship Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-arcane-scholarship-apex"
     },
     {
       "name": "Arcane Scholarship Discipline",
@@ -1145,7 +1222,8 @@
           "value": "characterLevel 5, Arcane Lore skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-arcane-scholarship-discipline"
     },
     {
       "name": "Arcane Scholarship Expertise",
@@ -1166,7 +1244,8 @@
           "value": "Arcane Scholarship Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-arcane-scholarship-expertise"
     },
     {
       "name": "Arcane Scholarship Mastery",
@@ -1191,7 +1270,8 @@
           "value": "Arcane Scholarship Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-arcane-scholarship-mastery"
     },
     {
       "name": "Arcane Warder",
@@ -1212,7 +1292,8 @@
           "value": "characterLevel 10, Protection Arcana skill 30, Self-Discipline skill 30, Protection Arcana trait 1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-arcane-warder"
     },
     {
       "name": "Archery Apex",
@@ -1233,7 +1314,8 @@
           "value": "Archery Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-archery-apex"
     },
     {
       "name": "Archery Discipline",
@@ -1250,7 +1332,8 @@
           "value": "characterLevel 5, Bows skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-archery-discipline"
     },
     {
       "name": "Archery Expertise",
@@ -1271,7 +1354,8 @@
           "value": "Archery Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-archery-expertise"
     },
     {
       "name": "Archery Mastery",
@@ -1296,7 +1380,8 @@
           "value": "Archery Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-archery-mastery"
     },
     {
       "name": "Archival Research Apex",
@@ -1317,7 +1402,8 @@
           "value": "Archival Research Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-archival-research-apex"
     },
     {
       "name": "Archival Research Discipline",
@@ -1334,7 +1420,8 @@
           "value": "characterLevel 5, Archival Research skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-archival-research-discipline"
     },
     {
       "name": "Archival Research Expertise",
@@ -1355,7 +1442,8 @@
           "value": "Archival Research Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-archival-research-expertise"
     },
     {
       "name": "Archival Research Mastery",
@@ -1380,7 +1468,8 @@
           "value": "Archival Research Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-archival-research-mastery"
     },
     {
       "name": "Axe Apex",
@@ -1401,7 +1490,8 @@
           "value": "Axe Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-axe-apex"
     },
     {
       "name": "Axe Discipline",
@@ -1418,7 +1508,8 @@
           "value": "characterLevel 5, Axes skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-axe-discipline"
     },
     {
       "name": "Axe Expertise",
@@ -1439,7 +1530,8 @@
           "value": "Axe Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-axe-expertise"
     },
     {
       "name": "Axe Mastery",
@@ -1464,7 +1556,8 @@
           "value": "Axe Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-axe-mastery"
     },
     {
       "name": "Bargaining Apex",
@@ -1485,7 +1578,8 @@
           "value": "Bargaining Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-bargaining-apex"
     },
     {
       "name": "Bargaining Discipline",
@@ -1502,7 +1596,8 @@
           "value": "characterLevel 5, Bargaining skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-bargaining-discipline"
     },
     {
       "name": "Bargaining Expertise",
@@ -1523,7 +1618,8 @@
           "value": "Bargaining Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-bargaining-expertise"
     },
     {
       "name": "Bargaining Mastery",
@@ -1548,7 +1644,8 @@
           "value": "Bargaining Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-bargaining-mastery"
     },
     {
       "name": "Battle Healer",
@@ -1569,7 +1666,8 @@
           "value": "characterLevel 10, Healing Arcana skill 30, Shields skill 30, Healing Arcana trait 1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-battle-healer"
     },
     {
       "name": "Battlefield Archer",
@@ -1590,7 +1688,8 @@
           "value": "characterLevel 10, Bows skill 30, Military Lore skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-battlefield-archer"
     },
     {
       "name": "Battlefield Medic",
@@ -1603,7 +1702,8 @@
           "value": "Medicine +5, Stamina +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-battlefield-medic"
     },
     {
       "name": "Beast Arcana Mastery",
@@ -1628,7 +1728,8 @@
           "value": "Beast Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-beast-arcana-mastery"
     },
     {
       "name": "Beast Binder",
@@ -1649,7 +1750,8 @@
           "value": "characterLevel 10, Beast Arcana skill 30, Animal Handling skill 30, Beast Arcana trait 1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-beast-binder"
     },
     {
       "name": "Blood Arcana",
@@ -1666,7 +1768,8 @@
           "value": "Blood Sense"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-blood-arcana"
     },
     {
       "name": "Blood Arcana Mastery",
@@ -1691,7 +1794,8 @@
           "value": "Blood Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-blood-arcana-mastery"
     },
     {
       "name": "Bludgeon Apex",
@@ -1712,7 +1816,8 @@
           "value": "Bludgeon Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-bludgeon-apex"
     },
     {
       "name": "Bludgeon Discipline",
@@ -1729,7 +1834,8 @@
           "value": "characterLevel 5, Bludgeons skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-bludgeon-discipline"
     },
     {
       "name": "Bludgeon Expertise",
@@ -1750,7 +1856,8 @@
           "value": "Bludgeon Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-bludgeon-expertise"
     },
     {
       "name": "Bludgeon Mastery",
@@ -1775,7 +1882,8 @@
           "value": "Bludgeon Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-bludgeon-mastery"
     },
     {
       "name": "Bone Arcana",
@@ -1792,7 +1900,8 @@
           "value": "Bone Sense"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-bone-arcana"
     },
     {
       "name": "Bone Arcana Mastery",
@@ -1817,7 +1926,8 @@
           "value": "Bone Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-bone-arcana-mastery"
     },
     {
       "name": "Brawling Apex",
@@ -1838,7 +1948,8 @@
           "value": "Brawling Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-brawling-apex"
     },
     {
       "name": "Brawling Discipline",
@@ -1855,7 +1966,8 @@
           "value": "characterLevel 5, Brawling skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-brawling-discipline"
     },
     {
       "name": "Brawling Expertise",
@@ -1876,7 +1988,8 @@
           "value": "Brawling Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-brawling-expertise"
     },
     {
       "name": "Brawling Mastery",
@@ -1901,7 +2014,8 @@
           "value": "Brawling Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-brawling-mastery"
     },
     {
       "name": "Acrobat",
@@ -1914,7 +2028,8 @@
           "value": "Acrobatics +15, Jumping +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-acrobat"
     },
     {
       "name": "Animal Calmer",
@@ -1927,7 +2042,8 @@
           "value": "Animal Handling +15, Self-Discipline +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-animal-calmer"
     },
     {
       "name": "Balance Specialist",
@@ -1940,7 +2056,8 @@
           "value": "Acrobatics +15, Climbing +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-balance-specialist"
     },
     {
       "name": "Beast Handler",
@@ -1953,7 +2070,8 @@
           "value": "Animal Handling +15, Empathy +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-beast-handler"
     },
     {
       "name": "Academy Foundation Student",
@@ -1966,7 +2084,8 @@
           "value": "Arcane Lore +6, Writing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-academy-foundation-student"
     },
     {
       "name": "Animal Groom",
@@ -1979,7 +2098,8 @@
           "value": "Animal Handling +6, Touching +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-animal-groom"
     },
     {
       "name": "Apothecary Ingredient Sorter",
@@ -1992,7 +2112,8 @@
           "value": "Brewing +6, Smelling +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-apothecary-ingredient-sorter"
     },
     {
       "name": "Baker's Helper",
@@ -2005,7 +2126,8 @@
           "value": "Brewing +6, Tasting +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-baker-s-helper"
     },
     {
       "name": "Barefoot Errand Runner",
@@ -2018,7 +2140,8 @@
           "value": "Running +6, Cultural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-barefoot-errand-runner"
     },
     {
       "name": "Barge Rope Hand",
@@ -2031,7 +2154,8 @@
           "value": "Vessel Piloting +6, Might +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-barge-rope-hand"
     },
     {
       "name": "Border Watch Runner",
@@ -2044,7 +2168,8 @@
           "value": "Running +6, Military Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-border-watch-runner"
     },
     {
       "name": "Brewer's Helper",
@@ -2057,7 +2182,8 @@
           "value": "Brewing +6, Tasting +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-brewer-s-helper"
     },
     {
       "name": "Befriended a Strange Beast",
@@ -2070,7 +2196,8 @@
           "value": "Animal Handling +6, Natural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-befriended-a-strange-beast"
     },
     {
       "name": "Broke a Friendship",
@@ -2083,7 +2210,8 @@
           "value": "Empathy +6, Social Inquiry +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-broke-a-friendship"
     },
     {
       "name": "Administrator",
@@ -2096,7 +2224,8 @@
           "value": "Archival Research +15, Writing +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-administrator"
     },
     {
       "name": "Animal Trainer",
@@ -2109,7 +2238,8 @@
           "value": "Animal Handling +15, Empathy +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-animal-trainer"
     },
     {
       "name": "Apothecary",
@@ -2122,7 +2252,8 @@
           "value": "Brewing +15, Medicine +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-apothecary"
     },
     {
       "name": "Baker",
@@ -2135,7 +2266,8 @@
           "value": "Brewing +15, Handcrafting +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-baker"
     },
     {
       "name": "Blacksmith",
@@ -2148,7 +2280,8 @@
           "value": "Smithing +15, Handcrafting +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-blacksmith"
     },
     {
       "name": "Bookkeeper",
@@ -2161,7 +2294,8 @@
           "value": "Archival Research +15, Appraisal +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-bookkeeper"
     },
     {
       "name": "Brewer",
@@ -2174,7 +2308,8 @@
           "value": "Brewing +15, Tasting +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-brewer"
     },
     {
       "name": "Badgerfolk Beastkin",
@@ -2187,7 +2322,8 @@
           "value": "Tolerance +8, Might +8, Smelling +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-badgerfolk-beastkin"
     },
     {
       "name": "Batfolk Beastkin",
@@ -2200,7 +2336,8 @@
           "value": "Hearing +11, Navigation +5, Stealth +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-batfolk-beastkin"
     },
     {
       "name": "Bearfolk Beastkin",
@@ -2213,7 +2350,8 @@
           "value": "Might +8, Tolerance +8, Smelling +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-bearfolk-beastkin"
     },
     {
       "name": "Boarkin Beastkin",
@@ -2226,7 +2364,8 @@
           "value": "Tolerance +8, Might +8, Smelling +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-boarkin-beastkin"
     },
     {
       "name": "Bullfolk Beastkin",
@@ -2239,7 +2378,8 @@
           "value": "Might +8, Tolerance +8, Intimidation +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-bullfolk-beastkin"
     },
     {
       "name": "Advocate",
@@ -2252,7 +2392,8 @@
           "value": "Persuasion +15, Social Inquiry +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-advocate"
     },
     {
       "name": "Attentive Courter",
@@ -2265,7 +2406,8 @@
           "value": "Courtship +15, Empathy +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-attentive-courter"
     },
     {
       "name": "Academy Uniform Set",
@@ -2278,7 +2420,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-academy-uniform-set"
     },
     {
       "name": "Artisan's Workwear Set",
@@ -2291,7 +2434,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-artisan-s-workwear-set"
     },
     {
       "name": "Breastplate Set",
@@ -2304,7 +2448,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-breastplate-set"
     },
     {
       "name": "Arbalest",
@@ -2317,7 +2462,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-arbalest"
     },
     {
       "name": "Bardiche",
@@ -2330,7 +2476,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-bardiche"
     },
     {
       "name": "Bastard Sword",
@@ -2343,7 +2490,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-bastard-sword"
     },
     {
       "name": "Battle Axe",
@@ -2356,7 +2504,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-battle-axe"
     },
     {
       "name": "Battle Staff",
@@ -2369,7 +2518,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-battle-staff"
     },
     {
       "name": "Bearded Axe",
@@ -2382,7 +2532,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-bearded-axe"
     },
     {
       "name": "Billhook",
@@ -2395,7 +2546,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-billhook"
     },
     {
       "name": "Bo Staff",
@@ -2408,7 +2560,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-bo-staff"
     },
     {
       "name": "Boar Spear",
@@ -2421,7 +2574,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-boar-spear"
     },
     {
       "name": "Buckler Shield",
@@ -2434,7 +2588,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-buckler-shield"
     },
     {
       "name": "Apprenticeship Became a Dead End",
@@ -2447,7 +2602,8 @@
           "value": "Social Inquiry +6, Self-Discipline +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-apprenticeship-became-a-dead-end"
     },
     {
       "name": "Became Someone's Caregiver",
@@ -2460,7 +2616,8 @@
           "value": "Medicine +6, Empathy +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-became-someone-s-caregiver"
     },
     {
       "name": "Best Friend Left",
@@ -2473,7 +2630,8 @@
           "value": "Empathy +6, Self-Discipline +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-best-friend-left"
     },
     {
       "name": "Broke With a Mentor",
@@ -2486,7 +2644,8 @@
           "value": "Empathy +6, Persuasion +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-broke-with-a-mentor"
     },
     {
       "name": "Broke a Serious Oath",
@@ -2499,7 +2658,8 @@
           "value": "Self-Discipline +6, Empathy +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-broke-a-serious-oath"
     },
     {
       "name": "Broken Betrothal",
@@ -2512,7 +2672,8 @@
           "value": "Empathy +6, Etiquette +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-broken-betrothal"
     },
     {
       "name": "Academy Student",
@@ -2525,7 +2686,8 @@
           "value": "Writing +8, Archival Research +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-academy-student"
     },
     {
       "name": "Animal Trainer's Apprentice",
@@ -2538,7 +2700,8 @@
           "value": "Animal Handling +8, Natural Lore +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-animal-trainer-s-apprentice"
     },
     {
       "name": "Apprentice Alchemist",
@@ -2551,7 +2714,8 @@
           "value": "Brewing +8, Natural Lore +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-apprentice-alchemist"
     },
     {
       "name": "Apprentice Carpenter",
@@ -2564,7 +2728,8 @@
           "value": "Handcrafting +8, Engineering +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-apprentice-carpenter"
     },
     {
       "name": "Apprentice Scribe",
@@ -2577,7 +2742,8 @@
           "value": "Fine Script +8, Writing +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-apprentice-scribe"
     },
     {
       "name": "Apprentice Smith",
@@ -2590,7 +2756,8 @@
           "value": "Smithing +8, Handcrafting +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-apprentice-smith"
     },
     {
       "name": "Apprentice Tailor",
@@ -2603,7 +2770,8 @@
           "value": "Handcrafting +8, Appraisal +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-apprentice-tailor"
     },
     {
       "name": "Arcane Theory Obsession",
@@ -2616,7 +2784,8 @@
           "value": "Arcane Lore +8, Archival Research +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-arcane-theory-obsession"
     },
     {
       "name": "Baker's Apprentice",
@@ -2629,7 +2798,8 @@
           "value": "Brewing +8, Tasting +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-baker-s-apprentice"
     },
     {
       "name": "Beast Handler's Assistant",
@@ -2642,7 +2812,8 @@
           "value": "Animal Handling +8, Riding +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-beast-handler-s-assistant"
     },
     {
       "name": "Black Market Errand Runner",
@@ -2655,7 +2826,8 @@
           "value": "Thieves' Lore +8, Bargaining +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-black-market-errand-runner"
     },
     {
       "name": "Brewer's Apprentice",
@@ -2668,7 +2840,8 @@
           "value": "Brewing +8, Tasting +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-brewer-s-apprentice"
     },
     {
       "name": "Abandoned Infant",
@@ -2681,7 +2854,8 @@
           "value": "Social Inquiry +6, Empathy +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-abandoned-infant"
     },
     {
       "name": "Academy Nursery",
@@ -2694,7 +2868,8 @@
           "value": "Arcane Lore +6, Self-Discipline +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-academy-nursery"
     },
     {
       "name": "Barely Kept Alive",
@@ -2707,7 +2882,8 @@
           "value": "Tolerance +6, Courage +3, Health +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-barely-kept-alive"
     },
     {
       "name": "Beloved Child",
@@ -2720,7 +2896,8 @@
           "value": "Empathy +6, Persuasion +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-beloved-child"
     },
     {
       "name": "Born Aboard Ship",
@@ -2733,7 +2910,8 @@
           "value": "Vessel Piloting +6, Hearing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-born-aboard-ship"
     },
     {
       "name": "Born During Harvest",
@@ -2746,7 +2924,8 @@
           "value": "Natural Lore +6, Cultural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-born-during-harvest"
     },
     {
       "name": "Born During Winter Lock-In",
@@ -2759,7 +2938,8 @@
           "value": "Tolerance +6, Hearing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-born-during-winter-lock-in"
     },
     {
       "name": "Born Under Bad Omen",
@@ -2772,7 +2952,8 @@
           "value": "Forbidden Lore +6, Cultural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-born-under-bad-omen"
     },
     {
       "name": "Born Under Lucky Star",
@@ -2785,7 +2966,8 @@
           "value": "Persuasion +6, Cultural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-born-under-lucky-star"
     },
     {
       "name": "Born Under Restriction",
@@ -2798,7 +2980,8 @@
           "value": "Self-Discipline +6, Seeing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-born-under-restriction"
     },
     {
       "name": "Born on the Road",
@@ -2811,7 +2994,8 @@
           "value": "Navigation +6, Cart Driving +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-born-on-the-road"
     },
     {
       "name": "Afraid of Thunder",
@@ -2824,7 +3008,8 @@
           "value": "Hearing +6, Courage +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-afraid-of-thunder"
     },
     {
       "name": "Banged on Pots",
@@ -2837,7 +3022,8 @@
           "value": "Performance +6, Hearing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-banged-on-pots"
     },
     {
       "name": "Bit Anyone Too Close",
@@ -2850,7 +3036,8 @@
           "value": "Brawling +6, Intimidation +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-bit-anyone-too-close"
     },
     {
       "name": "Bold With Strangers",
@@ -2863,7 +3050,8 @@
           "value": "Persuasion +6, Social Inquiry +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-bold-with-strangers"
     },
     {
       "name": "Built Little Towers",
@@ -2876,7 +3064,8 @@
           "value": "Handcrafting +6, Touching +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-built-little-towers"
     },
     {
       "name": "Arcane Concentration",
@@ -2889,7 +3078,8 @@
           "value": "Self-Discipline +8, Arcane Lore +5, Courage +3, Willpower +2, Accuracy +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-arcane-concentration"
     },
     {
       "name": "Arcane Studies",
@@ -2902,7 +3092,8 @@
           "value": "Arcane Lore +8, Relic Lore +5, Writing +3, Intelligence +2, Perception +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-arcane-studies"
     },
     {
       "name": "Balance and Footwork",
@@ -2915,7 +3106,8 @@
           "value": "Acrobatics +8, Jumping +5, Climbing +3, Dexterity +2, Strength +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-balance-and-footwork"
     },
     {
       "name": "Apothecary Household",
@@ -2928,7 +3120,8 @@
           "value": "Brewing +8, Smelling +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-apothecary-household"
     },
     {
       "name": "Arcane Academy Ward",
@@ -2941,7 +3134,8 @@
           "value": "Arcane Lore +8, Self-Discipline +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-arcane-academy-ward"
     },
     {
       "name": "Artisan Family",
@@ -2954,7 +3148,8 @@
           "value": "Handcrafting +8, Appraisal +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-artisan-family"
     },
     {
       "name": "Bakery Household",
@@ -2967,7 +3162,8 @@
           "value": "Brewing +8, Self-Discipline +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-bakery-household"
     },
     {
       "name": "Beastkin Clan",
@@ -2980,7 +3176,8 @@
           "value": "Cultural Lore +8, Empathy +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-beastkin-clan"
     },
     {
       "name": "Border Fort",
@@ -2993,7 +3190,8 @@
           "value": "Military Lore +8, Seeing +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-border-fort"
     },
     {
       "name": "Brewery Household",
@@ -3006,7 +3204,8 @@
           "value": "Brewing +8, Tasting +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-brewery-household"
     }
   ],
   "sourceWorld": "Arkenfell"

@@ -10,6 +10,8 @@ status: canon
 
 Browse the **59 Arcana currently present in the public Arkenfell world**: **27 Standard**, **19 Rare**, and **13 Legendary** affinities. Search by name, magical domain, governing attribute, tier, or the kinds of effects an Arcana can produce.
 
+Select an Arcana's name to open its full article, including its tier, governing attribute, character-creation availability, granted benefits, and links to related character options.
+
 Every entry below is explicitly sourced from **Arkenfell**. Arcana found only in **Arkenfell Private** are excluded.
 
 Arcana are magical affinities. Possessing several represents breadth of access or potential, not automatic mastery. Training, control, reliability, and practical depth are represented by the corresponding Arcana skill and its developed level.

@@ -12,7 +12,8 @@
           "value": "Bargaining +8, Navigation +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-seasonal-work-is-ending"
     },
     {
       "name": "Sent Away from Home",
@@ -25,7 +26,8 @@
           "value": "Navigation +8, Cultural Lore +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sent-away-from-home"
     },
     {
       "name": "Shop Is Failing",
@@ -38,7 +40,8 @@
           "value": "Bargaining +8, Appraisal +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shop-is-failing"
     },
     {
       "name": "Someone Depends on Your Income",
@@ -51,7 +54,8 @@
           "value": "Self-Discipline +8, Bargaining +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-someone-depends-on-your-income"
     },
     {
       "name": "Someone Owes You Money",
@@ -64,7 +68,8 @@
           "value": "Bargaining +8, Social Inquiry +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-someone-owes-you-money"
     },
     {
       "name": "Stuck Where You Started",
@@ -77,7 +82,8 @@
           "value": "Self-Discipline +8, Social Inquiry +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-stuck-where-you-started"
     },
     {
       "name": "Sailor Adult",
@@ -90,7 +96,8 @@
           "value": "Sail Handling +8, Vessel Piloting +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sailor-adult"
     },
     {
       "name": "Scholar's Assistant",
@@ -103,7 +110,8 @@
           "value": "Historical Lore +8, Writing +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-scholar-s-assistant"
     },
     {
       "name": "Scout for Hire",
@@ -116,7 +124,8 @@
           "value": "Tracking +8, Stealth +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-scout-for-hire"
     },
     {
       "name": "Seasonal Laborer",
@@ -129,7 +138,8 @@
           "value": "Might +8, Natural Lore +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-seasonal-laborer"
     },
     {
       "name": "Shipwright's Hand",
@@ -142,7 +152,8 @@
           "value": "Engineering +8, Handcrafting +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shipwright-s-hand"
     },
     {
       "name": "Shopfront Assistant",
@@ -155,7 +166,8 @@
           "value": "Bargaining +8, Persuasion +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shopfront-assistant"
     },
     {
       "name": "Smuggler's Contact",
@@ -168,7 +180,8 @@
           "value": "Thieves' Lore +8, Social Inquiry +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-smuggler-s-contact"
     },
     {
       "name": "Spycraft Trainee",
@@ -181,7 +194,8 @@
           "value": "Deception +8, Stealth +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-spycraft-trainee"
     },
     {
       "name": "Stable Hand",
@@ -194,7 +208,8 @@
           "value": "Animal Handling +8, Riding +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-stable-hand"
     },
     {
       "name": "Still Living at Home",
@@ -207,7 +222,8 @@
           "value": "Cultural Lore +8, Self-Discipline +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-still-living-at-home"
     },
     {
       "name": "Street Survivor Grown Up",
@@ -220,7 +236,8 @@
           "value": "Searching +8, Stealth +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-street-survivor-grown-up"
     },
     {
       "name": "Saved Every Coin",
@@ -233,7 +250,8 @@
           "value": "Appraisal +6, Bargaining +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-saved-every-coin"
     },
     {
       "name": "Saw Forbidden Magic",
@@ -246,7 +264,8 @@
           "value": "Arcane Lore +6, Forbidden Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-saw-forbidden-magic"
     },
     {
       "name": "Secret-Path Finder",
@@ -259,7 +278,8 @@
           "value": "Searching +6, Navigation +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-secret-path-finder"
     },
     {
       "name": "Shadowed a Craftsperson",
@@ -272,7 +292,8 @@
           "value": "Handcrafting +6, Appraisal +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shadowed-a-craftsperson"
     },
     {
       "name": "Slow but Stubborn Learner",
@@ -285,7 +306,8 @@
           "value": "Self-Discipline +6, Searching +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-slow-but-stubborn-learner"
     },
     {
       "name": "Snow Wanderer",
@@ -298,7 +320,8 @@
           "value": "Tolerance +6, Navigation +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-snow-wanderer"
     },
     {
       "name": "Sailor's Cabin Child",
@@ -311,7 +334,8 @@
           "value": "Sail Handling +6, Hearing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sailor-s-cabin-child"
     },
     {
       "name": "Seaside Dock Child",
@@ -324,7 +348,8 @@
           "value": "Hearing +6, Seeing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-seaside-dock-child"
     },
     {
       "name": "Servant Hall Child",
@@ -337,7 +362,8 @@
           "value": "Etiquette +6, Social Inquiry +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-servant-hall-child"
     },
     {
       "name": "Shepherd Camp Child",
@@ -350,7 +376,8 @@
           "value": "Animal Handling +6, Seeing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shepherd-camp-child"
     },
     {
       "name": "Shipyard Child",
@@ -363,7 +390,8 @@
           "value": "Engineering +6, Handcrafting +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shipyard-child"
     },
     {
       "name": "Shopfront Helper",
@@ -376,7 +404,8 @@
           "value": "Bargaining +6, Appraisal +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shopfront-helper"
     },
     {
       "name": "Shrine Sweeper",
@@ -389,7 +418,8 @@
           "value": "Religious Lore +6, Self-Discipline +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shrine-sweeper"
     },
     {
       "name": "Stable Helper",
@@ -402,7 +432,8 @@
           "value": "Animal Handling +6, Riding +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-stable-helper"
     },
     {
       "name": "Street Lookout",
@@ -415,7 +446,8 @@
           "value": "Seeing +6, Stealth +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-street-lookout"
     },
     {
       "name": "Shield Bearer",
@@ -428,7 +460,8 @@
           "value": "Shields +15, Self-Discipline +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shield-bearer"
     },
     {
       "name": "Skirmisher",
@@ -441,7 +474,8 @@
           "value": "Running +15, Thrown Weapons +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-skirmisher"
     },
     {
       "name": "Sling Specialist",
@@ -454,7 +488,8 @@
           "value": "Slings +15, Seeing +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sling-specialist"
     },
     {
       "name": "Spear Specialist",
@@ -467,7 +502,8 @@
           "value": "Spears +15, Acrobatics +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-spear-specialist"
     },
     {
       "name": "Staff Specialist",
@@ -480,7 +516,8 @@
           "value": "Staff Fighting +15, Acrobatics +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-staff-specialist"
     },
     {
       "name": "Swordsmanship Specialist",
@@ -493,7 +530,8 @@
           "value": "Dueling +15, Acrobatics +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-swordsmanship-specialist"
     },
     {
       "name": "Scholarly Mind",
@@ -506,7 +544,8 @@
           "value": "Intelligence +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-scholarly-mind"
     },
     {
       "name": "Social Awareness",
@@ -519,7 +558,8 @@
           "value": "Perception +4, Communication +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-social-awareness"
     },
     {
       "name": "Steadfast Presence",
@@ -532,7 +572,8 @@
           "value": "Constitution +6, Communication +2"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-steadfast-presence"
     },
     {
       "name": "Steady Marksman",
@@ -545,7 +586,8 @@
           "value": "Constitution +6, Accuracy +2"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-steady-marksman"
     },
     {
       "name": "Steady Precision",
@@ -558,7 +600,8 @@
           "value": "Constitution +4, Accuracy +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-steady-precision"
     },
     {
       "name": "Sturdy Physique",
@@ -571,7 +614,8 @@
           "value": "Strength +4, Constitution +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sturdy-physique"
     },
     {
       "name": "Sacred Family Tradition",
@@ -584,7 +628,8 @@
           "value": "Religious Lore +6, Etiquette +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sacred-family-tradition"
     },
     {
       "name": "Sailmaker Family",
@@ -597,7 +642,8 @@
           "value": "Handcrafting +6, Sail Handling +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sailmaker-family"
     },
     {
       "name": "Scholarly Family",
@@ -610,7 +656,8 @@
           "value": "Historical Lore +6, Archival Research +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-scholarly-family"
     },
     {
       "name": "Seafaring Family",
@@ -623,7 +670,8 @@
           "value": "Sail Handling +6, Navigation +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-seafaring-family"
     },
     {
       "name": "Shepherd's Line",
@@ -636,7 +684,8 @@
           "value": "Animal Handling +6, Seeing +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shepherd-s-line"
     },
     {
       "name": "Shipwright Family",
@@ -649,7 +698,8 @@
           "value": "Engineering +6, Handcrafting +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shipwright-family"
     },
     {
       "name": "Shrine Keepers",
@@ -662,7 +712,8 @@
           "value": "Religious Lore +6, Handcrafting +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shrine-keepers"
     },
     {
       "name": "Smithing Dynasty",
@@ -675,7 +726,8 @@
           "value": "Smithing +6, Handcrafting +6"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-smithing-dynasty"
     },
     {
       "name": "Script Scholar",
@@ -688,7 +740,8 @@
           "value": "Fine Script +15, Historical Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-script-scholar"
     },
     {
       "name": "Supernatural Scholar",
@@ -701,7 +754,8 @@
           "value": "Forbidden Lore +15, Planar Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-supernatural-scholar"
     },
     {
       "name": "Shadow Arcana",
@@ -718,7 +772,8 @@
           "value": "Shadow Slip"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shadow-arcana"
     },
     {
       "name": "Smoke Arcana",
@@ -735,7 +790,8 @@
           "value": "Smoke Wisp"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-smoke-arcana"
     },
     {
       "name": "Spirit Arcana",
@@ -752,7 +808,8 @@
           "value": "Spirit Whisper"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-spirit-arcana"
     },
     {
       "name": "Solarian Mercy-House",
@@ -765,7 +822,8 @@
           "value": "Healing Arcana +5, Medicine +8, Empathy +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-solarian-mercy-house"
     },
     {
       "name": "Solarian Pilgrim-Road",
@@ -778,7 +836,8 @@
           "value": "Healing Arcana +5, Cultural Lore +8, Navigation +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-solarian-pilgrim-road"
     },
     {
       "name": "Solarian Temple-City",
@@ -791,7 +850,8 @@
           "value": "Healing Arcana +5, Religious Lore +8, Etiquette +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-solarian-temple-city"
     },
     {
       "name": "Solmire Contract-Court",
@@ -804,7 +864,8 @@
           "value": "Rune Arcana +5, Persuasion +8, Etiquette +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-solmire-contract-court"
     },
     {
       "name": "Solmire Harbor-Market",
@@ -817,7 +878,8 @@
           "value": "Rune Arcana +5, Appraisal +8, Bargaining +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-solmire-harbor-market"
     },
     {
       "name": "Solmire Ledgerwise",
@@ -830,7 +892,8 @@
           "value": "Rune Arcana +5, Bargaining +8, Archival Research +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-solmire-ledgerwise"
     },
     {
       "name": "Stormpearl Harborhouse",
@@ -843,7 +906,8 @@
           "value": "Lightning Arcana +5, Bargaining +8, Cultural Lore +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-stormpearl-harborhouse"
     },
     {
       "name": "Stormpearl Outer-Islander",
@@ -856,7 +920,8 @@
           "value": "Lightning Arcana +5, Swimming +8, Navigation +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-stormpearl-outer-islander"
     },
     {
       "name": "Stormpearl Stormwise",
@@ -869,7 +934,8 @@
           "value": "Lightning Arcana +5, Sail Handling +8, Natural Lore +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-stormpearl-stormwise"
     },
     {
       "name": "Scout Archer",
@@ -890,7 +956,8 @@
           "value": "characterLevel 10, Stealth skill 30, Bows skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-scout-archer"
     },
     {
       "name": "Seal Arcana",
@@ -907,7 +974,8 @@
           "value": "Seal Mark"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-seal-arcana"
     },
     {
       "name": "Seal Arcana Mastery",
@@ -932,7 +1000,8 @@
           "value": "Seal Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-seal-arcana-mastery"
     },
     {
       "name": "Searching Apex",
@@ -953,7 +1022,8 @@
           "value": "Searching Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-searching-apex"
     },
     {
       "name": "Searching Discipline",
@@ -970,7 +1040,8 @@
           "value": "characterLevel 5, Searching skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-searching-discipline"
     },
     {
       "name": "Searching Expertise",
@@ -991,7 +1062,8 @@
           "value": "Searching Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-searching-expertise"
     },
     {
       "name": "Searching Mastery",
@@ -1016,7 +1088,8 @@
           "value": "Searching Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-searching-mastery"
     },
     {
       "name": "Shadow Arcana Mastery",
@@ -1041,7 +1114,8 @@
           "value": "Shadow Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shadow-arcana-mastery"
     },
     {
       "name": "Shield Apex",
@@ -1062,7 +1136,8 @@
           "value": "Shield Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shield-apex"
     },
     {
       "name": "Shield Discipline",
@@ -1079,7 +1154,8 @@
           "value": "characterLevel 5, Shields skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shield-discipline"
     },
     {
       "name": "Shield Duelist",
@@ -1100,7 +1176,8 @@
           "value": "characterLevel 10, Dueling skill 30, Shields skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shield-duelist"
     },
     {
       "name": "Shield Expertise",
@@ -1121,7 +1198,8 @@
           "value": "Shield Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shield-expertise"
     },
     {
       "name": "Shield Mastery",
@@ -1146,7 +1224,8 @@
           "value": "Shield Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shield-mastery"
     },
     {
       "name": "Shipwright",
@@ -1167,7 +1246,8 @@
           "value": "characterLevel 10, Engineering skill 30, Sail Handling skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shipwright"
     },
     {
       "name": "Shock Lancer",
@@ -1188,7 +1268,8 @@
           "value": "characterLevel 10, Lances skill 30, Riding skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shock-lancer"
     },
     {
       "name": "Siege Engineer",
@@ -1209,7 +1290,8 @@
           "value": "characterLevel 10, Engineering skill 30, Military Lore skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-siege-engineer"
     },
     {
       "name": "Siege Marksman",
@@ -1230,7 +1312,8 @@
           "value": "characterLevel 10, Crossbows skill 30, Engineering skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-siege-marksman"
     },
     {
       "name": "Silver Tongue",
@@ -1251,7 +1334,8 @@
           "value": "characterLevel 10, Persuasion skill 30, Empathy skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-silver-tongue"
     },
     {
       "name": "Sling Apex",
@@ -1272,7 +1356,8 @@
           "value": "Sling Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sling-apex"
     },
     {
       "name": "Sling Discipline",
@@ -1289,7 +1374,8 @@
           "value": "characterLevel 5, Slings skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sling-discipline"
     },
     {
       "name": "Sling Expertise",
@@ -1310,7 +1396,8 @@
           "value": "Sling Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sling-expertise"
     },
     {
       "name": "Sling Mastery",
@@ -1335,7 +1422,8 @@
           "value": "Sling Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sling-mastery"
     },
     {
       "name": "Smithing Apex",
@@ -1356,7 +1444,8 @@
           "value": "Smithing Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-smithing-apex"
     },
     {
       "name": "Smithing Discipline",
@@ -1373,7 +1462,8 @@
           "value": "characterLevel 5, Smithing skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-smithing-discipline"
     },
     {
       "name": "Smithing Expertise",
@@ -1394,7 +1484,8 @@
           "value": "Smithing Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-smithing-expertise"
     },
     {
       "name": "Smithing Mastery",
@@ -1419,7 +1510,8 @@
           "value": "Smithing Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-smithing-mastery"
     },
     {
       "name": "Smoke Arcana Mastery",
@@ -1444,7 +1536,8 @@
           "value": "Smoke Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-smoke-arcana-mastery"
     },
     {
       "name": "Social Inquiry Apex",
@@ -1465,7 +1558,8 @@
           "value": "Social Inquiry Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-social-inquiry-apex"
     },
     {
       "name": "Social Inquiry Discipline",
@@ -1482,7 +1576,8 @@
           "value": "characterLevel 5, Social Inquiry skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-social-inquiry-discipline"
     },
     {
       "name": "Social Inquiry Expertise",
@@ -1503,7 +1598,8 @@
           "value": "Social Inquiry Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-social-inquiry-expertise"
     },
     {
       "name": "Social Inquiry Mastery",
@@ -1528,7 +1624,8 @@
           "value": "Social Inquiry Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-social-inquiry-mastery"
     },
     {
       "name": "Social Investigator",
@@ -1549,7 +1646,8 @@
           "value": "characterLevel 10, Social Inquiry skill 30, Empathy skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-social-investigator"
     },
     {
       "name": "Solmire Contract-Bound",
@@ -1566,7 +1664,8 @@
           "value": "Guild Contract Holder"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-solmire-contract-bound"
     },
     {
       "name": "Soul Arcana",
@@ -1583,7 +1682,8 @@
           "value": "Soul Sight"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-soul-arcana"
     },
     {
       "name": "Soul Arcana Mastery",
@@ -1608,7 +1708,8 @@
           "value": "Soul Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-soul-arcana-mastery"
     },
     {
       "name": "Sound Arcana",
@@ -1625,7 +1726,8 @@
           "value": "Amplify"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sound-arcana"
     },
     {
       "name": "Sound Arcana Mastery",
@@ -1650,7 +1752,8 @@
           "value": "Sound Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sound-arcana-mastery"
     },
     {
       "name": "Sovereign Arcana",
@@ -1667,7 +1770,8 @@
           "value": "Commanding Presence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sovereign-arcana"
     },
     {
       "name": "Sovereign Arcana Mastery",
@@ -1692,7 +1796,8 @@
           "value": "Sovereign Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sovereign-arcana-mastery"
     },
     {
       "name": "Spatial Arcana",
@@ -1709,7 +1814,8 @@
           "value": "Pocket Space"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-spatial-arcana"
     },
     {
       "name": "Spatial Arcana Mastery",
@@ -1734,7 +1840,8 @@
           "value": "Spatial Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-spatial-arcana-mastery"
     },
     {
       "name": "Spear Apex",
@@ -1755,7 +1862,8 @@
           "value": "Spear Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-spear-apex"
     },
     {
       "name": "Spear Discipline",
@@ -1772,7 +1880,8 @@
           "value": "characterLevel 5, Spears skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-spear-discipline"
     },
     {
       "name": "Spear Expertise",
@@ -1793,7 +1902,8 @@
           "value": "Spear Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-spear-expertise"
     },
     {
       "name": "Spear Mastery",
@@ -1818,7 +1928,8 @@
           "value": "Spear Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-spear-mastery"
     },
     {
       "name": "Spell Discipline",
@@ -1835,7 +1946,8 @@
           "value": "characterLevel 20, Self-Discipline skill 35, Arcane Lore skill 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-spell-discipline"
     },
     {
       "name": "Spirit Arcana Mastery",
@@ -1860,7 +1972,8 @@
           "value": "Spirit Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-spirit-arcana-mastery"
     },
     {
       "name": "Spirit Medium",
@@ -1881,7 +1994,8 @@
           "value": "characterLevel 10, Spirit Arcana skill 30, Empathy skill 30, Spirit Arcana trait 1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-spirit-medium"
     },
     {
       "name": "Spymaster",
@@ -1902,7 +2016,8 @@
           "value": "characterLevel 10, Deception skill 30, Social Inquiry skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-spymaster"
     },
     {
       "name": "Staff Fighting Apex",
@@ -1923,7 +2038,8 @@
           "value": "Staff Fighting Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-staff-fighting-apex"
     },
     {
       "name": "Staff Fighting Discipline",
@@ -1940,7 +2056,8 @@
           "value": "characterLevel 5, Staff Fighting skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-staff-fighting-discipline"
     },
     {
       "name": "Staff Fighting Expertise",
@@ -1961,7 +2078,8 @@
           "value": "Staff Fighting Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-staff-fighting-expertise"
     },
     {
       "name": "Staff Fighting Mastery",
@@ -1986,7 +2104,8 @@
           "value": "Staff Fighting Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-staff-fighting-mastery"
     },
     {
       "name": "Star Arcana",
@@ -2003,7 +2122,8 @@
           "value": "Star Sight"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-star-arcana"
     },
     {
       "name": "Star Arcana Mastery",
@@ -2028,7 +2148,8 @@
           "value": "Star Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-star-arcana-mastery"
     },
     {
       "name": "Stealth Apex",
@@ -2049,7 +2170,8 @@
           "value": "Stealth Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-stealth-apex"
     },
     {
       "name": "Stealth Discipline",
@@ -2066,7 +2188,8 @@
           "value": "characterLevel 5, Stealth skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-stealth-discipline"
     },
     {
       "name": "Stealth Expertise",
@@ -2087,7 +2210,8 @@
           "value": "Stealth Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-stealth-expertise"
     },
     {
       "name": "Stealth Mastery",
@@ -2112,7 +2236,8 @@
           "value": "Stealth Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-stealth-mastery"
     },
     {
       "name": "Storm Arcana",
@@ -2129,7 +2254,8 @@
           "value": "Charged Sky"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-storm-arcana"
     },
     {
       "name": "Storm Arcana Mastery",
@@ -2154,7 +2280,8 @@
           "value": "Storm Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-storm-arcana-mastery"
     },
     {
       "name": "Storm Navigator",
@@ -2175,7 +2302,8 @@
           "value": "characterLevel 10, Air Arcana skill 30, Navigation skill 30, Air Arcana trait 1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-storm-navigator"
     },
     {
       "name": "Stormpearl Isles Local",
@@ -2188,7 +2316,8 @@
           "value": "Sail Handling +8, Swimming +5, Bargaining +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-stormpearl-isles-local"
     },
     {
       "name": "Street Networker",
@@ -2209,7 +2338,8 @@
           "value": "characterLevel 10, Thieves' Lore skill 30, Social Inquiry skill 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-street-networker"
     },
     {
       "name": "Sun Arcana",
@@ -2226,7 +2356,8 @@
           "value": "Sunspark"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sun-arcana"
     },
     {
       "name": "Sun Arcana Mastery",
@@ -2251,7 +2382,8 @@
           "value": "Sun Arcana"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sun-arcana-mastery"
     },
     {
       "name": "Swimming Apex",
@@ -2272,7 +2404,8 @@
           "value": "Swimming Mastery"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-swimming-apex"
     },
     {
       "name": "Swimming Discipline",
@@ -2289,7 +2422,8 @@
           "value": "characterLevel 5, Swimming skill 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-swimming-discipline"
     },
     {
       "name": "Swimming Expertise",
@@ -2310,7 +2444,8 @@
           "value": "Swimming Discipline"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-swimming-expertise"
     },
     {
       "name": "Swimming Mastery",
@@ -2335,7 +2470,8 @@
           "value": "Swimming Expertise"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-swimming-mastery"
     },
     {
       "name": "Security Bypasser",
@@ -2348,7 +2484,8 @@
           "value": "Lock Picking +15, Searching +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-security-bypasser"
     },
     {
       "name": "Shadowing Specialist",
@@ -2361,7 +2498,8 @@
           "value": "Stealth +15, Tracking +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shadowing-specialist"
     },
     {
       "name": "Sleight Specialist",
@@ -2374,7 +2512,8 @@
           "value": "Legerdemain +15, Stealth +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sleight-specialist"
     },
     {
       "name": "Snare Specialist",
@@ -2387,7 +2526,8 @@
           "value": "Traps +15, Natural Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-snare-specialist"
     },
     {
       "name": "Sprinter",
@@ -2400,7 +2540,8 @@
           "value": "Running +15, Acrobatics +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sprinter"
     },
     {
       "name": "Stealth Specialist",
@@ -2413,7 +2554,8 @@
           "value": "Stealth +15, Acrobatics +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-stealth-specialist"
     },
     {
       "name": "Strong Current Swimmer",
@@ -2426,7 +2568,8 @@
           "value": "Swimming +15, Might +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-strong-current-swimmer"
     },
     {
       "name": "Sure Leaper",
@@ -2439,7 +2582,8 @@
           "value": "Jumping +15, Acrobatics +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sure-leaper"
     },
     {
       "name": "Survivor",
@@ -2452,7 +2596,8 @@
           "value": "Natural Lore +15, Tolerance +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-survivor"
     },
     {
       "name": "Swimmer",
@@ -2465,7 +2610,8 @@
           "value": "Swimming +15, Tolerance +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-swimmer"
     },
     {
       "name": "Sailmaker's Helper",
@@ -2478,7 +2624,8 @@
           "value": "Handcrafting +6, Sail Handling +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sailmaker-s-helper"
     },
     {
       "name": "Scribe's Ink Grinder",
@@ -2491,7 +2638,8 @@
           "value": "Fine Script +6, Writing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-scribe-s-ink-grinder"
     },
     {
       "name": "Shepherd's Helper",
@@ -2504,7 +2652,8 @@
           "value": "Animal Handling +6, Seeing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shepherd-s-helper"
     },
     {
       "name": "Shipyard Runner",
@@ -2517,7 +2666,8 @@
           "value": "Engineering +6, Running +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shipyard-runner"
     },
     {
       "name": "Shop Ledger Helper",
@@ -2530,7 +2680,8 @@
           "value": "Archival Research +6, Fine Script +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shop-ledger-helper"
     },
     {
       "name": "Shrine Acolyte",
@@ -2543,7 +2694,8 @@
           "value": "Religious Lore +6, Etiquette +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shrine-acolyte"
     },
     {
       "name": "Shrine Donation Counter",
@@ -2556,7 +2708,8 @@
           "value": "Appraisal +6, Religious Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shrine-donation-counter"
     },
     {
       "name": "Sibling Minder",
@@ -2569,7 +2722,8 @@
           "value": "Empathy +6, Leadership +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sibling-minder"
     },
     {
       "name": "Smithy Bellows Child",
@@ -2582,7 +2736,8 @@
           "value": "Smithing +6, Tolerance +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-smithy-bellows-child"
     },
     {
       "name": "Soldier's Runner",
@@ -2595,7 +2750,8 @@
           "value": "Military Lore +6, Running +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-soldier-s-runner"
     },
     {
       "name": "Stable Rider",
@@ -2608,7 +2764,8 @@
           "value": "Animal Handling +6, Riding +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-stable-rider"
     },
     {
       "name": "Stage Costume Helper",
@@ -2621,7 +2778,8 @@
           "value": "Disguise +6, Performance +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-stage-costume-helper"
     },
     {
       "name": "Street Errand Runner",
@@ -2634,7 +2792,8 @@
           "value": "Navigation +6, Running +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-street-errand-runner"
     },
     {
       "name": "Sat Through a Death Vigil",
@@ -2647,7 +2806,8 @@
           "value": "Religious Lore +6, Self-Discipline +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sat-through-a-death-vigil"
     },
     {
       "name": "Saved for Something Important",
@@ -2660,7 +2820,8 @@
           "value": "Self-Discipline +6, Appraisal +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-saved-for-something-important"
     },
     {
       "name": "Saw a Dragon Overhead",
@@ -2673,7 +2834,8 @@
           "value": "Dragon Lore +6, Seeing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-saw-a-dragon-overhead"
     },
     {
       "name": "Saw a Great City",
@@ -2686,7 +2848,8 @@
           "value": "Cultural Lore +6, Navigation +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-saw-a-great-city"
     },
     {
       "name": "Secret Keeper",
@@ -2699,7 +2862,8 @@
           "value": "Empathy +6, Deception +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-secret-keeper"
     },
     {
       "name": "Secret Language Learner",
@@ -2712,7 +2876,8 @@
           "value": "Cryptography +6, Fine Script +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-secret-language-learner"
     },
     {
       "name": "Shadowed by a Stranger",
@@ -2725,7 +2890,8 @@
           "value": "Seeing +6, Stealth +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shadowed-by-a-stranger"
     },
     {
       "name": "Smuggled Food to Someone",
@@ -2738,7 +2904,8 @@
           "value": "Empathy +6, Stealth +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-smuggled-food-to-someone"
     },
     {
       "name": "Survived a Border Raid",
@@ -2751,7 +2918,8 @@
           "value": "Military Lore +6, Seeing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-survived-a-border-raid"
     },
     {
       "name": "Survived a Fire",
@@ -2764,7 +2932,8 @@
           "value": "Tolerance +6, Seeing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-survived-a-fire"
     },
     {
       "name": "Survived a Monster Sighting",
@@ -2777,7 +2946,8 @@
           "value": "Seeing +6, Natural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-survived-a-monster-sighting"
     },
     {
       "name": "Survived a Winter Shortage",
@@ -2790,7 +2960,8 @@
           "value": "Tolerance +6, Appraisal +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-survived-a-winter-shortage"
     },
     {
       "name": "Swore Temple Oath",
@@ -2803,7 +2974,8 @@
           "value": "Religious Lore +6, Etiquette +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-swore-temple-oath"
     },
     {
       "name": "Sailmaker",
@@ -2816,7 +2988,8 @@
           "value": "Handcrafting +15, Sail Handling +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sailmaker"
     },
     {
       "name": "Sailor",
@@ -2829,7 +3002,8 @@
           "value": "Sail Handling +15, Swimming +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sailor"
     },
     {
       "name": "Scribe",
@@ -2842,7 +3016,8 @@
           "value": "Writing +15, Fine Script +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-scribe"
     },
     {
       "name": "Shepherd",
@@ -2855,7 +3030,8 @@
           "value": "Animal Handling +15, Natural Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shepherd"
     },
     {
       "name": "Shipbuilder",
@@ -2868,7 +3044,8 @@
           "value": "Engineering +15, Handcrafting +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shipbuilder"
     },
     {
       "name": "Spycraft Operative",
@@ -2881,7 +3058,8 @@
           "value": "Social Inquiry +15, Stealth +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-spycraft-operative"
     },
     {
       "name": "Stablemaster",
@@ -2894,7 +3072,8 @@
           "value": "Animal Handling +15, Riding +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-stablemaster"
     },
     {
       "name": "Steward",
@@ -2907,7 +3086,8 @@
           "value": "Cultural Lore +15, Archival Research +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-steward"
     },
     {
       "name": "Serpentfolk Beastkin",
@@ -2920,7 +3100,8 @@
           "value": "Smelling +8, Stealth +8, Touching +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-serpentfolk-beastkin"
     },
     {
       "name": "Sharkfolk Beastkin",
@@ -2933,7 +3114,8 @@
           "value": "Swimming +11, Smelling +5, Tolerance +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sharkfolk-beastkin"
     },
     {
       "name": "Sheepfolk Beastkin",
@@ -2946,7 +3128,8 @@
           "value": "Tolerance +8, Hearing +8, Smelling +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sheepfolk-beastkin"
     },
     {
       "name": "Spiritfolk",
@@ -2959,7 +3142,8 @@
           "value": "Seeing +8, Empathy +8, Spirit Arcana +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-spiritfolk"
     },
     {
       "name": "Squirrelfolk Beastkin",
@@ -2972,7 +3156,8 @@
           "value": "Climbing +8, Acrobatics +8, Legerdemain +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-squirrelfolk-beastkin"
     },
     {
       "name": "Storyteller",
@@ -2985,7 +3170,8 @@
           "value": "Performance +15, Cultural Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-storyteller"
     },
     {
       "name": "Streetwise Operator",
@@ -2998,7 +3184,8 @@
           "value": "Social Inquiry +15, Thieves' Lore +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-streetwise-operator"
     },
     {
       "name": "Sailor's Clothes Set",
@@ -3011,7 +3198,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sailor-s-clothes-set"
     },
     {
       "name": "Scholar's Robes Set",
@@ -3024,7 +3212,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-scholar-s-robes-set"
     },
     {
       "name": "Servant's Uniform Set",
@@ -3037,7 +3226,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-servant-s-uniform-set"
     },
     {
       "name": "Smith's Apron Set",
@@ -3050,7 +3240,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-smith-s-apron-set"
     },
     {
       "name": "Stealth Clothing Set",
@@ -3063,7 +3254,8 @@
           "value": "1, 1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-stealth-clothing-set"
     },
     {
       "name": "Street Urchin Clothes Set",
@@ -3076,7 +3268,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-street-urchin-clothes-set"
     },
     {
       "name": "Scale Armor Set",
@@ -3089,7 +3282,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-scale-armor-set"
     },
     {
       "name": "Stealth Armor Set",
@@ -3102,7 +3296,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-stealth-armor-set"
     },
     {
       "name": "Studded Leather Armor Set",
@@ -3115,7 +3310,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-studded-leather-armor-set"
     },
     {
       "name": "Sap Gloves",
@@ -3128,7 +3324,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sap-gloves"
     },
     {
       "name": "Shepherd's Sling",
@@ -3141,7 +3338,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shepherd-s-sling"
     },
     {
       "name": "Short Spear",
@@ -3154,7 +3352,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-short-spear"
     },
     {
       "name": "Short Sword",
@@ -3167,7 +3366,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-short-sword"
     },
     {
       "name": "Shortbow",
@@ -3180,7 +3380,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shortbow"
     },
     {
       "name": "Shuriken",
@@ -3193,7 +3394,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shuriken"
     },
     {
       "name": "Small Shield",
@@ -3206,7 +3408,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-small-shield"
     },
     {
       "name": "Smallsword",
@@ -3219,7 +3422,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-smallsword"
     },
     {
       "name": "Spear",
@@ -3232,7 +3436,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-spear"
     },
     {
       "name": "Spiked Gauntlets",
@@ -3245,7 +3450,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-spiked-gauntlets"
     },
     {
       "name": "Staff Sling",
@@ -3258,7 +3464,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-staff-sling"
     },
     {
       "name": "Steel Dagger",
@@ -3271,7 +3478,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-steel-dagger"
     },
     {
       "name": "Stiletto",
@@ -3284,7 +3492,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-stiletto"
     },
     {
       "name": "Stone Sling",
@@ -3297,7 +3506,8 @@
           "value": "1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-stone-sling"
     },
     {
       "name": "Secret Engagement",
@@ -3310,7 +3520,8 @@
           "value": "Deception +6, Etiquette +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-secret-engagement"
     },
     {
       "name": "Servant With Noble Secrets",
@@ -3323,7 +3534,8 @@
           "value": "Hearing +6, Etiquette +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-servant-with-noble-secrets"
     },
     {
       "name": "Sold Out by Friends",
@@ -3336,7 +3548,8 @@
           "value": "Empathy +6, Deception +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sold-out-by-friends"
     },
     {
       "name": "Survived a Monster Attack",
@@ -3349,7 +3562,8 @@
           "value": "Courage +6, Natural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-survived-a-monster-attack"
     },
     {
       "name": "Survived a Raid",
@@ -3362,7 +3576,8 @@
           "value": "Military Lore +6, Courage +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-survived-a-raid"
     },
     {
       "name": "Survived a Siege",
@@ -3375,7 +3590,8 @@
           "value": "Military Lore +6, Tolerance +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-survived-a-siege"
     },
     {
       "name": "Swore a Serious Oath",
@@ -3388,7 +3604,8 @@
           "value": "Self-Discipline +6, Etiquette +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-swore-a-serious-oath"
     },
     {
       "name": "Sailmaker's Apprentice",
@@ -3401,7 +3618,8 @@
           "value": "Handcrafting +8, Sail Handling +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sailmaker-s-apprentice"
     },
     {
       "name": "Sailor's Deckhand",
@@ -3414,7 +3632,8 @@
           "value": "Sail Handling +8, Vessel Piloting +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sailor-s-deckhand"
     },
     {
       "name": "Scholarship Student",
@@ -3427,7 +3646,8 @@
           "value": "Archival Research +8, Writing +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-scholarship-student"
     },
     {
       "name": "Self-Taught Reader",
@@ -3440,7 +3660,8 @@
           "value": "Historical Lore +8, Cultural Lore +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-self-taught-reader"
     },
     {
       "name": "Shepherd Teen",
@@ -3453,7 +3674,8 @@
           "value": "Animal Handling +8, Seeing +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shepherd-teen"
     },
     {
       "name": "Shipwright's Apprentice",
@@ -3466,7 +3688,8 @@
           "value": "Engineering +8, Handcrafting +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shipwright-s-apprentice"
     },
     {
       "name": "Shopfront Heir",
@@ -3479,7 +3702,8 @@
           "value": "Bargaining +8, Appraisal +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shopfront-heir"
     },
     {
       "name": "Shrine Guard Trainee",
@@ -3492,7 +3716,8 @@
           "value": "Staff Fighting +8, Shields +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shrine-guard-trainee"
     },
     {
       "name": "Smuggler's Helper",
@@ -3505,7 +3730,8 @@
           "value": "Thieves' Lore +8, Navigation +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-smuggler-s-helper"
     },
     {
       "name": "Stayed Home to Help",
@@ -3518,7 +3744,8 @@
           "value": "Self-Discipline +8, Handcrafting +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-stayed-home-to-help"
     },
     {
       "name": "Street Fighter Teen",
@@ -3531,7 +3758,8 @@
           "value": "Brawling +8, Light Blades +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-street-fighter-teen"
     },
     {
       "name": "Street Survivor",
@@ -3544,7 +3772,8 @@
           "value": "Searching +8, Stealth +4"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-street-survivor"
     },
     {
       "name": "Separated From First Caregiver",
@@ -3557,7 +3786,8 @@
           "value": "Empathy +6, Courage +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-separated-from-first-caregiver"
     },
     {
       "name": "Separated by Authority",
@@ -3570,7 +3800,8 @@
           "value": "Empathy +6, Social Inquiry +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-separated-by-authority"
     },
     {
       "name": "Servant-Raised Toddler",
@@ -3583,7 +3814,8 @@
           "value": "Etiquette +6, Empathy +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-servant-raised-toddler"
     },
     {
       "name": "Sheltered Nursery",
@@ -3596,7 +3828,8 @@
           "value": "Etiquette +6, Seeing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sheltered-nursery"
     },
     {
       "name": "Sickly Toddler",
@@ -3609,7 +3842,8 @@
           "value": "Tolerance +6, Medicine +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sickly-toddler"
     },
     {
       "name": "Silken Cradle",
@@ -3622,7 +3856,8 @@
           "value": "Appraisal +6, Etiquette +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-silken-cradle"
     },
     {
       "name": "Survived Bandits",
@@ -3635,7 +3870,8 @@
           "value": "Courage +6, Seeing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-survived-bandits"
     },
     {
       "name": "Survived a Bad Fall",
@@ -3648,7 +3884,8 @@
           "value": "Climbing +6, Courage +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-survived-a-bad-fall"
     },
     {
       "name": "Survived a Fever",
@@ -3661,7 +3898,8 @@
           "value": "Tolerance +6, Medicine +3, Health +5"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-survived-a-fever"
     },
     {
       "name": "Survived a Flood",
@@ -3674,7 +3912,8 @@
           "value": "Swimming +6, Tolerance +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-survived-a-flood"
     },
     {
       "name": "Survived a Harsh Winter",
@@ -3687,7 +3926,8 @@
           "value": "Tolerance +6, Natural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-survived-a-harsh-winter"
     },
     {
       "name": "Survived a House Fire",
@@ -3700,7 +3940,8 @@
           "value": "Courage +6, Seeing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-survived-a-house-fire"
     },
     {
       "name": "Survived a Shipwreck",
@@ -3713,7 +3954,8 @@
           "value": "Swimming +6, Courage +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-survived-a-shipwreck"
     },
     {
       "name": "Sang Before Speaking",
@@ -3726,7 +3968,8 @@
           "value": "Performance +6, Musical Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sang-before-speaking"
     },
     {
       "name": "Shared Everything",
@@ -3739,7 +3982,8 @@
           "value": "Persuasion +6, Empathy +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shared-everything"
     },
     {
       "name": "Silent Little Shadow",
@@ -3752,7 +3996,8 @@
           "value": "Stealth +6, Seeing +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-silent-little-shadow"
     },
     {
       "name": "Slept Outdoors Easily",
@@ -3765,7 +4010,8 @@
           "value": "Tolerance +6, Natural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-slept-outdoors-easily"
     },
     {
       "name": "Slept Through Noise",
@@ -3778,7 +4024,8 @@
           "value": "Self-Discipline +6, Courage +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-slept-through-noise"
     },
     {
       "name": "Slow to Warm Up",
@@ -3791,7 +4038,8 @@
           "value": "Empathy +6, Self-Discipline +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-slow-to-warm-up"
     },
     {
       "name": "Sorted Everything",
@@ -3804,7 +4052,8 @@
           "value": "Appraisal +6, Handcrafting +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sorted-everything"
     },
     {
       "name": "Stared at Maps",
@@ -3817,7 +4066,8 @@
           "value": "Cartography +6, Navigation +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-stared-at-maps"
     },
     {
       "name": "Stared at Weapons",
@@ -3830,7 +4080,8 @@
           "value": "Appraisal +6, Military Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-stared-at-weapons"
     },
     {
       "name": "Strange Dreams in the Cradle",
@@ -3843,7 +4094,8 @@
           "value": "Self-Discipline +6, Empathy +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-strange-dreams-in-the-cradle"
     },
     {
       "name": "Stubborn About Routines",
@@ -3856,7 +4108,8 @@
           "value": "Self-Discipline +6, Cultural Lore +3"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-stubborn-about-routines"
     },
     {
       "name": "Scholarly Pursuits",
@@ -3869,7 +4122,8 @@
           "value": "Archival Research +8, Writing +5, Historical Lore +3, Intelligence +2, Willpower +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-scholarly-pursuits"
     },
     {
       "name": "Sensory Training",
@@ -3882,7 +4136,8 @@
           "value": "Seeing +8, Hearing +5, Searching +3, Perception +2, Accuracy +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sensory-training"
     },
     {
       "name": "Situational Awareness",
@@ -3895,7 +4150,8 @@
           "value": "Hearing +8, Seeing +5, Self-Discipline +3, Perception +2, Fighting +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-situational-awareness"
     },
     {
       "name": "Social Graces",
@@ -3908,7 +4164,8 @@
           "value": "Etiquette +8, Persuasion +5, Empathy +3, Communication +2, Dexterity +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-social-graces"
     },
     {
       "name": "Social Maneuvering Practice",
@@ -3921,7 +4178,8 @@
           "value": "Deception +8, Social Inquiry +5, Empathy +3, Communication +2, Perception +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-social-maneuvering-practice"
     },
     {
       "name": "Sparring Practice",
@@ -3934,7 +4192,8 @@
           "value": "Dueling +8, Brawling +5, Self-Discipline +3, Fighting +2, Dexterity +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-sparring-practice"
     },
     {
       "name": "Strategic Study",
@@ -3947,7 +4206,8 @@
           "value": "Military Lore +8, Historical Lore +5, Cartography +3, Intelligence +2, Communication +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-strategic-study"
     },
     {
       "name": "Strength Conditioning",
@@ -3960,7 +4220,8 @@
           "value": "Might +8, Climbing +5, Brawling +3, Strength +2, Constitution +1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-strength-conditioning"
     },
     {
       "name": "Scholar's Household",
@@ -3973,7 +4234,8 @@
           "value": "Archival Research +8, Historical Lore +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-scholar-s-household"
     },
     {
       "name": "Seaside Village",
@@ -3986,7 +4248,8 @@
           "value": "Swimming +8, Navigation +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-seaside-village"
     },
     {
       "name": "Servant Household",
@@ -3999,7 +4262,8 @@
           "value": "Etiquette +8, Empathy +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-servant-household"
     },
     {
       "name": "Shipboard Raised",
@@ -4012,7 +4276,8 @@
           "value": "Sail Handling +8, Vessel Piloting +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shipboard-raised"
     },
     {
       "name": "Shipyard Settlement",
@@ -4025,7 +4290,8 @@
           "value": "Engineering +8, Handcrafting +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shipyard-settlement"
     },
     {
       "name": "Shopkeeper Household",
@@ -4038,7 +4304,8 @@
           "value": "Bargaining +8, Appraisal +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-shopkeeper-household"
     },
     {
       "name": "Street Raised",
@@ -4051,7 +4318,8 @@
           "value": "Stealth +8, Running +8"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "trait-street-raised"
     }
   ],
   "sourceWorld": "Arkenfell"

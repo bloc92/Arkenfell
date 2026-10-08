@@ -12,7 +12,8 @@
           "value": "Fighting"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-axes"
     },
     {
       "name": "Bludgeons",
@@ -25,7 +26,8 @@
           "value": "Fighting"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-bludgeons"
     },
     {
       "name": "Bows",
@@ -38,7 +40,8 @@
           "value": "Accuracy"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-bows"
     },
     {
       "name": "Brawling",
@@ -51,7 +54,8 @@
           "value": "Accuracy"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-brawling"
     },
     {
       "name": "Crossbows",
@@ -64,7 +68,8 @@
           "value": "Accuracy"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-crossbows"
     },
     {
       "name": "Dueling",
@@ -77,7 +82,8 @@
           "value": "Accuracy"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-dueling"
     },
     {
       "name": "Heavy Blades",
@@ -90,7 +96,8 @@
           "value": "Fighting"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-heavy-blades"
     },
     {
       "name": "Lances",
@@ -103,7 +110,8 @@
           "value": "Fighting"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-lances"
     },
     {
       "name": "Light Blades",
@@ -116,7 +124,8 @@
           "value": "Accuracy"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-light-blades"
     },
     {
       "name": "Polearms",
@@ -129,7 +138,8 @@
           "value": "Fighting"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-polearms"
     },
     {
       "name": "Shields",
@@ -142,7 +152,8 @@
           "value": "Fighting"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-shields"
     },
     {
       "name": "Slings",
@@ -155,7 +166,8 @@
           "value": "Accuracy"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-slings"
     },
     {
       "name": "Spears",
@@ -168,7 +180,8 @@
           "value": "Fighting"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-spears"
     },
     {
       "name": "Staff Fighting",
@@ -181,7 +194,8 @@
           "value": "Accuracy"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-staff-fighting"
     },
     {
       "name": "Thrown Weapons",
@@ -194,7 +208,8 @@
           "value": "Accuracy"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-thrown-weapons"
     },
     {
       "name": "Abyss Arcana",
@@ -207,7 +222,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-abyss-arcana"
     },
     {
       "name": "Acid Arcana",
@@ -220,7 +236,8 @@
           "value": "Constitution"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-acid-arcana"
     },
     {
       "name": "Aegis Arcana",
@@ -233,7 +250,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-aegis-arcana"
     },
     {
       "name": "Air Arcana",
@@ -246,7 +264,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-air-arcana"
     },
     {
       "name": "Beast Arcana",
@@ -259,7 +278,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-beast-arcana"
     },
     {
       "name": "Blood Arcana",
@@ -272,7 +292,8 @@
           "value": "Constitution"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-blood-arcana"
     },
     {
       "name": "Bone Arcana",
@@ -285,7 +306,8 @@
           "value": "Constitution"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-bone-arcana"
     },
     {
       "name": "Cold Arcana",
@@ -298,7 +320,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-cold-arcana"
     },
     {
       "name": "Conjuration Arcana",
@@ -311,7 +334,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-conjuration-arcana"
     },
     {
       "name": "Crystal Arcana",
@@ -324,7 +348,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-crystal-arcana"
     },
     {
       "name": "Death Arcana",
@@ -337,7 +362,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-death-arcana"
     },
     {
       "name": "Divination Arcana",
@@ -350,7 +376,8 @@
           "value": "Perception"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-divination-arcana"
     },
     {
       "name": "Dragon Arcana",
@@ -363,7 +390,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-dragon-arcana"
     },
     {
       "name": "Dream Arcana",
@@ -376,7 +404,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-dream-arcana"
     },
     {
       "name": "Earth Arcana",
@@ -389,7 +418,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-earth-arcana"
     },
     {
       "name": "Echo Arcana",
@@ -402,7 +432,8 @@
           "value": "Perception"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-echo-arcana"
     },
     {
       "name": "Enchantment Arcana",
@@ -415,7 +446,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-enchantment-arcana"
     },
     {
       "name": "Fate Arcana",
@@ -428,7 +460,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-fate-arcana"
     },
     {
       "name": "Fiber Arcana",
@@ -441,7 +474,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-fiber-arcana"
     },
     {
       "name": "Fire Arcana",
@@ -454,7 +488,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-fire-arcana"
     },
     {
       "name": "Force Arcana",
@@ -467,7 +502,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-force-arcana"
     },
     {
       "name": "Glass Arcana",
@@ -480,7 +516,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-glass-arcana"
     },
     {
       "name": "Gravity Arcana",
@@ -493,7 +530,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-gravity-arcana"
     },
     {
       "name": "Healing Arcana",
@@ -506,7 +544,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-healing-arcana"
     },
     {
       "name": "Heroic Arcana",
@@ -519,7 +558,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-heroic-arcana"
     },
     {
       "name": "Hunger Arcana",
@@ -532,7 +572,8 @@
           "value": "Constitution"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-hunger-arcana"
     },
     {
       "name": "Illusion Arcana",
@@ -545,7 +586,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-illusion-arcana"
     },
     {
       "name": "Light Arcana",
@@ -558,7 +600,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-light-arcana"
     },
     {
       "name": "Lightning Arcana",
@@ -571,7 +614,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-lightning-arcana"
     },
     {
       "name": "Magnetism Arcana",
@@ -584,7 +628,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-magnetism-arcana"
     },
     {
       "name": "Memory Arcana",
@@ -597,7 +642,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-memory-arcana"
     },
     {
       "name": "Metal Arcana",
@@ -610,7 +656,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-metal-arcana"
     },
     {
       "name": "Mirror Arcana",
@@ -623,7 +670,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-mirror-arcana"
     },
     {
       "name": "Moon Arcana",
@@ -636,7 +684,8 @@
           "value": "Perception"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-moon-arcana"
     },
     {
       "name": "Motion Arcana",
@@ -649,7 +698,8 @@
           "value": "Dexterity"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-motion-arcana"
     },
     {
       "name": "Oath Arcana",
@@ -662,7 +712,8 @@
           "value": "Communication"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-oath-arcana"
     },
     {
       "name": "Phoenix Arcana",
@@ -675,7 +726,8 @@
           "value": "Constitution"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-phoenix-arcana"
     },
     {
       "name": "Plague Arcana",
@@ -688,7 +740,8 @@
           "value": "Constitution"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-plague-arcana"
     },
     {
       "name": "Poison Arcana",
@@ -701,7 +754,8 @@
           "value": "Constitution"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-poison-arcana"
     },
     {
       "name": "Power Arcana",
@@ -714,7 +768,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-power-arcana"
     },
     {
       "name": "Protection Arcana",
@@ -727,7 +782,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-protection-arcana"
     },
     {
       "name": "Ruin Arcana",
@@ -740,7 +796,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-ruin-arcana"
     },
     {
       "name": "Rune Arcana",
@@ -753,7 +810,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-rune-arcana"
     },
     {
       "name": "Seal Arcana",
@@ -766,7 +824,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-seal-arcana"
     },
     {
       "name": "Shadow Arcana",
@@ -779,7 +838,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-shadow-arcana"
     },
     {
       "name": "Smoke Arcana",
@@ -792,7 +852,8 @@
           "value": "Perception"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-smoke-arcana"
     },
     {
       "name": "Soul Arcana",
@@ -805,7 +866,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-soul-arcana"
     },
     {
       "name": "Sound Arcana",
@@ -818,7 +880,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-sound-arcana"
     },
     {
       "name": "Sovereign Arcana",
@@ -831,7 +894,8 @@
           "value": "Communication"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-sovereign-arcana"
     },
     {
       "name": "Spatial Arcana",
@@ -844,7 +908,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-spatial-arcana"
     },
     {
       "name": "Spirit Arcana",
@@ -857,7 +922,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-spirit-arcana"
     },
     {
       "name": "Star Arcana",
@@ -870,7 +936,8 @@
           "value": "Perception"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-star-arcana"
     },
     {
       "name": "Storm Arcana",
@@ -883,7 +950,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-storm-arcana"
     },
     {
       "name": "Sun Arcana",
@@ -896,7 +964,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-sun-arcana"
     },
     {
       "name": "Titan Arcana",
@@ -909,7 +978,8 @@
           "value": "Strength"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-titan-arcana"
     },
     {
       "name": "Twilight Arcana",
@@ -922,7 +992,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-twilight-arcana"
     },
     {
       "name": "Water Arcana",
@@ -935,7 +1006,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-water-arcana"
     },
     {
       "name": "Wood Arcana",
@@ -948,7 +1020,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-wood-arcana"
     },
     {
       "name": "Wyrd Arcana",
@@ -961,7 +1034,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-wyrd-arcana"
     },
     {
       "name": "Acrobatics",
@@ -974,7 +1048,8 @@
           "value": "Dexterity"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-acrobatics"
     },
     {
       "name": "Animal Handling",
@@ -987,7 +1062,8 @@
           "value": "Communication"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-animal-handling"
     },
     {
       "name": "Appraisal",
@@ -1000,7 +1076,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-appraisal"
     },
     {
       "name": "Arcane Lore",
@@ -1013,7 +1090,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-arcane-lore"
     },
     {
       "name": "Archival Research",
@@ -1026,7 +1104,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-archival-research"
     },
     {
       "name": "Bargaining",
@@ -1039,7 +1118,8 @@
           "value": "Communication"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-bargaining"
     },
     {
       "name": "Brewing",
@@ -1052,7 +1132,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-brewing"
     },
     {
       "name": "Cart Driving",
@@ -1065,7 +1146,8 @@
           "value": "Strength"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-cart-driving"
     },
     {
       "name": "Cartography",
@@ -1078,7 +1160,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-cartography"
     },
     {
       "name": "Climbing",
@@ -1091,7 +1174,8 @@
           "value": "Strength"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-climbing"
     },
     {
       "name": "Courage",
@@ -1104,7 +1188,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-courage"
     },
     {
       "name": "Courtship",
@@ -1117,7 +1202,8 @@
           "value": "Communication"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-courtship"
     },
     {
       "name": "Cryptography",
@@ -1130,7 +1216,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-cryptography"
     },
     {
       "name": "Cultural Lore",
@@ -1143,7 +1230,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-cultural-lore"
     },
     {
       "name": "Deception",
@@ -1156,7 +1244,8 @@
           "value": "Communication"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-deception"
     },
     {
       "name": "Disguise",
@@ -1169,7 +1258,8 @@
           "value": "Communication"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-disguise"
     },
     {
       "name": "Dragon Lore",
@@ -1182,7 +1272,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-dragon-lore"
     },
     {
       "name": "Empathy",
@@ -1195,7 +1286,8 @@
           "value": "Perception"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-empathy"
     },
     {
       "name": "Engineering",
@@ -1208,7 +1300,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-engineering"
     },
     {
       "name": "Etiquette",
@@ -1221,7 +1314,8 @@
           "value": "Communication"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-etiquette"
     },
     {
       "name": "Faction Lore",
@@ -1234,7 +1328,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-faction-lore"
     },
     {
       "name": "Faith",
@@ -1247,7 +1342,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-faith"
     },
     {
       "name": "Fine Script",
@@ -1260,7 +1356,8 @@
           "value": "Dexterity"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-fine-script"
     },
     {
       "name": "Forbidden Lore",
@@ -1273,7 +1370,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-forbidden-lore"
     },
     {
       "name": "Gambling",
@@ -1286,7 +1384,8 @@
           "value": "Communication"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-gambling"
     },
     {
       "name": "Handcrafting",
@@ -1299,7 +1398,8 @@
           "value": "Dexterity"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-handcrafting"
     },
     {
       "name": "Hearing",
@@ -1312,7 +1412,8 @@
           "value": "Perception"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-hearing"
     },
     {
       "name": "Heraldry",
@@ -1325,7 +1426,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-heraldry"
     },
     {
       "name": "Historical Lore",
@@ -1338,7 +1440,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-historical-lore"
     },
     {
       "name": "Intimidation",
@@ -1351,7 +1454,8 @@
           "value": "Strength"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-intimidation"
     },
     {
       "name": "Jumping",
@@ -1364,7 +1468,8 @@
           "value": "Strength"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-jumping"
     },
     {
       "name": "Leadership",
@@ -1377,7 +1482,8 @@
           "value": "Communication"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-leadership"
     },
     {
       "name": "Legerdemain",
@@ -1390,7 +1496,8 @@
           "value": "Dexterity"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-legerdemain"
     },
     {
       "name": "Lock Picking",
@@ -1403,7 +1510,8 @@
           "value": "Dexterity"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-lock-picking"
     },
     {
       "name": "Medicine",
@@ -1416,7 +1524,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-medicine"
     },
     {
       "name": "Might",
@@ -1429,7 +1538,8 @@
           "value": "Strength"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-might"
     },
     {
       "name": "Military Lore",
@@ -1442,7 +1552,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-military-lore"
     },
     {
       "name": "Musical Lore",
@@ -1455,7 +1566,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-musical-lore"
     },
     {
       "name": "Natural Lore",
@@ -1468,7 +1580,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-natural-lore"
     },
     {
       "name": "Navigation",
@@ -1481,7 +1594,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-navigation"
     },
     {
       "name": "Performance",
@@ -1494,7 +1608,8 @@
           "value": "Communication"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-performance"
     },
     {
       "name": "Persuasion",
@@ -1507,7 +1622,8 @@
           "value": "Communication"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-persuasion"
     },
     {
       "name": "Planar Lore",
@@ -1520,7 +1636,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-planar-lore"
     },
     {
       "name": "Relic Lore",
@@ -1533,7 +1650,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-relic-lore"
     },
     {
       "name": "Religious Lore",
@@ -1546,7 +1664,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-religious-lore"
     },
     {
       "name": "Riding",
@@ -1559,7 +1678,8 @@
           "value": "Dexterity"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-riding"
     },
     {
       "name": "Rowing",
@@ -1572,7 +1692,8 @@
           "value": "Constitution"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-rowing"
     },
     {
       "name": "Running",
@@ -1585,7 +1706,8 @@
           "value": "Constitution"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-running"
     },
     {
       "name": "Sail Handling",
@@ -1598,7 +1720,8 @@
           "value": "Dexterity"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-sail-handling"
     },
     {
       "name": "Searching",
@@ -1611,7 +1734,8 @@
           "value": "Perception"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-searching"
     },
     {
       "name": "Seeing",
@@ -1624,7 +1748,8 @@
           "value": "Perception"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-seeing"
     },
     {
       "name": "Self-Discipline",
@@ -1637,7 +1762,8 @@
           "value": "Willpower"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-self-discipline"
     },
     {
       "name": "Smelling",
@@ -1650,7 +1776,8 @@
           "value": "Perception"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-smelling"
     },
     {
       "name": "Smithing",
@@ -1663,7 +1790,8 @@
           "value": "Strength"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-smithing"
     },
     {
       "name": "Social Inquiry",
@@ -1676,7 +1804,8 @@
           "value": "Communication"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-social-inquiry"
     },
     {
       "name": "Stealth",
@@ -1689,7 +1818,8 @@
           "value": "Dexterity"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-stealth"
     },
     {
       "name": "Swimming",
@@ -1702,7 +1832,8 @@
           "value": "Constitution"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-swimming"
     },
     {
       "name": "Tasting",
@@ -1715,7 +1846,8 @@
           "value": "Perception"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-tasting"
     },
     {
       "name": "Thieves' Lore",
@@ -1728,7 +1860,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-thieves-lore"
     },
     {
       "name": "Tolerance",
@@ -1741,7 +1874,8 @@
           "value": "Constitution"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-tolerance"
     },
     {
       "name": "Touching",
@@ -1754,7 +1888,8 @@
           "value": "Perception"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-touching"
     },
     {
       "name": "Tracking",
@@ -1767,7 +1902,8 @@
           "value": "Perception"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-tracking"
     },
     {
       "name": "Traps",
@@ -1780,7 +1916,8 @@
           "value": "Dexterity"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-traps"
     },
     {
       "name": "Vessel Piloting",
@@ -1793,7 +1930,8 @@
           "value": "Dexterity"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-vessel-piloting"
     },
     {
       "name": "Writing",
@@ -1806,7 +1944,8 @@
           "value": "Intelligence"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "skill-writing"
     }
   ],
   "sourceWorld": "Arkenfell"

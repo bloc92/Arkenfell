@@ -20,7 +20,8 @@
           "value": "Shadow Arcana 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-umbral-mirror"
     },
     {
       "name": "Umbral Snare",
@@ -41,7 +42,8 @@
           "value": "Shadow Arcana 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-umbral-snare"
     },
     {
       "name": "Unassailable Poise",
@@ -62,7 +64,8 @@
           "value": "Etiquette 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-unassailable-poise"
     },
     {
       "name": "Unbowed Presence",
@@ -83,7 +86,8 @@
           "value": "Intimidation 80, Self-Discipline 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-unbowed-presence"
     },
     {
       "name": "Unbreakable Covenant",
@@ -104,7 +108,8 @@
           "value": "Oath Arcana 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-unbreakable-covenant"
     },
     {
       "name": "Unbreakable Fiction",
@@ -125,7 +130,8 @@
           "value": "Deception 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-unbreakable-fiction"
     },
     {
       "name": "Unbroken Aegis",
@@ -146,7 +152,8 @@
           "value": "Aegis Arcana 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-unbroken-aegis"
     },
     {
       "name": "Unbroken Banner",
@@ -167,7 +174,8 @@
           "value": "Heroic Arcana Mastery 1, Heroic Arcana 60"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-unbroken-banner"
     },
     {
       "name": "Unbroken Command",
@@ -188,7 +196,8 @@
           "value": "Leadership 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-unbroken-command"
     },
     {
       "name": "Unbroken Creed",
@@ -209,7 +218,8 @@
           "value": "Faith 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-unbroken-creed"
     },
     {
       "name": "Unbroken Provenance",
@@ -230,7 +240,8 @@
           "value": "Writing 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-unbroken-provenance"
     },
     {
       "name": "Unbroken Rider",
@@ -251,7 +262,8 @@
           "value": "Riding 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-unbroken-rider"
     },
     {
       "name": "Unbroken Wall",
@@ -272,7 +284,8 @@
           "value": "Shields 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-unbroken-wall"
     },
     {
       "name": "Uncrossed Reach",
@@ -293,7 +306,8 @@
           "value": "Polearms 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-uncrossed-reach"
     },
     {
       "name": "Under-Fire Stabilization",
@@ -314,7 +328,8 @@
           "value": "Combat Medic 1, Medicine 30, Tolerance 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-under-fire-stabilization"
     },
     {
       "name": "Undertow Passage",
@@ -335,7 +350,8 @@
           "value": "Swimming 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-undertow-passage"
     },
     {
       "name": "Underworld Sign",
@@ -356,7 +372,8 @@
           "value": "Thieves' Lore 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-underworld-sign"
     },
     {
       "name": "Unmoving World",
@@ -377,7 +394,8 @@
           "value": "Titan Arcana Mastery 1, Titan Arcana 60"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-unmoving-world"
     },
     {
       "name": "Unravel Ward",
@@ -398,7 +416,8 @@
           "value": "Ruin Arcana 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-unravel-ward"
     },
     {
       "name": "Unseen Crossing",
@@ -419,7 +438,8 @@
           "value": "Stealth 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-unseen-crossing"
     },
     {
       "name": "Unshaken Nerve",
@@ -440,7 +460,8 @@
           "value": "Courage 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-unshaken-nerve"
     },
     {
       "name": "Vampiric Regeneration",
@@ -461,7 +482,8 @@
           "value": "Vampire 1, blood 1"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-vampiric-regeneration"
     },
     {
       "name": "Vanishing Angle",
@@ -482,7 +504,8 @@
           "value": "Stealth 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-vanishing-angle"
     },
     {
       "name": "Vanishing Identity",
@@ -503,7 +526,8 @@
           "value": "Disguise 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-vanishing-identity"
     },
     {
       "name": "Vanity Reading",
@@ -524,7 +548,8 @@
           "value": "Empathy 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-vanity-reading"
     },
     {
       "name": "Vault Sense",
@@ -545,7 +570,8 @@
           "value": "Searching 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-vault-sense"
     },
     {
       "name": "Vaulting Staff",
@@ -566,7 +592,8 @@
           "value": "Staff Fighting 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-vaulting-staff"
     },
     {
       "name": "Vector Reversal",
@@ -587,7 +614,8 @@
           "value": "Force Arcana Mastery 1, Force Arcana 60"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-vector-reversal"
     },
     {
       "name": "Veil Crossing Rite",
@@ -608,7 +636,8 @@
           "value": "Religious Lore 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-veil-crossing-rite"
     },
     {
       "name": "Veiled Face",
@@ -629,7 +658,8 @@
           "value": "Illusion Arcana 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-veiled-face"
     },
     {
       "name": "Vein Line",
@@ -650,7 +680,8 @@
           "value": "Light Blades 25"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-vein-line"
     },
     {
       "name": "Velvet Armor",
@@ -671,7 +702,8 @@
           "value": "Etiquette 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-velvet-armor"
     },
     {
       "name": "Velvet Deflection",
@@ -692,7 +724,8 @@
           "value": "Courtship 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-velvet-deflection"
     },
     {
       "name": "Venom Brand",
@@ -713,7 +746,8 @@
           "value": "Poison Arcana 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-venom-brand"
     },
     {
       "name": "Venom Rewrite",
@@ -734,7 +768,8 @@
           "value": "Poison Arcana Mastery 1, Poison Arcana 60"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-venom-rewrite"
     },
     {
       "name": "Venom Thread",
@@ -755,7 +790,8 @@
           "value": "Poison Arcana 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-venom-thread"
     },
     {
       "name": "Vertical Bypass",
@@ -776,7 +812,8 @@
           "value": "Climbing 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-vertical-bypass"
     },
     {
       "name": "Vibration Palm",
@@ -797,7 +834,8 @@
           "value": "Touching 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-vibration-palm"
     },
     {
       "name": "Vital Exchange",
@@ -818,7 +856,8 @@
           "value": "Blood Arcana 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-vital-exchange"
     },
     {
       "name": "Vitriol Deluge",
@@ -839,7 +878,8 @@
           "value": "Acid Arcana 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-vitriol-deluge"
     },
     {
       "name": "Voice of Order",
@@ -860,7 +900,8 @@
           "value": "Leadership 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-voice-of-order"
     },
     {
       "name": "Voice of the Veil",
@@ -881,7 +922,8 @@
           "value": "Religious Lore 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-voice-of-the-veil"
     },
     {
       "name": "Wagon Shield",
@@ -902,7 +944,8 @@
           "value": "Cart Driving 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-wagon-shield"
     },
     {
       "name": "Wake the Provenance",
@@ -923,7 +966,8 @@
           "value": "Relic Lore Mastery 1, Relic Lore 60"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-wake-the-provenance"
     },
     {
       "name": "Walking Grove",
@@ -944,7 +988,8 @@
           "value": "Wood Arcana 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-walking-grove"
     },
     {
       "name": "Wallstep",
@@ -965,7 +1010,8 @@
           "value": "Acrobatics 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-wallstep"
     },
     {
       "name": "War-Stopping Accord",
@@ -986,7 +1032,8 @@
           "value": "Persuasion 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-war-stopping-accord"
     },
     {
       "name": "Ward",
@@ -1007,7 +1054,8 @@
           "value": "Protection Arcana 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-ward"
     },
     {
       "name": "Wardship Leverage",
@@ -1028,7 +1076,8 @@
           "value": "Cultural Lore 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-wardship-leverage"
     },
     {
       "name": "Warforge Restoration",
@@ -1049,7 +1098,8 @@
           "value": "Smithing 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-warforge-restoration"
     },
     {
       "name": "Warning Read",
@@ -1070,7 +1120,8 @@
           "value": "Vessel Piloting 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-warning-read"
     },
     {
       "name": "Water Jet",
@@ -1091,7 +1142,8 @@
           "value": "Water Arcana 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-water-jet"
     },
     {
       "name": "Waterbreath",
@@ -1112,7 +1164,8 @@
           "value": "Water Arcana 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-waterbreath"
     },
     {
       "name": "Wayfinder's Pulse",
@@ -1133,7 +1186,8 @@
           "value": "Navigation 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-wayfinder-s-pulse"
     },
     {
       "name": "Weak-Link Pressure",
@@ -1154,7 +1208,8 @@
           "value": "Intimidation 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-weak-link-pressure"
     },
     {
       "name": "Weakpoint Sight",
@@ -1175,7 +1230,8 @@
           "value": "Seeing 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-weakpoint-sight"
     },
     {
       "name": "Weaponize Courtesy",
@@ -1196,7 +1252,8 @@
           "value": "Courtly Confidence 1, Etiquette 30, Heraldry 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-weaponize-courtesy"
     },
     {
       "name": "Weaponstorm",
@@ -1217,7 +1274,8 @@
           "value": "Metal Arcana 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-weaponstorm"
     },
     {
       "name": "Weather Signs",
@@ -1238,7 +1296,8 @@
           "value": "Natural Lore 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-weather-signs"
     },
     {
       "name": "Weatherwise Suspicion",
@@ -1259,7 +1318,8 @@
           "value": "Natural Lore 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-weatherwise-suspicion"
     },
     {
       "name": "Weight and Leverage",
@@ -1280,7 +1340,8 @@
           "value": "Might 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-weight-and-leverage"
     },
     {
       "name": "Weight of Script",
@@ -1301,7 +1362,8 @@
           "value": "Fine Script 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-weight-of-script"
     },
     {
       "name": "Weight of the Deep",
@@ -1322,7 +1384,8 @@
           "value": "Abyss Arcana Mastery 1, Abyss Arcana 60"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-weight-of-the-deep"
     },
     {
       "name": "Weighted Coin",
@@ -1343,7 +1406,8 @@
           "value": "Fate Arcana 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-weighted-coin"
     },
     {
       "name": "Whisper Price",
@@ -1364,7 +1428,8 @@
           "value": "Thieves' Lore 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-whisper-price"
     },
     {
       "name": "Whisper Thread",
@@ -1385,7 +1450,8 @@
           "value": "Sound Arcana 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-whisper-thread"
     },
     {
       "name": "White-Heat Edge",
@@ -1406,7 +1472,8 @@
           "value": "Fire Arcana Mastery 1, Fire Arcana 60"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-white-heat-edge"
     },
     {
       "name": "Whiteout Field",
@@ -1427,7 +1494,8 @@
           "value": "Cold Arcana 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-whiteout-field"
     },
     {
       "name": "Wild Form",
@@ -1448,7 +1516,8 @@
           "value": "Beast Arcana 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-wild-form"
     },
     {
       "name": "Wild Intercession",
@@ -1469,7 +1538,8 @@
           "value": "Animal Handling 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-wild-intercession"
     },
     {
       "name": "Wind Burst",
@@ -1490,7 +1560,8 @@
           "value": "Air Arcana 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-wind-burst"
     },
     {
       "name": "Windwall Sphere",
@@ -1511,7 +1582,8 @@
           "value": "Air Arcana 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-windwall-sphere"
     },
     {
       "name": "Witness Clause",
@@ -1532,7 +1604,8 @@
           "value": "Oath Arcana Mastery 1, Oath Arcana 60"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-witness-clause"
     },
     {
       "name": "Witness Discipline",
@@ -1553,7 +1626,8 @@
           "value": "Social Inquiry 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-witness-discipline"
     },
     {
       "name": "Witness Trick",
@@ -1574,7 +1648,8 @@
           "value": "Legerdemain 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-witness-trick"
     },
     {
       "name": "Witnessed Promise",
@@ -1595,7 +1670,8 @@
           "value": "Oath Arcana 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-witnessed-promise"
     },
     {
       "name": "Wolf's Rush",
@@ -1616,7 +1692,8 @@
           "value": "Relic Lore 101"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-wolf-s-rush"
     },
     {
       "name": "Working Face",
@@ -1637,7 +1714,8 @@
           "value": "Disguise 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-working-face"
     },
     {
       "name": "Working Repair",
@@ -1658,7 +1736,8 @@
           "value": "Handcrafting 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-working-repair"
     },
     {
       "name": "Working Theory",
@@ -1679,7 +1758,8 @@
           "value": "Archival Research 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-working-theory"
     },
     {
       "name": "World Stitch",
@@ -1700,7 +1780,8 @@
           "value": "Planar Lore 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-world-stitch"
     },
     {
       "name": "Worldbearing Stance",
@@ -1721,7 +1802,8 @@
           "value": "Titan Arcana 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-worldbearing-stance"
     },
     {
       "name": "Worldbell",
@@ -1742,7 +1824,8 @@
           "value": "Sound Arcana 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-worldbell"
     },
     {
       "name": "Worldcleaver Arc",
@@ -1763,7 +1846,8 @@
           "value": "Self-Discipline 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-worldcleaver-arc"
     },
     {
       "name": "Worldhammer Wave",
@@ -1784,7 +1868,8 @@
           "value": "Force Arcana 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-worldhammer-wave"
     },
     {
       "name": "Worldline Navigation",
@@ -1805,7 +1890,8 @@
           "value": "Navigation 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-worldline-navigation"
     },
     {
       "name": "Worldlock",
@@ -1826,7 +1912,8 @@
           "value": "Seal Arcana 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-worldlock"
     },
     {
       "name": "Worldstone Aegis",
@@ -1847,7 +1934,8 @@
           "value": "Earth Arcana 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-worldstone-aegis"
     },
     {
       "name": "Worldward",
@@ -1868,7 +1956,8 @@
           "value": "Aegis Arcana 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-worldward"
     },
     {
       "name": "Woven Guard",
@@ -1889,7 +1978,8 @@
           "value": "Fiber Arcana 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-woven-guard"
     },
     {
       "name": "Wrecking Charge",
@@ -1910,7 +2000,8 @@
           "value": "Might 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-wrecking-charge"
     },
     {
       "name": "Wyrdmark",
@@ -1931,7 +2022,8 @@
           "value": "Wyrd Arcana 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-wyrdmark"
     },
     {
       "name": "Wyrm Sign",
@@ -1952,7 +2044,8 @@
           "value": "Dragon Lore 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-wyrm-sign"
     },
     {
       "name": "Wyrm Warning Read",
@@ -1973,7 +2066,8 @@
           "value": "Dragon Lore 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-wyrm-warning-read"
     },
     {
       "name": "Wyrm-Name Invocation",
@@ -1994,7 +2088,8 @@
           "value": "Dragon Lore 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-wyrm-name-invocation"
     },
     {
       "name": "Zenith Judgment",
@@ -2015,7 +2110,8 @@
           "value": "Sun Arcana 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-zenith-judgment"
     }
   ],
   "sourceWorld": "Arkenfell"

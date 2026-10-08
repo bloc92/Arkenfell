@@ -10,4 +10,6 @@ status: canon
 
 Browse all **1,798 configured traits** in Arkenfell. Search by name, creation category, description, narrative effect, modifier, granted ability, starting item, prerequisite, unlock condition, or exclusion.
 
+Select any trait name to open its individual article and review its narrative guidance and every configured mechanical effect.
+
 Traits retain the 25 configured character-creation categories. Traits outside those lists—including transformation, reward, and story traits—are grouped under **Other and story traits** rather than omitted.

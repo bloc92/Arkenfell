@@ -20,7 +20,8 @@
           "value": "Cold Arcana 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-ice-barrier"
     },
     {
       "name": "Identify the Hidden Rule",
@@ -41,7 +42,8 @@
           "value": "Arcane Scholarship Mastery 1, Arcane Lore 60"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-identify-the-hidden-rule"
     },
     {
       "name": "Identity Split",
@@ -62,7 +64,8 @@
           "value": "Disguise 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-identity-split"
     },
     {
       "name": "Identity Ward",
@@ -83,7 +86,8 @@
           "value": "Soul Arcana 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-identity-ward"
     },
     {
       "name": "Immediate Riposte",
@@ -104,7 +108,8 @@
           "value": "Dueling 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-immediate-riposte"
     },
     {
       "name": "Impact Mantle",
@@ -125,7 +130,8 @@
           "value": "Power Arcana 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-impact-mantle"
     },
     {
       "name": "Impossible Accord",
@@ -146,7 +152,8 @@
           "value": "Persuasion 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-impossible-accord"
     },
     {
       "name": "Impossible Angle",
@@ -167,7 +174,8 @@
           "value": "Bows 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-impossible-angle"
     },
     {
       "name": "Impossible Ascent",
@@ -188,7 +196,8 @@
           "value": "Climbing 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-impossible-ascent"
     },
     {
       "name": "Impossible Expedition Plan",
@@ -209,7 +218,8 @@
           "value": "Military Lore 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-impossible-expedition-plan"
     },
     {
       "name": "Impossible Helm",
@@ -230,7 +240,8 @@
           "value": "Vessel Piloting 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-impossible-helm"
     },
     {
       "name": "Impossible Labyrinth",
@@ -251,7 +262,8 @@
           "value": "Searching 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-impossible-labyrinth"
     },
     {
       "name": "Impossible Machine",
@@ -272,7 +284,8 @@
           "value": "Engineering 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-impossible-machine"
     },
     {
       "name": "Impossible Recovery",
@@ -293,7 +306,8 @@
           "value": "Acrobatics Mastery 1, Acrobatics 60"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-impossible-recovery"
     },
     {
       "name": "Impossible Route",
@@ -314,7 +328,8 @@
           "value": "Acrobatics 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-impossible-route"
     },
     {
       "name": "Impossible Scene",
@@ -335,7 +350,8 @@
           "value": "Illusion Arcana 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-impossible-scene"
     },
     {
       "name": "Impossible Whisper",
@@ -356,7 +372,8 @@
           "value": "Hearing 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-impossible-whisper"
     },
     {
       "name": "Improvised Rig",
@@ -377,7 +394,8 @@
           "value": "Engineering 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-improvised-rig"
     },
     {
       "name": "Inconsistent Report",
@@ -398,7 +416,8 @@
           "value": "Social Inquiry 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-inconsistent-report"
     },
     {
       "name": "Index Jump",
@@ -419,7 +438,8 @@
           "value": "Archival Research 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-index-jump"
     },
     {
       "name": "Inferno Column",
@@ -440,7 +460,8 @@
           "value": "Fire Arcana 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-inferno-column"
     },
     {
       "name": "Information Stake",
@@ -461,7 +482,8 @@
           "value": "Gambling 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-information-stake"
     },
     {
       "name": "Ingredient Read",
@@ -482,7 +504,8 @@
           "value": "Tasting 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-ingredient-read"
     },
     {
       "name": "Inside Cut",
@@ -503,7 +526,8 @@
           "value": "Light Blades 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-inside-cut"
     },
     {
       "name": "Inside the Guard",
@@ -524,7 +548,8 @@
           "value": "Light Blade Mastery 1, Light Blades 60"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-inside-the-guard"
     },
     {
       "name": "Institutional Override",
@@ -545,7 +570,8 @@
           "value": "Archival Research 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-institutional-override"
     },
     {
       "name": "Interest Read",
@@ -566,7 +592,8 @@
           "value": "Courtship 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-interest-read"
     },
     {
       "name": "Interpose",
@@ -587,7 +614,8 @@
           "value": "Shield Mastery 1, Shields 60"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-interpose"
     },
     {
       "name": "Intrusion Break",
@@ -608,7 +636,8 @@
           "value": "Spirit Arcana 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-intrusion-break"
     },
     {
       "name": "Inversion Zone",
@@ -629,7 +658,8 @@
           "value": "Gravity Arcana 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-inversion-zone"
     },
     {
       "name": "Invisible Repair",
@@ -650,7 +680,8 @@
           "value": "Master Artisan 1, Handcrafting 30, Appraisal 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-invisible-repair"
     },
     {
       "name": "Invite the Answer",
@@ -671,7 +702,8 @@
           "value": "Spirit Medium 1, Spirit Arcana 30, Empathy 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-invite-the-answer"
     },
     {
       "name": "Inviting Spark",
@@ -692,7 +724,8 @@
           "value": "Courtship 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-inviting-spark"
     },
     {
       "name": "Iron Cathedral",
@@ -713,7 +746,8 @@
           "value": "Metal Arcana 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-iron-cathedral"
     },
     {
       "name": "Iron Command",
@@ -734,7 +768,8 @@
           "value": "Metal Arcana 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-iron-command"
     },
     {
       "name": "Iron Discipline",
@@ -755,7 +790,8 @@
           "value": "Leadership 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-iron-discipline"
     },
     {
       "name": "Iron Orbit",
@@ -776,7 +812,8 @@
           "value": "Magnetism Arcana 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-iron-orbit"
     },
     {
       "name": "Iron Shape",
@@ -797,7 +834,8 @@
           "value": "Metal Arcana 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-iron-shape"
     },
     {
       "name": "Ironbody Resolve",
@@ -818,7 +856,8 @@
           "value": "Tolerance 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-ironbody-resolve"
     },
     {
       "name": "Ironhide Harness",
@@ -839,7 +878,8 @@
           "value": "Handcrafting 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-ironhide-harness"
     },
     {
       "name": "Ivory Colossus",
@@ -860,7 +900,8 @@
           "value": "Bone Arcana 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-ivory-colossus"
     },
     {
       "name": "Joint Lock",
@@ -881,7 +922,8 @@
           "value": "Brawling 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-joint-lock"
     },
     {
       "name": "Keep Moving",
@@ -902,7 +944,8 @@
           "value": "Tolerance 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-keep-moving"
     },
     {
       "name": "Key's Turn",
@@ -923,7 +966,8 @@
           "value": "Relic Lore 101"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-key-s-turn"
     },
     {
       "name": "Killing Flicker",
@@ -944,7 +988,8 @@
           "value": "Thrown Weapons 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-killing-flicker"
     },
     {
       "name": "Killing Lane",
@@ -965,7 +1010,8 @@
           "value": "Crossbows 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-killing-lane"
     },
     {
       "name": "Killing Rhythm",
@@ -986,7 +1032,8 @@
           "value": "Heavy Blades 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-killing-rhythm"
     },
     {
       "name": "Kind Face Read",
@@ -1007,7 +1054,8 @@
           "value": "Empathy 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-kind-face-read"
     },
     {
       "name": "Kinetic Flow",
@@ -1028,7 +1076,8 @@
           "value": "Motion Arcana 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-kinetic-flow"
     },
     {
       "name": "Kinetic Lance",
@@ -1049,7 +1098,8 @@
           "value": "Force Arcana 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-kinetic-lance"
     },
     {
       "name": "Kingbane Venom",
@@ -1070,7 +1120,8 @@
           "value": "Poison Arcana 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-kingbane-venom"
     },
     {
       "name": "Kingbreaker Bolt",
@@ -1091,7 +1142,8 @@
           "value": "Crossbows 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-kingbreaker-bolt"
     },
     {
       "name": "Kingdom Heartbeat Drive",
@@ -1112,7 +1164,8 @@
           "value": "Leadership 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-kingdom-heartbeat-drive"
     },
     {
       "name": "Kitchen Heartbeat",
@@ -1133,7 +1186,8 @@
           "value": "Brewing 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-kitchen-heartbeat"
     },
     {
       "name": "Knife-Storm Web",
@@ -1154,7 +1208,8 @@
           "value": "Light Blades 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-knife-storm-web"
     },
     {
       "name": "Knot of Reversal",
@@ -1175,7 +1230,8 @@
           "value": "Wyrd Arcana Mastery 1, Wyrd Arcana 60"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-knot-of-reversal"
     },
     {
       "name": "Labyrinth Read",
@@ -1196,7 +1252,8 @@
           "value": "Searching 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-labyrinth-read"
     },
     {
       "name": "Lancing Flame",
@@ -1217,7 +1274,8 @@
           "value": "Fire Arcana 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-lancing-flame"
     },
     {
       "name": "Land's Provision",
@@ -1238,7 +1296,8 @@
           "value": "Natural Lore 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-land-s-provision"
     },
     {
       "name": "Lantern's Trace",
@@ -1259,7 +1318,8 @@
           "value": "Relic Lore 101"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-lantern-s-trace"
     },
     {
       "name": "Last Line",
@@ -1280,7 +1340,8 @@
           "value": "Shields 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-last-line"
     },
     {
       "name": "Last Reserve",
@@ -1301,7 +1362,8 @@
           "value": "Tolerance 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-last-reserve"
     },
     {
       "name": "Last Stand",
@@ -1322,7 +1384,8 @@
           "value": "Courage 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-last-stand"
     },
     {
       "name": "Last-Breath Intervention",
@@ -1343,7 +1406,8 @@
           "value": "Medicine 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-last-breath-intervention"
     },
     {
       "name": "Last-Light Miracle",
@@ -1364,7 +1428,8 @@
           "value": "Heroic Arcana 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-last-light-miracle"
     },
     {
       "name": "Law of the Mark",
@@ -1385,7 +1450,8 @@
           "value": "Enchantment Arcana 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-law-of-the-mark"
     },
     {
       "name": "Law of the Room",
@@ -1406,7 +1472,8 @@
           "value": "Etiquette 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-law-of-the-room"
     },
     {
       "name": "Lawblade Clause",
@@ -1427,7 +1494,8 @@
           "value": "Cultural Lore 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-lawblade-clause"
     },
     {
       "name": "Layered Cover Story",
@@ -1448,7 +1516,8 @@
           "value": "Deception 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-layered-cover-story"
     },
     {
       "name": "Layered Ward",
@@ -1469,7 +1538,8 @@
           "value": "Arcane Warder 1, Protection Arcana 30, Self-Discipline 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-layered-ward"
     },
     {
       "name": "Leaping Strike",
@@ -1490,7 +1560,8 @@
           "value": "Jumping 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-leaping-strike"
     },
     {
       "name": "Legacy Before Pride",
@@ -1511,7 +1582,8 @@
           "value": "Heraldry 35, Self-Discipline 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-legacy-before-pride"
     },
     {
       "name": "Legal Argument",
@@ -1532,7 +1604,8 @@
           "value": "Cultural Lore 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-legal-argument"
     },
     {
       "name": "Legend in the Streets",
@@ -1553,7 +1626,8 @@
           "value": "Disguise 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-legend-in-the-streets"
     },
     {
       "name": "Legend-Reforging",
@@ -1574,7 +1648,8 @@
           "value": "Smithing 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-legend-reforging"
     },
     {
       "name": "Leverage Pivot",
@@ -1595,7 +1670,8 @@
           "value": "Bargaining 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-leverage-pivot"
     },
     {
       "name": "Leverage Trade",
@@ -1616,7 +1692,8 @@
           "value": "Bargaining 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-leverage-trade"
     },
     {
       "name": "Life-Crown Restoration",
@@ -1637,7 +1714,8 @@
           "value": "Healing Arcana 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-life-crown-restoration"
     },
     {
       "name": "Life-Saving Hands",
@@ -1658,7 +1736,8 @@
           "value": "Medicine 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-life-saving-hands"
     },
     {
       "name": "Life-Saving Intervention",
@@ -1679,7 +1758,8 @@
           "value": "Medicine 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-life-saving-intervention"
     },
     {
       "name": "Lift Surge",
@@ -1700,7 +1780,8 @@
           "value": "Might 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-lift-surge"
     },
     {
       "name": "Lightglow",
@@ -1721,7 +1802,8 @@
           "value": "Light Arcana 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-lightglow"
     },
     {
       "name": "Lightning Jolt",
@@ -1742,7 +1824,8 @@
           "value": "Lightning Arcana 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-lightning-jolt"
     },
     {
       "name": "Limb Lock",
@@ -1763,7 +1846,8 @@
           "value": "Brawling 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-limb-lock"
     },
     {
       "name": "Limitbreak Engine",
@@ -1784,7 +1868,8 @@
           "value": "Power Arcana 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-limitbreak-engine"
     },
     {
       "name": "Lineage Caution",
@@ -1805,7 +1890,8 @@
           "value": "Heraldry 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-lineage-caution"
     },
     {
       "name": "Linebreaker",
@@ -1826,7 +1912,8 @@
           "value": "Axes 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-linebreaker"
     },
     {
       "name": "Little Lie Rhythm",
@@ -1847,7 +1934,8 @@
           "value": "Deception 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-little-lie-rhythm"
     },
     {
       "name": "Live Corridor",
@@ -1868,7 +1956,8 @@
           "value": "Traps 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-live-corridor"
     },
     {
       "name": "Living Alias",
@@ -1889,7 +1978,8 @@
           "value": "Disguise 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-living-alias"
     },
     {
       "name": "Living Archive",
@@ -1910,7 +2000,8 @@
           "value": "Archival Research 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-living-archive"
     },
     {
       "name": "Living Armor",
@@ -1931,7 +2022,8 @@
           "value": "Metal Arcana 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-living-armor"
     },
     {
       "name": "Living Barrier",
@@ -1952,7 +2044,8 @@
           "value": "Wood Arcana 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-living-barrier"
     },
     {
       "name": "Living Cover Story",
@@ -1973,7 +2066,8 @@
           "value": "Deception 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-living-cover-story"
     },
     {
       "name": "Living Echoes",
@@ -1994,7 +2088,8 @@
           "value": "Echo Arcana 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-living-echoes"
     },
     {
       "name": "Living Layout",
@@ -2015,7 +2110,8 @@
           "value": "Fine Script 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-living-layout"
     },
     {
       "name": "Living Loom",
@@ -2036,7 +2132,8 @@
           "value": "Fiber Arcana 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-living-loom"
     },
     {
       "name": "Living Mana Core",
@@ -2057,7 +2154,8 @@
           "value": "Self-Discipline 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-living-mana-core"
     },
     {
       "name": "Living Masquerade",
@@ -2078,7 +2176,8 @@
           "value": "Illusion Arcana Mastery 1, Illusion Arcana 60"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-living-masquerade"
     },
     {
       "name": "Living Rumor Network",
@@ -2099,7 +2198,8 @@
           "value": "Social Inquiry 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-living-rumor-network"
     },
     {
       "name": "Living Scaffold",
@@ -2120,7 +2220,8 @@
           "value": "Wood Arcana Mastery 1, Wood Arcana 60"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-living-scaffold"
     },
     {
       "name": "Living Shade",
@@ -2141,7 +2242,8 @@
           "value": "Shadow Arcana 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-living-shade"
     },
     {
       "name": "Living Temper",
@@ -2162,7 +2264,8 @@
           "value": "Metalwright 1, Metal Arcana 30, Smithing 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-living-temper"
     },
     {
       "name": "Living Theorem",
@@ -2183,7 +2286,8 @@
           "value": "Arcane Lore 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-living-theorem"
     },
     {
       "name": "Living Thread",
@@ -2204,7 +2308,8 @@
           "value": "Fiber Arcana 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-living-thread"
     },
     {
       "name": "Living Trail Map",
@@ -2225,7 +2330,8 @@
           "value": "Tracking 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-living-trail-map"
     },
     {
       "name": "Load Logic",
@@ -2246,7 +2352,8 @@
           "value": "Engineering 25"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-load-logic"
     },
     {
       "name": "Lock Whisper",
@@ -2267,7 +2374,8 @@
           "value": "Lock Picking 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-lock-whisper"
     },
     {
       "name": "Lodestone Field",
@@ -2288,7 +2396,8 @@
           "value": "Magnetism Arcana 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-lodestone-field"
     },
     {
       "name": "Long Chase",
@@ -2309,7 +2418,8 @@
           "value": "Running 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-long-chase"
     },
     {
       "name": "Long Pull",
@@ -2330,7 +2440,8 @@
           "value": "Rowing 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-long-pull"
     },
     {
       "name": "Loremaster Synthesis",
@@ -2351,7 +2462,8 @@
           "value": "Archival Research 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-loremaster-synthesis"
     },
     {
       "name": "Lost Song Reconstruction",
@@ -2372,7 +2484,8 @@
           "value": "Musical Lore 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-lost-song-reconstruction"
     },
     {
       "name": "Lunar Change",
@@ -2393,7 +2506,8 @@
           "value": "Moon Arcana 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-lunar-change"
     },
     {
       "name": "Magebreaker Pursuit",
@@ -2414,7 +2528,8 @@
           "value": "Acrobatics 65, Arcane Lore 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-magebreaker-pursuit"
     },
     {
       "name": "Magebreaker Waltz",
@@ -2435,7 +2550,8 @@
           "value": "Acrobatics 50, Arcane Lore 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-magebreaker-waltz"
     },
     {
       "name": "Magic Shield",
@@ -2456,7 +2572,8 @@
           "value": "Protection Arcana 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-magic-shield"
     },
     {
       "name": "Magnetic Tug",
@@ -2477,7 +2594,8 @@
           "value": "Magnetism Arcana 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-magnetic-tug"
     },
     {
       "name": "Make Them Volunteer",
@@ -2498,7 +2616,8 @@
           "value": "Confidence Artist 1, Deception 30, Persuasion 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-make-them-volunteer"
     },
     {
       "name": "Make the Cost Visible",
@@ -2519,7 +2638,8 @@
           "value": "Intimidation Mastery 1, Intimidation 60"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-make-the-cost-visible"
     },
     {
       "name": "Maker's Answer",
@@ -2540,7 +2660,8 @@
           "value": "Lock Picking 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-maker-s-answer"
     },
     {
       "name": "Mana Burst Guard",
@@ -2561,7 +2682,8 @@
           "value": "Self-Discipline 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-mana-burst-guard"
     },
     {
       "name": "Mana Candle",
@@ -2582,7 +2704,8 @@
           "value": "Self-Discipline 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-mana-candle"
     },
     {
       "name": "Mana Command",
@@ -2603,7 +2726,8 @@
           "value": "Self-Discipline 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-mana-command"
     },
     {
       "name": "Mana Pressure",
@@ -2624,7 +2748,8 @@
           "value": "Self-Discipline 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-mana-pressure"
     },
     {
       "name": "Mana-Edged Wake",
@@ -2645,7 +2770,8 @@
           "value": "Arcane Lore 35, Self-Discipline 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-mana-edged-wake"
     },
     {
       "name": "Map the Real Allegiances",
@@ -2666,7 +2792,8 @@
           "value": "Faction Lore Mastery 1, Faction Lore 60"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-map-the-real-allegiances"
     },
     {
       "name": "Map the Unmapped",
@@ -2687,7 +2814,8 @@
           "value": "Master Cartographer 1, Cartography 30, Navigation 30"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-map-the-unmapped"
     },
     {
       "name": "Maritime Law Recall",
@@ -2708,7 +2836,8 @@
           "value": "Cultural Lore 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-maritime-law-recall"
     },
     {
       "name": "Marked Quarry",
@@ -2729,7 +2858,8 @@
           "value": "Tracking 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-marked-quarry"
     },
     {
       "name": "Market Ear",
@@ -2750,7 +2880,8 @@
           "value": "Social Inquiry 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-market-ear"
     },
     {
       "name": "Market Pressure",
@@ -2771,7 +2902,8 @@
           "value": "Bargaining 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-market-pressure"
     },
     {
       "name": "Market Pressure Read",
@@ -2792,7 +2924,8 @@
           "value": "Appraisal 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-market-pressure-read"
     },
     {
       "name": "Market Web",
@@ -2813,7 +2946,8 @@
           "value": "Bargaining 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-market-web"
     },
     {
       "name": "Marketmaker's Turn",
@@ -2834,7 +2968,8 @@
           "value": "Appraisal 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-marketmaker-s-turn"
     },
     {
       "name": "Marriage-Table Calculation",
@@ -2855,7 +2990,8 @@
           "value": "Heraldry 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-marriage-table-calculation"
     },
     {
       "name": "Marrow Ward",
@@ -2876,7 +3012,8 @@
           "value": "Bone Arcana 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-marrow-ward"
     },
     {
       "name": "Martyr Shield",
@@ -2897,7 +3034,8 @@
           "value": "Faith 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-martyr-shield"
     },
     {
       "name": "Mask Set",
@@ -2918,7 +3056,8 @@
           "value": "Disguise 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-mask-set"
     },
     {
       "name": "Maskbreak Insight",
@@ -2939,7 +3078,8 @@
           "value": "Empathy 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-maskbreak-insight"
     },
     {
       "name": "Masked Entrance",
@@ -2960,7 +3100,8 @@
           "value": "Disguise 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-masked-entrance"
     },
     {
       "name": "Master Key",
@@ -2981,7 +3122,8 @@
           "value": "Cryptography 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-master-key"
     },
     {
       "name": "Master Palate",
@@ -3002,7 +3144,8 @@
           "value": "Tasting 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-master-palate"
     },
     {
       "name": "Measure Feint",
@@ -3023,7 +3166,8 @@
           "value": "Dueling 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-measure-feint"
     },
     {
       "name": "Measured Endurance",
@@ -3044,7 +3188,8 @@
           "value": "Tolerance 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-measured-endurance"
     },
     {
       "name": "Measured Intervention",
@@ -3065,7 +3210,8 @@
           "value": "Persuasion 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-measured-intervention"
     },
     {
       "name": "Mechanism Bypass",
@@ -3086,7 +3232,8 @@
           "value": "Engineering 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-mechanism-bypass"
     },
     {
       "name": "Mechanism Unmade",
@@ -3107,7 +3254,8 @@
           "value": "Traps 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-mechanism-unmade"
     },
     {
       "name": "Melt Away",
@@ -3128,7 +3276,8 @@
           "value": "Stealth 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-melt-away"
     },
     {
       "name": "Memory Palace",
@@ -3149,7 +3298,8 @@
           "value": "Memory Arcana 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-memory-palace"
     },
     {
       "name": "Memory Stitch",
@@ -3170,7 +3320,8 @@
           "value": "Memory Arcana 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-memory-stitch"
     },
     {
       "name": "Memory Vault",
@@ -3191,7 +3342,8 @@
           "value": "Memory Arcana 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-memory-vault"
     },
     {
       "name": "Mend Fracture",
@@ -3212,7 +3364,8 @@
           "value": "Healing Arcana 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-mend-fracture"
     },
     {
       "name": "Mercy With Teeth",
@@ -3233,7 +3386,8 @@
           "value": "Religious Lore 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-mercy-with-teeth"
     },
     {
       "name": "Metal Sense",
@@ -3254,7 +3408,8 @@
           "value": "Metal Arcana 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-metal-sense"
     },
     {
       "name": "Meteor Needle",
@@ -3275,7 +3430,8 @@
           "value": "Star Arcana 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-meteor-needle"
     },
     {
       "name": "Meteor Volley Line",
@@ -3296,7 +3452,8 @@
           "value": "Bows 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-meteor-volley-line"
     },
     {
       "name": "Minor Binding",
@@ -3317,7 +3474,8 @@
           "value": "Enchantment Arcana 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-minor-binding"
     },
     {
       "name": "Minor Illusion",
@@ -3338,7 +3496,8 @@
           "value": "Illusion Arcana 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-minor-illusion"
     },
     {
       "name": "Minor Summon",
@@ -3359,7 +3518,8 @@
           "value": "Conjuration Arcana 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-minor-summon"
     },
     {
       "name": "Miracle of Practice",
@@ -3380,7 +3540,8 @@
           "value": "Medicine 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-miracle-of-practice"
     },
     {
       "name": "Mirror Army",
@@ -3401,7 +3562,8 @@
           "value": "Illusion Arcana 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-mirror-army"
     },
     {
       "name": "Mirror Exchange",
@@ -3422,7 +3584,8 @@
           "value": "Mirror Arcana 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-mirror-exchange"
     },
     {
       "name": "Mirror Image",
@@ -3443,7 +3606,8 @@
           "value": "Mirror Arcana 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-mirror-image"
     },
     {
       "name": "Mirror Self",
@@ -3464,7 +3628,8 @@
           "value": "Mirror Arcana 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-mirror-self"
     },
     {
       "name": "Mirror Window",
@@ -3485,7 +3650,8 @@
           "value": "Mirror Arcana 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-mirror-window"
     },
     {
       "name": "Mirror-Glass Screen",
@@ -3506,7 +3672,8 @@
           "value": "Glass Arcana 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-mirror-glass-screen"
     },
     {
       "name": "Misfortune Thread",
@@ -3527,7 +3694,8 @@
           "value": "Fate Arcana 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-misfortune-thread"
     },
     {
       "name": "Mist Mantle",
@@ -3548,7 +3716,8 @@
           "value": "Water Arcana 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-mist-mantle"
     },
     {
       "name": "Mnemonic Archive",
@@ -3569,7 +3738,8 @@
           "value": "Memory Arcana 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-mnemonic-archive"
     },
     {
       "name": "Mnemonic Glimpse",
@@ -3590,7 +3760,8 @@
           "value": "Memory Arcana 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-mnemonic-glimpse"
     },
     {
       "name": "Moment of History",
@@ -3611,7 +3782,8 @@
           "value": "Performance 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-moment-of-history"
     },
     {
       "name": "Momentum Catch",
@@ -3632,7 +3804,8 @@
           "value": "Motion Arcana 20"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-momentum-catch"
     },
     {
       "name": "Momentum Step",
@@ -3653,7 +3826,8 @@
           "value": "Motion Arcana 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-momentum-step"
     },
     {
       "name": "Momentum Turn",
@@ -3674,7 +3848,8 @@
           "value": "Acrobatics 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-momentum-turn"
     },
     {
       "name": "Moonfall Counter",
@@ -3695,7 +3870,8 @@
           "value": "Dueling 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-moonfall-counter"
     },
     {
       "name": "Moonlit Veil",
@@ -3716,7 +3892,8 @@
           "value": "Moon Arcana 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-moonlit-veil"
     },
     {
       "name": "Moonstep",
@@ -3737,7 +3914,8 @@
           "value": "Moon Arcana 50"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-moonstep"
     },
     {
       "name": "Moonwake",
@@ -3758,7 +3936,8 @@
           "value": "Moon Arcana 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-moonwake"
     },
     {
       "name": "Motif Recall",
@@ -3779,7 +3958,8 @@
           "value": "Musical Lore 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-motif-recall"
     },
     {
       "name": "Motion Catch",
@@ -3800,7 +3980,8 @@
           "value": "Seeing 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-motion-catch"
     },
     {
       "name": "Motion Nudge",
@@ -3821,7 +4002,8 @@
           "value": "Motion Arcana 10"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-motion-nudge"
     },
     {
       "name": "Mountain Skin",
@@ -3842,7 +4024,8 @@
           "value": "Titan Arcana 65"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-mountain-skin"
     },
     {
       "name": "Mountain Stance",
@@ -3863,7 +4046,8 @@
           "value": "Titan Arcana 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-mountain-stance"
     },
     {
       "name": "Mountain-Mover",
@@ -3884,7 +4068,8 @@
           "value": "Might 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-mountain-mover"
     },
     {
       "name": "Mounted Guard",
@@ -3905,7 +4090,8 @@
           "value": "Riding 35"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-mounted-guard"
     },
     {
       "name": "Mythic Claim",
@@ -3926,7 +4112,8 @@
           "value": "Relic Lore 80"
         }
       ],
-      "spoiler": false
+      "spoiler": false,
+      "articleId": "ability-mythic-claim"
     }
   ],
   "sourceWorld": "Arkenfell"
