@@ -674,3 +674,100 @@ html[data-access="gm"] .sidebar-note strong { color: var(--gm-strong); }
 @media (max-width: 700px) {
   .directory-toolbar { grid-template-columns: 1fr; }
 }
+
+/* NPC portrait roster */
+.directory-group--roster .directory-grid {
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr));
+  align-items: start;
+}
+
+.directory-entry-roster-heading {
+  display: grid;
+  grid-template-columns: 92px minmax(0, 1fr);
+  gap: 14px;
+  align-items: start;
+  margin-bottom: 12px;
+}
+
+.directory-entry-roster-copy {
+  min-width: 0;
+}
+
+.directory-entry-roster-copy > h3 {
+  margin: 2px 0 8px;
+  font-size: 1.16rem;
+  line-height: 1.25;
+}
+
+.directory-entry-roster-copy .directory-entry-meta {
+  margin-bottom: 0;
+}
+
+.directory-entry-portrait {
+  display: grid;
+  width: 92px;
+  aspect-ratio: 4 / 5;
+  margin: 0;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 9px;
+  background:
+    linear-gradient(145deg, var(--panel-2), var(--accent-soft));
+  place-items: center;
+}
+
+.directory-entry-portrait img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center top;
+}
+
+.directory-entry-portrait-placeholder {
+  display: grid;
+  width: 100%;
+  height: 100%;
+  color: var(--accent);
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1.6rem;
+  font-weight: 800;
+  letter-spacing: .04em;
+  place-items: center;
+}
+
+.directory-entry-portrait--concealed {
+  border-color: var(--gm-line);
+  background:
+    linear-gradient(145deg, var(--panel-2), var(--gm-soft));
+}
+
+.directory-entry-portrait--concealed .directory-entry-portrait-placeholder {
+  color: var(--gm-strong);
+  font-size: 1.9rem;
+}
+
+.directory-entry-portrait--missing .directory-entry-portrait-placeholder {
+  color: var(--muted);
+}
+
+.directory-group--roster .directory-entry-preview {
+  color: var(--body-text);
+  line-height: 1.55;
+}
+
+@media (max-width: 460px) {
+  .directory-entry-roster-heading {
+    grid-template-columns: 76px minmax(0, 1fr);
+    gap: 11px;
+  }
+
+  .directory-entry-portrait {
+    width: 76px;
+  }
+
+  .directory-entry-roster-copy > h3 {
+    font-size: 1.04rem;
+  }
+}
+
