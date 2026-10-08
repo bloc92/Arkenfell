@@ -21,3 +21,13 @@ Chieftains, shamans, matriarchs, beastlords, champions, and elders may all hold 
 ## Religion
 
 The Fangbound Clans honor **Khorvash, the Thunderhoof**, associated with mounted clans, herd rights, raids, monster hunts, strength, challenge, migration, kinship, and proof of worth.
+
+## What awaits in play
+
+Use them for warrior companions, steppe tournaments, clan diplomacy, mounted raids, monster hunts, honor conflicts, and outsiders learning which insult actually matters.
+
+These are possibilities rather than a required story path; a campaign may encounter the country through travel, diplomacy, conflict, trade, personal ties, or news from elsewhere in Eldaven.
+
+## Explore its places
+
+Use the [Places Directory](#place-directory) to search Arkenfell's configured regions and locations. Each location opens as its own article and keeps any named areas beneath that parent location.

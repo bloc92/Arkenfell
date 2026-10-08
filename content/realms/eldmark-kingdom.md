@@ -19,3 +19,13 @@ Lawspeakers, beacon wardens, barrow-keepers, household warriors, road guards, oa
 ## Religion
 
 Eldmark has no single named divine benefactor currently established as canon. Public devotion centers on storm shrines, ancestor oaths, royal law-stones, and war-dead barrows.
+
+## What awaits in play
+
+Use it for warrior courts, raids, feuds, ancestral claims, storm shrines, royal musters, and hard-won provincial loyalty.
+
+These are possibilities rather than a required story path; a campaign may encounter the country through travel, diplomacy, conflict, trade, personal ties, or news from elsewhere in Eldaven.
+
+## Explore its places
+
+Use the [Places Directory](#place-directory) to search Arkenfell's configured regions and locations. Each location opens as its own article and keeps any named areas beneath that parent location.

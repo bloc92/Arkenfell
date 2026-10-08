@@ -19,3 +19,13 @@ Ironroot culture respects competence, honest materials, repaired mistakes, and p
 ## Religion
 
 The Holds strongly revere **Bravik, the Hammer Saint**, god of forge, craft, stonework, mines, fortresses, honest labor, builders, smiths, endurance, shieldwalls, and properly made things.
+
+## What awaits in play
+
+Use the Holds for craft politics, underground expeditions, clan debts, forge secrets, sealed lower roads, monster breaches, and stubborn allies who demand proof before trust.
+
+These are possibilities rather than a required story path; a campaign may encounter the country through travel, diplomacy, conflict, trade, personal ties, or news from elsewhere in Eldaven.
+
+## Explore its places
+
+Use the [Places Directory](#place-directory) to search Arkenfell's configured regions and locations. Each location opens as its own article and keeps any named areas beneath that parent location.

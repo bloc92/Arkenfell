@@ -19,3 +19,13 @@ Storm-route charters, bridge rights, lift access, flight records, and alliances 
 ## Religion
 
 The Dominion honors **Auraleth, the Sky-Bound Oath**, associated with cliffs, wind bridges, storm beacons, griffin riders, falling risks, lift-rights, sky roads, balance, engineering courage, and promises made where the ground cannot protect you.
+
+## What awaits in play
+
+Use it for sky travel, airship politics, floating ruins, storm monsters, aerial duels, weather rites, and nobles whose grace hides ruthless practicality.
+
+These are possibilities rather than a required story path; a campaign may encounter the country through travel, diplomacy, conflict, trade, personal ties, or news from elsewhere in Eldaven.
+
+## Explore its places
+
+Use the [Places Directory](#place-directory) to search Arkenfell's configured regions and locations. Each location opens as its own article and keeps any named areas beneath that parent location.

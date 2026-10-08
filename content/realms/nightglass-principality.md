@@ -19,3 +19,13 @@ Invitation, guest-right, feeding permission, lineage memory, debt, and insult ma
 ## Religion
 
 Its benefactor god is **Noctheris, the Crimson Guest**, patron of invitation, blood debt, restrained hunger, vampire etiquette, night courts, immortal memory, predatory courtesy, and hospitality with teeth.
+
+## What awaits in play
+
+Use it for vampire diplomacy, blood debts, old treaties, protected guests, and social danger where wording matters.
+
+These are possibilities rather than a required story path; a campaign may encounter the country through travel, diplomacy, conflict, trade, personal ties, or news from elsewhere in Eldaven.
+
+## Explore its places
+
+Use the [Places Directory](#place-directory) to search Arkenfell's configured regions and locations. Each location opens as its own article and keeps any named areas beneath that parent location.

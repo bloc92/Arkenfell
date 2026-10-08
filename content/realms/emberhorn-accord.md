@@ -19,3 +19,13 @@ A demon judge may be fair, a contract may protect the weak, and a heated debate 
 ## Religion
 
 The Accord's benefactor goddess is **Veyrasha, the Unbound Flame**, associated with pacts, ambition, self-mastery, chosen identity, renaming, emancipation, and freedom from inherited damnation.
+
+## What awaits in play
+
+Use it for demon diplomacy, contract trials, volcanic cities, honorable rivals, tiefling ancestry, and alliances against worse abyssal threats.
+
+These are possibilities rather than a required story path; a campaign may encounter the country through travel, diplomacy, conflict, trade, personal ties, or news from elsewhere in Eldaven.
+
+## Explore its places
+
+Use the [Places Directory](#place-directory) to search Arkenfell's configured regions and locations. Each location opens as its own article and keeps any named areas beneath that parent location.

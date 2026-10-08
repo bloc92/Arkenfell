@@ -19,3 +19,13 @@ The realm is not wholly underwater. Surface harbors, reefs, lagoons, island cour
 ## Religion
 
 Its benefactor goddess is **Neryssan, the Coral Crown**, patron of reef law, sea courts, tide obligations, ocean spirits, submerged sovereignty, pearl tribute, and old marine pacts.
+
+## What awaits in play
+
+Use it for ocean diplomacy, sea peoples, reef mysteries, pearl courts, leviathan omens, shipwreck law, and conflicts between mainland trade and coastal sovereignty.
+
+These are possibilities rather than a required story path; a campaign may encounter the country through travel, diplomacy, conflict, trade, personal ties, or news from elsewhere in Eldaven.
+
+## Explore its places
+
+Use the [Places Directory](#place-directory) to search Arkenfell's configured regions and locations. Each location opens as its own article and keeps any named areas beneath that parent location.
