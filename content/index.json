@@ -55,7 +55,7 @@
       "id": "kingdom-of-valenreach",
       "title": "Kingdom of Valenreach",
       "category": "Countries",
-      "summary": "A wealthy royal power ruled by King Aldric and Queen Ceralie from Highcourt Armathen.",
+      "summary": "The Kingdom of Valenreach is the central royal power of Eldaven and the primary political frame for many campaigns. Ruled by King Aldric and Queen Ceralie, it presents itself as lawful, wealthy, fortified, and…",
       "path": "content/realms/kingdom-of-valenreach.md",
       "tags": [
         "Eldaven",
@@ -68,7 +68,7 @@
       "id": "dreadmark-dominion",
       "title": "The Dreadmark Dominion",
       "category": "Countries",
-      "summary": "An eastern military dominion built on hierarchy, forced labor, slavery, and vast legions.",
+      "summary": "The Dreadmark Dominion is an eastern militarized state ruled by the Malrec bloodline from Vhal Kareth. It is built on rigid hierarchy, compulsory service, public punishment, disciplined legions, restricted…",
       "path": "content/realms/dreadmark-dominion.md",
       "tags": [
         "Eldaven",
@@ -81,7 +81,7 @@
       "id": "tide-empire",
       "title": "The Tide Empire",
       "category": "Countries",
-      "summary": "An ancient northern empire of fleets, river cities, dragonriders, and long imperial continuity.",
+      "summary": "The Tide Empire is one of Eldaven's oldest surviving powers and a long-standing ally of Valenreach. It controls fortified river cities, cold coastal strongholds, mountain passes, naval bastions, winter roads,…",
       "path": "content/realms/tide-empire.md",
       "tags": [
         "Eldaven",
@@ -94,7 +94,7 @@
       "id": "lythael-elven-dominion",
       "title": "The Lythael Elven Dominion",
       "category": "Countries",
-      "summary": "An ancient southern elven realm shaped by old forests, noble matriarchs, and long political memory.",
+      "summary": "The Lythael Elven Dominion is an ancient southern power of living roads, guarded borderwoods, hidden cities, moonwell sanctuaries, noble matriarchs, memory archives, root bridges, and patient magic. It has…",
       "path": "content/realms/lythael-elven-dominion.md",
       "tags": [
         "Eldaven",
@@ -107,7 +107,7 @@
       "id": "solmire-concord",
       "title": "The Solmire Concord",
       "category": "Countries",
-      "summary": "A western merchant republic whose power flows through trade, contracts, convoys, and credit.",
+      "summary": "The Solmire Concord is a western merchant republic of harbor cities, convoy hubs, contract courts, grain exchanges, bonded warehouses, senate blocs, trade houses, insurers, and private security companies. It…",
       "path": "content/realms/solmire-concord.md",
       "tags": [
         "Eldaven",
@@ -120,7 +120,7 @@
       "id": "solarian-theocracy",
       "title": "The Solarian Theocracy",
       "category": "Countries",
-      "summary": "A southeastern religious state ruled by a High Synod and influential through temples, healing, and doctrine.",
+      "summary": "The Solarian Theocracy is a southeastern religious state of sanctuaries, pilgrimage roads, healing houses, confession gates, temple courts, doctrinal schools, white-gold basilicas, rural shrines, and fortified…",
       "path": "content/realms/solarian-theocracy.md",
       "tags": [
         "Eldaven",
@@ -133,7 +133,7 @@
       "id": "arcanum-ascendancy",
       "title": "The Arcanum Ascendancy",
       "category": "Countries",
-      "summary": "An independent mage-ruled state centered on academies, classification, research, and magical arbitration.",
+      "summary": "The Arcanum Ascendancy is an independent mage-ruled state of spire cities, research enclaves, academies, relic courts, transit circles, resonance maps, and archives where access can matter more than coin.…",
       "path": "content/realms/arcanum-ascendancy.md",
       "tags": [
         "Eldaven",
@@ -146,7 +146,7 @@
       "id": "emberhorn-accord",
       "title": "Emberhorn Accord",
       "category": "Countries",
-      "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
+      "summary": "The Emberhorn Accord is the organized demon-blooded nation of southeastern Eldaven, ruled through contract courts, noble houses, citizen militias, infernal academies, volcanic councils, and legal traditions…",
       "path": "content/realms/emberhorn-accord.md",
       "tags": [
         "Eldaven",
@@ -158,7 +158,7 @@
       "id": "ashen-maw",
       "title": "Ashen Maw",
       "category": "Countries",
-      "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
+      "summary": "The Ashen Maw is an independent demon nation bordering the Emberhorn Accord. Its people are organized through clans, strongholds, warbands, blood ties, oath circles, local rulers, and temporary coalitions…",
       "path": "content/realms/ashen-maw.md",
       "tags": [
         "Eldaven",
@@ -170,7 +170,7 @@
       "id": "coral-throne",
       "title": "Coral Throne",
       "category": "Countries",
-      "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
+      "summary": "The Coral Throne is the coastal and undersea-adjacent power of reef courts, sea elf houses, merfolk envoys, tide priests, pearl judges, leviathan pact-keepers, shipwreck archivists, and harbor families sworn…",
       "path": "content/realms/coral-throne.md",
       "tags": [
         "Eldaven",
@@ -182,7 +182,7 @@
       "id": "stormpearl-isles",
       "title": "Stormpearl Isles",
       "category": "Countries",
-      "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
+      "summary": "The Stormpearl Free Captains are the ship-lords, privateers, smugglers, lighthouse families, pearl fleet commanders, island council envoys, and storm-route navigators of the western island chain. They are not…",
       "path": "content/realms/stormpearl-isles.md",
       "tags": [
         "Eldaven",
@@ -194,7 +194,7 @@
       "id": "fangbound-clans",
       "title": "Fangbound Clans",
       "category": "Countries",
-      "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
+      "summary": "The Fangbound Clans are the roaming and semi-settled peoples of the eastern steppe: orc holds, beastkin riders, wolf-banner families, storm shamans, ogre pact-bands, fortified well-keepers, monster herders,…",
       "path": "content/realms/fangbound-clans.md",
       "tags": [
         "Eldaven",
@@ -206,7 +206,7 @@
       "id": "nightglass-principality",
       "title": "Nightglass Principality",
       "category": "Countries",
-      "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
+      "summary": "The Nightglass Principality is a vampire-ruled gothic state of immortal houses, blood courts, mortal village charters, night chapels, oath-bound estates, and ancient hospitality law. It is small in land but…",
       "path": "content/realms/nightglass-principality.md",
       "tags": [
         "Eldaven",
@@ -218,7 +218,7 @@
       "id": "cloudspire-dominion",
       "title": "Cloudspire Dominion",
       "category": "Countries",
-      "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
+      "summary": "The Cloudspire Dominion is the highland and sky-island power of floating keeps, wind bridges, cliff cities, storm temples, winged couriers, airship docks, sky knights, weather mages, and families who treat…",
       "path": "content/realms/cloudspire-dominion.md",
       "tags": [
         "Eldaven",
@@ -230,7 +230,7 @@
       "id": "ironroot-holds",
       "title": "Ironroot Holds",
       "category": "Countries",
-      "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
+      "summary": "The Ironroot Holds are the dwarven mountain federation of northwestern Eldaven, bound by clan law, forge oaths, deep-road charters, ancestral halls, mining rights, siegecraft contracts, and mutual defense…",
       "path": "content/realms/ironroot-holds.md",
       "tags": [
         "Eldaven",
@@ -242,7 +242,7 @@
       "id": "eldmark-kingdom",
       "title": "Eldmark Kingdom",
       "category": "Countries",
-      "summary": "An established Eldaven kingdom represented in the current Arkenfell world canon.",
+      "summary": "Eldmark Kingdom is a unified crown realm of timber-and-stone halls, shield-wall musters, rune stones, beacon towers, ancestral barrows, iron law-courts, fortified river towns, hill forts, raider keeps, and…",
       "path": "content/realms/eldmark-kingdom.md",
       "tags": [
         "Eldaven",
@@ -254,7 +254,7 @@
       "id": "hollowmere-confederacy",
       "title": "Hollowmere Confederacy",
       "category": "Countries",
-      "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
+      "summary": "The Hollowmere Confederacy is a fragile league of small human border states, old town charters, marshland baronies, toll republics, oath villages, and minor lordships caught between larger powers. Its people…",
       "path": "content/realms/hollowmere-confederacy.md",
       "tags": [
         "Eldaven",
@@ -266,7 +266,7 @@
       "id": "palegrave-crown",
       "title": "Palegrave Crown",
       "category": "Countries",
-      "summary": "An established Eldaven polity represented in the current Arkenfell world canon.",
+      "summary": "The Palegrave Crown is the remnant authority of the far northern frost ruins: giant-blooded thanes, icebound oath-keepers, winter spirits, buried hall stewards, frost priests, and old banners that still…",
       "path": "content/realms/palegrave-crown.md",
       "tags": [
         "Eldaven",
@@ -1686,6 +1686,5301 @@
         "tiefling — wrathblood"
       ],
       "navigation": false
+    },
+    {
+      "id": "location-ashbell-village",
+      "title": "Ashbell Village",
+      "category": "Geography",
+      "summary": "A configured location in Ashglass Volcanoes. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ashglass Volcanoes",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Ashbell Village"
+    },
+    {
+      "id": "location-ashgarden-terrace-town",
+      "title": "Ashgarden Terrace Town",
+      "category": "Geography",
+      "summary": "Ashgarden Terrace Town is a local town serving the roads and communities of Ashglass Volcanoes, set among dark volcanic massifs, ash plains, dry basins, lava-scarred ridges, and broken coasts. Its markets and workshops…",
+      "tags": [
+        "Ashglass Volcanoes",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Ashgarden Terrace Town"
+    },
+    {
+      "id": "location-ashwake-port",
+      "title": "Ashwake Port",
+      "category": "Geography",
+      "summary": "A configured location in Ashglass Volcanoes. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ashglass Volcanoes",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Ashwake Port"
+    },
+    {
+      "id": "location-cinderbay-harbor",
+      "title": "Cinderbay Harbor",
+      "category": "Geography",
+      "summary": "Cinderbay Harbor is a working harbor in Ashglass Volcanoes, positioned among dark volcanic massifs, ash plains, dry basins, lava-scarred ridges, and broken coasts to handle nets, boats, catches, cargo, and the timing of…",
+      "tags": [
+        "Ashglass Volcanoes",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Cinderbay Harbor"
+    },
+    {
+      "id": "location-cinderbrook-hamlet",
+      "title": "Cinderbrook Hamlet",
+      "category": "Geography",
+      "summary": "A configured location in Ashglass Volcanoes. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ashglass Volcanoes",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Cinderbrook Hamlet"
+    },
+    {
+      "id": "location-contract-bell-spire",
+      "title": "Contract Bell Spire",
+      "category": "Geography",
+      "summary": "A configured location in Ashglass Volcanoes. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ashglass Volcanoes",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Contract Bell Spire"
+    },
+    {
+      "id": "location-emberhorn-accord-city",
+      "title": "Emberhorn Accord City",
+      "category": "Geography",
+      "summary": "Emberhorn Accord City is a major seat of power in Ashglass Volcanoes, established amid dark volcanic massifs, ash plains, dry basins, lava-scarred ridges, and broken coasts. Government, trade, household service,…",
+      "tags": [
+        "Ashglass Volcanoes",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Emberhorn Accord City"
+    },
+    {
+      "id": "location-fireoath-signal-tower",
+      "title": "Fireoath Signal Tower",
+      "category": "Geography",
+      "summary": "A configured location in Ashglass Volcanoes. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ashglass Volcanoes",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Fireoath Signal Tower"
+    },
+    {
+      "id": "location-infernal-contract-academy",
+      "title": "Infernal Contract Academy",
+      "category": "Geography",
+      "summary": "A configured location in Ashglass Volcanoes. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ashglass Volcanoes",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Infernal Contract Academy"
+    },
+    {
+      "id": "location-lava-buried-temple",
+      "title": "Lava-Buried Temple",
+      "category": "Geography",
+      "summary": "A configured location in Ashglass Volcanoes. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ashglass Volcanoes",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Lava-Buried Temple"
+    },
+    {
+      "id": "location-obsidian-gate-citadel",
+      "title": "Obsidian Gate Citadel",
+      "category": "Geography",
+      "summary": "A configured location in Ashglass Volcanoes. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ashglass Volcanoes",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Obsidian Gate Citadel"
+    },
+    {
+      "id": "location-obsidian-orchard-village",
+      "title": "Obsidian Orchard Village",
+      "category": "Geography",
+      "summary": "A configured location in Ashglass Volcanoes. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ashglass Volcanoes",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Obsidian Orchard Village"
+    },
+    {
+      "id": "location-old-summoning-scar",
+      "title": "Old Summoning Scar",
+      "category": "Geography",
+      "summary": "A configured location in Ashglass Volcanoes. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ashglass Volcanoes",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Old Summoning Scar"
+    },
+    {
+      "id": "location-red-gold-temple-court",
+      "title": "Red-Gold Temple Court",
+      "category": "Geography",
+      "summary": "A configured location in Ashglass Volcanoes. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ashglass Volcanoes",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Red-Gold Temple Court"
+    },
+    {
+      "id": "location-redglass-lighthouse",
+      "title": "Redglass Lighthouse",
+      "category": "Geography",
+      "summary": "A configured location in Ashglass Volcanoes. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ashglass Volcanoes",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Redglass Lighthouse"
+    },
+    {
+      "id": "location-redvine-terrace",
+      "title": "Redvine Terrace",
+      "category": "Geography",
+      "summary": "A configured location in Ashglass Volcanoes. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ashglass Volcanoes",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Redvine Terrace"
+    },
+    {
+      "id": "location-vowmarket-town",
+      "title": "Vowmarket Town",
+      "category": "Geography",
+      "summary": "A configured location in Ashglass Volcanoes. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ashglass Volcanoes",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Vowmarket Town"
+    },
+    {
+      "id": "location-blackbell-tower",
+      "title": "Blackbell Tower",
+      "category": "Geography",
+      "summary": "A configured location in Blackbell Deadroads. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Blackbell Deadroads",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Blackbell Tower"
+    },
+    {
+      "id": "location-bonebridge-warden-post",
+      "title": "Bonebridge Warden Post",
+      "category": "Geography",
+      "summary": "A configured location in Blackbell Deadroads. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Blackbell Deadroads",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Bonebridge Warden Post"
+    },
+    {
+      "id": "location-cloudspire-aerie",
+      "title": "Cloudspire Aerie",
+      "category": "Geography",
+      "summary": "Cloudspire Aerie is a major seat of power in Blackbell Deadroads, established amid snowbound ridges, dark green basins, abandoned roads, and isolated passes. Government, trade, household service, military work,…",
+      "tags": [
+        "Blackbell Deadroads",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Cloudspire Aerie"
+    },
+    {
+      "id": "location-glacierline-camp",
+      "title": "Glacierline Camp",
+      "category": "Geography",
+      "summary": "A configured location in Blackbell Deadroads. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Blackbell Deadroads",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Glacierline Camp"
+    },
+    {
+      "id": "location-kar-anvilroot",
+      "title": "Kar Anvilroot",
+      "category": "Geography",
+      "summary": "Kar Anvilroot is a major seat of power in Blackbell Deadroads, established amid snowbound ridges, dark green basins, abandoned roads, and isolated passes. Government, trade, household service, military work, petition,…",
+      "tags": [
+        "Blackbell Deadroads",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Kar Anvilroot"
+    },
+    {
+      "id": "location-last-candle-town",
+      "title": "Last Candle Town",
+      "category": "Geography",
+      "summary": "Last Candle Town is a local town serving the roads and communities of Blackbell Deadroads, set among snowbound ridges, dark green basins, abandoned roads, and isolated passes. Its markets and workshops revolve around…",
+      "tags": [
+        "Blackbell Deadroads",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Last Candle Town"
+    },
+    {
+      "id": "location-mourning-bell-bastion",
+      "title": "Mourning Bell Bastion",
+      "category": "Geography",
+      "summary": "Mourning Bell Bastion is the principal headquarters of the Mourning Bell Wardens in the Blackbell Deadroads, combining fortified refuge, patrol command, archives, quarantine facilities, supply yards, funeral services,…",
+      "tags": [
+        "Blackbell Deadroads",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Mourning Bell Bastion"
+    },
+    {
+      "id": "location-seven-winds-monastery",
+      "title": "Seven Winds Monastery",
+      "category": "Geography",
+      "summary": "A configured location in Blackbell Deadroads. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Blackbell Deadroads",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Seven Winds Monastery"
+    },
+    {
+      "id": "location-stormbridge-landing",
+      "title": "Stormbridge Landing",
+      "category": "Geography",
+      "summary": "A configured location in Blackbell Deadroads. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Blackbell Deadroads",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Stormbridge Landing"
+    },
+    {
+      "id": "location-white-monarch-fortress",
+      "title": "White Monarch Fortress",
+      "category": "Geography",
+      "summary": "A configured location in Blackbell Deadroads. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Blackbell Deadroads",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "White Monarch Fortress"
+    },
+    {
+      "id": "location-bloodgrain-estates",
+      "title": "Bloodgrain Estates",
+      "category": "Geography",
+      "summary": "A configured location in Blackroad Borderlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Blackroad Borderlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Bloodgrain Estates"
+    },
+    {
+      "id": "location-bloodroad-watchtower",
+      "title": "Bloodroad Watchtower",
+      "category": "Geography",
+      "summary": "A configured location in Blackroad Borderlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Blackroad Borderlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Bloodroad Watchtower"
+    },
+    {
+      "id": "location-chainfield-hamlet",
+      "title": "Chainfield Hamlet",
+      "category": "Geography",
+      "summary": "A configured location in Blackroad Borderlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Blackroad Borderlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Chainfield Hamlet"
+    },
+    {
+      "id": "location-deadwater-canalworks",
+      "title": "Deadwater Canalworks",
+      "category": "Geography",
+      "summary": "A configured location in Blackroad Borderlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Blackroad Borderlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Deadwater Canalworks"
+    },
+    {
+      "id": "location-free-crown-town",
+      "title": "Free Crown Town",
+      "category": "Geography",
+      "summary": "A configured location in Blackroad Borderlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Blackroad Borderlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Free Crown Town"
+    },
+    {
+      "id": "location-hollow-crown-mines",
+      "title": "Hollow Crown Mines",
+      "category": "Geography",
+      "summary": "A configured location in Blackroad Borderlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Blackroad Borderlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Hollow Crown Mines"
+    },
+    {
+      "id": "location-iron-permit-post",
+      "title": "Iron Permit Post",
+      "category": "Geography",
+      "summary": "A configured location in Blackroad Borderlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Blackroad Borderlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Iron Permit Post"
+    },
+    {
+      "id": "location-khar-voss-labor-citadel",
+      "title": "Khar Voss Labor Citadel",
+      "category": "Geography",
+      "summary": "A configured location in Blackroad Borderlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Blackroad Borderlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Khar Voss Labor Citadel"
+    },
+    {
+      "id": "location-mordrake-beast-warrens",
+      "title": "Mordrake Beast Warrens",
+      "category": "Geography",
+      "summary": "A configured location in Blackroad Borderlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Blackroad Borderlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Mordrake Beast Warrens"
+    },
+    {
+      "id": "location-ogre-pact-fires",
+      "title": "Ogre-Pact Fires",
+      "category": "Geography",
+      "summary": "A configured location in Blackroad Borderlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Blackroad Borderlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Ogre-Pact Fires"
+    },
+    {
+      "id": "location-quota-signal-tower",
+      "title": "Quota Signal Tower",
+      "category": "Geography",
+      "summary": "A configured location in Blackroad Borderlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Blackroad Borderlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Quota Signal Tower"
+    },
+    {
+      "id": "location-rationmark-village",
+      "title": "Rationmark Village",
+      "category": "Geography",
+      "summary": "A configured location in Blackroad Borderlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Blackroad Borderlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Rationmark Village"
+    },
+    {
+      "id": "location-ravenmark-noble-quarter",
+      "title": "Ravenmark Noble Quarter",
+      "category": "Geography",
+      "summary": "A configured location in Blackroad Borderlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Blackroad Borderlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Ravenmark Noble Quarter"
+    },
+    {
+      "id": "location-redchain-patrol-yard",
+      "title": "Redchain Patrol Yard",
+      "category": "Geography",
+      "summary": "A configured location in Blackroad Borderlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Blackroad Borderlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Redchain Patrol Yard"
+    },
+    {
+      "id": "location-scourgebent-roadblock",
+      "title": "Scourgebent Roadblock",
+      "category": "Geography",
+      "summary": "A configured location in Blackroad Borderlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Blackroad Borderlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Scourgebent Roadblock"
+    },
+    {
+      "id": "location-stormhoof-camp",
+      "title": "Stormhoof Camp",
+      "category": "Geography",
+      "summary": "A configured location in Blackroad Borderlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Blackroad Borderlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Stormhoof Camp"
+    },
+    {
+      "id": "location-westclaim-castle",
+      "title": "Westclaim Castle",
+      "category": "Geography",
+      "summary": "A configured location in Blackroad Borderlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Blackroad Borderlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Westclaim Castle"
+    },
+    {
+      "id": "location-wolfbanner-camp",
+      "title": "Wolfbanner Camp",
+      "category": "Geography",
+      "summary": "A configured location in Blackroad Borderlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Blackroad Borderlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Wolfbanner Camp"
+    },
+    {
+      "id": "location-ashen-crown-castle",
+      "title": "Ashen Crown Castle",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Ashen Crown Castle"
+    },
+    {
+      "id": "location-ashford-claimant-town",
+      "title": "Ashford Claimant Town",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Ashford Claimant Town"
+    },
+    {
+      "id": "location-claimant-s-redoubt",
+      "title": "Claimant's Redoubt",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Claimant's Redoubt"
+    },
+    {
+      "id": "location-coinstill-village",
+      "title": "Coinstill Village",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Coinstill Village"
+    },
+    {
+      "id": "location-crownfall-hold",
+      "title": "Crownfall Hold",
+      "category": "Geography",
+      "summary": "Crownfall Hold is a major seat of power in Crownlake Heartlands, established amid a great lake-and-bay basin, converging rivers, fertile lowlands, and busy crossings. Government, trade, household service, military work,…",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Crownfall Hold"
+    },
+    {
+      "id": "location-deepward-prism-array",
+      "title": "Deepward Prism Array",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Deepward Prism Array"
+    },
+    {
+      "id": "location-ebon-thread-divination-house",
+      "title": "Ebon Thread Divination House",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Ebon Thread Divination House"
+    },
+    {
+      "id": "location-ferrycandle-village",
+      "title": "Ferrycandle Village",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Ferrycandle Village"
+    },
+    {
+      "id": "location-hollow-crown-town-ruin",
+      "title": "Hollow Crown Town Ruin",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Hollow Crown Town Ruin"
+    },
+    {
+      "id": "location-hollowmere-council-ford",
+      "title": "Hollowmere Council Ford",
+      "category": "Geography",
+      "summary": "Hollowmere Council Ford is a major seat of power in Crownlake Heartlands, established amid a great lake-and-bay basin, converging rivers, fertile lowlands, and busy crossings. Government, trade, household service,…",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Hollowmere Council Ford"
+    },
+    {
+      "id": "location-knightless-keep",
+      "title": "Knightless Keep",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Knightless Keep"
+    },
+    {
+      "id": "location-marshbarrow-town",
+      "title": "Marshbarrow Town",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Marshbarrow Town"
+    },
+    {
+      "id": "location-mercenary-toll-camp",
+      "title": "Mercenary Toll Camp",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Mercenary Toll Camp"
+    },
+    {
+      "id": "location-mistfen-toll-post",
+      "title": "Mistfen Toll Post",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Mistfen Toll Post"
+    },
+    {
+      "id": "location-nineferry-landing",
+      "title": "Nineferry Landing",
+      "category": "Geography",
+      "summary": "Nineferry Landing is a working harbor in Crownlake Heartlands, positioned among a great lake-and-bay basin, converging rivers, fertile lowlands, and busy crossings to handle ferries, grain, craftwork, administration,…",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Nineferry Landing"
+    },
+    {
+      "id": "location-oathbridge-ferry-keep",
+      "title": "Oathbridge Ferry Keep",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Oathbridge Ferry Keep"
+    },
+    {
+      "id": "location-oathmire-village",
+      "title": "Oathmire Village",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Oathmire Village"
+    },
+    {
+      "id": "location-old-banner-checkpoint",
+      "title": "Old Banner Checkpoint",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Old Banner Checkpoint"
+    },
+    {
+      "id": "location-old-prism-vault-ruin",
+      "title": "Old Prism Vault Ruin",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Old Prism Vault Ruin"
+    },
+    {
+      "id": "location-oldlaw-hamlet",
+      "title": "Oldlaw Hamlet",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Oldlaw Hamlet"
+    },
+    {
+      "id": "location-priest-judge-roadwatch",
+      "title": "Priest-Judge Roadwatch",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Priest-Judge Roadwatch"
+    },
+    {
+      "id": "location-prismgate-field-station",
+      "title": "Prismgate Field Station",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Prismgate Field Station"
+    },
+    {
+      "id": "location-quicksilver-apprentices-quarter",
+      "title": "Quicksilver Apprentices Quarter",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Quicksilver Apprentices Quarter"
+    },
+    {
+      "id": "location-reedbaron-hold",
+      "title": "Reedbaron Hold",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Reedbaron Hold"
+    },
+    {
+      "id": "location-reedbell-hamlet",
+      "title": "Reedbell Hamlet",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Reedbell Hamlet"
+    },
+    {
+      "id": "location-reedcourt-crossing",
+      "title": "Reedcourt Crossing",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Reedcourt Crossing"
+    },
+    {
+      "id": "location-ruined-port-of-veyrholm",
+      "title": "Ruined Port of Veyrholm",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Ruined Port of Veyrholm"
+    },
+    {
+      "id": "location-sable-equation-collegium",
+      "title": "Sable Equation Collegium",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Sable Equation Collegium"
+    },
+    {
+      "id": "location-silent-market-ruin",
+      "title": "Silent Market Ruin",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Silent Market Ruin"
+    },
+    {
+      "id": "location-solmire-argentport",
+      "title": "Solmire Argentport",
+      "category": "Geography",
+      "summary": "Solmire Argentport is a major seat of power in Crownlake Heartlands, established amid a great lake-and-bay basin, converging rivers, fertile lowlands, and busy crossings. Government, trade, household service, military…",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Solmire Argentport"
+    },
+    {
+      "id": "location-starfall-lyceum",
+      "title": "Starfall Lyceum",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Starfall Lyceum"
+    },
+    {
+      "id": "location-tollwater-market",
+      "title": "Tollwater Market",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Tollwater Market"
+    },
+    {
+      "id": "location-vaelthryn-spire-city",
+      "title": "Vaelthryn Spire-City",
+      "category": "Geography",
+      "summary": "Vaelthryn Spire-City is a major seat of power in Crownlake Heartlands, established amid a great lake-and-bay basin, converging rivers, fertile lowlands, and busy crossings. Government, trade, household service, military…",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Vaelthryn Spire-City"
+    },
+    {
+      "id": "location-war-orphan-cross",
+      "title": "War-Orphan Cross",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "War-Orphan Cross"
+    },
+    {
+      "id": "location-warded-meridian-station",
+      "title": "Warded Meridian Station",
+      "category": "Geography",
+      "summary": "A configured location in Crownlake Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Crownlake Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Warded Meridian Station"
+    },
+    {
+      "id": "location-blueflame-lighthouse",
+      "title": "Blueflame Lighthouse",
+      "category": "Geography",
+      "summary": "A configured location in Dawnwater Shorelands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Dawnwater Shorelands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Blueflame Lighthouse"
+    },
+    {
+      "id": "location-bonegrass-welltown",
+      "title": "Bonegrass Welltown",
+      "category": "Geography",
+      "summary": "A configured location in Dawnwater Shorelands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Dawnwater Shorelands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Bonegrass Welltown"
+    },
+    {
+      "id": "location-coldcurrent-harbor",
+      "title": "Coldcurrent Harbor",
+      "category": "Geography",
+      "summary": "A configured location in Dawnwater Shorelands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Dawnwater Shorelands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Coldcurrent Harbor"
+    },
+    {
+      "id": "location-dragonwind-lookout",
+      "title": "Dragonwind Lookout",
+      "category": "Geography",
+      "summary": "A configured location in Dawnwater Shorelands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Dawnwater Shorelands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Dragonwind Lookout"
+    },
+    {
+      "id": "location-eastwake-coastal-fort",
+      "title": "Eastwake Coastal Fort",
+      "category": "Geography",
+      "summary": "A configured location in Dawnwater Shorelands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Dawnwater Shorelands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Eastwake Coastal Fort"
+    },
+    {
+      "id": "location-fallen-tidewatch-tower",
+      "title": "Fallen Tidewatch Tower",
+      "category": "Geography",
+      "summary": "A configured location in Dawnwater Shorelands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Dawnwater Shorelands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Fallen Tidewatch Tower"
+    },
+    {
+      "id": "location-longnet-hamlet",
+      "title": "Longnet Hamlet",
+      "category": "Geography",
+      "summary": "A configured location in Dawnwater Shorelands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Dawnwater Shorelands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Longnet Hamlet"
+    },
+    {
+      "id": "location-northstar-courier-road",
+      "title": "Northstar Courier Road",
+      "category": "Geography",
+      "summary": "A configured location in Dawnwater Shorelands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Dawnwater Shorelands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Northstar Courier Road"
+    },
+    {
+      "id": "location-northstar-courier-tower",
+      "title": "Northstar Courier Tower",
+      "category": "Geography",
+      "summary": "A configured location in Dawnwater Shorelands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Dawnwater Shorelands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Northstar Courier Tower"
+    },
+    {
+      "id": "location-redmane-camp",
+      "title": "Redmane Camp",
+      "category": "Geography",
+      "summary": "A configured location in Dawnwater Shorelands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Dawnwater Shorelands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Redmane Camp"
+    },
+    {
+      "id": "location-riverbend-smokehouse",
+      "title": "Riverbend Smokehouse",
+      "category": "Geography",
+      "summary": "A configured location in Dawnwater Shorelands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Dawnwater Shorelands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Riverbend Smokehouse"
+    },
+    {
+      "id": "location-ruined-harbor-of-icefall",
+      "title": "Ruined Harbor of Icefall",
+      "category": "Geography",
+      "summary": "A configured location in Dawnwater Shorelands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Dawnwater Shorelands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Ruined Harbor of Icefall"
+    },
+    {
+      "id": "location-sailgrave-cove",
+      "title": "Sailgrave Cove",
+      "category": "Geography",
+      "summary": "A configured location in Dawnwater Shorelands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Dawnwater Shorelands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Sailgrave Cove"
+    },
+    {
+      "id": "location-sealhide-village",
+      "title": "Sealhide Village",
+      "category": "Geography",
+      "summary": "A configured location in Dawnwater Shorelands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Dawnwater Shorelands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Sealhide Village"
+    },
+    {
+      "id": "location-stormchain-riverkeep",
+      "title": "Stormchain Riverkeep",
+      "category": "Geography",
+      "summary": "A configured location in Dawnwater Shorelands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Dawnwater Shorelands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Stormchain Riverkeep"
+    },
+    {
+      "id": "location-thunderstone-signal-mound",
+      "title": "Thunderstone Signal Mound",
+      "category": "Geography",
+      "summary": "A configured location in Dawnwater Shorelands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Dawnwater Shorelands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Thunderstone Signal Mound"
+    },
+    {
+      "id": "location-whalebone-moot",
+      "title": "Whalebone Moot",
+      "category": "Geography",
+      "summary": "A configured location in Dawnwater Shorelands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Dawnwater Shorelands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Whalebone Moot"
+    },
+    {
+      "id": "location-winterline-patrol-post",
+      "title": "Winterline Patrol Post",
+      "category": "Geography",
+      "summary": "A configured location in Dawnwater Shorelands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Dawnwater Shorelands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Winterline Patrol Post"
+    },
+    {
+      "id": "location-blueharp-river-village",
+      "title": "Blueharp River Village",
+      "category": "Geography",
+      "summary": "A configured location in Deepforge Highlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Deepforge Highlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Blueharp River Village"
+    },
+    {
+      "id": "location-coldmoon-treaty-harbor",
+      "title": "Coldmoon Treaty Harbor",
+      "category": "Geography",
+      "summary": "A configured location in Deepforge Highlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Deepforge Highlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Coldmoon Treaty Harbor"
+    },
+    {
+      "id": "location-duskmere-manor",
+      "title": "Duskmere Manor",
+      "category": "Geography",
+      "summary": "A configured location in Deepforge Highlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Deepforge Highlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Duskmere Manor"
+    },
+    {
+      "id": "location-frostharbor-naval-bastion",
+      "title": "Frostharbor Naval Bastion",
+      "category": "Geography",
+      "summary": "A configured location in Deepforge Highlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Deepforge Highlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Frostharbor Naval Bastion"
+    },
+    {
+      "id": "location-hearthfjord-townstead",
+      "title": "Hearthfjord Townstead",
+      "category": "Geography",
+      "summary": "A configured location in Deepforge Highlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Deepforge Highlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Hearthfjord Townstead"
+    },
+    {
+      "id": "location-highriver-governorate",
+      "title": "Highriver Governorate",
+      "category": "Geography",
+      "summary": "Highriver Governorate is a local town serving the roads and communities of Deepforge Highlands, set among mineral ridges, steep coastal valleys, cold bays, and mountain passes. Its markets and workshops revolve around…",
+      "tags": [
+        "Deepforge Highlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Highriver Governorate"
+    },
+    {
+      "id": "location-icewake-shipgrave",
+      "title": "Icewake Shipgrave",
+      "category": "Geography",
+      "summary": "A configured location in Deepforge Highlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Deepforge Highlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Icewake Shipgrave"
+    },
+    {
+      "id": "location-invitation-gate",
+      "title": "Invitation Gate",
+      "category": "Geography",
+      "summary": "A configured location in Deepforge Highlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Deepforge Highlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Invitation Gate"
+    },
+    {
+      "id": "location-marovyn-tidemark",
+      "title": "Marovyn Tidemark",
+      "category": "Geography",
+      "summary": "Marovyn Tidemark is a major seat of power in Deepforge Highlands, established amid mineral ridges, steep coastal valleys, cold bays, and mountain passes. Government, trade, household service, military work, petition,…",
+      "tags": [
+        "Deepforge Highlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Marovyn Tidemark"
+    },
+    {
+      "id": "location-moonlit-toll-tower",
+      "title": "Moonlit Toll Tower",
+      "category": "Geography",
+      "summary": "A configured location in Deepforge Highlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Deepforge Highlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Moonlit Toll Tower"
+    },
+    {
+      "id": "location-rimeholt-assembly",
+      "title": "Rimeholt Assembly",
+      "category": "Geography",
+      "summary": "A configured location in Deepforge Highlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Deepforge Highlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Rimeholt Assembly"
+    },
+    {
+      "id": "location-seabreak-treaty-port",
+      "title": "Seabreak Treaty Port",
+      "category": "Geography",
+      "summary": "A configured location in Deepforge Highlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Deepforge Highlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Seabreak Treaty Port"
+    },
+    {
+      "id": "location-skyreach-aerie",
+      "title": "Skyreach Aerie",
+      "category": "Geography",
+      "summary": "A configured location in Deepforge Highlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Deepforge Highlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Skyreach Aerie"
+    },
+    {
+      "id": "location-stormjaw-watchcliffs",
+      "title": "Stormjaw Watchcliffs",
+      "category": "Geography",
+      "summary": "A configured location in Deepforge Highlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Deepforge Highlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Stormjaw Watchcliffs"
+    },
+    {
+      "id": "location-vellumwine-village",
+      "title": "Vellumwine Village",
+      "category": "Geography",
+      "summary": "A configured location in Deepforge Highlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Deepforge Highlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Vellumwine Village"
+    },
+    {
+      "id": "location-whitefang-pass-watch",
+      "title": "Whitefang Pass Watch",
+      "category": "Geography",
+      "summary": "A configured location in Deepforge Highlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Deepforge Highlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Whitefang Pass Watch"
+    },
+    {
+      "id": "location-brasswind-trade-pier",
+      "title": "Brasswind Trade Pier",
+      "category": "Geography",
+      "summary": "A configured location in Drowned Green Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Drowned Green Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Brasswind Trade Pier"
+    },
+    {
+      "id": "location-contract-light-tower",
+      "title": "Contract Light Tower",
+      "category": "Geography",
+      "summary": "A configured location in Drowned Green Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Drowned Green Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Contract Light Tower"
+    },
+    {
+      "id": "location-coral-throne-court",
+      "title": "Coral Throne Court",
+      "category": "Geography",
+      "summary": "Coral Throne Court is a major seat of power in Drowned Green Coast, established amid drowned river valleys, wooded hills, marsh channels, islands, and tide-cut roads. Government, trade, household service, military work,…",
+      "tags": [
+        "Drowned Green Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Coral Throne Court"
+    },
+    {
+      "id": "location-drowned-pylon-ruin",
+      "title": "Drowned Pylon Ruin",
+      "category": "Geography",
+      "summary": "A configured location in Drowned Green Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Drowned Green Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Drowned Pylon Ruin"
+    },
+    {
+      "id": "location-greenreef-post",
+      "title": "Greenreef Post",
+      "category": "Geography",
+      "summary": "A configured location in Drowned Green Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Drowned Green Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Greenreef Post"
+    },
+    {
+      "id": "location-jade-lagoon-town",
+      "title": "Jade Lagoon Town",
+      "category": "Geography",
+      "summary": "A configured location in Drowned Green Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Drowned Green Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Jade Lagoon Town"
+    },
+    {
+      "id": "location-lagoon-market-harbor",
+      "title": "Lagoon Market Harbor",
+      "category": "Geography",
+      "summary": "A configured location in Drowned Green Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Drowned Green Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Lagoon Market Harbor"
+    },
+    {
+      "id": "location-ledger-cove-village",
+      "title": "Ledger-Cove Village",
+      "category": "Geography",
+      "summary": "A configured location in Drowned Green Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Drowned Green Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Ledger-Cove Village"
+    },
+    {
+      "id": "location-leviathan-reef-beacon",
+      "title": "Leviathan Reef Beacon",
+      "category": "Geography",
+      "summary": "A configured location in Drowned Green Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Drowned Green Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Leviathan Reef Beacon"
+    },
+    {
+      "id": "location-lowtide-hamlet",
+      "title": "Lowtide Hamlet",
+      "category": "Geography",
+      "summary": "A configured location in Drowned Green Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Drowned Green Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Lowtide Hamlet"
+    },
+    {
+      "id": "location-mangrovekin-hollow",
+      "title": "Mangrovekin Hollow",
+      "category": "Geography",
+      "summary": "A configured location in Drowned Green Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Drowned Green Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Mangrovekin Hollow"
+    },
+    {
+      "id": "location-pearl-tide-academy",
+      "title": "Pearl-Tide Academy",
+      "category": "Geography",
+      "summary": "A configured location in Drowned Green Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Drowned Green Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Pearl-Tide Academy"
+    },
+    {
+      "id": "location-pearlhouse-stiltstead",
+      "title": "Pearlhouse Stiltstead",
+      "category": "Geography",
+      "summary": "A configured location in Drowned Green Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Drowned Green Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Pearlhouse Stiltstead"
+    },
+    {
+      "id": "location-reefcrown-citadel",
+      "title": "Reefcrown Citadel",
+      "category": "Geography",
+      "summary": "A configured location in Drowned Green Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Drowned Green Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Reefcrown Citadel"
+    },
+    {
+      "id": "location-rootwater-village",
+      "title": "Rootwater Village",
+      "category": "Geography",
+      "summary": "A configured location in Drowned Green Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Drowned Green Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Rootwater Village"
+    },
+    {
+      "id": "location-shellgarden-village",
+      "title": "Shellgarden Village",
+      "category": "Geography",
+      "summary": "A configured location in Drowned Green Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Drowned Green Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Shellgarden Village"
+    },
+    {
+      "id": "location-aurelian-songspire",
+      "title": "Aurelian Songspire",
+      "category": "Geography",
+      "summary": "A configured location in Elderwood Crownwoods. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Elderwood Crownwoods",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Aurelian Songspire"
+    },
+    {
+      "id": "location-briarsong-village",
+      "title": "Briarsong Village",
+      "category": "Geography",
+      "summary": "A configured location in Elderwood Crownwoods. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Elderwood Crownwoods",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Briarsong Village"
+    },
+    {
+      "id": "location-dewsong-weaver-enclave",
+      "title": "Dewsong Weaver Enclave",
+      "category": "Geography",
+      "summary": "A configured location in Elderwood Crownwoods. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Elderwood Crownwoods",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Dewsong Weaver Enclave"
+    },
+    {
+      "id": "location-evershade-courtgrove",
+      "title": "Evershade Courtgrove",
+      "category": "Geography",
+      "summary": "A configured location in Elderwood Crownwoods. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Elderwood Crownwoods",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Evershade Courtgrove"
+    },
+    {
+      "id": "location-first-courtesy-gate",
+      "title": "First Courtesy Gate",
+      "category": "Geography",
+      "summary": "A configured location in Elderwood Crownwoods. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Elderwood Crownwoods",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "First Courtesy Gate"
+    },
+    {
+      "id": "location-glassbark-conservatory",
+      "title": "Glassbark Conservatory",
+      "category": "Geography",
+      "summary": "A configured location in Elderwood Crownwoods. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Elderwood Crownwoods",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Glassbark Conservatory"
+    },
+    {
+      "id": "location-greenveil-envoy-town",
+      "title": "Greenveil Envoy Town",
+      "category": "Geography",
+      "summary": "A configured location in Elderwood Crownwoods. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Elderwood Crownwoods",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Greenveil Envoy Town"
+    },
+    {
+      "id": "location-lythael-aurelion",
+      "title": "Lythael Aurelion",
+      "category": "Geography",
+      "summary": "Lythael Aurelion is a major seat of power in Elderwood Crownwoods, established amid wooded ridges, deep river valleys, old-growth forest, and cultivated clearings. Government, trade, household service, military work,…",
+      "tags": [
+        "Elderwood Crownwoods",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Lythael Aurelion"
+    },
+    {
+      "id": "location-moonleaf-hamlet",
+      "title": "Moonleaf Hamlet",
+      "category": "Geography",
+      "summary": "A configured location in Elderwood Crownwoods. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Elderwood Crownwoods",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Moonleaf Hamlet"
+    },
+    {
+      "id": "location-old-stag-wildwood",
+      "title": "Old Stag Wildwood",
+      "category": "Geography",
+      "summary": "A configured location in Elderwood Crownwoods. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Elderwood Crownwoods",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Old Stag Wildwood"
+    },
+    {
+      "id": "location-rootswallowed-watch",
+      "title": "Rootswallowed Watch",
+      "category": "Geography",
+      "summary": "A configured location in Elderwood Crownwoods. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Elderwood Crownwoods",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Rootswallowed Watch"
+    },
+    {
+      "id": "location-silverroot-diplomatic-house",
+      "title": "Silverroot Diplomatic House",
+      "category": "Geography",
+      "summary": "A configured location in Elderwood Crownwoods. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Elderwood Crownwoods",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Silverroot Diplomatic House"
+    },
+    {
+      "id": "location-sunleaf-orchard-courts",
+      "title": "Sunleaf Orchard Courts",
+      "category": "Geography",
+      "summary": "A configured location in Elderwood Crownwoods. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Elderwood Crownwoods",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Sunleaf Orchard Courts"
+    },
+    {
+      "id": "location-thornveil-borderwood",
+      "title": "Thornveil Borderwood",
+      "category": "Geography",
+      "summary": "Thornveil Borderwood is a local town serving the roads and communities of Elderwood Crownwoods, set among wooded ridges, deep river valleys, old-growth forest, and cultivated clearings. Its markets and workshops revolve…",
+      "tags": [
+        "Elderwood Crownwoods",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Thornveil Borderwood"
+    },
+    {
+      "id": "location-thornveil-sentinel-perch",
+      "title": "Thornveil Sentinel Perch",
+      "category": "Geography",
+      "summary": "A configured location in Elderwood Crownwoods. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Elderwood Crownwoods",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Thornveil Sentinel Perch"
+    },
+    {
+      "id": "location-coldroot-village",
+      "title": "Coldroot Village",
+      "category": "Geography",
+      "summary": "A configured location in Frostpine Gatewoods. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Frostpine Gatewoods",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Coldroot Village"
+    },
+    {
+      "id": "location-frostfallen-watch-ruin",
+      "title": "Frostfallen Watch Ruin",
+      "category": "Geography",
+      "summary": "A configured location in Frostpine Gatewoods. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Frostpine Gatewoods",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Frostfallen Watch Ruin"
+    },
+    {
+      "id": "location-frostgate-keep",
+      "title": "Frostgate Keep",
+      "category": "Geography",
+      "summary": "A configured location in Frostpine Gatewoods. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Frostpine Gatewoods",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Frostgate Keep"
+    },
+    {
+      "id": "location-hearthsnow-town",
+      "title": "Hearthsnow Town",
+      "category": "Geography",
+      "summary": "A configured location in Frostpine Gatewoods. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Frostpine Gatewoods",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Hearthsnow Town"
+    },
+    {
+      "id": "location-pineburrow-village",
+      "title": "Pineburrow Village",
+      "category": "Geography",
+      "summary": "A configured location in Frostpine Gatewoods. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Frostpine Gatewoods",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Pineburrow Village"
+    },
+    {
+      "id": "location-rimewatch-tower",
+      "title": "Rimewatch Tower",
+      "category": "Geography",
+      "summary": "A configured location in Frostpine Gatewoods. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Frostpine Gatewoods",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Rimewatch Tower"
+    },
+    {
+      "id": "location-whitepine-warden-post",
+      "title": "Whitepine Warden Post",
+      "category": "Geography",
+      "summary": "A configured location in Frostpine Gatewoods. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Frostpine Gatewoods",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Whitepine Warden Post"
+    },
+    {
+      "id": "location-pearlwatch-lighthouse",
+      "title": "Pearlwatch Lighthouse",
+      "category": "Geography",
+      "summary": "A configured location in Galechain High Isles. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Galechain High Isles",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Pearlwatch Lighthouse"
+    },
+    {
+      "id": "location-rainnet-village",
+      "title": "Rainnet Village",
+      "category": "Geography",
+      "summary": "A configured location in Galechain High Isles. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Galechain High Isles",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Rainnet Village"
+    },
+    {
+      "id": "location-reefchain-watchpost",
+      "title": "Reefchain Watchpost",
+      "category": "Geography",
+      "summary": "A configured location in Galechain High Isles. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Galechain High Isles",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Reefchain Watchpost"
+    },
+    {
+      "id": "location-saltglass-port",
+      "title": "Saltglass Port",
+      "category": "Geography",
+      "summary": "Saltglass Port is a compact port town where steep green islands, dark mountain spines, reefs, and storm-cut coves opens onto regular water traffic. Quays, lodgings, local administration, and markets serve nets, boats,…",
+      "tags": [
+        "Galechain High Isles",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Saltglass Port"
+    },
+    {
+      "id": "location-stormpearl-haven",
+      "title": "Stormpearl Haven",
+      "category": "Geography",
+      "summary": "Stormpearl Haven is a major seat of power in Galechain High Isles, established amid steep green islands, dark mountain spines, reefs, and storm-cut coves. Government, trade, household service, military work, petition,…",
+      "tags": [
+        "Galechain High Isles",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Stormpearl Haven"
+    },
+    {
+      "id": "location-wreckstone-chapel-ruin",
+      "title": "Wreckstone Chapel Ruin",
+      "category": "Geography",
+      "summary": "A configured location in Galechain High Isles. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Galechain High Isles",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Wreckstone Chapel Ruin"
+    },
+    {
+      "id": "location-dryad-veil-grove",
+      "title": "Dryad Veil Grove",
+      "category": "Geography",
+      "summary": "A configured location in Great Greenwild. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Great Greenwild",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Dryad Veil Grove"
+    },
+    {
+      "id": "location-goblinsage-warrens",
+      "title": "Goblinsage Warrens",
+      "category": "Geography",
+      "summary": "A configured location in Great Greenwild. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Great Greenwild",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Goblinsage Warrens"
+    },
+    {
+      "id": "location-old-crown-watchtree",
+      "title": "Old Crown Watchtree",
+      "category": "Geography",
+      "summary": "A configured location in Great Greenwild. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Great Greenwild",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Old Crown Watchtree"
+    },
+    {
+      "id": "location-rootbound-moot",
+      "title": "Rootbound Moot",
+      "category": "Geography",
+      "summary": "A configured location in Great Greenwild. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Great Greenwild",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Rootbound Moot"
+    },
+    {
+      "id": "location-spiritlight-spire",
+      "title": "Spiritlight Spire",
+      "category": "Geography",
+      "summary": "A configured location in Great Greenwild. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Great Greenwild",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Spiritlight Spire"
+    },
+    {
+      "id": "location-wolfkin-hollow",
+      "title": "Wolfkin Hollow",
+      "category": "Geography",
+      "summary": "A configured location in Great Greenwild. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Great Greenwild",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Wolfkin Hollow"
+    },
+    {
+      "id": "location-alderbridge-house",
+      "title": "Alderbridge House",
+      "category": "Geography",
+      "summary": "Alderbridge House is a large Crown-owned townhouse on Minor Noble Way in Middle Armathen, offering considerably more privacy and ordinary city life than residence inside Highcourt. Warm brick and pale stone, a private…",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Alderbridge House"
+    },
+    {
+      "id": "location-aldergate-town",
+      "title": "Aldergate Town",
+      "category": "Geography",
+      "summary": "A configured location in Greenvale Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Aldergate Town"
+    },
+    {
+      "id": "location-ashenford",
+      "title": "Ashenford",
+      "category": "Geography",
+      "summary": "Ashenford is a farming and milling village built around a shallow river crossing where the Fenrisard-Argenwald and Sablethorn holdings meet. Generations of altered channels, damaged markers, and contradictory leases…",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Ashenford"
+    },
+    {
+      "id": "location-ashroad-watch",
+      "title": "Ashroad Watch",
+      "category": "Geography",
+      "summary": "A configured location in Greenvale Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Ashroad Watch"
+    },
+    {
+      "id": "location-aurelmont",
+      "title": "Aurelmont",
+      "category": "Geography",
+      "summary": "Aurelmont is a wealthy royal academy-port town of Valenreach, positioned near the approaches to the Arcanum Ascendancy and the Lythael Elven Dominion and connected to Armathen by a maintained Crown road. Its heart is…",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Aurelmont"
+    },
+    {
+      "id": "location-briarholt-village",
+      "title": "Briarholt Village",
+      "category": "Geography",
+      "summary": "A configured location in Greenvale Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Briarholt Village"
+    },
+    {
+      "id": "location-crownspire-collegium",
+      "title": "Crownspire Collegium",
+      "category": "Geography",
+      "summary": "Crownspire Collegium is Valenreach's premier magical academy and royal research institution, set within upper Armathen but distinct from both the city streets and Highcourt rule. Students, instructors, researchers,…",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Crownspire Collegium"
+    },
+    {
+      "id": "location-crownspire-experimental-annex",
+      "title": "Crownspire Experimental Annex",
+      "category": "Geography",
+      "summary": "A configured location in Greenvale Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Crownspire Experimental Annex"
+    },
+    {
+      "id": "location-crownward-house",
+      "title": "Crownward House",
+      "category": "Geography",
+      "summary": "Crownward House is a substantial Crown-owned residence within Highcourt Armathen, maintained for royal relatives, politically important guests, protected dependents, and people the Crown wants close without requiring…",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Crownward House"
+    },
+    {
+      "id": "location-eastcrown-watch-ruin",
+      "title": "Eastcrown Watch Ruin",
+      "category": "Geography",
+      "summary": "A configured location in Greenvale Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Eastcrown Watch Ruin"
+    },
+    {
+      "id": "location-eastwatch-ford",
+      "title": "Eastwatch Ford",
+      "category": "Geography",
+      "summary": "A configured location in Greenvale Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Eastwatch Ford"
+    },
+    {
+      "id": "location-greenmeadow-granaries",
+      "title": "Greenmeadow Granaries",
+      "category": "Geography",
+      "summary": "A configured location in Greenvale Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Greenmeadow Granaries"
+    },
+    {
+      "id": "location-greyhaven",
+      "title": "Greyhaven",
+      "category": "Geography",
+      "summary": "Greyhaven is a small backwater farming village east of Highcourt Armathen. Stone cottages, muddy lanes, a single inn, a modest Adventurers Guild branch, fields, barns, and a roadside shrine make it feel ordinary before…",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Greyhaven"
+    },
+    {
+      "id": "location-hearthmere-village",
+      "title": "Hearthmere Village",
+      "category": "Geography",
+      "summary": "A configured location in Greenvale Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Hearthmere Village"
+    },
+    {
+      "id": "location-highcourt-armathen",
+      "title": "Highcourt Armathen",
+      "category": "Geography",
+      "summary": "Highcourt Armathen is the fortified palace precinct of Valenreach's capital: royal residence, court district, noble quarter, diplomatic enclave, military command center, and seat of crown law. It is beautiful,…",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Highcourt Armathen"
+    },
+    {
+      "id": "location-highridge-estate",
+      "title": "Highridge Estate",
+      "category": "Geography",
+      "summary": "Highridge Estate is an old Crown retreat in the wooded uplands of Valenreach, built around a stone-and-timber manor overlooking forested ridges, streams, meadows, and long riding trails. Once used for hunting, private…",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Highridge Estate"
+    },
+    {
+      "id": "location-king-s-road-waystation",
+      "title": "King's Road Waystation",
+      "category": "Geography",
+      "summary": "A configured location in Greenvale Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "King's Road Waystation"
+    },
+    {
+      "id": "location-lower-armathen",
+      "title": "Lower Armathen",
+      "category": "Geography",
+      "summary": "Lower Armathen is the crowded lower quarter of Valenreach's capital, where laborers, porters, poor families, foundlings, day-workers, beggars, cheap traders, servants, and forgotten veterans live beneath the shadow of…",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Lower Armathen"
+    },
+    {
+      "id": "location-middle-armathen",
+      "title": "Middle Armathen",
+      "category": "Geography",
+      "summary": "Middle Armathen is the respectable working heart of Valenreach's capital, where guild masters, craftsmen, clerks, minor nobles, innkeepers, city watch officers, legal witnesses, merchants, tutors, and ambitious families…",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Middle Armathen"
+    },
+    {
+      "id": "location-mirrorbridge-symposium",
+      "title": "Mirrorbridge Symposium",
+      "category": "Geography",
+      "summary": "A configured location in Greenvale Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Mirrorbridge Symposium"
+    },
+    {
+      "id": "location-mooncrest-observatory",
+      "title": "Mooncrest Observatory",
+      "category": "Geography",
+      "summary": "A configured location in Greenvale Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Mooncrest Observatory"
+    },
+    {
+      "id": "location-oathbridge-hold",
+      "title": "Oathbridge Hold",
+      "category": "Geography",
+      "summary": "A configured location in Greenvale Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Oathbridge Hold"
+    },
+    {
+      "id": "location-oathwater-estate",
+      "title": "Oathwater Estate",
+      "category": "Geography",
+      "summary": "Oathwater Estate is a busy Crown holding beside one of Valenreach's important river-and-road corridors, centered on a handsome fortified manor overlooking a stone bridge approach, barge landing, mills, meadows,…",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Oathwater Estate"
+    },
+    {
+      "id": "location-redleaf-hollow",
+      "title": "Redleaf Hollow",
+      "category": "Geography",
+      "summary": "A configured location in Greenvale Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Redleaf Hollow"
+    },
+    {
+      "id": "location-rivermark-town",
+      "title": "Rivermark Town",
+      "category": "Geography",
+      "summary": "A configured location in Greenvale Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Rivermark Town"
+    },
+    {
+      "id": "location-runewick",
+      "title": "Runewick",
+      "category": "Geography",
+      "summary": "Runewick is the principal market town of the Argent territories and the place where estate authority becomes taxes, contracts, trade, and ordinary public expectation. Its merchants, craftspeople, carters, and minor…",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Runewick"
+    },
+    {
+      "id": "location-saltmere-watchtower",
+      "title": "Saltmere Watchtower",
+      "category": "Geography",
+      "summary": "A configured location in Greenvale Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Saltmere Watchtower"
+    },
+    {
+      "id": "location-seabriar-estate",
+      "title": "Seabriar Estate",
+      "category": "Geography",
+      "summary": "Seabriar Estate is a Crown coastal residence on the Valenreach shore within easy reach of Aurelmont, built above a sheltered cove where pale stone cliffs, sea gardens, riding paths, boats, and salt wind define daily…",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Seabriar Estate"
+    },
+    {
+      "id": "location-silverfen-marsh",
+      "title": "Silverfen Marsh",
+      "category": "Geography",
+      "summary": "A configured location in Greenvale Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Silverfen Marsh"
+    },
+    {
+      "id": "location-stoneford-crossing",
+      "title": "Stoneford Crossing",
+      "category": "Geography",
+      "summary": "Stoneford Crossing is a local town serving the roads and communities of Greenvale Heartlands, set among fertile plains, rolling green hills, river roads, and settled valleys. Its markets and workshops revolve around…",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Stoneford Crossing"
+    },
+    {
+      "id": "location-stormglass-beacon",
+      "title": "Stormglass Beacon",
+      "category": "Geography",
+      "summary": "A configured location in Greenvale Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Stormglass Beacon"
+    },
+    {
+      "id": "location-valehold-manor",
+      "title": "Valehold Manor",
+      "category": "Geography",
+      "summary": "A configured location in Greenvale Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Valehold Manor"
+    },
+    {
+      "id": "location-willowmere-estate",
+      "title": "Willowmere Estate",
+      "category": "Geography",
+      "summary": "Willowmere Estate is a prosperous Crown estate in the settled countryside west of Armathen, centered on an elegant lakeside manor surrounded by orchards, pasture, tenant farms, mills, and maintained country roads.…",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Willowmere Estate"
+    },
+    {
+      "id": "location-windbarrow-downs",
+      "title": "Windbarrow Downs",
+      "category": "Geography",
+      "summary": "A configured location in Greenvale Heartlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Greenvale Heartlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Windbarrow Downs"
+    },
+    {
+      "id": "location-argent-gate",
+      "title": "Argent Gate",
+      "category": "Geography",
+      "summary": "Argent Gate is the fortified mountain corridor linking Valenreach's approaches to the roads beyond the Highwind Escarpments. Ancient walls, ward stations, signal platforms, and battlefield ruins mark generations of…",
+      "tags": [
+        "Highwind Escarpments",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Argent Gate"
+    },
+    {
+      "id": "location-blackspire-foundry",
+      "title": "Blackspire Foundry",
+      "category": "Geography",
+      "summary": "A configured location in Highwind Escarpments. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Highwind Escarpments",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Blackspire Foundry"
+    },
+    {
+      "id": "location-collapsed-deep-road",
+      "title": "Collapsed Deep Road",
+      "category": "Geography",
+      "summary": "A configured location in Highwind Escarpments. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Highwind Escarpments",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Collapsed Deep Road"
+    },
+    {
+      "id": "location-coppervein-village",
+      "title": "Coppervein Village",
+      "category": "Geography",
+      "summary": "A configured location in Highwind Escarpments. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Highwind Escarpments",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Coppervein Village"
+    },
+    {
+      "id": "location-crimson-census-checkpoint",
+      "title": "Crimson Census Checkpoint",
+      "category": "Geography",
+      "summary": "A configured location in Highwind Escarpments. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Highwind Escarpments",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Crimson Census Checkpoint"
+    },
+    {
+      "id": "location-deepgate-hold",
+      "title": "Deepgate Hold",
+      "category": "Geography",
+      "summary": "A configured location in Highwind Escarpments. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Highwind Escarpments",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Deepgate Hold"
+    },
+    {
+      "id": "location-forgefire-signal-tower",
+      "title": "Forgefire Signal Tower",
+      "category": "Geography",
+      "summary": "A configured location in Highwind Escarpments. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Highwind Escarpments",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Forgefire Signal Tower"
+    },
+    {
+      "id": "location-graven-ash-borderfort",
+      "title": "Graven Ash Borderfort",
+      "category": "Geography",
+      "summary": "A configured location in Highwind Escarpments. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Highwind Escarpments",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Graven Ash Borderfort"
+    },
+    {
+      "id": "location-greychain-resettlement",
+      "title": "Greychain Resettlement",
+      "category": "Geography",
+      "summary": "A configured location in Highwind Escarpments. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Highwind Escarpments",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Greychain Resettlement"
+    },
+    {
+      "id": "location-iron-vow-academy",
+      "title": "Iron Vow Academy",
+      "category": "Geography",
+      "summary": "A configured location in Highwind Escarpments. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Highwind Escarpments",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Iron Vow Academy"
+    },
+    {
+      "id": "location-ironroot-pass-watch",
+      "title": "Ironroot Pass Watch",
+      "category": "Geography",
+      "summary": "A configured location in Highwind Escarpments. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Highwind Escarpments",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Ironroot Pass Watch"
+    },
+    {
+      "id": "location-old-chain-gate-ruin",
+      "title": "Old Chain Gate Ruin",
+      "category": "Geography",
+      "summary": "A configured location in Highwind Escarpments. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Highwind Escarpments",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Old Chain Gate Ruin"
+    },
+    {
+      "id": "location-red-legion-marchroad",
+      "title": "Red Legion Marchroad",
+      "category": "Geography",
+      "summary": "A configured location in Highwind Escarpments. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Highwind Escarpments",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Red Legion Marchroad"
+    },
+    {
+      "id": "location-silvermaw-forge",
+      "title": "Silvermaw Forge",
+      "category": "Geography",
+      "summary": "A configured location in Highwind Escarpments. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Highwind Escarpments",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Silvermaw Forge"
+    },
+    {
+      "id": "location-stonebread-commons",
+      "title": "Stonebread Commons",
+      "category": "Geography",
+      "summary": "A configured location in Highwind Escarpments. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Highwind Escarpments",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Stonebread Commons"
+    },
+    {
+      "id": "location-varglund",
+      "title": "Varglund",
+      "category": "Geography",
+      "summary": "Varglund is the ancestral estate of House Fenrisard-Argenwald, a fortified manor overlooking the roads, farms, and tenant lands once governed by the High Argent Palatine. Its dark stone halls preserve generations of…",
+      "tags": [
+        "Highwind Escarpments",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Varglund"
+    },
+    {
+      "id": "location-vhal-kareth",
+      "title": "Vhal Kareth",
+      "category": "Geography",
+      "summary": "Vhal Kareth is a major seat of power in Highwind Escarpments, established amid high escarpments, steep valleys, river gorges, and wind-scoured mountain roads. Government, trade, household service, military work,…",
+      "tags": [
+        "Highwind Escarpments",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Vhal Kareth"
+    },
+    {
+      "id": "location-war-beast-muster-post",
+      "title": "War-Beast Muster Post",
+      "category": "Geography",
+      "summary": "A configured location in Highwind Escarpments. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Highwind Escarpments",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "War-Beast Muster Post"
+    },
+    {
+      "id": "location-wolfsward",
+      "title": "Wolfsward",
+      "category": "Geography",
+      "summary": "Wolfsward is the fortress and institutional home of the Runed Argent Fang, built to train spellswords, coordinate patrols, preserve the order's rites, and guard the roads leading toward Argent Gate. Its walls remain…",
+      "tags": [
+        "Highwind Escarpments",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Wolfsward"
+    },
+    {
+      "id": "location-ambergrain-road-post",
+      "title": "Ambergrain Road Post",
+      "category": "Geography",
+      "summary": "A configured location in Ledgerbay Harbors. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ledgerbay Harbors",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Ambergrain Road Post"
+    },
+    {
+      "id": "location-bonded-cargo-watch",
+      "title": "Bonded Cargo Watch",
+      "category": "Geography",
+      "summary": "A configured location in Ledgerbay Harbors. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ledgerbay Harbors",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Bonded Cargo Watch"
+    },
+    {
+      "id": "location-canalgrain-hamlet",
+      "title": "Canalgrain Hamlet",
+      "category": "Geography",
+      "summary": "A configured location in Ledgerbay Harbors. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ledgerbay Harbors",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Canalgrain Hamlet"
+    },
+    {
+      "id": "location-copperwake-canal-district",
+      "title": "Copperwake Canal District",
+      "category": "Geography",
+      "summary": "A configured location in Ledgerbay Harbors. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ledgerbay Harbors",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Copperwake Canal District"
+    },
+    {
+      "id": "location-dustpromise-hamlet",
+      "title": "Dustpromise Hamlet",
+      "category": "Geography",
+      "summary": "A configured location in Ledgerbay Harbors. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ledgerbay Harbors",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Dustpromise Hamlet"
+    },
+    {
+      "id": "location-fodderfield-village",
+      "title": "Fodderfield Village",
+      "category": "Geography",
+      "summary": "A configured location in Ledgerbay Harbors. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ledgerbay Harbors",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Fodderfield Village"
+    },
+    {
+      "id": "location-freefang-blackmarket",
+      "title": "Freefang Blackmarket",
+      "category": "Geography",
+      "summary": "A configured location in Ledgerbay Harbors. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ledgerbay Harbors",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Freefang Blackmarket"
+    },
+    {
+      "id": "location-glasscoin-signal-tower",
+      "title": "Glasscoin Signal Tower",
+      "category": "Geography",
+      "summary": "A configured location in Ledgerbay Harbors. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ledgerbay Harbors",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Glasscoin Signal Tower"
+    },
+    {
+      "id": "location-hawkbill-navigation-college",
+      "title": "Hawkbill Navigation College",
+      "category": "Geography",
+      "summary": "A configured location in Ledgerbay Harbors. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ledgerbay Harbors",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Hawkbill Navigation College"
+    },
+    {
+      "id": "location-morrowglass-council-house",
+      "title": "Morrowglass Council House",
+      "category": "Geography",
+      "summary": "A configured location in Ledgerbay Harbors. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ledgerbay Harbors",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Morrowglass Council House"
+    },
+    {
+      "id": "location-private-security-yard",
+      "title": "Private Security Yard",
+      "category": "Geography",
+      "summary": "A configured location in Ledgerbay Harbors. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ledgerbay Harbors",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Private Security Yard"
+    },
+    {
+      "id": "location-redseal-customs-fortress",
+      "title": "Redseal Customs Fortress",
+      "category": "Geography",
+      "summary": "A configured location in Ledgerbay Harbors. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ledgerbay Harbors",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Redseal Customs Fortress"
+    },
+    {
+      "id": "location-saltledger-village",
+      "title": "Saltledger Village",
+      "category": "Geography",
+      "summary": "A configured location in Ledgerbay Harbors. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ledgerbay Harbors",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Saltledger Village"
+    },
+    {
+      "id": "location-silklock-district",
+      "title": "Silklock District",
+      "category": "Geography",
+      "summary": "A configured location in Ledgerbay Harbors. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ledgerbay Harbors",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Silklock District"
+    },
+    {
+      "id": "location-silver-gull-lookout",
+      "title": "Silver Gull Lookout",
+      "category": "Geography",
+      "summary": "A configured location in Ledgerbay Harbors. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ledgerbay Harbors",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Silver Gull Lookout"
+    },
+    {
+      "id": "location-sunspice-quay",
+      "title": "Sunspice Quay",
+      "category": "Geography",
+      "summary": "A configured location in Ledgerbay Harbors. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ledgerbay Harbors",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Sunspice Quay"
+    },
+    {
+      "id": "location-veyrport-freeharbor",
+      "title": "Veyrport Freeharbor",
+      "category": "Geography",
+      "summary": "A configured location in Ledgerbay Harbors. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Ledgerbay Harbors",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Veyrport Freeharbor"
+    },
+    {
+      "id": "location-deepblue-lagoon-port",
+      "title": "Deepblue Lagoon Port",
+      "category": "Geography",
+      "summary": "A configured location in Pearlwater Lagoons. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Pearlwater Lagoons",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Deepblue Lagoon Port"
+    },
+    {
+      "id": "location-kelpweave-hamlet",
+      "title": "Kelpweave Hamlet",
+      "category": "Geography",
+      "summary": "A configured location in Pearlwater Lagoons. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Pearlwater Lagoons",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Kelpweave Hamlet"
+    },
+    {
+      "id": "location-merrowgate-harbor",
+      "title": "Merrowgate Harbor",
+      "category": "Geography",
+      "summary": "A configured location in Pearlwater Lagoons. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Pearlwater Lagoons",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Merrowgate Harbor"
+    },
+    {
+      "id": "location-pearl-diver-village",
+      "title": "Pearl Diver Village",
+      "category": "Geography",
+      "summary": "A configured location in Pearlwater Lagoons. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Pearlwater Lagoons",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Pearl Diver Village"
+    },
+    {
+      "id": "location-reef-pilot-station",
+      "title": "Reef-Pilot Station",
+      "category": "Geography",
+      "summary": "A configured location in Pearlwater Lagoons. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Pearlwater Lagoons",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Reef-Pilot Station"
+    },
+    {
+      "id": "location-shellsong-village",
+      "title": "Shellsong Village",
+      "category": "Geography",
+      "summary": "A configured location in Pearlwater Lagoons. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Pearlwater Lagoons",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Shellsong Village"
+    },
+    {
+      "id": "location-stormsafe-mooring-post",
+      "title": "Stormsafe Mooring Post",
+      "category": "Geography",
+      "summary": "A configured location in Pearlwater Lagoons. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Pearlwater Lagoons",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Stormsafe Mooring Post"
+    },
+    {
+      "id": "location-sunken-queen-steps",
+      "title": "Sunken Queen Steps",
+      "category": "Geography",
+      "summary": "A configured location in Pearlwater Lagoons. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Pearlwater Lagoons",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Sunken Queen Steps"
+    },
+    {
+      "id": "location-tideglass-market",
+      "title": "Tideglass Market",
+      "category": "Geography",
+      "summary": "A configured location in Pearlwater Lagoons. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Pearlwater Lagoons",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Tideglass Market"
+    },
+    {
+      "id": "location-brinehall-port",
+      "title": "Brinehall Port",
+      "category": "Geography",
+      "summary": "A configured location in Runehall Pine Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Runehall Pine Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Brinehall Port"
+    },
+    {
+      "id": "location-eldmark-crownport",
+      "title": "Eldmark Crownport",
+      "category": "Geography",
+      "summary": "Eldmark Crownport is a major seat of power in Runehall Pine Coast, established amid pine-clad ridges, river valleys, rocky headlands, islands, and long coves. Government, trade, household service, military work,…",
+      "tags": [
+        "Runehall Pine Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Eldmark Crownport"
+    },
+    {
+      "id": "location-eldmark-sea-keep",
+      "title": "Eldmark Sea-Keep",
+      "category": "Geography",
+      "summary": "A configured location in Runehall Pine Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Runehall Pine Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Eldmark Sea-Keep"
+    },
+    {
+      "id": "location-hillbanner-town",
+      "title": "Hillbanner Town",
+      "category": "Geography",
+      "summary": "A configured location in Runehall Pine Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Runehall Pine Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Hillbanner Town"
+    },
+    {
+      "id": "location-kettlefjord-hamlet",
+      "title": "Kettlefjord Hamlet",
+      "category": "Geography",
+      "summary": "Kettlefjord Hamlet is a small settled community within pine-clad ridges, river valleys, rocky headlands, islands, and long coves, sustained by timber, fishing, farming, shipwork, law service, and coastal trade.…",
+      "tags": [
+        "Runehall Pine Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Kettlefjord Hamlet"
+    },
+    {
+      "id": "location-lowhearth-village",
+      "title": "Lowhearth Village",
+      "category": "Geography",
+      "summary": "A configured location in Runehall Pine Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Runehall Pine Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Lowhearth Village"
+    },
+    {
+      "id": "location-oathstone-lighthouse",
+      "title": "Oathstone Lighthouse",
+      "category": "Geography",
+      "summary": "A configured location in Runehall Pine Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Runehall Pine Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Oathstone Lighthouse"
+    },
+    {
+      "id": "location-stagrock-village",
+      "title": "Stagrock Village",
+      "category": "Geography",
+      "summary": "Stagrock Village is a small settled community within pine-clad ridges, river valleys, rocky headlands, islands, and long coves, sustained by timber, fishing, farming, shipwork, law service, and coastal trade. Households…",
+      "tags": [
+        "Runehall Pine Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Stagrock Village"
+    },
+    {
+      "id": "location-drowned-shell-shrine",
+      "title": "Drowned Shell Shrine",
+      "category": "Geography",
+      "summary": "A configured location in Sapphire Outer Reefs. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sapphire Outer Reefs",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Drowned Shell Shrine"
+    },
+    {
+      "id": "location-far-tide-watch-spire",
+      "title": "Far-Tide Watch Spire",
+      "category": "Geography",
+      "summary": "A configured location in Sapphire Outer Reefs. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sapphire Outer Reefs",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Far-Tide Watch Spire"
+    },
+    {
+      "id": "location-lowreef-village",
+      "title": "Lowreef Village",
+      "category": "Geography",
+      "summary": "A configured location in Sapphire Outer Reefs. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sapphire Outer Reefs",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Lowreef Village"
+    },
+    {
+      "id": "location-outer-pearl-harbor",
+      "title": "Outer Pearl Harbor",
+      "category": "Geography",
+      "summary": "A configured location in Sapphire Outer Reefs. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sapphire Outer Reefs",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Outer Pearl Harbor"
+    },
+    {
+      "id": "location-blackglass-beacon",
+      "title": "Blackglass Beacon",
+      "category": "Geography",
+      "summary": "A configured location in Shadowglass Headlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Shadowglass Headlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Blackglass Beacon"
+    },
+    {
+      "id": "location-candlewine-hamlet",
+      "title": "Candlewine Hamlet",
+      "category": "Geography",
+      "summary": "A configured location in Shadowglass Headlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Shadowglass Headlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Candlewine Hamlet"
+    },
+    {
+      "id": "location-eastdeep-tunnel-gate",
+      "title": "Eastdeep Tunnel Gate",
+      "category": "Geography",
+      "summary": "A configured location in Shadowglass Headlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Shadowglass Headlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Eastdeep Tunnel Gate"
+    },
+    {
+      "id": "location-moonwake-harbor",
+      "title": "Moonwake Harbor",
+      "category": "Geography",
+      "summary": "Moonwake Harbor is a working harbor in Shadowglass Headlands, positioned among rugged coastal ridges, deep coves, narrow peninsulas, and cold sea approaches to handle nets, boats, catches, cargo, and the timing of wind…",
+      "tags": [
+        "Shadowglass Headlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Moonwake Harbor"
+    },
+    {
+      "id": "location-morrowveil-quay",
+      "title": "Morrowveil Quay",
+      "category": "Geography",
+      "summary": "A configured location in Shadowglass Headlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Shadowglass Headlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Morrowveil Quay"
+    },
+    {
+      "id": "location-morrowveil-village",
+      "title": "Morrowveil Village",
+      "category": "Geography",
+      "summary": "Morrowveil Village is a small settled community within rugged coastal ridges, deep coves, narrow peninsulas, and cold sea approaches, sustained by fishing, wine, household service, coastal trade, and guarded travel.…",
+      "tags": [
+        "Shadowglass Headlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Morrowveil Village"
+    },
+    {
+      "id": "location-nightglass-court",
+      "title": "Nightglass Court",
+      "category": "Geography",
+      "summary": "Nightglass Court is a major seat of power in Shadowglass Headlands, established amid rugged coastal ridges, deep coves, narrow peninsulas, and cold sea approaches. Government, trade, household service, military work,…",
+      "tags": [
+        "Shadowglass Headlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Nightglass Court"
+    },
+    {
+      "id": "location-sealed-thorncrypt",
+      "title": "Sealed Thorncrypt",
+      "category": "Geography",
+      "summary": "A configured location in Shadowglass Headlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Shadowglass Headlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Sealed Thorncrypt"
+    },
+    {
+      "id": "location-stonebeard-pass-post",
+      "title": "Stonebeard Pass Post",
+      "category": "Geography",
+      "summary": "A configured location in Shadowglass Headlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Shadowglass Headlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Stonebeard Pass Post"
+    },
+    {
+      "id": "location-velvetmere-court",
+      "title": "Velvetmere Court",
+      "category": "Geography",
+      "summary": "A configured location in Shadowglass Headlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Shadowglass Headlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Velvetmere Court"
+    },
+    {
+      "id": "location-velvetmoon-tower",
+      "title": "Velvetmoon Tower",
+      "category": "Geography",
+      "summary": "A configured location in Shadowglass Headlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Shadowglass Headlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Velvetmoon Tower"
+    },
+    {
+      "id": "location-greyreef-beacon",
+      "title": "Greyreef Beacon",
+      "category": "Geography",
+      "summary": "A configured location in Stormbreak Reefroads. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Stormbreak Reefroads",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Greyreef Beacon"
+    },
+    {
+      "id": "location-gullspire-harbor",
+      "title": "Gullspire Harbor",
+      "category": "Geography",
+      "summary": "A configured location in Stormbreak Reefroads. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Stormbreak Reefroads",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Gullspire Harbor"
+    },
+    {
+      "id": "location-lowpearl-village",
+      "title": "Lowpearl Village",
+      "category": "Geography",
+      "summary": "A configured location in Stormbreak Reefroads. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Stormbreak Reefroads",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Lowpearl Village"
+    },
+    {
+      "id": "location-netmender-village",
+      "title": "Netmender Village",
+      "category": "Geography",
+      "summary": "A configured location in Stormbreak Reefroads. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Stormbreak Reefroads",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Netmender Village"
+    },
+    {
+      "id": "location-northchain-watch",
+      "title": "Northchain Watch",
+      "category": "Geography",
+      "summary": "A configured location in Stormbreak Reefroads. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Stormbreak Reefroads",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Northchain Watch"
+    },
+    {
+      "id": "location-old-mariner-shrine",
+      "title": "Old Mariner Shrine",
+      "category": "Geography",
+      "summary": "A configured location in Stormbreak Reefroads. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Stormbreak Reefroads",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Old Mariner Shrine"
+    },
+    {
+      "id": "location-reefward-post",
+      "title": "Reefward Post",
+      "category": "Geography",
+      "summary": "A configured location in Stormbreak Reefroads. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Stormbreak Reefroads",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Reefward Post"
+    },
+    {
+      "id": "location-shellbreak-cove",
+      "title": "Shellbreak Cove",
+      "category": "Geography",
+      "summary": "A configured location in Stormbreak Reefroads. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Stormbreak Reefroads",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Shellbreak Cove"
+    },
+    {
+      "id": "location-stormcrown-keep",
+      "title": "Stormcrown Keep",
+      "category": "Geography",
+      "summary": "A configured location in Stormbreak Reefroads. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Stormbreak Reefroads",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Stormcrown Keep"
+    },
+    {
+      "id": "location-tidebell-town",
+      "title": "Tidebell Town",
+      "category": "Geography",
+      "summary": "A configured location in Stormbreak Reefroads. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Stormbreak Reefroads",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Tidebell Town"
+    },
+    {
+      "id": "location-weststorm-lighthouse",
+      "title": "Weststorm Lighthouse",
+      "category": "Geography",
+      "summary": "A configured location in Stormbreak Reefroads. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Stormbreak Reefroads",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Weststorm Lighthouse"
+    },
+    {
+      "id": "location-eldmark-forestlight-beacon",
+      "title": "Eldmark Forestlight Beacon",
+      "category": "Geography",
+      "summary": "A configured location in Stormcarved Skerries. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Stormcarved Skerries",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Eldmark Forestlight Beacon"
+    },
+    {
+      "id": "location-greencliff-village",
+      "title": "Greencliff Village",
+      "category": "Geography",
+      "summary": "A configured location in Stormcarved Skerries. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Stormcarved Skerries",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Greencliff Village"
+    },
+    {
+      "id": "location-mossjaw-hollow",
+      "title": "Mossjaw Hollow",
+      "category": "Geography",
+      "summary": "A configured location in Stormcarved Skerries. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Stormcarved Skerries",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Mossjaw Hollow"
+    },
+    {
+      "id": "location-saltgoat-hamlet",
+      "title": "Saltgoat Hamlet",
+      "category": "Geography",
+      "summary": "A configured location in Stormcarved Skerries. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Stormcarved Skerries",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Saltgoat Hamlet"
+    },
+    {
+      "id": "location-westleaf-harbor",
+      "title": "Westleaf Harbor",
+      "category": "Geography",
+      "summary": "A configured location in Stormcarved Skerries. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Stormcarved Skerries",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Westleaf Harbor"
+    },
+    {
+      "id": "location-clanroad-horn-post",
+      "title": "Clanroad Horn Post",
+      "category": "Geography",
+      "summary": "A configured location in Sunroad Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sunroad Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Clanroad Horn Post"
+    },
+    {
+      "id": "location-clawgrass-camp",
+      "title": "Clawgrass Camp",
+      "category": "Geography",
+      "summary": "A configured location in Sunroad Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sunroad Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Clawgrass Camp"
+    },
+    {
+      "id": "location-dustmare-herdstead",
+      "title": "Dustmare Herdstead",
+      "category": "Geography",
+      "summary": "A configured location in Sunroad Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sunroad Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Dustmare Herdstead"
+    },
+    {
+      "id": "location-fangshore-beacon",
+      "title": "Fangshore Beacon",
+      "category": "Geography",
+      "summary": "A configured location in Sunroad Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sunroad Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Fangshore Beacon"
+    },
+    {
+      "id": "location-hornwater-town",
+      "title": "Hornwater Town",
+      "category": "Geography",
+      "summary": "A configured location in Sunroad Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sunroad Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Hornwater Town"
+    },
+    {
+      "id": "location-ironfang-hold",
+      "title": "Ironfang Hold",
+      "category": "Geography",
+      "summary": "A configured location in Sunroad Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sunroad Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Ironfang Hold"
+    },
+    {
+      "id": "location-monster-herd-lookout",
+      "title": "Monster-Herd Lookout",
+      "category": "Geography",
+      "summary": "A configured location in Sunroad Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sunroad Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Monster-Herd Lookout"
+    },
+    {
+      "id": "location-oathwolf-hamlet",
+      "title": "Oathwolf Hamlet",
+      "category": "Geography",
+      "summary": "A configured location in Sunroad Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sunroad Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Oathwolf Hamlet"
+    },
+    {
+      "id": "location-old-steppe-shrine-ruin",
+      "title": "Old Steppe Shrine Ruin",
+      "category": "Geography",
+      "summary": "A configured location in Sunroad Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sunroad Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Old Steppe Shrine Ruin"
+    },
+    {
+      "id": "location-rider-s-salt-market",
+      "title": "Rider's Salt Market",
+      "category": "Geography",
+      "summary": "A configured location in Sunroad Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sunroad Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Rider's Salt Market"
+    },
+    {
+      "id": "location-saltsteppe-watch",
+      "title": "Saltsteppe Watch",
+      "category": "Geography",
+      "summary": "A configured location in Sunroad Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sunroad Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Saltsteppe Watch"
+    },
+    {
+      "id": "location-seabone-village",
+      "title": "Seabone Village",
+      "category": "Geography",
+      "summary": "A configured location in Sunroad Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sunroad Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Seabone Village"
+    },
+    {
+      "id": "location-stormhoof-coastport",
+      "title": "Stormhoof Coastport",
+      "category": "Geography",
+      "summary": "A configured location in Sunroad Coast. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sunroad Coast",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Stormhoof Coastport"
+    },
+    {
+      "id": "location-ashen-saint-catacombs",
+      "title": "Ashen Saint Catacombs",
+      "category": "Geography",
+      "summary": "A configured location in Sunspine Pilgrimlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sunspine Pilgrimlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Ashen Saint Catacombs"
+    },
+    {
+      "id": "location-ashgarden-harbor",
+      "title": "Ashgarden Harbor",
+      "category": "Geography",
+      "summary": "A configured location in Sunspine Pilgrimlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sunspine Pilgrimlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Ashgarden Harbor"
+    },
+    {
+      "id": "location-candlefield-refuge",
+      "title": "Candlefield Refuge",
+      "category": "Geography",
+      "summary": "A configured location in Sunspine Pilgrimlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sunspine Pilgrimlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Candlefield Refuge"
+    },
+    {
+      "id": "location-candlefield-town",
+      "title": "Candlefield Town",
+      "category": "Geography",
+      "summary": "A configured location in Sunspine Pilgrimlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sunspine Pilgrimlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Candlefield Town"
+    },
+    {
+      "id": "location-cinderglass-hermitage",
+      "title": "Cinderglass Hermitage",
+      "category": "Geography",
+      "summary": "A configured location in Sunspine Pilgrimlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sunspine Pilgrimlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Cinderglass Hermitage"
+    },
+    {
+      "id": "location-cinderolive-hamlet",
+      "title": "Cinderolive Hamlet",
+      "category": "Geography",
+      "summary": "A configured location in Sunspine Pilgrimlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sunspine Pilgrimlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Cinderolive Hamlet"
+    },
+    {
+      "id": "location-dawnwatch-tower",
+      "title": "Dawnwatch Tower",
+      "category": "Geography",
+      "summary": "A configured location in Sunspine Pilgrimlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sunspine Pilgrimlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Dawnwatch Tower"
+    },
+    {
+      "id": "location-golden-writ-scriptorium",
+      "title": "Golden Writ Scriptorium",
+      "category": "Geography",
+      "summary": "A configured location in Sunspine Pilgrimlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sunspine Pilgrimlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Golden Writ Scriptorium"
+    },
+    {
+      "id": "location-mercyfield-hamlet",
+      "title": "Mercyfield Hamlet",
+      "category": "Geography",
+      "summary": "Mercyfield Hamlet is a small settled community within sun-baked plateaus, sharp ridges, dry valleys, guarded passes, and greener water pockets, sustained by grain, fodder, carts, storage barns, and seasonal labor.…",
+      "tags": [
+        "Sunspine Pilgrimlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Mercyfield Hamlet"
+    },
+    {
+      "id": "location-mirrorgold-pilgrim-baths",
+      "title": "Mirrorgold Pilgrim Baths",
+      "category": "Geography",
+      "summary": "A configured location in Sunspine Pilgrimlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sunspine Pilgrimlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Mirrorgold Pilgrim Baths"
+    },
+    {
+      "id": "location-mirrorgold-pilgrim-harbor",
+      "title": "Mirrorgold Pilgrim Harbor",
+      "category": "Geography",
+      "summary": "A configured location in Sunspine Pilgrimlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sunspine Pilgrimlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Mirrorgold Pilgrim Harbor"
+    },
+    {
+      "id": "location-oathsun-orphan-house",
+      "title": "Oathsun Orphan House",
+      "category": "Geography",
+      "summary": "A configured location in Sunspine Pilgrimlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sunspine Pilgrimlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Oathsun Orphan House"
+    },
+    {
+      "id": "location-redterrace-village",
+      "title": "Redterrace Village",
+      "category": "Geography",
+      "summary": "A configured location in Sunspine Pilgrimlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sunspine Pilgrimlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Redterrace Village"
+    },
+    {
+      "id": "location-saint-oravel-s-healing-house",
+      "title": "Saint Oravel's Healing House",
+      "category": "Geography",
+      "summary": "A configured location in Sunspine Pilgrimlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sunspine Pilgrimlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Saint Oravel's Healing House"
+    },
+    {
+      "id": "location-solarion-sanctum",
+      "title": "Solarion Sanctum",
+      "category": "Geography",
+      "summary": "Solarion Sanctum is a major seat of power in Sunspine Pilgrimlands, established amid sun-baked plateaus, sharp ridges, dry valleys, guarded passes, and greener water pockets. Government, trade, household service,…",
+      "tags": [
+        "Sunspine Pilgrimlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Solarion Sanctum"
+    },
+    {
+      "id": "location-sunfall-leper-fields",
+      "title": "Sunfall Leper Fields",
+      "category": "Geography",
+      "summary": "A configured location in Sunspine Pilgrimlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sunspine Pilgrimlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Sunfall Leper Fields"
+    },
+    {
+      "id": "location-sunmile-village",
+      "title": "Sunmile Village",
+      "category": "Geography",
+      "summary": "A configured location in Sunspine Pilgrimlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sunspine Pilgrimlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Sunmile Village"
+    },
+    {
+      "id": "location-sunspire-bell-tower",
+      "title": "Sunspire Bell Tower",
+      "category": "Geography",
+      "summary": "A configured location in Sunspine Pilgrimlands. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Sunspine Pilgrimlands",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Sunspire Bell Tower"
+    },
+    {
+      "id": "location-ancestor-stone-watch",
+      "title": "Ancestor Stone Watch",
+      "category": "Geography",
+      "summary": "A configured location in Thundergrass Steppe. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Thundergrass Steppe",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Ancestor Stone Watch"
+    },
+    {
+      "id": "location-bonegrass-ravine-camp",
+      "title": "Bonegrass Ravine Camp",
+      "category": "Geography",
+      "summary": "A configured location in Thundergrass Steppe. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Thundergrass Steppe",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Bonegrass Ravine Camp"
+    },
+    {
+      "id": "location-caravan-horn-post",
+      "title": "Caravan Horn Post",
+      "category": "Geography",
+      "summary": "A configured location in Thundergrass Steppe. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Thundergrass Steppe",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Caravan Horn Post"
+    },
+    {
+      "id": "location-dawnbreak-reliquary",
+      "title": "Dawnbreak Reliquary",
+      "category": "Geography",
+      "summary": "A configured location in Thundergrass Steppe. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Thundergrass Steppe",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Dawnbreak Reliquary"
+    },
+    {
+      "id": "location-dawnmere-pilgrim-road",
+      "title": "Dawnmere Pilgrim Road",
+      "category": "Geography",
+      "summary": "A configured location in Thundergrass Steppe. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Thundergrass Steppe",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Dawnmere Pilgrim Road"
+    },
+    {
+      "id": "location-fangwell-market",
+      "title": "Fangwell Market",
+      "category": "Geography",
+      "summary": "A configured location in Thundergrass Steppe. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Thundergrass Steppe",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Fangwell Market"
+    },
+    {
+      "id": "location-freefang-mootroad",
+      "title": "Freefang Mootroad",
+      "category": "Geography",
+      "summary": "Freefang Mootroad is a major seat of power in Thundergrass Steppe, established amid open grassland, river-cut steppe, low ridges, and a long mountain spine. Government, trade, household service, military work, petition,…",
+      "tags": [
+        "Thundergrass Steppe",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Freefang Mootroad"
+    },
+    {
+      "id": "location-great-fang-moot",
+      "title": "Great Fang Moot",
+      "category": "Geography",
+      "summary": "Great Fang Moot is a major seat of power in Thundergrass Steppe, established amid open grassland, river-cut steppe, low ridges, and a long mountain spine. Government, trade, household service, military work, petition,…",
+      "tags": [
+        "Thundergrass Steppe",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Great Fang Moot"
+    },
+    {
+      "id": "location-ogrejaw-fires",
+      "title": "Ogrejaw Fires",
+      "category": "Geography",
+      "summary": "Ogrejaw Fires is a small settled community within open grassland, river-cut steppe, low ridges, and a long mountain spine, sustained by herding, hides, horses, well keeping, caravan work, and seasonal trade. Households…",
+      "tags": [
+        "Thundergrass Steppe",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Ogrejaw Fires"
+    },
+    {
+      "id": "location-outlaw-king-s-fort",
+      "title": "Outlaw King's Fort",
+      "category": "Geography",
+      "summary": "A configured location in Thundergrass Steppe. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Thundergrass Steppe",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Outlaw King's Fort"
+    },
+    {
+      "id": "location-redtail-herdstead",
+      "title": "Redtail Herdstead",
+      "category": "Geography",
+      "summary": "Redtail Herdstead is a small settled community within open grassland, river-cut steppe, low ridges, and a long mountain spine, sustained by herding, hides, horses, well keeping, caravan work, and seasonal trade.…",
+      "tags": [
+        "Thundergrass Steppe",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Redtail Herdstead"
+    },
+    {
+      "id": "location-saint-caldrin-s-roadhouse",
+      "title": "Saint Caldrin's Roadhouse",
+      "category": "Geography",
+      "summary": "A configured location in Thundergrass Steppe. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Thundergrass Steppe",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Saint Caldrin's Roadhouse"
+    },
+    {
+      "id": "location-stormhorn-watchtower",
+      "title": "Stormhorn Watchtower",
+      "category": "Geography",
+      "summary": "A configured location in Thundergrass Steppe. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Thundergrass Steppe",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Stormhorn Watchtower"
+    },
+    {
+      "id": "location-stormwell-guard-camp",
+      "title": "Stormwell Guard Camp",
+      "category": "Geography",
+      "summary": "A configured location in Thundergrass Steppe. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Thundergrass Steppe",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Stormwell Guard Camp"
+    },
+    {
+      "id": "location-sunspire-monastery",
+      "title": "Sunspire Monastery",
+      "category": "Geography",
+      "summary": "A configured location in Thundergrass Steppe. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Thundergrass Steppe",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Sunspire Monastery"
+    },
+    {
+      "id": "location-sunward-mile-tower",
+      "title": "Sunward Mile-Tower",
+      "category": "Geography",
+      "summary": "A configured location in Thundergrass Steppe. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Thundergrass Steppe",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Sunward Mile-Tower"
+    },
+    {
+      "id": "location-wolfbanner-south-camp",
+      "title": "Wolfbanner South Camp",
+      "category": "Geography",
+      "summary": "A configured location in Thundergrass Steppe. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Thundergrass Steppe",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Wolfbanner South Camp"
+    },
+    {
+      "id": "location-dead-king-s-cairn",
+      "title": "Dead King's Cairn",
+      "category": "Geography",
+      "summary": "A configured location in Whitecrown Glacier Range. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Whitecrown Glacier Range",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Dead King's Cairn"
+    },
+    {
+      "id": "location-frostmere-hall",
+      "title": "Frostmere Hall",
+      "category": "Geography",
+      "summary": "A configured location in Whitecrown Glacier Range. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Whitecrown Glacier Range",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Frostmere Hall"
+    },
+    {
+      "id": "location-frostmere-hamlet",
+      "title": "Frostmere Hamlet",
+      "category": "Geography",
+      "summary": "A configured location in Whitecrown Glacier Range. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Whitecrown Glacier Range",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Frostmere Hamlet"
+    },
+    {
+      "id": "location-glacier-road-remnant",
+      "title": "Glacier Road Remnant",
+      "category": "Geography",
+      "summary": "A configured location in Whitecrown Glacier Range. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Whitecrown Glacier Range",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Glacier Road Remnant"
+    },
+    {
+      "id": "location-northbarrow-village",
+      "title": "Northbarrow Village",
+      "category": "Geography",
+      "summary": "A configured location in Whitecrown Glacier Range. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Whitecrown Glacier Range",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Northbarrow Village"
+    },
+    {
+      "id": "location-northgate-town",
+      "title": "Northgate Town",
+      "category": "Geography",
+      "summary": "A configured location in Whitecrown Glacier Range. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Whitecrown Glacier Range",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Northgate Town"
+    },
+    {
+      "id": "location-northgate-watch",
+      "title": "Northgate Watch",
+      "category": "Geography",
+      "summary": "A configured location in Whitecrown Glacier Range. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Whitecrown Glacier Range",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Northgate Watch"
+    },
+    {
+      "id": "location-northwhite-patrol-camp",
+      "title": "Northwhite Patrol Camp",
+      "category": "Geography",
+      "summary": "A configured location in Whitecrown Glacier Range. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Whitecrown Glacier Range",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Northwhite Patrol Camp"
+    },
+    {
+      "id": "location-palegrave-crownhold",
+      "title": "Palegrave Crownhold",
+      "category": "Geography",
+      "summary": "Palegrave Crownhold is a major seat of power in Whitecrown Glacier Range, established amid glacial mountains, snowfields, alpine valleys, and ice-fed roads. Government, trade, household service, military work, petition,…",
+      "tags": [
+        "Whitecrown Glacier Range",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Palegrave Crownhold"
+    },
+    {
+      "id": "location-snowbell-watchtower",
+      "title": "Snowbell Watchtower",
+      "category": "Geography",
+      "summary": "A configured location in Whitecrown Glacier Range. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Whitecrown Glacier Range",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Snowbell Watchtower"
+    },
+    {
+      "id": "location-wolfpine-hall",
+      "title": "Wolfpine Hall",
+      "category": "Geography",
+      "summary": "Wolfpine Hall is the ancestral seat and principal northern estate of House Luporian, a fortified noble residence overlooking one of the maintained roads linking Valenreach's northern settlements, estates, patrol routes,…",
+      "tags": [
+        "Whitecrown Glacier Range",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Wolfpine Hall"
+    },
+    {
+      "id": "location-blue-shell-hamlet",
+      "title": "Blue Shell Hamlet",
+      "category": "Geography",
+      "summary": "A configured location in Wolfroad Marches. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Wolfroad Marches",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Blue Shell Hamlet"
+    },
+    {
+      "id": "location-brasswind-shipyards",
+      "title": "Brasswind Shipyards",
+      "category": "Geography",
+      "summary": "A configured location in Wolfroad Marches. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Wolfroad Marches",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Brasswind Shipyards"
+    },
+    {
+      "id": "location-convoy-yard-south",
+      "title": "Convoy Yard South",
+      "category": "Geography",
+      "summary": "A configured location in Wolfroad Marches. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Wolfroad Marches",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Convoy Yard South"
+    },
+    {
+      "id": "location-coralglass-exchange",
+      "title": "Coralglass Exchange",
+      "category": "Geography",
+      "summary": "A configured location in Wolfroad Marches. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Wolfroad Marches",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Coralglass Exchange"
+    },
+    {
+      "id": "location-drowned-reef-court",
+      "title": "Drowned Reef Court",
+      "category": "Geography",
+      "summary": "A configured location in Wolfroad Marches. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Wolfroad Marches",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Drowned Reef Court"
+    },
+    {
+      "id": "location-jadebill-pearl-port",
+      "title": "Jadebill Pearl Port",
+      "category": "Geography",
+      "summary": "A configured location in Wolfroad Marches. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Wolfroad Marches",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Jadebill Pearl Port"
+    },
+    {
+      "id": "location-old-leviathan-shrine",
+      "title": "Old Leviathan Shrine",
+      "category": "Geography",
+      "summary": "A configured location in Wolfroad Marches. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Wolfroad Marches",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Old Leviathan Shrine"
+    },
+    {
+      "id": "location-pearlroad-lighthouse",
+      "title": "Pearlroad Lighthouse",
+      "category": "Geography",
+      "summary": "A configured location in Wolfroad Marches. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Wolfroad Marches",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Pearlroad Lighthouse"
+    },
+    {
+      "id": "location-quiet-collateral-station",
+      "title": "Quiet Collateral Station",
+      "category": "Geography",
+      "summary": "A configured location in Wolfroad Marches. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Wolfroad Marches",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Quiet Collateral Station"
+    },
+    {
+      "id": "location-southbond-customs-post",
+      "title": "Southbond Customs Post",
+      "category": "Geography",
+      "summary": "A configured location in Wolfroad Marches. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Wolfroad Marches",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Southbond Customs Post"
+    },
+    {
+      "id": "location-tideflower-village",
+      "title": "Tideflower Village",
+      "category": "Geography",
+      "summary": "A configured location in Wolfroad Marches. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Wolfroad Marches",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Tideflower Village"
+    },
+    {
+      "id": "location-wreck-of-the-golden-oar",
+      "title": "Wreck of the Golden Oar",
+      "category": "Geography",
+      "summary": "A configured location in Wolfroad Marches. Open the article to reveal its player-facing description.",
+      "tags": [
+        "Wolfroad Marches",
+        "Location",
+        "Places"
+      ],
+      "navigation": false,
+      "generatedType": "location",
+      "dataSource": "content/data/places.json",
+      "recordName": "Wreck of the Golden Oar"
     }
   ]
 }

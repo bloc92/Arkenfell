@@ -303,6 +303,109 @@ function renderMeta(article) {
   return chips.length ? `<div class="article-meta">${chips.join('')}</div>` : '';
 }
 
+
+const generatedArticleDataCache = new Map();
+
+function markdownEscape(value) {
+  return String(value ?? '')
+    .replaceAll('\\', '\\\\')
+    .replace(/([\`*_{}\[\]()#+\-.!>|])/g, '\\$1');
+}
+
+function markdownParagraphs(value) {
+  return String(value || '')
+    .trim()
+    .split(/\n\s*\n/)
+    .filter(Boolean)
+    .map(paragraph => markdownEscape(paragraph.replace(/\s*\n\s*/g, ' ')))
+    .join('\n\n');
+}
+
+function normalizeLocationAreas(value) {
+  if (Array.isArray(value)) {
+    return value.map((area, index) => {
+      if (typeof area === 'string') return { name: area };
+      return { ...area, name: area?.name || `Area ${index + 1}` };
+    });
+  }
+
+  if (value && typeof value === 'object') {
+    return Object.entries(value).map(([name, area]) => {
+      if (typeof area === 'string') return { name, summary: area };
+      return { ...area, name: area?.name || name };
+    });
+  }
+
+  return [];
+}
+
+async function loadGeneratedArticleMarkdown(article) {
+  if (article.generatedType !== 'location' || !article.dataSource || !article.recordName) {
+    throw new Error(`Unsupported generated article: ${article.id}`);
+  }
+
+  let dataset = generatedArticleDataCache.get(article.dataSource);
+  if (!dataset) {
+    const response = await fetch(article.dataSource, { cache: 'no-store' });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    dataset = await response.json();
+    generatedArticleDataCache.set(article.dataSource, dataset);
+  }
+
+  const entry = (dataset.entries || []).find(item =>
+    item.name === article.recordName &&
+    item.sourceWorld === 'Arkenfell'
+  );
+  if (!entry) throw new Error(`Location record not found: ${article.recordName}`);
+
+  const lines = [
+    `# ${markdownEscape(entry.name)}`,
+    '',
+    markdownParagraphs(entry.summary || 'No public overview is currently recorded.'),
+    '',
+    '## At a glance',
+    '',
+    `- **Region:** ${markdownEscape(entry.region || entry.group || 'Unassigned')}`,
+    '- **Type:** Location',
+    '- **Source:** Arkenfell'
+  ];
+
+  const areas = normalizeLocationAreas(entry.areas);
+  lines.push('', '## Areas', '');
+
+  if (areas.length) {
+    areas.forEach(area => {
+      const publicText =
+        area.summary ||
+        area.basicInfo ||
+        area.description ||
+        area.publicInfo ||
+        `A named area within ${entry.name}.`;
+
+      lines.push(`### ${markdownEscape(area.name)}`, '', markdownParagraphs(publicText), '');
+
+      const hiddenText = area.hiddenInfo || area.gmInfo;
+      if (hiddenText) {
+        lines.push(':::gm', '', '#### GM information', '', markdownParagraphs(hiddenText), '', ':::', '');
+      }
+    });
+  } else {
+    lines.push('No separately named areas are currently recorded for this location.', '');
+  }
+
+  if (state.gmMode && entry.hiddenInfo) {
+    lines.push(':::gm', '', '## GM information', '', markdownParagraphs(entry.hiddenInfo), '', ':::', '');
+  }
+
+  lines.push(
+    '## Continue browsing',
+    '',
+    `[Return to the Places Directory](#place-directory) to browse other locations in ${markdownEscape(entry.region || entry.group || 'Arkenfell')}.`
+  );
+
+  return lines.join('\n');
+}
+
 async function loadArticle(id) {
   const requested = state.articles.find(item => item.id === id);
   const visibleArticles = getVisibleArticles();
@@ -323,9 +426,14 @@ async function loadArticle(id) {
   content.hidden = true;
 
   try {
-    const response = await fetch(article.path, { cache: 'no-store' });
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    const markdown = stripFrontMatter(await response.text());
+    let markdown;
+    if (article.generatedType) {
+      markdown = await loadGeneratedArticleMarkdown(article);
+    } else {
+      const response = await fetch(article.path, { cache: 'no-store' });
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      markdown = stripFrontMatter(await response.text());
+    }
     content.innerHTML = `${renderMeta(article)}${renderArticleMarkdown(markdown)}`;
     status.hidden = true;
     content.hidden = false;
